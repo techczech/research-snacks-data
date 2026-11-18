@@ -1,0 +1,9 @@
+[project]
+name = "research-snacks-data"
+version = "0.1.0"
+description = "Reproducible checks for Research Snacks"
+requires-python = ">=3.11"
+dependencies = ["vl-convert-python==1.9.0.post1"]
+
+[tool.uv]
+exclude-newer = "7 days"

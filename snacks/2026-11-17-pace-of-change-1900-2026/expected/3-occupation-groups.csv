@@ -1,0 +1,141 @@
+group,year,share_pct
+Clerical,1900,3.28
+Clerical,1910,5.52
+Clerical,1920,8.1
+Clerical,1930,8.84
+Clerical,1940,10.18
+Clerical,1950,12.21
+Clerical,1960,14.51
+Clerical,1970,17.04
+Clerical,1980,18.5
+Clerical,1990,18.17
+Clerical,2000,17.45
+Clerical,2010,16.73
+Clerical,2024,13.9
+Craft workers,1900,12.25
+Craft workers,1910,12.7
+Craft workers,1920,14.64
+Craft workers,1930,13.66
+Craft workers,1940,12.34
+Craft workers,1950,15.56
+Craft workers,1960,16.67
+Craft workers,1970,15.77
+Craft workers,1980,13.76
+Craft workers,1990,11.97
+Craft workers,2000,10.77
+Craft workers,2010,9.07
+Craft workers,2024,7.88
+Farm labourers,1900,12.94
+Farm labourers,1910,11.6
+Farm labourers,1920,8.22
+Farm labourers,1930,8.19
+Farm labourers,1940,6.44
+Farm labourers,1950,4.03
+Farm labourers,1960,2.25
+Farm labourers,1970,1.26
+Farm labourers,1980,0.95
+Farm labourers,1990,0.73
+Farm labourers,2000,0.69
+Farm labourers,2010,0.71
+Farm labourers,2024,0.52
+Farmers and farm managers,1900,21.15
+Farmers and farm managers,1910,17.53
+Farmers and farm managers,1920,16.47
+Farmers and farm managers,1930,12.6
+Farmers and farm managers,1940,10.16
+Farmers and farm managers,1950,7.27
+Farmers and farm managers,1960,3.8
+Farmers and farm managers,1970,1.74
+Farmers and farm managers,1980,1.23
+Farmers and farm managers,1990,0.87
+Farmers and farm managers,2000,0.57
+Farmers and farm managers,2010,0.41
+Farmers and farm managers,2024,0.33
+Labourers,1900,12.23
+Labourers,1910,13.03
+Labourers,1920,11.49
+Labourers,1930,10.77
+Labourers,1940,10.23
+Labourers,1950,6.5
+Labourers,1960,5.24
+Labourers,1970,4.48
+Labourers,1980,4.63
+Labourers,1990,4.61
+Labourers,2000,3.95
+Labourers,2010,4.54
+Labourers,2024,4.28
+Machine operatives,1900,14.2
+Machine operatives,1910,14.64
+Machine operatives,1920,15.84
+Machine operatives,1930,15.21
+Machine operatives,1940,18.41
+Machine operatives,1950,20.14
+Machine operatives,1960,19.5
+Machine operatives,1970,17.77
+Machine operatives,1980,15.13
+Machine operatives,1990,11.87
+Machine operatives,2000,10.5
+Machine operatives,2010,8.83
+Machine operatives,2024,8.35
+"Managers, officials and proprietors",1900,5.97
+"Managers, officials and proprietors",1910,6.01
+"Managers, officials and proprietors",1920,6.68
+"Managers, officials and proprietors",1930,7.48
+"Managers, officials and proprietors",1940,7.54
+"Managers, officials and proprietors",1950,8.61
+"Managers, officials and proprietors",1960,8.29
+"Managers, officials and proprietors",1970,7.5
+"Managers, officials and proprietors",1980,9.89
+"Managers, officials and proprietors",1990,12.3
+"Managers, officials and proprietors",2000,13.59
+"Managers, officials and proprietors",2010,13.76
+"Managers, officials and proprietors",2024,16.14
+Private household workers,1900,5.01
+Private household workers,1910,5.11
+Private household workers,1920,3.56
+Private household workers,1930,4.11
+Private household workers,1940,4.5
+Private household workers,1950,2.46
+Private household workers,1960,2.64
+Private household workers,1970,1.51
+Private household workers,1980,0.6
+Private household workers,1990,0.44
+Professional and technical,1900,4.48
+Professional and technical,1910,4.86
+Professional and technical,1920,5.59
+Professional and technical,1930,6.89
+Professional and technical,1940,6.87
+Professional and technical,1950,8.56
+Professional and technical,1960,11.17
+Professional and technical,1970,14.81
+Professional and technical,1980,16.54
+Professional and technical,1990,19.47
+Professional and technical,2000,22.58
+Professional and technical,2010,23.73
+Professional and technical,2024,28.92
+Sales,1900,4.36
+Sales,1910,4.61
+Sales,1920,4.94
+Sales,1930,6.6
+Sales,1940,6.23
+Sales,1950,6.83
+Sales,1960,7.19
+Sales,1970,7.26
+Sales,1980,6.48
+Sales,1990,6.65
+Sales,2000,6.72
+Sales,2010,6.44
+Sales,2024,5.41
+Service workers,1900,4.14
+Service workers,1910,4.4
+Service workers,1920,4.47
+Service workers,1930,5.65
+Service workers,1940,7.1
+Service workers,1950,7.82
+Service workers,1960,8.74
+Service workers,1970,10.86
+Service workers,1980,12.27
+Service workers,1990,12.93
+Service workers,2000,13.17
+Service workers,2010,15.78
+Service workers,2024,14.26

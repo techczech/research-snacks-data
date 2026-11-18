@@ -1,0 +1,52 @@
+row,from,to,measure,value,event,kind
+change,1900,1910,Occupations (about 270 categories),15.9,,
+change,1910,1920,Occupations (about 270 categories),10.7,,
+change,1920,1930,Occupations (about 270 categories),10.5,,
+change,1930,1940,Occupations (about 270 categories),12.0,,
+change,1940,1950,Occupations (about 270 categories),15.2,,
+change,1950,1960,Occupations (about 270 categories),10.8,,
+change,1960,1970,Occupations (about 270 categories),12.6,,
+change,1970,1980,Occupations (about 270 categories),12.3,,
+change,1980,1990,Occupations (about 270 categories),9.4,,
+change,1990,2000,Occupations (about 270 categories),10.0,,
+change,2000,2010,Occupations (about 270 categories),6.5,,
+change,2010,2024,Occupations (about 270 categories),9.4,,
+change,1900,1910,Industries (about 150 categories),14.2,,
+change,1910,1920,Industries (about 150 categories),11.5,,
+change,1920,1930,Industries (about 150 categories),12.2,,
+change,1930,1940,Industries (about 150 categories),15.7,,
+change,1940,1950,Industries (about 150 categories),17.5,,
+change,1950,1960,Industries (about 150 categories),12.4,,
+change,1960,1970,Industries (about 150 categories),11.8,,
+change,1970,1980,Industries (about 150 categories),9.7,,
+change,1980,1990,Industries (about 150 categories),8.9,,
+change,1990,2000,Industries (about 150 categories),9.2,,
+change,2000,2010,Industries (about 150 categories),7.0,,
+change,2010,2024,Industries (about 150 categories),6.1,,
+event,1903,1903,,0,First powered aeroplane flight,Technology
+event,1908,1908,,0,Ford Model T,Technology
+event,1912,1912,,0,First ocean-going diesel ship (Selandia),Technology
+event,1913,1913,,0,Moving assembly line at Ford,Technology
+event,1914,1914,,0,First World War (to 1918),War and politics
+event,1917,1917,,0,Fordson tractor brings tractors to small farms,Technology
+event,1920,1920,,0,First commercial radio broadcast,Technology
+event,1927,1927,,0,First feature film with synchronised sound,Technology
+event,1929,1929,,0,Wall Street crash and Great Depression,Economy
+event,1933,1933,,0,New Deal,War and politics
+event,1937,1937,,0,Hindenburg disaster ends passenger airships,Technology
+event,1939,1939,,0,Second World War (US from 1941 to 1945),War and politics
+event,1944,1944,,0,GI Bill pays for college for veterans,War and politics
+event,1947,1947,,0,Transistor,Technology
+event,1956,1956,,0,First container ship,Technology
+event,1964,1964,,0,Civil Rights Act,War and politics
+event,1965,1965,,0,Immigration and Nationality Act,War and politics
+event,1971,1971,,0,End of dollar–gold convertibility; first microprocessor,Economy
+event,1973,1973,,0,First oil shock,Economy
+event,1981,1981,,0,IBM PC,Technology
+event,1991,1991,,0,World Wide Web opens; end of the Cold War,Technology
+event,1994,1994,,0,NAFTA,Economy
+event,2001,2001,,0,China joins the World Trade Organization,Economy
+event,2007,2007,,0,iPhone,Technology
+event,2008,2008,,0,Financial crisis,Economy
+event,2020,2020,,0,COVID-19 pandemic,War and politics
+event,2022,2022,,0,ChatGPT,Technology

@@ -1,0 +1,30 @@
+{
+  "description": "Short-lived occupations 1950-2019 (OCC1990)",
+  "dataStructure": {
+    "rectangular": {
+      "on": "P"
+    }
+  },
+  "dataFormat": "csv",
+  "samples": {
+    "us1950a": {},
+    "us1960a": {},
+    "us1970a": {},
+    "us1980b": {},
+    "us1990b": {},
+    "us2000b": {},
+    "us2010a": {},
+    "us2019a": {}
+  },
+  "variables": {
+    "OCC1990": {},
+    "OCC": {},
+    "EMPSTAT": {
+      "caseSelections": {
+        "general": [
+          "1"
+        ]
+      }
+    }
+  }
+}

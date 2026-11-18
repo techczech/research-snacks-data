@@ -1,0 +1,13 @@
+series,year,share_pct,denominator,source_url,source_locator
+US factory electric motors,1899,5,Electric motor horsepower divided by primary horsepower,https://www2.census.gov/prod2/decennial/documents/03450419v1ch06.pdf,Printed p112 Table 2
+US factory electric motors,1909,26,Electric motor horsepower divided by primary horsepower,https://www2.census.gov/prod2/decennial/documents/03450419v1ch06.pdf,Printed p112 Table 2
+US factory electric motors,1919,56,Electric motor horsepower divided by primary horsepower,https://www2.census.gov/prod2/decennial/documents/03450419v1ch06.pdf,Printed p112 Table 2
+US factory electric motors,1929,82,Electric motor horsepower divided by primary horsepower,https://www2.census.gov/prod2/decennial/documents/03450419v1ch06.pdf,Printed p112 Table 2
+World internet users,2015,40,World population,https://www.itu.int/en/ITU-D/Statistics/Pages/SDGs-ITU-ICT-indicators.aspx,Indicator 17.8.1
+World internet users,2024,68,World population,https://www.itu.int/en/ITU-D/Statistics/Pages/SDGs-ITU-ICT-indicators.aspx,Indicator 17.8.1
+US index funds,2010,19,US long-term mutual fund and ETF net assets excluding money market and commodity ETFs,https://www.ici.org/system/files/2025-05/2025-factbook.pdf,Printed p28 Figure 2.5 combined index share
+US index funds,2015,28,US long-term mutual fund and ETF net assets excluding money market and commodity ETFs,https://www.ici.org/system/files/2025-05/2025-factbook.pdf,Printed p28 Figure 2.5 combined index share
+US index funds,2020,40,US long-term mutual fund and ETF net assets excluding money market and commodity ETFs,https://www.ici.org/system/files/2025-05/2025-factbook.pdf,Printed p28 Figure 2.5 combined index share
+US index funds,2024,51,US long-term mutual fund and ETF net assets excluding money market and commodity ETFs,https://www.ici.org/system/files/2025-05/2025-factbook.pdf,Printed p28 Figure 2.5 combined index share
+Electronic spot FX,2010,55,Global spot FX turnover approximately,https://www.bis.org/publications/fx-execution-algorithms-and-market-functioning.pdf,Printed p5
+Electronic spot FX,2019,70,Global spot FX turnover approximately,https://www.bis.org/publications/fx-execution-algorithms-and-market-functioning.pdf,Printed p5

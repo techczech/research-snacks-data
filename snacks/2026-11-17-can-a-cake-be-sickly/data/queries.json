@@ -1,0 +1,40 @@
+{
+  "bnc": {
+    "q": [
+      "q[word=\"(?i)sickly\"]"
+    ],
+    "cattr": "lemma",
+    "cfromw": "-5",
+    "ctow": "5",
+    "cminfreq": "5",
+    "cminbgr": "2",
+    "cmaxitems": "100",
+    "cbgrfns": [
+      "t",
+      "m",
+      "d"
+    ],
+    "csortfn": "d",
+    "format": "json",
+    "corpname": "preloaded/bnc2_tt31"
+  },
+  "oanc": {
+    "q": [
+      "q[word=\"(?i)sickly\"]"
+    ],
+    "cattr": "lemma",
+    "cfromw": "-5",
+    "ctow": "5",
+    "cminfreq": "5",
+    "cminbgr": "2",
+    "cmaxitems": "100",
+    "cbgrfns": [
+      "t",
+      "m",
+      "d"
+    ],
+    "csortfn": "d",
+    "corpname": "preloaded/oanc_text",
+    "format": "json"
+  }
+}

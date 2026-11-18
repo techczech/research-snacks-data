@@ -1,0 +1,16 @@
+concordance_row,token_position,referent,construction,coordination,degree_phrase,reading,document_id
+9,8264144,ham,elliptical/supplementary,coordinated,none,visual,HTT
+41,24180666,sweets (mithai),attributive,coordinated,most,flavour,H89
+56,31557459,breakfast mix,attributive,sole,none,flavour inferred,AT3
+81,43631753,cherry brandy,explicit verbal complement,coordinated,none,flavour,AR8
+85,45844644,chocolate cake,explicit verbal complement,sole,a little,anticipated flavour,BN6
+125,65782117,canned tomatoes,explicit verbal complement,coordinated,none,flavour,EFU
+136,70558912,cream eggs,elliptical/supplementary,sole,bit,flavour,KD6
+138,71331007,coffee cake,elliptical/supplementary,sole,none,flavour,KBW
+139,71448088,chocolates/truffles,explicit verbal complement,sole,too,flavour,KBB
+140,71465045,chocolates,explicit verbal complement,sole,a bit,flavour,KBB
+144,73697651,peppermint truffle,elliptical/supplementary,sole,quite,flavour,KCR
+190,97701033,Spanish white wine,attributive,coordinated,not too,flavour,CBC
+201,101346811,Indian desserts,attributive,coordinated,none on sickly,flavour,CDR
+215,110611156,shortbread buttons,attributive,sole,none,flavour,FS5
+217,110988643,cocktail,elliptical/supplementary,sole,almost,flavour,FPX

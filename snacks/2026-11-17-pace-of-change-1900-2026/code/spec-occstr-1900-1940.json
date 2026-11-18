@@ -1,0 +1,4 @@
+{"description": "Written occupation titles 1900-1940 (OCCSTR)",
+ "dataStructure": {"rectangular": {"on": "P"}}, "dataFormat": "csv",
+ "samples": {"us1900k": {}, "us1910k": {}, "us1920a": {}, "us1930a": {}, "us1940a": {}},
+ "variables": {"OCCSTR": {}, "OCC1950": {}, "LABFORCE": {"caseSelections": {"general": ["2"]}}}}

@@ -1,0 +1,6 @@
+{"description": "Pace of change 1900-2024: occupation, industry, labour force, household",
+ "dataStructure": {"rectangular": {"on": "P"}}, "dataFormat": "csv",
+ "samples": {"us1900k": {}, "us1910k": {}, "us1920a": {}, "us1930a": {}, "us1940a": {}, "us1950a": {}, "us1960a": {},
+             "us1970a": {}, "us1980b": {}, "us1990b": {}, "us2000g": {}, "us2010a": {}, "us2024a": {}},
+ "variables": {"OCC1950": {}, "IND1950": {}, "LABFORCE": {}, "SEX": {}, "AGE": {}, "MARST": {}, "CLASSWKR": {},
+               "FARM": {}, "BPL": {}, "SCHOOL": {}}}

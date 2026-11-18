@@ -1,0 +1,7 @@
+instrument,measure,year,share_pct,source_url,source_locator
+Card,Number,2020,74.25,https://www.federalreserve.gov/paymentsystems/december-2021-findings-from-the-federal-reserve-payments-study.htm,Table 1
+ACH,Number,2020,19.24,https://www.federalreserve.gov/paymentsystems/december-2021-findings-from-the-federal-reserve-payments-study.htm,Table 1
+Cheque,Number,2020,6.51,https://www.federalreserve.gov/paymentsystems/december-2021-findings-from-the-federal-reserve-payments-study.htm,Table 1
+Card,Value,2020,7.84,https://www.federalreserve.gov/paymentsystems/december-2021-findings-from-the-federal-reserve-payments-study.htm,Table 1
+ACH,Value,2020,69.25,https://www.federalreserve.gov/paymentsystems/december-2021-findings-from-the-federal-reserve-payments-study.htm,Table 1
+Cheque,Value,2020,22.91,https://www.federalreserve.gov/paymentsystems/december-2021-findings-from-the-federal-reserve-payments-study.htm,Table 1

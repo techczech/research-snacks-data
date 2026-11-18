@@ -1,0 +1,40 @@
+example,corpus,token,document_id,construction,coordination,reading
+1,BNC,8264144,HTT,elliptical/supplementary,coordinated,visual
+2,BNC,24180666,H89,attributive,coordinated,flavour
+3,BNC,31557459,AT3,attributive,sole,flavour inferred
+4,BNC,43631753,AR8,explicit verbal complement,coordinated,flavour
+5,BNC,45844644,BN6,explicit verbal complement,sole,anticipated flavour
+6,BNC,65782117,EFU,explicit verbal complement,coordinated,flavour
+7,BNC,70558912,KD6,elliptical/supplementary,sole,flavour
+8,BNC,71331007,KBW,elliptical/supplementary,sole,flavour
+9,BNC,71448088,KBB,explicit verbal complement,sole,flavour
+10,BNC,71465045,KBB,explicit verbal complement,sole,flavour
+11,BNC,73697651,KCR,elliptical/supplementary,sole,flavour
+12,BNC,97701033,CBC,attributive,coordinated,flavour
+13,BNC,101346811,CDR,attributive,coordinated,flavour
+14,BNC,110611156,FS5,attributive,sole,flavour
+15,BNC,110988643,FPX,elliptical/supplementary,sole,flavour
+16,BNC,5852567,J1K,predicative,sole,visual
+17,BNC,44094992,ARD,predicative,sole,metaphorical
+18,BNC,52783654,G2E,attributive,coordinated,visual
+19,BNC,52783658,G2E,predicative,coordinated,visual
+20,BNC,90984014,CR7,predicative,sole,metaphorical
+21,BNC,42812173,APC,adjective modifier,uncoordinated,flavour
+22,BNC,82283919,KE3,adjective modifier,uncoordinated,flavour
+23,OANC,109371,,attributive,sole,visual
+24,OANC,2767958,,predicative,sole,health
+25,OANC,3262710,,attributive,asyndetic / juxtaposed,visual
+26,OANC,4398022,,attributive,sole,health
+27,OANC,4734551,,attributive,sole,visual
+28,OANC,5391873,,attributive,sole,metaphorical
+29,enTenTen13,20007415499,,attributive,sole,flavour
+30,enTenTen13,20007415499,,predicative,sole,flavour
+31,enTenTen13,6354722820,,attributive,asyndetic / juxtaposed,flavour
+32,enTenTen13,10776312293,,attributive,sole,flavour
+33,enTenTen13,13345985541,,attributive,sole,flavour
+34,enTenTen13,13363793024,,attributive,sole,flavour
+35,enTenTen13,22411816983,,attributive,sole,flavour
+36,ukWaC,83621010,,predicative,sole,flavour
+37,ukWaC,309109141,,predicative,sole,flavour
+38,enTenTen13,14474876274,,adjective modifier,uncoordinated,flavour
+39,enTenTen13,21817472461,,adjective modifier,uncoordinated,olfactory imagery

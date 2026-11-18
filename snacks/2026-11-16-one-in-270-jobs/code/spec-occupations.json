@@ -1,0 +1,18 @@
+{
+  "description": "Bessen replication: 1950 occupations in 2010",
+  "dataStructure": {
+    "rectangular": {
+      "on": "P"
+    }
+  },
+  "dataFormat": "csv",
+  "samples": {
+    "us1950a": {},
+    "us2010a": {}
+  },
+  "variables": {
+    "OCC1950": {},
+    "OCC": {},
+    "EMPSTAT": {}
+  }
+}

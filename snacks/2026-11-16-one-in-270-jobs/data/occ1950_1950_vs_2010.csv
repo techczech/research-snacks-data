@@ -1,0 +1,269 @@
+occ1950,label,emp1950,emp2010,ratio,fed_by_2010_codes
+0,Accountants and auditors,382492,2040401,5.334, (1979154);  (61247)
+1,Actors and actresses,16189,31654,1.955,2700 (31654)
+2,Airplane pilots and navigators,16294,124659,7.651,9030 (124659)
+3,Architects,25426,162878,6.406,1300 (162878)
+4,Artists and art teachers,79715,179738,2.255,2600 (179738)
+5,Athletes,8427,0,0.0,
+6,Authors,15180,186742,12.302,2850 (186742)
+7,Chemists,78740,83156,1.056,1720 (83156)
+8,Chiropractors,13917,73915,5.311,3000 (53061); 3260 (20854)
+9,Clergymen,177291,432525,2.44,2040 (432525)
+10,College presidents and deans,5721,0,0.0,
+12,Agricultural sciences-Professors and instructors,5166,0,0.0,
+13,Biological sciences-Professors and instructors,6305,0,0.0,
+14,Chemistry-Professors and instructors,7037,0,0.0,
+15,Economics-Professors and instructors,3594,0,0.0,
+16,Engineering-Professors and instructors,8599,0,0.0,
+17,Geology and geophysics-Professors and instructors,946,0,0.0,
+18,Mathematics-Professors and instructors,5089,0,0.0,
+19,Medical Sciences-Professors and instructors,2473,0,0.0,
+23,Physics-Professors and instructors,4109,0,0.0,
+24,Psychology-Professors and instructors,3855,0,0.0,
+25,Statistics-Professors and instructors,523,0,0.0,
+26,Natural science (nec)-Professors and instructors,137,0,0.0,
+27,Social sciences (nec)-Professors and instructors,19622,0,0.0,
+28,Non-scientific subjects-Professors and instructors,23988,0,0.0,
+29,Subject not specified-Professors and instructors,25844,1368299,52.945,2200 (1368299)
+31,Dancers and dancing teachers,13612,22482,1.652,2740 (22482)
+32,Dentists,73683,162615,2.207,3010 (162615)
+33,Designers,43384,722492,16.653,2630 (722492)
+34,Dietitians and nutritionists,23292,85894,3.688,3030 (85894)
+35,Draftsmen,116406,162407,1.395,1540 (162407)
+36,Editors and reporters,89875,430505,4.79,2830 (161584); 2825 (140455); 2810 (78284)
+41,Aeronautical-Engineers,18637,134340,7.208,1320 (134340)
+42,Chemical-Engineers,32023,58748,1.835,1350 (58748)
+43,Civil-Engineers,129663,294429,2.271,1360 (294429)
+44,Electrical-Engineers,110883,290527,2.62,1410 (231253); 1400 (59274)
+45,Industrial-Engineers,46774,833151,17.812, (662274); 1430 (170877)
+46,Mechanical-Engineers,116558,219487,1.883,1460 (209998); 1440 (9489)
+47,"Metallurgical, metallurgists-Engineers",12431,33837,2.722,1450 (33837)
+48,Mining-Engineers,10945,33366,3.049,1520 (33366)
+49,Engineers (nec),78145,491123,6.285,1530 (411554); 4930 (34183); 1420 (31307)
+51,Entertainers (nec),15275,189358,12.397,2860 (87999); 2840 (62643); 2760 (38716)
+52,Farm and home management advisors,14214,0,0.0,
+53,Foresters and conservationists,27154,43015,1.584,1640 (25346); 3750 (17669)
+54,Funeral directors and embalmers,39092,39322,1.006,4465 (39322)
+55,Lawyers and judges,180411,1045423,5.795,2100 (1030423); 2105 (15000)
+56,Librarians,61660,165584,2.685,2430 (165584)
+57,Musicians and music teachers,165245,1363160,8.249,2340 (837120); 2330 (239907); 2750 (182345)
+58,"Nurses, professional",408849,3473587,8.496,3255 (2683958);  (562310); 3110 (111250)
+59,"Nurses, student professional",68076,0,0.0,
+61,Agricultural scientists,5793,31059,5.361,1600 (31059)
+62,Biological scientists,9163,211480,23.08,1650 (131319); 1610 (80161)
+63,Geologists and geophysicists,10774,71435,6.63,1740 (71435)
+67,Mathematicians,2308,0,0.0,
+68,Physicists,7560,13572,1.795,1700 (13572)
+69,Misc. natural scientists,2102,194473,92.518,1760 (186458); 1710 (8015)
+70,Optometrists,17205,34157,1.985,3040 (34157)
+71,Osteopaths,7077,0,0.0,
+72,Personnel and labor relations workers,54417,1238651,22.762, (607937);  (360539);  (130856)
+73,Pharmacists,98500,256935,2.608,3050 (256935)
+74,Photographers,54630,180275,3.3,2910 (138605); 2920 (41670)
+75,Physicians and surgeons,199560,853310,4.276,3060 (853310)
+76,Radio operators,19211,116364,6.057,2900 (81675); 9040 (34689)
+77,Recreation and group workers,15992,375014,23.45,4620 (375014)
+78,Religious workers,43899,126580,2.883,2060 (79062); 2050 (47518)
+79,"Social and welfare workers, except group",85557,1116986,13.055,2010 (779358); 2016 (148383); 2015 (95339)
+81,Economists,10025,250135,24.951, (225637); 1800 (24498)
+82,Psychologists,4239,190338,44.902,1820 (190338)
+83,Statisticians and actuaries,23715,66514,2.805,1240 (40767); 1200 (25747)
+84,Misc social scientists,4004,54401,13.587,1860 (54401)
+91,Sports instructors and officials,45045,247434,5.493,2720 (247434)
+92,Surveyors,27064,99661,3.682,1560 (63528); 1310 (36133)
+93,Teachers (n.e.c.),1164225,5691814,4.889,2310 (3442481);  (859426); 2320 (819595)
+94,Medical and dental-technicians,81636,1800019,22.049,3420 (517488); 3300 (343491); 3320 (304712)
+95,Testing-technicians,84315,337993,4.009,1965 (169690); 1920 (66446); 7900 (63056)
+96,Technicians (nec),31275,426505,13.637,1550 (398641); 1900 (27864)
+97,Therapists and healers (nec),25235,676165,26.795,3160 (189887); 3245 (140542); 3230 (120130)
+98,Veterinarians,17476,76861,4.398,3250 (76861)
+99,"Professional, technical and kindred workers (nec)",115387,5233425,45.355,2540 (1020269); 1020 (855962); 2000 (689165)
+100,Farmers (owners and tenants),4369267,618867,0.142, (618867)
+123,Farm managers,32480,0,0.0,
+200,"Buyers and dept heads, store",137587,1090934,7.929, (819043);  (220436);  (51455)
+201,"Buyers and shippers, farm products",28610,9869,0.345, (9869)
+203,"Conductors, railroad",55677,39007,0.701,9240 (39007)
+204,Credit men,36820,0,0.0,
+205,"Floormen and floor managers, store",10493,0,0.0,
+210,"Inspectors, public administration",57198,252789,4.42, (193254); 3945 (26841); 6010 (17648)
+230,"Managers and superintendants, building",76297,519281,6.806, (519281)
+240,"Officers, pilots, pursers and engineers, ship",48266,39569,0.82,9310 (39569)
+250,"Officials and administratators (nec), public administration",130613,225101,1.723, (218247);  (6854)
+260,"Officials, lodge, society, union, etc.",24974,0,0.0,
+270,Postmasters,37118,0,0.0,
+280,Purchasing agents and buyers (nec),68995,242828,3.52, (242828)
+290,"Managers, officials, and proprietors (nec)",4442575,17457983,3.93, (3064911); 4700 (2949532); 5000 (1369989)
+300,Agents (nec),136735,0,0.0,
+301,"Attendants and assistants, library",15154,177833,11.735,5320 (121143); 2440 (56690)
+302,"Attendants, physicians and dentists office",41394,1145718,27.678,3645 (406419); 3640 (263431); 3655 (158670)
+304,"Baggagemen, transportation",7789,0,0.0,
+305,Bank tellers,67565,411373,6.089,5160 (411373)
+310,Bookkeepers,757757,1340041,1.768,5120 (1340041)
+320,Cashiers,238093,3295075,13.839,4720 (3281798); 5130 (13277)
+321,"Collectors, bill and account",21397,222548,10.401,5100 (222548)
+322,"Dispatchers and starters, vehicle",34412,261849,7.609,5520 (261849)
+325,Express messengers and railway mail clerks,19672,0,0.0,
+335,Mail carriers,169763,317420,1.87,5550 (317420)
+340,Messengers and office boys,65898,282884,4.293,5510 (282884)
+341,Office machine operators,153275,573256,3.74,5810 (390309); 5800 (131496); 5900 (42151)
+342,Shipping and receiving clerks,296904,580199,1.954,5610 (560921); 5500 (19278)
+350,"Stenographers, typists, and secretaries",1648122,3888598,2.359,5700 (3588416); 5820 (300182)
+360,Telegraph messengers,8134,0,0.0,
+365,Telegraph operators,36105,0,0.0,
+370,Telephone operators,384440,89392,0.233,5020 (51478); 5010 (37914)
+380,"Ticket, station, and express agents",59950,181561,3.029,5410 (112239); 4830 (69322)
+390,Clerical and kindred workers (n.e.c.),3061757,10289312,3.361,5240 (2232556); 5620 (1464617); 5860 (1211946)
+400,Advertising agents and salesmen,30511,218141,7.15,4800 (218141)
+410,Auctioneers,15971,0,0.0,
+420,Demonstrators,18160,63277,3.484,4900 (63277)
+430,Hucksters and peddlers,23630,0,0.0,
+450,Insurance agents and brokers,312280,1213807,3.887,4810 (527785); 5840 (293553);  (290768)
+460,Newsboys,99868,172774,1.73,4950 (172774)
+470,Real estate agents and brokers,157849,835237,5.291,4920 (750116);  (85121)
+480,Stock and bond salesmen,14120,620813,43.967, (332679); 4820 (288134)
+490,Salesmen and sales clerks (nec),3427049,5885572,1.717,4760 (3373418); 4850 (1356685); 4840 (590263)
+500,Bakers,118006,184163,1.561,7800 (184163)
+501,Blacksmiths,43915,0,0.0,
+502,Bookbinders,30497,27113,0.889,8256 (27113)
+503,Boilermakers,35104,19558,0.557,6210 (19558)
+504,"Brickmasons,stonemasons, and tile setters",161074,137394,0.853,6220 (137394)
+505,Cabinetmakers,69925,57379,0.821,8500 (57379)
+510,Carpenters,912638,1167006,1.279,6230 (1167006)
+511,Cement and concrete finishers,34107,58947,1.728,6250 (58947)
+512,Compositors and typesetters,181886,35462,0.195,8250 (35462)
+513,"Cranemen,derrickmen, and hoistmen",106737,77887,0.73,9510 (65279); 9560 (12608)
+514,Decorators and window dressers,41852,0,0.0,
+515,Electricians,316001,732907,2.319,6355 (679961); 7130 (52946)
+520,Electrotypers and stereotypers,19996,0,0.0,
+521,"Engravers, except photoengravers",11055,9000,0.814,8910 (9000)
+522,"Excavating, grading, and road machinery operators",109682,369099,3.365,6320 (315135); 9520 (41260); 6300 (12704)
+523,Foremen (nec),855185,1541509,1.803,7700 (849819); 7000 (283239); 9000 (218172)
+524,Forgemen and hammermen,17604,6834,0.388,7930 (6834)
+525,Furriers,13906,0,0.0,
+530,Glaziers,14829,38100,2.569,6360 (38100)
+531,"Heat treaters, annealers, temperers",17599,7512,0.427,8150 (7512)
+532,"Inspectors, scalers, and graders log and lumber",19707,0,0.0,
+533,Inspectors (nec),102589,94831,0.924,6660 (94831)
+534,"Jewelers, watchmakers, goldsmiths, and silversmiths",50341,98575,1.958,7430 (63590); 8750 (34985)
+535,"Job setters, metal",24886,0,0.0,
+540,"Linemen and servicemen, telegraph, telephone, and power",216306,429767,1.987,7020 (161519); 7420 (158683); 7410 (109565)
+541,Locomotive engineers,79053,48546,0.614,9200 (48546)
+542,Locomotive firemen,58557,0,0.0,
+543,Loom fixers,33300,0,0.0,
+544,Machinists,514672,339464,0.66,8030 (339464)
+545,Airplane-mechanics and repairmen,71573,141833,1.982,7140 (141833)
+550,Automobile-mechanics and repairmen,681268,1266054,1.858,7200 (814509); 7210 (274160); 7150 (157283)
+551,Office machine-mechanics and repairmen,18469,248174,13.437,7010 (248174)
+552,Radio and television-mechanics and repairmen,78096,99221,1.271,7120 (63622); 7030 (18831); 7100 (16768)
+553,Railroad and car shop-mechanics and repairmen,52584,0,0.0,
+554,Mechanics and repairmen (nec),851830,1826742,2.144,7340 (506282); 7330 (360032); 7315 (314448)
+555,"Millers, grain, flour, feed, etc",12359,0,0.0,
+560,Millwrights,59048,44122,0.747,7360 (44122)
+561,"Molders, metal",58298,0,0.0,
+562,Motion picture projectionists,25378,9706,0.382,4410 (9706)
+563,Opticians and lens grinders and polishers,21130,51188,2.423,3520 (51188)
+564,"Painters, construction and maintenance",411713,532509,1.293,6420 (532509)
+565,Paperhangers,24576,4802,0.195,6430 (4802)
+570,"Pattern and model makers, except paper",53407,5121,0.096,8060 (5121)
+571,Photoengravers and lithographers,31162,0,0.0,
+572,Piano and organ tuners and repairmen,14108,0,0.0,
+573,Plasterers,65583,30312,0.462,6460 (30312)
+574,Plumbers and pipe fitters,277608,481207,1.733,6440 (481207)
+575,"Pressmen and plate printers, printing",58290,202299,3.471,8255 (202299)
+580,"Rollers and roll hands, metal",34454,7670,0.223,7940 (7670)
+581,Roofers and slaters,51030,204287,4.003,6515 (204287)
+582,"Shoemakers and repairers, except factory",56870,175669,3.089,6240 (166328); 8330 (9341)
+583,Stationary engineers,227013,190714,0.84,8610 (91134); 8620 (78027); 9650 (21553)
+584,Stone cutters and stone carvers,11603,0,0.0,
+585,Structural metal workers,49387,58673,1.188,6530 (52139); 6500 (6534)
+590,Tailors and tailoresses,104007,0,0.0,
+591,"Tinsmiths, coppersmiths, and sheet metal workers",128524,116547,0.907,6520 (116547)
+592,"Tool makers, and die makers and setters",159123,57042,0.358,8130 (57042)
+593,Upholsterers,65394,36596,0.56,8450 (36596)
+594,Craftsmen and kindred workers (nec),75174,0,0.0,
+595,Members of the armed services,983811,1059148,1.077,9830 (260797); 9820 (205447); 9810 (91312)
+600,Auto mechanics apprentice,6690,0,0.0,
+601,Bricklayers and masons apprentice,7647,0,0.0,
+602,Carpenters apprentice,11281,0,0.0,
+603,Electricians apprentice,12056,0,0.0,
+604,Machinists and toolmakers apprentice,17279,0,0.0,
+605,"Mechanics, except auto apprentice",4582,0,0.0,
+610,Plumbers and pipe fitters apprentice,20790,0,0.0,
+611,"Apprentices, building trades (nec)",5429,0,0.0,
+612,"Apprentices, metalworking trades (nec)",8699,0,0.0,
+613,"Apprentices, printing  trades",22116,0,0.0,
+614,"Apprentices, other specified trades",15180,0,0.0,
+615,"Apprentices, trade not specified",15135,0,0.0,
+620,Asbestos and insulation workers,18331,73243,3.996,6400 (38466); 6720 (34777)
+621,"Attendants, auto service and parking",249979,267023,1.068,9360 (112846); 9350 (78482); 7260 (75695)
+622,Blasters and powdermen,11709,8545,0.73,6830 (8545)
+623,"Boatmen, canalmen, and lock keepers",15233,0,0.0,
+624,"Brakemen, railroad",78981,5368,0.068,9230 (5368)
+625,Bus drivers,159642,595989,3.733,9120 (595989)
+630,"Chainmen, rodmen, and axmen, surveying",12648,0,0.0,
+631,"Conductors, bus and street railway",12903,0,0.0,
+632,Deliverymen and routemen,243137,39718,0.163,7510 (39718)
+633,"Dressmakers and seamstresses, except factory",143991,81830,0.568,8350 (81830)
+634,Dyers,29223,0,0.0,
+635,"Filers, grinders, and polishers, metal",156782,47912,0.306,8000 (41431); 8210 (6481)
+640,"Fruit, nut, and vegetable graders, and packers, except facto",46799,0,0.0,
+641,"Furnacemen, smeltermen and pourers",57519,0,0.0,
+642,"Heaters, metal",11736,0,0.0,
+643,Laundry and dry cleaning Operatives,432389,244009,0.564,8300 (199520); 8310 (44489)
+644,"Meat cutters, except slaughter and packing house",173720,258330,1.487,7810 (258330)
+645,Milliners,17553,0,0.0,
+650,Mine operatives and laborers,569839,235085,0.413,6940 (72238); 6840 (61562); 8630 (39969)
+660,"Motormen, mine, factory, logging camp, etc",24497,0,0.0,
+661,"Motormen, street, subway, and elevated railway",25231,0,0.0,
+662,"Oilers and greaser, except auto",60964,25211,0.414,7350 (25211)
+670,"Painters, except construction or maintenance",147638,148808,1.008,8810 (135493); 8510 (13315)
+671,Photographic process workers,32405,53004,1.636,8830 (53004)
+672,Power station operators,23781,45978,1.933,8600 (45978)
+673,Sailors and deck hands,47108,30257,0.642,9300 (30257)
+674,Sawyers,98645,29794,0.302,8530 (29794)
+675,"Spinners, textile",79325,0,0.0,
+680,Stationary firemen,135712,33280,0.245,8040 (21453); 8730 (11827)
+681,"Switchmen, railroad",66785,0,0.0,
+682,Taxicab drivers and chauffeurs,205951,414592,2.013,9140 (343129); 9150 (56746); 9110 (14717)
+683,Truck and tractor drivers,1358959,2927296,2.154,9130 (2927296)
+684,"Weavers, textile",104840,8899,0.085,8410 (8899)
+685,Welders and flame cutters,277919,528941,1.903,8140 (528941)
+690,Operative and kindred workers (nec),6354968,5760160,0.906,8965 (1136597); 7750 (826814); 8740 (713472)
+700,"Housekeepers, private household",144835,0,0.0,
+710,"Laundresses, private household",71618,0,0.0,
+720,Private household workers (nec),1236800,0,0.0,
+730,"Attendants, hospital and other institution",208327,3213613,15.426,3600 (2192546); 4610 (1006360); 3610 (14707)
+731,"Attendants, professional and personal service (nec)",53030,1677872,31.64,4600 (1313089); 3630 (134620); 4650 (95700)
+732,"Attendants, recreation and amusement",63771,644483,10.106,4320 (181004); 3955 (176712); 4430 (169033)
+740,"Barbers, beauticians, and manicurists",394342,1131805,2.87,4510 (776294); 4520 (263182); 4500 (92329)
+750,Bartenders,210154,397277,1.89,4040 (397277)
+751,Bootblacks,15725,0,0.0,
+752,Boarding and lodging house keepers,28106,0,0.0,
+753,Charwomen and cleaners,123236,1448066,11.75,4230 (1448066)
+754,"Cooks, except private household",459133,3875558,8.441,4020 (2150892); 4030 (791729); 4050 (337083)
+760,Counter and fountain workers,95311,219507,2.303,4060 (219507)
+761,Elevator operators,92779,0,0.0,
+762,"Firemen, fire protection",114046,325833,2.857,3740 (274374); 3720 (51459)
+763,"Guards, watchmen, and doorkeepers",258008,1529946,5.93,3930 (915991); 3800 (449699); 3730 (87163)
+764,"Housekeepers and stewards, except private household",109617,123489,1.127,9050 (94554); 9415 (28935)
+770,Janitors and sextons,471991,2615736,5.542,4220 (2391656); 4200 (224080)
+771,Marshals and constables,7727,0,0.0,
+772,Midwives,1124,0,0.0,
+773,Policemen and detectives,205106,963495,4.698,3850 (662464); 3820 (121790); 3710 (118121)
+780,Porters,169105,81969,0.485,4530 (81969)
+781,Practical nurses,145000,641334,4.423,3500 (641334)
+782,Sheriffs and bailiffs,19590,11395,0.582,3840 (11395)
+783,"Ushers, recreation and amusement",24467,38815,1.586,4420 (38815)
+784,Waiters and waitresses,693805,2053644,2.96,4110 (2053644)
+785,Watchmen (crossing) and bridge tenders,12852,0,0.0,
+790,"Service workers, except private household (nec)",554494,818741,1.477,4130 (348895); 4140 (274607); 4120 (195239)
+810,Farm foremen,18432,54385,2.951,6005 (54385)
+820,"Farm laborers, wage workers",1533714,877573,0.572,6050 (771051); 6040 (63341); 4340 (43181)
+830,"Farm laborers, unpaid family workers",921111,0,0.0,
+840,"Farm service laborers, self-employed",8187,0,0.0,
+910,Fishermen and oystermen,77128,35536,0.461,6100 (35536)
+920,Garage laborers and car washers and greasers,91747,0,0.0,
+930,"Gardeners, except farm and groundskeepers",152289,1248811,8.2,4250 (1248811)
+940,Longshoremen and stevedores,66294,0,0.0,
+950,"Lumbermen, raftsmen, and woodchoppers",187484,68764,0.367,6130 (68764)
+960,Teamsters,24639,0,0.0,
