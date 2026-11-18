@@ -1,0 +1,15 @@
+{
+  "title": "Research Snacks: data, code and methods",
+  "upload_type": "dataset",
+  "description": "<p>Shareable inputs, code, methods and expected tables behind <a href=\"https://researchsnacks.semanticmachines.fyi\">Research Snacks</a>, short public checks of claims against primary data. Each snack can be rerun with <code>uv run check.py</code>.</p><p>Code is MIT; our text, annotations and derived data are CC BY 4.0; third-party data keep their own terms (see LICENCE.md and DATA-SOURCES.md in the archive). No IPUMS microdata or corpus text is included.</p>",
+  "creators": [
+    {"name": "Lukeš, Dominik", "orcid": "0000-0002-0832-3387"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["research snacks", "reproducibility", "claim checking", "corpus linguistics", "labour statistics"],
+  "related_identifiers": [
+    {"identifier": "https://researchsnacks.semanticmachines.fyi", "relation": "isSupplementTo", "resource_type": "publication"},
+    {"identifier": "https://github.com/techczech/research-snacks", "relation": "isSupplementTo", "resource_type": "software"}
+  ],
+  "language": "eng"
+}
