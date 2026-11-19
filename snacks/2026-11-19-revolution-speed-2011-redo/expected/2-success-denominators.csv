@@ -1,0 +1,11 @@
+decade,campaigns,successes,ongoing,resolved,denominator,success_pct
+1970,16,8,0,16,"All campaigns, status at 2019",50.0
+1970,16,8,0,16,Exclude ongoing campaigns,50.0
+1980,34,14,0,34,"All campaigns, status at 2019",41.176
+1980,34,14,0,34,Exclude ongoing campaigns,41.176
+1990,55,36,0,55,"All campaigns, status at 2019",65.455
+1990,55,36,0,55,Exclude ongoing campaigns,65.455
+2000,59,34,0,59,"All campaigns, status at 2019",57.627
+2000,59,34,0,59,Exclude ongoing campaigns,57.627
+2010,101,34,28,73,"All campaigns, status at 2019",33.663
+2010,101,34,28,73,Exclude ongoing campaigns,46.575

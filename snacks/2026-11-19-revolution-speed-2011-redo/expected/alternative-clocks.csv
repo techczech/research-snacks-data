@@ -1,0 +1,15 @@
+case,start,end,rule,elapsed_days,inclusive_days
+Czechoslovakia: party leader Jakeš,1989-11-17,1989-11-24,"Party leadership, not presidency",7,8
+Czechoslovakia: constitutional monopoly,1989-11-17,1989-11-29,"Institutional rule, not personal exit",12,13
+Czechoslovakia: Havel elected,1989-11-17,1989-12-29,Successor takes office,42,43
+Russia: earlier strikes,1917-03-07,1917-03-15,Consular report first visible strikes,8,9
+Iran: military collapse,1978-01-09,1979-02-11,Final fall of monarchy,398,399
+Philippines: disputed election,1986-02-07,1986-02-25,Election-day clock; not mass protest onset,18,19
+Serbia: institutional takeover,2000-09-27,2000-10-05,Earlier than concession,8,9
+Serbia: inauguration,2000-09-27,2000-10-07,Later than concession,10,11
+Georgia: election-day clock,2003-11-02,2003-11-23,Election instead of protest,21,22
+Libya: Gaddafi killed,2011-02-15,2011-10-20,Death instead of loss of capital,247,248
+Yemen: transition agreement,2011-01-27,2011-11-23,Agreement before successor inaugurated,300,301
+Yemen: handover ceremony,2011-01-27,2012-02-27,Ceremony after inauguration,396,397
+Sri Lanka: public confirmation,2022-03-31,2022-07-15,Confirmation after legal effective date,106,107
+Bangladesh: demand for resignation,2024-08-03,2024-08-05,Late maximalist demand instead of quota-protest onset,2,3

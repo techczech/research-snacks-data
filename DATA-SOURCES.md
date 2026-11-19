@@ -30,3 +30,7 @@ Provider pages were read on 18 November 2026. These decisions apply to this repo
 ## AI spending and historical booms (19 November 2026)
 
 Source terms, limited-fact decisions and withheld originals are recorded in [the snack-specific source register](snacks/2026-11-19-ai-capex-historical-booms/DATA-SOURCES.md). No supplied screenshot, complete historical workbook, private transcript or whole early-US GDP extract is distributed.
+
+## Revolution speed and a 2011 claim (19 November 2026)
+
+NAVCO 1.3 CC0 terms, the provider’s verbatim citation, limited factual transcriptions and withheld sources are recorded in [the snack-specific source register](snacks/2026-11-19-revolution-speed-2011-redo/DATA-SOURCES.md). No ITU observations, survey respondents, private transcripts or complete source publications are included.

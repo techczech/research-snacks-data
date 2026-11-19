@@ -1,0 +1,5 @@
+NAVCOID,CAMPAIGN,LOCATION,BYEAR,EYEAR,TARGET,SUCCESS,LIMITED,FAILURE,ONGOING,VIOL,NONVIOL,FSELFDET,REGCHANGE,SECESSION,OTHER
+240.0,Velvet Revolution,Czechoslovakia,1989.0,1989.0,Communist regime,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+467.0,pro-dem movement,East Germany,1989.0,1989.0,Communist regime,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+331.0,Anti-Mubarak movement,Egypt,2007.0,2011.0,Government,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+159.0,Orange Revolution,Ukraine,2000.0,2005.0,Kuchma regime,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0

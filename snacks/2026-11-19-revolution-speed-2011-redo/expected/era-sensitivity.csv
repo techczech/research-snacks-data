@@ -1,0 +1,13 @@
+selection,era,n,median_days,min_days,max_days
+All selected exits,Before 1990,7,7,2,372
+All selected exits,1990–2009,2,14.5,9,20
+All selected exits,2010–2024,7,105,17,394
+All selected exits,1990–2024,9,35,9,394
+Exclude armed revolt/war/mutiny,Before 1990,4,33.5,3,372
+Exclude armed revolt/war/mutiny,1990–2009,2,14.5,9,20
+Exclude armed revolt/war/mutiny,2010–2024,5,35,17,113
+Exclude armed revolt/war/mutiny,1990–2024,7,28,9,113
+Also exclude military split/coup,Before 1990,3,44,23,372
+Also exclude military split/coup,1990–2009,2,14.5,9,20
+Also exclude military split/coup,2010–2024,4,31.5,17,105
+Also exclude military split/coup,1990–2024,6,24.0,9,105
