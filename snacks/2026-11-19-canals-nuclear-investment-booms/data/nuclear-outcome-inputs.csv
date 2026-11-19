@@ -1,0 +1,18 @@
+metric,value,unit,source
+US cancelled reactors by end-1982,100,units,EIA Nuclear Plant Cancellations 1983 p.x
+US cancellation expenditures 1972-1982,10000,USD million approximate,EIA Nuclear Plant Cancellations 1983 p.x
+US WPPSS default 1983,2250,USD million,SEC Staff Report on Municipal Securities Market 1993 footnote 44
+Columbia FY2009 operating revenue,519.758,USD million,"Energy Northwest Annual Report 2009 p.42, Columbia column"
+Columbia FY2009 operating expense,403.658,USD million,"Energy Northwest Annual Report 2009 p.42, Columbia column"
+Columbia FY2009 net operating revenue,116.1,USD million,"Energy Northwest Annual Report 2009 p.42, Columbia column"
+Columbia FY2009 interest expense and discount amortisation,118.981,USD million,"Energy Northwest Annual Report 2009 p.42, Columbia column"
+Columbia initial construction estimate 1971,187.4,USD million,"EIA Nuclear Power Plant Construction Activity 1986 Table 5 p.16, WPPSS 2"
+Columbia final construction estimate 1984,3200.9,USD million mixed-year historical cost,"EIA Nuclear Power Plant Construction Activity 1986 Table 5 p.16, WPPSS 2"
+US completed-plant projected overnight cost,938,2006 USD thousand per MW,"CBO Nuclear Power Role 2008 Table 2-1 p.17, unweighted mean across six start-period averages"
+US completed-plant actual overnight cost,2959,2006 USD thousand per MW,"CBO Nuclear Power Role 2008 Table 2-1 p.17, unweighted mean across six start-period averages"
+US mean cost overrun,207,"percent; reported mean of start-period overruns, not ratio of overall mean costs",CBO Nuclear Power Role 2008 Table 2-1 p.17
+France nuclear revenue above accounting costs 2011-2021,1750,EUR million approximate cumulative,Cour des comptes 2022 L organisation des marches de l electricite synthesis p.17; estimates under stated allocation assumptions
+France 1983 direct construction graph reading,3100,EUR million approximate,Cour des comptes 2012 p.20 graph; visual reading rounded to nearest 100 million; current euros confirmed p.21 nominal total
+France 1983 GDP,642944.7,EUR million,Eurostat CPMNACNSAB1GQFR via FRED 1983Q1-Q4 summed; no annualisation
+France fleet overnight cost,83238,2010 EUR million,Cour des comptes 2012 p.24
+France fleet capitalised interest,12800,2010 EUR million,"Cour des comptes 2012 p.266, rounded interest estimate"

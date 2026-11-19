@@ -1,0 +1,5 @@
+case,precedent,country,year,annual_spending_m,gdp_m,unit,year_basis,scope,spending_source,gdp_source
+uk_rail,UK railways,UK,1847,43.9,677.9730763232121,GBP million,calendar,Private; UK including Ireland; market-price GDP,https://www-users.cse.umn.edu/~odlyzko/doc/hallucinations.pdf,https://www.bankofengland.co.uk/statistics/research-datasets
+us_rail_1870s,"US railways, 1870s",US,1871,429.0,7751.0,USD million,calendar,Private gross capex including land; reconstructed annual series,https://www.nber.org/system/files/chapters/c1498/c1498.pdf,https://www.measuringworth.com/datasets/usgdp/
+us_rail_1910,"US railways, 1900-1914",US,1910,740,33746.0,USD million,calendar,Ulmer C-10 pp.272-273; gross including land; excluding land 714 million,https://www.nber.org/system/files/chapters/c1498/c1498.pdf,https://www.measuringworth.com/datasets/usgdp/
+telecom,US broadband providers,US,2000,118000,10250952,USD million,calendar,Wireline plus wireless plus cable; not fibre alone,https://ustelecom.org/wp-content/uploads/2019/01/Latest-Data-Show-Broadband-Investment-Surged-in-2013.pdf,https://fred.stlouisfed.org/series/GDPA

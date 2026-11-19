@@ -1,0 +1,5 @@
+case,window,spending_m,gdp_reference_year,reference_gdp_m,unit,share_one_year_gdp_pct,scope
+US railways 1851-1860,1851-1860,737.3,1854,3789.0,USD million,19.459,Fishlow gross; excludes failed projects; GDP MeasuringWorth
+France nuclear construction 1969-2004,1969-2004,36948.0,1983,642944.7,EUR million,5.7467,Cour des comptes 2012 pp.21-24 direct construction in current euros; excludes engineering/pre-operation/interest; Eurostat GDP quarterly sums
+GB canals and waterways,1791-1801,6.5,1796,251.492532,GBP million,2.5846,Quasi-net; secondary citation; period differs from requested 1790-1797
+US IOU nuclear construction,1979-1990,137917.0,1983,3634038.0,USD million,3.7951,IOUs only; includes capitalised financing; not all US civil nuclear 1965-1990

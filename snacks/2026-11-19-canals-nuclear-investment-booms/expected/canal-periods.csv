@@ -1,0 +1,5 @@
+period,years,investment_gbp_m,annual_mean_gbp_m,gdp_reference_year,gdp_gbp_m,annual_mean_over_reference_gdp_pct,cumulative_over_reference_gdp_pct,period_spend_over_period_gdp_pct
+1761-1770,10,1.32,0.132,1765,122.952517,0.1074,1.0736,0.1064
+1771-1780,10,2.88,0.288,1775,143.184451,0.2011,2.0114,0.1997
+1781-1790,10,1.6,0.16,1785,165.23644,0.0968,0.9683,0.0924
+1791-1801,11,6.5,0.590909,1796,251.492532,0.235,2.5846,0.2329

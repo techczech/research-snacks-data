@@ -1,0 +1,6 @@
+measure,spending_bn,gdp_bn,pct_gdp,qualification
+"Nine-month cash, Oracle latest reported periods",560.35,24369.835,2.2994,Reported fiscal-quarter mapping; Oracle one month early
+"Nine-month cash, calendar estimate",563.638,24369.835,2.3129,Oracle uniform monthly proration and Sept carry-forward assumption
+70% US allocation of reported cash,392.245,24369.835,1.6096,"Scenario, not measured domestic AI capex; includes non-AI spending"
+Latest-quarter cash annualised,921.868,33010.036,2.7927,"Pace, not a forecast; Oracle Jun-Aug against other firms Jul-Sept"
+EV Q3 AI cloud estimate annualised,704,33010.036,2.1327,Different estimated cohort; not measured US-only AI capex

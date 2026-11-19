@@ -1,0 +1,3 @@
+case,start,end,spending_m,gdp_reference_year,gdp_m,unit,scope
+US railways 1851-1860,1851,1860,737.3,1854,3789.0,USD million,Fishlow gross; excludes failed projects; GDP MeasuringWorth
+France nuclear construction 1969-2004,1969,2004,36948,1983,642944.7,EUR million,Cour des comptes 2012 pp.21-24 direct construction in current euros; excludes engineering/pre-operation/interest; Eurostat GDP quarterly sums

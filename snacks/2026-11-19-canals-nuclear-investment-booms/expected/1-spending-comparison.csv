@@ -1,0 +1,10 @@
+case,period,spend_gdp_pct,basis,qualification,label
+UK railways,1847,6.4752,Historical annual reconstruction,Private; UK including Ireland; market-price GDP,UK railways (1847)
+"US railways, 1870s",1871,5.5348,Historical annual reconstruction,Private gross capex including land; reconstructed annual series,"US railways, 1870s (1871)"
+"US railways, 1900-1914",1910,2.1929,Historical annual reconstruction,Ulmer C-10 pp.272-273; gross including land; excluding land 714 million,"US railways, 1900-1914 (1910)"
+US broadband providers,2000,1.1511,Historical annual reconstruction,Wireline plus wireless plus cable; not fibre alone,US broadband providers (2000)
+"US railways, antebellum",1854,2.9216,Historical annual reconstruction,Fishlow gross current-dollar expenditure; excludes failed projects; Cambridge transcription,"US railways, antebellum (1854)"
+"US nuclear, investor-owned utilities",1983,0.501,Partial nuclear coverage,Peak only within 1979-1990 IOU accounting construction expenditure; includes financing,"US nuclear, investor-owned utilities (1983)"
+"France nuclear, direct construction",1983,0.4822,Approximate single observation,Graph reading; no peak claim; excludes engineering/pre-operation/interest,"France nuclear, direct construction (1983)"
+"GB canals and waterways, annual mean",1791-1801,0.235,"Period mean, not annual peak",Annual mean divided by 1796 GDP; quasi-net waterways; secondary citation,"GB canals and waterways, annual mean (1791-1801)"
+"Five technology firms, reported proxy",2026 YTD,2.3,Global company proxy,Global company all-asset cash spending / US GDP; not domestic AI-only investment,"Five technology firms, reported proxy (2026 YTD)"

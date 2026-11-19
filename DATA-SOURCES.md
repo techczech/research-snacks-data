@@ -34,3 +34,7 @@ Source terms, limited-fact decisions and withheld originals are recorded in [the
 ## Revolution speed and a 2011 claim (19 November 2026)
 
 NAVCO 1.3 CC0 terms, the provider’s verbatim citation, limited factual transcriptions and withheld sources are recorded in [the snack-specific source register](snacks/2026-11-19-revolution-speed-2011-redo/DATA-SOURCES.md). No ITU observations, survey respondents, private transcripts or complete source publications are included.
+
+## Canals and civil nuclear investment booms (19 November 2026)
+
+The [snack-specific source register](snacks/2026-11-19-canals-nuclear-investment-booms/DATA-SOURCES.md) records the selected-fact decisions, EIA public-domain data, Eurostat attribution, restricted GDP boundaries and withheld originals. The rerun distinguishes canal period means, partial US nuclear accounting expenditure and an approximate French construction observation from annual national peaks.
