@@ -1,24 +1,25 @@
 ---
-title: "Checking the revised decipherment Research Snack"
+title: "Checking the council revision: decipherment methods and agents"
 date: 2026-11-19
-provenance: "Frozen literature coding revised after independent source critique; deterministic recomputation"
+register: FOR AGENTS
+provenance: "Three independent model reviews reconciled into authored amendments; deterministic arithmetic"
 ---
 
-# Decipherment methods and agentic AI
+# Decipherment methods and agents
 
-This folder checks [Which scripts were deciphered, and where could AI agents help?](https://researchsnacks.semanticmachines.fyi/2026-11-19-decipherment-methods-and-agents/).
-
-From the repository root:
+Checks [Which scripts were deciphered, and where could AI agents help?](https://researchsnacks.semanticmachines.fyi/2026-11-19-decipherment-methods-and-agents/).
 
 ```sh
 uv sync --locked
 uv run check.py 2026-11-19-decipherment-methods-and-agents
 ```
 
-The seven expected tables reproduce **9 full readable parallels, 8 partial keys/parallels and 3 without either; 18 usable known linguistic comparators and 2 without**, across twenty selected historical recovery stages. Proper-name entry codes are 14 yes, 2 partial, 1 no and 3 uncertain. These are author judgements with explicit stage choices, not a statistical test of causal necessity. Read [METHOD.md](METHOD.md) and the [item-by-item review response](data/REVIEW-RESPONSE.md).
+The qualitative statement is that every accepted language recovery in this selected sample had a readable parallel or key (including names), or a known language or close relative, usually both; names were the usual entry. Counts are provisional annotations by one compiler, not field-wide frequencies. Twenty historical rows form eleven interpretive lineage groups; scripts read without language recovery stay outside that sample.
 
-The case file has 44 rows: twenty historical recoveries and 24 open/partial/readable-with-gaps/comparator cases. The 37 computational-work rows distinguish actual task and publication status. There are 105 source records and 783 evidence mappings. Every historical headline cell and every ordinal priority score has an individual rationale; other mappings are explicitly not individually annotated.
+Nine expected tables reconstruct the stage timeline, six evidence-code distributions (including separate documented-language and proposed-identity questions), matrix, downloadable tractability scores and sensitivity, corpus/access descriptions, sample-only logical tests, inventory, task groups and lineages. The sample has twenty historical and twenty-six open/partial/comparison rows; twenty-eight task records include residual Maya/Tangut signs. The computational file has thirty-eight grouped works; the source register records access scopes. No numerical scores are invented for unaudited additions. Missing score values propagate to missing totals.
 
-Priorities are ranked within two task cohorts: undeciphered/partly mapped systems and already readable systems with remaining language/character gaps. Vinča is unranked. The alternative doubles linguistic weight. Comparator matrix and rubric scores are checked for agreement. Missing counts remain unknown; dated editions are not a current global census.
+The page has unordered groups by task. The six existing ordinal criteria and doubled-language sensitivity remain in the legacy `4-agent-ranking.csv` filename for URL compatibility, without rank numbers. They describe ease of checks today, not decipherment prospects. Voynich, Rongorongo, Zapotec and independent-check scores have explicit amendments. [METHOD.md](METHOD.md), the [authored cell amendments](data/decipherment-authored-decisions-council.csv), the [council response](data/REVIEW-RESPONSE-COUNCIL.md) and the preserved [first response](data/REVIEW-RESPONSE.md) give the reasoning and limits.
 
-The package contains our codings, summaries and code, with no ancient corpus text, source images or full papers. [DATA-SOURCES.md](DATA-SOURCES.md) states access and redistribution decisions. Run `uv run python snacks/2026-11-19-decipherment-methods-and-agents/code/charts-decipherment.py` to rebuild the PNG/CSV/Vega-Lite triples with the pinned renderer. A passing rerun establishes consistency with these saved decisions, not specialist validation of them.
+The package contains original annotations, short summaries, charts and calculation code; no corpus texts, photographs, papers, private captures or account/session data. [DATA-SOURCES.md](DATA-SOURCES.md) records conservative redistribution decisions. Rebuild four PNG/CSV/Vega-Lite triples with `uv run python snacks/2026-11-19-decipherment-methods-and-agents/code/charts-decipherment.py` from the repository root. The renderer is pinned; the calculation checker uses only the standard library.
+
+Three independent model opinions (GPT-6 Astra, Claude Fable 5.2, Gemini 4 Neon) preceded this implementation. No human epigraphist has read it and no agent has been run on these scripts. Source access includes abstracts, excerpts and limited sections; a rerun proves arithmetic consistency, not historical truth or agent advantage. Cite the package Git commit for this revision until the coordinator creates a later archive release. This builder creates no release tag.

@@ -1,18 +1,18 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "#fffdf8",
-  "width": "container",
+  "width": 480,
   "config": {
     "font": "Arial",
     "axis": {
-      "labelFontSize": 12,
-      "titleFontSize": 13,
+      "labelFontSize": 16,
+      "titleFontSize": 16,
       "gridColor": "#e2dfd5"
     },
     "title": {
       "fontSize": 18,
       "anchor": "start",
-      "subtitleFontSize": 12,
+      "subtitleFontSize": 16,
       "subtitleColor": "#4c5556"
     },
     "view": {
@@ -20,109 +20,114 @@
     },
     "legend": {
       "orient": "bottom",
-      "labelFontSize": 12
+      "labelFontSize": 16,
+      "titleFontSize": 16,
+      "labelLimit": 650
     }
   },
   "data": {
     "url": "charts/4-agent-priorities.csv"
   },
   "title": {
-    "text": "Agent priorities: rank within each task group",
-    "subtitle": "Ordinal judgement /18; groups have different tasks. Equal totals are tied; Vinča is unranked."
+    "text": "Different tasks need different checks",
+    "subtitle": "Unordered within each group; no estimate of decipherment prospects"
   },
-  "height": 730,
+  "height": 1000,
   "mark": {
-    "type": "bar",
-    "height": 17
+    "type": "point",
+    "filled": true,
+    "size": 130
   },
   "encoding": {
     "x": {
-      "field": "total",
-      "type": "quantitative",
-      "scale": {
-        "domain": [
-          0,
-          18
-        ]
-      },
-      "axis": {
-        "title": "Six criteria, each scored 0–3",
-        "tickMinStep": 1
-      }
+      "field": "task_group",
+      "type": "nominal",
+      "sort": [
+        "Structure without language",
+        "Partly read, with a language to test against",
+        "Audit of a published proposal",
+        "Script readable, language not understood",
+        "Language known, individual signs unread",
+        "Limited by evidence"
+      ],
+      "axis": null
     },
     "y": {
       "field": "case",
       "type": "nominal",
       "sort": [
-        "Proto-Elamite",
-        "Khitan small script",
-        "Linear A",
-        "Proto-Sinaitic gaps",
-        "Ancient Zapotec writing",
-        "Khitan large script",
         "Indus signs",
+        "Khipu (comparison)",
+        "Linear A",
+        "Proto-Elamite",
+        "Issyk-Kushan",
+        "Khitan large script",
+        "Khitan small script",
         "Isthmian / Epi-Olmec",
         "Linear Elamite",
-        "Rongorongo",
-        "Voynich manuscript",
-        "Byblos pseudo-hieroglyphic / syllabary",
         "Eteocypriot",
-        "Cretan hieroglyphs",
-        "Cypro-Minoan",
-        "Singapore Stone",
-        "Olmec / Cascajal block",
-        "Phaistos disc",
-        "Oracle bone Chinese: remaining character gaps",
-        "Jurchen",
         "Etruscan language",
         "Iberian language",
         "Meroitic language",
-        "Vinča symbols"
+        "Jurchen",
+        "Maya hieroglyphs (residual signs)",
+        "Oracle bone Chinese: remaining character gaps",
+        "Tangut (residual signs)",
+        "Ancient Zapotec writing",
+        "Byblos pseudo-hieroglyphic / syllabary",
+        "Cretan hieroglyphs",
+        "Cypro-Minoan",
+        "Olmec / Cascajal block",
+        "Phaistos disc",
+        "Proto-Sinaitic gaps",
+        "Rongorongo",
+        "Singapore Stone",
+        "Voynich manuscript"
       ],
       "axis": {
         "title": null,
-        "labelLimit": 235
+        "labelLimit": 250
       }
     },
     "color": {
-      "field": "cohort",
+      "field": "task_group",
       "type": "nominal",
       "scale": {
         "domain": [
-          "Undeciphered / partly mapped",
-          "Readable, remaining gaps",
-          "Excluded non-writing comparator"
+          "Structure without language",
+          "Partly read, with a language to test against",
+          "Audit of a published proposal",
+          "Script readable, language not understood",
+          "Language known, individual signs unread",
+          "Limited by evidence"
         ],
         "range": [
           "#23656c",
-          "#a47724",
-          "#859398"
+          "#b47a1c",
+          "#3b78a0",
+          "#738c36",
+          "#a34c32",
+          "#68777b"
         ]
       },
-      "title": "Task group"
+      "title": "Kind of task",
+      "legend": {
+        "columns": 1,
+        "labelLimit": 650
+      }
     },
     "tooltip": [
       {
         "field": "case"
       },
       {
-        "field": "cohort"
+        "field": "task_group"
       },
       {
-        "field": "rank"
+        "field": "checkable_result"
       },
       {
-        "field": "total",
-        "type": "quantitative"
-      },
-      {
-        "field": "language_double_rank"
-      },
-      {
-        "field": "status"
-      },
-      {
-        "field": "agent_loop"
+        "field": "obstacle"
       }
     ],
     "opacity": {
@@ -139,7 +144,7 @@
       "select": {
         "type": "point",
         "fields": [
-          "cohort"
+          "task_group"
         ]
       },
       "bind": "legend"

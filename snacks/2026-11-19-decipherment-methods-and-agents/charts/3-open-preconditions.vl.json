@@ -1,18 +1,18 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "#fffdf8",
-  "width": "container",
+  "width": 480,
   "config": {
     "font": "Arial",
     "axis": {
-      "labelFontSize": 12,
-      "titleFontSize": 13,
+      "labelFontSize": 16,
+      "titleFontSize": 16,
       "gridColor": "#e2dfd5"
     },
     "title": {
       "fontSize": 18,
       "anchor": "start",
-      "subtitleFontSize": 12,
+      "subtitleFontSize": 16,
       "subtitleColor": "#4c5556"
     },
     "view": {
@@ -20,17 +20,19 @@
     },
     "legend": {
       "orient": "bottom",
-      "labelFontSize": 12
+      "labelFontSize": 16,
+      "titleFontSize": 16,
+      "labelLimit": 650
     }
   },
   "data": {
     "url": "charts/3-open-preconditions.csv"
   },
   "title": {
-    "text": "The remaining gaps differ by case",
-    "subtitle": "Present evidence for 24 open/partial or readable-with-gaps cases; access and coding limits in the CSVs"
+    "text": "Different gaps remain",
+    "subtitle": "Present resources in open/partial and comparison cases"
   },
-  "height": 720,
+  "height": 900,
   "mark": {
     "type": "rect",
     "stroke": "#fffdf8",
@@ -41,16 +43,17 @@
       "field": "heading",
       "type": "ordinal",
       "sort": [
-        "Parallel",
-        "Prior identity",
+        "Parallel/key",
+        "Documented",
+        "Proposed",
         "Comparator",
         "Script type",
         "Names"
       ],
       "axis": {
         "title": null,
-        "labelAngle": 0,
-        "labelFontSize": 11
+        "labelAngle": -35,
+        "labelFontSize": 16
       }
     },
     "y": {
@@ -59,7 +62,7 @@
       "sort": null,
       "axis": {
         "title": null,
-        "labelLimit": 235
+        "labelLimit": 220
       }
     },
     "color": {

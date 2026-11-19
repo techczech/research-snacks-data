@@ -1,0 +1,21 @@
+case,year,milestone,people,bilingual,selected_stage,used_later,source_ids
+Palmyrene Aramaic,1754,1754,Jean-Jacques Barthélemy; John Swinton; Godwyn and other contributors,yes,1754 Barthélemy/Swinton stage,,daniels-history;swinton-1754
+Phoenician,1758,1758,Jean-Jacques Barthélemy; earlier scholars,yes,1758 Barthélemy milestone,,daniels-history
+Egyptian Demotic,1802,1802–1855,Åkerblad; de Sacy; Young; Champollion; Brugsch and successors,yes,1802 Åkerblad name-letter stage,"Young, Champollion and Brugsch extended phonetic and grammatical readings after 1802.",egypt-bm-guide;mnamon-demotic
+Old Persian cuneiform,1802,1802–1846,Grotefend; Rask; Burnouf; Lassen; Rawlinson; Hincks,no,1802 Grotefend royal-name stage,"Rask, Burnouf and Lassen developed the Iranian comparisons after 1802; Rawlinson extended readings using Behistun.",cathcart-2011
+Egyptian hieroglyphs,1822,1819–1824,Thomas Young; Jean-François Champollion; later scholars,yes,1822 phonetic announcement,Champollion’s 1824 grammatical extension and earlier royal names.,egypt-yale;egypt-bm-guide
+Early Brahmi,1837,1836–1838,"Wilkins; Prinsep, Lassen, Pandit Kamalakanta and collaborators",partial,1837 early-Brahmi milestone,,prinsep-bibliography
+Kharosthi,1838,1830s–1840s,Masson; Prinsep; Lassen; Norris and others,partial,1838 coin-reading stage,,prinsep-bibliography
+Old South Arabian monumental script,1841,1841–late 1800s,Wilhelm Gesenius; Emil Rödiger; later epigraphers,partial,1841 alphabet-identification milestone,,mnamon-southarabian
+Elamite cuneiform,1853,1853 recovery stage; memoir in JRAS volume dated 1855,Nils Westergaard; Edward Hincks; Edwin Norris; A. H. Sayce,yes,1853 Norris recovery stage (memoir volume dated 1855),,cathcart-2011
+Akkadian / Babylonian / Assyrian,1857,1846–1857,Edward Hincks; Henry Rawlinson; Jules Oppert; William Henry Fox Talbot,yes,1857 RAS independent-translation stage,,cathcart-2011;daniels-history
+Cypriot syllabary (Greek texts),1871,1871–1876,George Smith; Samuel Birch; Brandis; Schmidt; Deecke; Siegismund; Ahrens,yes,1871 Smith Idalion mapping stage,Further syllabary and Greek grammatical consolidation in the 1870s.,mnamon-cypriot
+Sumerian cuneiform,1879,1850s–1878 and later,Hincks; Rawlinson; Oppert; Haupt; many later Sumerologists,yes,1879 Haupt bilingual-publication stage,,daniels-history;cathcart-2011;haupt-1879
+Old Turkic runiform,1893,1893–1896,Vilhelm Thomsen; Wilhelm Radloff,partial,1893 Thomsen decipherment,,thomsen-history
+Tangut,1909,1909–1930s and continuing,"Bushell; Morisse; Ivanov, Luo Fucheng, Nevsky and successors",yes,1909 dictionary expansion stage,,tangut-2016
+Hittite language in cuneiform,1915,1915–1917,Bedřich Hrozný; earlier Knudtzon; subsequent Hittitologists,partial,1915 Hrozný argument,,mnamon-hittite;daniels-history
+Ugaritic alphabetic cuneiform,1930,1929–1931,Charles Virolleaud; Hans Bauer; Édouard Dhorme,no,1930 alphabetic breakthrough,,mnamon-ugaritic;snyder-2010;daniels-history
+Luwian hieroglyphs,1935,1930s (1935 plotting midpoint),Gelb; Forrer; Bossert; Hrozný; Meriggi; Çambel; Laroche; Hawkins; Morpurgo Davies; Neumann and others,partial,1930s sign-mapping stage (1935 plotting midpoint),"Karatepe extended Phoenician bilingual; Hawkins, Morpurgo Davies and Neumann 1973 revised sign values and linguistic identification.",mnamon-luwian
+Linear B / Mycenaean Greek,1952,1940s–1953,Alice Kober; Emmett Bennett; Michael Ventris; John Chadwick; Carl Blegen,no,1952 Ventris Greek identification,,mnamon-linear-b;kober-pasp
+Maya hieroglyphs,1952,1952–1980s and continuing,Yuri Knorozov; Heinrich Berlin; Tatiana Proskouriakoff; many later epigraphers,partial,1952 Knorozov phonetic argument,Berlin 1958 and Proskouriakoff 1960 historical/dynastic analysis; later phonetic and grammatical extension.,maya-kettunen
+Carian,1993,1960s–1996,Vitaly Shevoroshkin; John Ray; Diether Schürr; Ignacio Adiego and others,partial,1993 consolidation of Egyptian-name approach,1996 Greek–Carian bilingual confirmation; not credited to 1993 keys.,mnamon-carian

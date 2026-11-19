@@ -1,0 +1,225 @@
+case,group,condition,state,selected_stage,source_ids
+Egyptian hieroglyphs,historical,Readable parallel or key,yes,1822 phonetic announcement,egypt-yale;egypt-bm-guide
+Egyptian hieroglyphs,historical,Language or close relative documented at stage,yes,1822 phonetic announcement,egypt-yale;egypt-bm-guide
+Egyptian hieroglyphs,historical,Language proposed for inscriptions before breakthrough,partial,1822 phonetic announcement,egypt-yale;egypt-bm-guide
+Egyptian hieroglyphs,historical,Usable known linguistic comparator at stage,yes,1822 phonetic announcement,egypt-yale;egypt-bm-guide
+Egyptian hieroglyphs,historical,Broad script type before mapping,partial,1822 phonetic announcement,egypt-yale;egypt-bm-guide
+Egyptian hieroglyphs,historical,Proper names as entry point,yes,1822 phonetic announcement,egypt-yale;egypt-bm-guide
+Egyptian Demotic,historical,Readable parallel or key,yes,1802 Åkerblad name-letter stage,egypt-bm-guide;mnamon-demotic
+Egyptian Demotic,historical,Language or close relative documented at stage,yes,1802 Åkerblad name-letter stage,egypt-bm-guide;mnamon-demotic
+Egyptian Demotic,historical,Language proposed for inscriptions before breakthrough,partial,1802 Åkerblad name-letter stage,egypt-bm-guide;mnamon-demotic
+Egyptian Demotic,historical,Usable known linguistic comparator at stage,yes,1802 Åkerblad name-letter stage,egypt-bm-guide;mnamon-demotic
+Egyptian Demotic,historical,Broad script type before mapping,partial,1802 Åkerblad name-letter stage,egypt-bm-guide;mnamon-demotic
+Egyptian Demotic,historical,Proper names as entry point,yes,1802 Åkerblad name-letter stage,egypt-bm-guide;mnamon-demotic
+Old Persian cuneiform,historical,Readable parallel or key,no,1802 Grotefend royal-name stage,cathcart-2011
+Old Persian cuneiform,historical,Language or close relative documented at stage,yes,1802 Grotefend royal-name stage,cathcart-2011
+Old Persian cuneiform,historical,Language proposed for inscriptions before breakthrough,partial,1802 Grotefend royal-name stage,cathcart-2011
+Old Persian cuneiform,historical,Usable known linguistic comparator at stage,yes,1802 Grotefend royal-name stage,cathcart-2011
+Old Persian cuneiform,historical,Broad script type before mapping,partial,1802 Grotefend royal-name stage,cathcart-2011
+Old Persian cuneiform,historical,Proper names as entry point,yes,1802 Grotefend royal-name stage,cathcart-2011
+Akkadian / Babylonian / Assyrian,historical,Readable parallel or key,yes,1857 RAS independent-translation stage,cathcart-2011;daniels-history
+Akkadian / Babylonian / Assyrian,historical,Language or close relative documented at stage,yes,1857 RAS independent-translation stage,cathcart-2011;daniels-history
+Akkadian / Babylonian / Assyrian,historical,Language proposed for inscriptions before breakthrough,partial,1857 RAS independent-translation stage,cathcart-2011;daniels-history
+Akkadian / Babylonian / Assyrian,historical,Usable known linguistic comparator at stage,yes,1857 RAS independent-translation stage,cathcart-2011;daniels-history
+Akkadian / Babylonian / Assyrian,historical,Broad script type before mapping,no,1857 RAS independent-translation stage,cathcart-2011;daniels-history
+Akkadian / Babylonian / Assyrian,historical,Proper names as entry point,yes,1857 RAS independent-translation stage,cathcart-2011;daniels-history
+Sumerian cuneiform,historical,Readable parallel or key,yes,1879 Haupt bilingual-publication stage,daniels-history;cathcart-2011;haupt-1879
+Sumerian cuneiform,historical,Language or close relative documented at stage,no,1879 Haupt bilingual-publication stage,daniels-history;cathcart-2011;haupt-1879
+Sumerian cuneiform,historical,Language proposed for inscriptions before breakthrough,yes,1879 Haupt bilingual-publication stage,daniels-history;cathcart-2011;haupt-1879
+Sumerian cuneiform,historical,Usable known linguistic comparator at stage,no,1879 Haupt bilingual-publication stage,daniels-history;cathcart-2011;haupt-1879
+Sumerian cuneiform,historical,Broad script type before mapping,yes,1879 Haupt bilingual-publication stage,daniels-history;cathcart-2011;haupt-1879
+Sumerian cuneiform,historical,Proper names as entry point,partial,1879 Haupt bilingual-publication stage,daniels-history;cathcart-2011;haupt-1879
+Elamite cuneiform,historical,Readable parallel or key,yes,1853 Norris recovery stage (memoir volume dated 1855),cathcart-2011
+Elamite cuneiform,historical,Language or close relative documented at stage,no,1853 Norris recovery stage (memoir volume dated 1855),cathcart-2011
+Elamite cuneiform,historical,Language proposed for inscriptions before breakthrough,no,1853 Norris recovery stage (memoir volume dated 1855),cathcart-2011
+Elamite cuneiform,historical,Usable known linguistic comparator at stage,no,1853 Norris recovery stage (memoir volume dated 1855),cathcart-2011
+Elamite cuneiform,historical,Broad script type before mapping,partial,1853 Norris recovery stage (memoir volume dated 1855),cathcart-2011
+Elamite cuneiform,historical,Proper names as entry point,yes,1853 Norris recovery stage (memoir volume dated 1855),cathcart-2011
+Hittite language in cuneiform,historical,Readable parallel or key,partial,1915 Hrozný argument,mnamon-hittite;daniels-history
+Hittite language in cuneiform,historical,Language or close relative documented at stage,yes,1915 Hrozný argument,mnamon-hittite;daniels-history
+Hittite language in cuneiform,historical,Language proposed for inscriptions before breakthrough,partial,1915 Hrozný argument,mnamon-hittite;daniels-history
+Hittite language in cuneiform,historical,Usable known linguistic comparator at stage,yes,1915 Hrozný argument,mnamon-hittite;daniels-history
+Hittite language in cuneiform,historical,Broad script type before mapping,yes,1915 Hrozný argument,mnamon-hittite;daniels-history
+Hittite language in cuneiform,historical,Proper names as entry point,uncertain,1915 Hrozný argument,mnamon-hittite;daniels-history
+Luwian hieroglyphs,historical,Readable parallel or key,partial,1930s sign-mapping stage (1935 plotting midpoint),mnamon-luwian
+Luwian hieroglyphs,historical,Language or close relative documented at stage,yes,1930s sign-mapping stage (1935 plotting midpoint),mnamon-luwian
+Luwian hieroglyphs,historical,Language proposed for inscriptions before breakthrough,partial,1930s sign-mapping stage (1935 plotting midpoint),mnamon-luwian
+Luwian hieroglyphs,historical,Usable known linguistic comparator at stage,yes,1930s sign-mapping stage (1935 plotting midpoint),mnamon-luwian
+Luwian hieroglyphs,historical,Broad script type before mapping,partial,1930s sign-mapping stage (1935 plotting midpoint),mnamon-luwian
+Luwian hieroglyphs,historical,Proper names as entry point,yes,1930s sign-mapping stage (1935 plotting midpoint),mnamon-luwian
+Ugaritic alphabetic cuneiform,historical,Readable parallel or key,no,1930 alphabetic breakthrough,mnamon-ugaritic;snyder-2010;daniels-history
+Ugaritic alphabetic cuneiform,historical,Language or close relative documented at stage,yes,1930 alphabetic breakthrough,mnamon-ugaritic;snyder-2010;daniels-history
+Ugaritic alphabetic cuneiform,historical,Language proposed for inscriptions before breakthrough,partial,1930 alphabetic breakthrough,mnamon-ugaritic;snyder-2010;daniels-history
+Ugaritic alphabetic cuneiform,historical,Usable known linguistic comparator at stage,yes,1930 alphabetic breakthrough,mnamon-ugaritic;snyder-2010;daniels-history
+Ugaritic alphabetic cuneiform,historical,Broad script type before mapping,partial,1930 alphabetic breakthrough,mnamon-ugaritic;snyder-2010;daniels-history
+Ugaritic alphabetic cuneiform,historical,Proper names as entry point,partial,1930 alphabetic breakthrough,mnamon-ugaritic;snyder-2010;daniels-history
+Linear B / Mycenaean Greek,historical,Readable parallel or key,no,1952 Ventris Greek identification,mnamon-linear-b;kober-pasp
+Linear B / Mycenaean Greek,historical,Language or close relative documented at stage,yes,1952 Ventris Greek identification,mnamon-linear-b;kober-pasp
+Linear B / Mycenaean Greek,historical,Language proposed for inscriptions before breakthrough,no,1952 Ventris Greek identification,mnamon-linear-b;kober-pasp
+Linear B / Mycenaean Greek,historical,Usable known linguistic comparator at stage,yes,1952 Ventris Greek identification,mnamon-linear-b;kober-pasp
+Linear B / Mycenaean Greek,historical,Broad script type before mapping,yes,1952 Ventris Greek identification,mnamon-linear-b;kober-pasp
+Linear B / Mycenaean Greek,historical,Proper names as entry point,yes,1952 Ventris Greek identification,mnamon-linear-b;kober-pasp
+Cypriot syllabary (Greek texts),historical,Readable parallel or key,yes,1871 Smith Idalion mapping stage,mnamon-cypriot
+Cypriot syllabary (Greek texts),historical,Language or close relative documented at stage,yes,1871 Smith Idalion mapping stage,mnamon-cypriot
+Cypriot syllabary (Greek texts),historical,Language proposed for inscriptions before breakthrough,partial,1871 Smith Idalion mapping stage,mnamon-cypriot
+Cypriot syllabary (Greek texts),historical,Usable known linguistic comparator at stage,yes,1871 Smith Idalion mapping stage,mnamon-cypriot
+Cypriot syllabary (Greek texts),historical,Broad script type before mapping,partial,1871 Smith Idalion mapping stage,mnamon-cypriot
+Cypriot syllabary (Greek texts),historical,Proper names as entry point,yes,1871 Smith Idalion mapping stage,mnamon-cypriot
+Maya hieroglyphs,historical,Readable parallel or key,partial,1952 Knorozov phonetic argument,maya-kettunen
+Maya hieroglyphs,historical,Language or close relative documented at stage,yes,1952 Knorozov phonetic argument,maya-kettunen
+Maya hieroglyphs,historical,Language proposed for inscriptions before breakthrough,yes,1952 Knorozov phonetic argument,maya-kettunen
+Maya hieroglyphs,historical,Usable known linguistic comparator at stage,yes,1952 Knorozov phonetic argument,maya-kettunen
+Maya hieroglyphs,historical,Broad script type before mapping,no,1952 Knorozov phonetic argument,maya-kettunen
+Maya hieroglyphs,historical,Proper names as entry point,no,1952 Knorozov phonetic argument,maya-kettunen
+Phoenician,historical,Readable parallel or key,yes,1758 Barthélemy milestone,daniels-history
+Phoenician,historical,Language or close relative documented at stage,yes,1758 Barthélemy milestone,daniels-history
+Phoenician,historical,Language proposed for inscriptions before breakthrough,partial,1758 Barthélemy milestone,daniels-history
+Phoenician,historical,Usable known linguistic comparator at stage,yes,1758 Barthélemy milestone,daniels-history
+Phoenician,historical,Broad script type before mapping,yes,1758 Barthélemy milestone,daniels-history
+Phoenician,historical,Proper names as entry point,yes,1758 Barthélemy milestone,daniels-history
+Palmyrene Aramaic,historical,Readable parallel or key,yes,1754 Barthélemy/Swinton stage,daniels-history;swinton-1754
+Palmyrene Aramaic,historical,Language or close relative documented at stage,yes,1754 Barthélemy/Swinton stage,daniels-history;swinton-1754
+Palmyrene Aramaic,historical,Language proposed for inscriptions before breakthrough,partial,1754 Barthélemy/Swinton stage,daniels-history;swinton-1754
+Palmyrene Aramaic,historical,Usable known linguistic comparator at stage,yes,1754 Barthélemy/Swinton stage,daniels-history;swinton-1754
+Palmyrene Aramaic,historical,Broad script type before mapping,yes,1754 Barthélemy/Swinton stage,daniels-history;swinton-1754
+Palmyrene Aramaic,historical,Proper names as entry point,yes,1754 Barthélemy/Swinton stage,daniels-history;swinton-1754
+Early Brahmi,historical,Readable parallel or key,partial,1837 early-Brahmi milestone,prinsep-bibliography
+Early Brahmi,historical,Language or close relative documented at stage,yes,1837 early-Brahmi milestone,prinsep-bibliography
+Early Brahmi,historical,Language proposed for inscriptions before breakthrough,partial,1837 early-Brahmi milestone,prinsep-bibliography
+Early Brahmi,historical,Usable known linguistic comparator at stage,yes,1837 early-Brahmi milestone,prinsep-bibliography
+Early Brahmi,historical,Broad script type before mapping,partial,1837 early-Brahmi milestone,prinsep-bibliography
+Early Brahmi,historical,Proper names as entry point,yes,1837 early-Brahmi milestone,prinsep-bibliography
+Kharosthi,historical,Readable parallel or key,partial,1838 coin-reading stage,prinsep-bibliography
+Kharosthi,historical,Language or close relative documented at stage,yes,1838 coin-reading stage,prinsep-bibliography
+Kharosthi,historical,Language proposed for inscriptions before breakthrough,partial,1838 coin-reading stage,prinsep-bibliography
+Kharosthi,historical,Usable known linguistic comparator at stage,yes,1838 coin-reading stage,prinsep-bibliography
+Kharosthi,historical,Broad script type before mapping,yes,1838 coin-reading stage,prinsep-bibliography
+Kharosthi,historical,Proper names as entry point,yes,1838 coin-reading stage,prinsep-bibliography
+Old Turkic runiform,historical,Readable parallel or key,partial,1893 Thomsen decipherment,thomsen-history
+Old Turkic runiform,historical,Language or close relative documented at stage,yes,1893 Thomsen decipherment,thomsen-history
+Old Turkic runiform,historical,Language proposed for inscriptions before breakthrough,partial,1893 Thomsen decipherment,thomsen-history
+Old Turkic runiform,historical,Usable known linguistic comparator at stage,yes,1893 Thomsen decipherment,thomsen-history
+Old Turkic runiform,historical,Broad script type before mapping,partial,1893 Thomsen decipherment,thomsen-history
+Old Turkic runiform,historical,Proper names as entry point,yes,1893 Thomsen decipherment,thomsen-history
+Carian,historical,Readable parallel or key,partial,1993 consolidation of Egyptian-name approach,mnamon-carian
+Carian,historical,Language or close relative documented at stage,yes,1993 consolidation of Egyptian-name approach,mnamon-carian
+Carian,historical,Language proposed for inscriptions before breakthrough,partial,1993 consolidation of Egyptian-name approach,mnamon-carian
+Carian,historical,Usable known linguistic comparator at stage,yes,1993 consolidation of Egyptian-name approach,mnamon-carian
+Carian,historical,Broad script type before mapping,yes,1993 consolidation of Egyptian-name approach,mnamon-carian
+Carian,historical,Proper names as entry point,yes,1993 consolidation of Egyptian-name approach,mnamon-carian
+Old South Arabian monumental script,historical,Readable parallel or key,partial,1841 alphabet-identification milestone,mnamon-southarabian
+Old South Arabian monumental script,historical,Language or close relative documented at stage,yes,1841 alphabet-identification milestone,mnamon-southarabian
+Old South Arabian monumental script,historical,Language proposed for inscriptions before breakthrough,partial,1841 alphabet-identification milestone,mnamon-southarabian
+Old South Arabian monumental script,historical,Usable known linguistic comparator at stage,yes,1841 alphabet-identification milestone,mnamon-southarabian
+Old South Arabian monumental script,historical,Broad script type before mapping,partial,1841 alphabet-identification milestone,mnamon-southarabian
+Old South Arabian monumental script,historical,Proper names as entry point,uncertain,1841 alphabet-identification milestone,mnamon-southarabian
+Tangut,historical,Readable parallel or key,yes,1909 dictionary expansion stage,tangut-2016
+Tangut,historical,Language or close relative documented at stage,partial,1909 dictionary expansion stage,tangut-2016
+Tangut,historical,Language proposed for inscriptions before breakthrough,yes,1909 dictionary expansion stage,tangut-2016
+Tangut,historical,Usable known linguistic comparator at stage,yes,1909 dictionary expansion stage,tangut-2016
+Tangut,historical,Broad script type before mapping,partial,1909 dictionary expansion stage,tangut-2016
+Tangut,historical,Proper names as entry point,uncertain,1909 dictionary expansion stage,tangut-2016
+Linear A,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory
+Linear A,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory
+Linear A,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory
+Linear A,open,Proper names as entry point,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory
+Cretan hieroglyphs,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,mnamon-cretan-hieroglyphic;aegean-review-2024
+Cretan hieroglyphs,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,mnamon-cretan-hieroglyphic;aegean-review-2024
+Cretan hieroglyphs,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-cretan-hieroglyphic;aegean-review-2024
+Cretan hieroglyphs,open,Proper names as entry point,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-cretan-hieroglyphic;aegean-review-2024
+Phaistos disc,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,mnamon-phaistos-disc;aegean-review-2024
+Phaistos disc,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,mnamon-phaistos-disc;aegean-review-2024
+Phaistos disc,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-phaistos-disc;aegean-review-2024
+Phaistos disc,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,mnamon-phaistos-disc;aegean-review-2024
+Cypro-Minoan,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,mnamon-cypro-minoan;aegean-review-2024;corazza-2022
+Cypro-Minoan,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,mnamon-cypro-minoan;aegean-review-2024;corazza-2022
+Cypro-Minoan,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-cypro-minoan;aegean-review-2024;corazza-2022
+Cypro-Minoan,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,mnamon-cypro-minoan;aegean-review-2024;corazza-2022
+Indus signs,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014
+Indus signs,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014
+Indus signs,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014
+Indus signs,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014
+Proto-Elamite,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,born-2019;born-thesis;born-2022;born-2025;kelley-2022
+Proto-Elamite,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,born-2019;born-thesis;born-2022;born-2025;kelley-2022
+Proto-Elamite,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,born-2019;born-thesis;born-2022;born-2025;kelley-2022
+Proto-Elamite,open,Proper names as entry point,partial,Present evidence in dated sources inspected 2026-11-19,born-2019;born-thesis;born-2022;born-2025;kelley-2022
+Rongorongo,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,rongorongo-2024;rongorongo-corpus
+Rongorongo,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,rongorongo-2024;rongorongo-corpus
+Rongorongo,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,rongorongo-2024;rongorongo-corpus
+Rongorongo,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,rongorongo-2024;rongorongo-corpus
+Byblos pseudo-hieroglyphic / syllabary,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,mnamon-byblos-(pseudo-hieroglyphic)
+Byblos pseudo-hieroglyphic / syllabary,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-byblos-(pseudo-hieroglyphic)
+Byblos pseudo-hieroglyphic / syllabary,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-byblos-(pseudo-hieroglyphic)
+Byblos pseudo-hieroglyphic / syllabary,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,mnamon-byblos-(pseudo-hieroglyphic)
+Isthmian / Epi-Olmec,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,epi-olmec-claim;epi-olmec-review
+Isthmian / Epi-Olmec,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,epi-olmec-claim;epi-olmec-review
+Isthmian / Epi-Olmec,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,epi-olmec-claim;epi-olmec-review
+Isthmian / Epi-Olmec,open,Proper names as entry point,partial,Present evidence in dated sources inspected 2026-11-19,epi-olmec-claim;epi-olmec-review
+Ancient Zapotec writing,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,zapotec-urcid
+Ancient Zapotec writing,open,Usable known linguistic comparator at stage,yes,Present evidence in dated sources inspected 2026-11-19,zapotec-urcid
+Ancient Zapotec writing,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,zapotec-urcid
+Ancient Zapotec writing,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,zapotec-urcid
+Khitan small script,open,Readable parallel or key,yes,Present evidence in dated sources inspected 2026-11-19,khitan-2016;khitan-encoding;khitan-west;khitan-shimunek-2014;khitan-group
+Khitan small script,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,khitan-2016;khitan-encoding;khitan-west;khitan-shimunek-2014;khitan-group
+Khitan small script,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,khitan-2016;khitan-encoding;khitan-west;khitan-shimunek-2014;khitan-group
+Khitan small script,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,khitan-2016;khitan-encoding;khitan-west;khitan-shimunek-2014;khitan-group
+Khitan large script,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,khitan-geography;khitan-west;khitan-encoding;khitan-zaytsev
+Khitan large script,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,khitan-geography;khitan-west;khitan-encoding;khitan-zaytsev
+Khitan large script,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,khitan-geography;khitan-west;khitan-encoding;khitan-zaytsev
+Khitan large script,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,khitan-geography;khitan-west;khitan-encoding;khitan-zaytsev
+Meroitic language,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs;meroitic-book
+Meroitic language,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs;meroitic-book
+Meroitic language,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs;meroitic-book
+Meroitic language,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs;meroitic-book
+Etruscan language,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met
+Etruscan language,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met
+Etruscan language,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met
+Etruscan language,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met
+Voynich manuscript,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,voynich-bowern;voynich-yale-2025;voynich-catalogue;voynich-description
+Voynich manuscript,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,voynich-bowern;voynich-yale-2025;voynich-catalogue;voynich-description
+Voynich manuscript,open,Broad script type before mapping,uncertain,Present evidence in dated sources inspected 2026-11-19,voynich-bowern;voynich-yale-2025;voynich-catalogue;voynich-description
+Voynich manuscript,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,voynich-bowern;voynich-yale-2025;voynich-catalogue;voynich-description
+Vinča symbols,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,vinca-sproat
+Vinča symbols,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,vinca-sproat
+Vinča symbols,open,Broad script type before mapping,no,Present evidence in dated sources inspected 2026-11-19,vinca-sproat
+Vinča symbols,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,vinca-sproat
+Proto-Sinaitic gaps,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-proto-sinaitic
+Proto-Sinaitic gaps,open,Usable known linguistic comparator at stage,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-proto-sinaitic
+Proto-Sinaitic gaps,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-proto-sinaitic
+Proto-Sinaitic gaps,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-proto-sinaitic
+Olmec / Cascajal block,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,cascajal-mesoweb
+Olmec / Cascajal block,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,cascajal-mesoweb
+Olmec / Cascajal block,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,cascajal-mesoweb
+Olmec / Cascajal block,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,cascajal-mesoweb
+Singapore Stone,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,singapore-2023;singapore-museum
+Singapore Stone,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,singapore-2023;singapore-museum
+Singapore Stone,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,singapore-2023;singapore-museum
+Singapore Stone,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,singapore-2023;singapore-museum
+Jurchen,open,Readable parallel or key,yes,Present evidence in dated sources inspected 2026-11-19,jurchen-2024;jurchen-west
+Jurchen,open,Usable known linguistic comparator at stage,yes,Present evidence in dated sources inspected 2026-11-19,jurchen-2024;jurchen-west
+Jurchen,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,jurchen-2024;jurchen-west
+Jurchen,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,jurchen-2024;jurchen-west
+Linear Elamite,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022
+Linear Elamite,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022
+Linear Elamite,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022
+Linear Elamite,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022
+Eteocypriot,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-cypriot
+Eteocypriot,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,mnamon-cypriot
+Eteocypriot,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-cypriot
+Eteocypriot,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-cypriot
+Oracle bone Chinese: remaining character gaps,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,guan-2024;obi-2025
+Oracle bone Chinese: remaining character gaps,open,Usable known linguistic comparator at stage,yes,Present evidence in dated sources inspected 2026-11-19,guan-2024;obi-2025
+Oracle bone Chinese: remaining character gaps,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,guan-2024;obi-2025
+Oracle bone Chinese: remaining character gaps,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,guan-2024;obi-2025
+Iberian language,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,luo-tacl-2021;mnamon-iberian
+Iberian language,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,luo-tacl-2021;mnamon-iberian
+Iberian language,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,luo-tacl-2021;mnamon-iberian
+Iberian language,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,luo-tacl-2021;mnamon-iberian
+Issyk-Kushan,open,Readable parallel or key,yes,Present evidence in publications inspected 2026-11-19,kushan-2023;kushan-2026
+Issyk-Kushan,open,Usable known linguistic comparator at stage,yes,Present evidence in publications inspected 2026-11-19,kushan-2023;kushan-2026
+Issyk-Kushan,open,Broad script type before mapping,partial,Present evidence in publications inspected 2026-11-19,kushan-2023;kushan-2026
+Issyk-Kushan,open,Proper names as entry point,yes,Present evidence in publications inspected 2026-11-19,kushan-2023;kushan-2026
+Khipu (comparison),open,Readable parallel or key,partial,Present evidence in publications inspected 2026-11-19,khipu-2018;open-khipu
+Khipu (comparison),open,Usable known linguistic comparator at stage,partial,Present evidence in publications inspected 2026-11-19,khipu-2018;open-khipu
+Khipu (comparison),open,Broad script type before mapping,partial,Present evidence in publications inspected 2026-11-19,khipu-2018;open-khipu
+Khipu (comparison),open,Proper names as entry point,uncertain,Present evidence in publications inspected 2026-11-19,khipu-2018;open-khipu

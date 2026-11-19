@@ -1,9 +1,12 @@
 ---
-title: Revised decipherment survey validation
+title: "Council revision validation: decipherment survey"
 date: 2026-11-19
-provenance: Source-review corrections and regenerated frozen tables
+register: FOR AGENTS
+provenance: "Frozen authored amendments and deterministic reconstruction"
 ---
 
-The revision checker enforces individual rationales for every historical precondition and every priority score; comparator matrix/score agreement; source identifiers; and evidence-to-value agreement. Seven expected tables are regenerated from the corrected inputs. The final fresh-clone result and published Git hashes are recorded in the private publication receipt and coordination log after the commits exist. This file does not pre-claim a check that has not run.
+The standard-library checker rebuilds nine expected tables. It checks the locked twenty-case historical sample, source IDs, evidence/value agreement, individual historical-code and score rationales, comparator-score agreement where scored, and categorical task references. Scores marked not audited remain missing through totals and sensitivity. No ordinal scores are inferred from prose.
 
-See data/REVIEW-RESPONSE.md for all nine errors and six debated groups, their dispositions, sources and remaining limits. Reproduction proves internal arithmetic and consistency, not expert acceptance of a code or priority score.
+`uv run check.py 2026-11-19-decipherment-methods-and-agents` must pass in a fresh public clone before this revision is accepted as published. The exact checked site/data commits, outputs, source capture hashes, security scans and live byte comparisons are recorded in publication receipts. This document describes the contract; it does not pre-claim an unrun check.
+
+See [council response](data/REVIEW-RESPONSE-COUNCIL.md) for every A/B disposition, qualified applications and blocked sources. Three independent model opinions preceded this implementation; none is human epigraphic approval or a review of the final edited bytes. Rebuilding annotations proves internal consistency, not historical truth, accepted decipherment or agent advantage. No data release tag belongs to this builder.

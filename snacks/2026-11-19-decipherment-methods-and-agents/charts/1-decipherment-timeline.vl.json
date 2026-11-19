@@ -1,18 +1,18 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "background": "#fffdf8",
-  "width": "container",
+  "width": 480,
   "config": {
     "font": "Arial",
     "axis": {
-      "labelFontSize": 12,
-      "titleFontSize": 13,
+      "labelFontSize": 16,
+      "titleFontSize": 16,
       "gridColor": "#e2dfd5"
     },
     "title": {
       "fontSize": 18,
       "anchor": "start",
-      "subtitleFontSize": 12,
+      "subtitleFontSize": 16,
       "subtitleColor": "#4c5556"
     },
     "view": {
@@ -20,7 +20,9 @@
     },
     "legend": {
       "orient": "bottom",
-      "labelFontSize": 12
+      "labelFontSize": 16,
+      "titleFontSize": 16,
+      "labelLimit": 650
     }
   },
   "data": {

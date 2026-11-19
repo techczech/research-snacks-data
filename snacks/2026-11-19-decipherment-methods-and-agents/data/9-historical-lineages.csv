@@ -1,0 +1,21 @@
+case,lineage,selected_stage,source_ids
+Egyptian hieroglyphs,egyptian-demotic,1822 phonetic announcement,egypt-yale;egypt-bm-guide
+Egyptian Demotic,egyptian-demotic,1802 Åkerblad name-letter stage,egypt-bm-guide;mnamon-demotic
+Old Persian cuneiform,cuneiform-key-chain,1802 Grotefend royal-name stage,cathcart-2011
+Akkadian / Babylonian / Assyrian,cuneiform-key-chain,1857 RAS independent-translation stage,cathcart-2011;daniels-history
+Sumerian cuneiform,cuneiform-key-chain,1879 Haupt bilingual-publication stage,daniels-history;cathcart-2011;haupt-1879
+Elamite cuneiform,cuneiform-key-chain,1853 Norris recovery stage (memoir volume dated 1855),cathcart-2011
+Hittite language in cuneiform,cuneiform-key-chain,1915 Hrozný argument,mnamon-hittite;daniels-history
+Luwian hieroglyphs,cuneiform-key-chain,1930s sign-mapping stage (1935 plotting midpoint),mnamon-luwian
+Ugaritic alphabetic cuneiform,ugaritic,1930 alphabetic breakthrough,mnamon-ugaritic;snyder-2010;daniels-history
+Linear B / Mycenaean Greek,aegean-cypriot,1952 Ventris Greek identification,mnamon-linear-b;kober-pasp
+Cypriot syllabary (Greek texts),aegean-cypriot,1871 Smith Idalion mapping stage,mnamon-cypriot
+Maya hieroglyphs,maya,1952 Knorozov phonetic argument,maya-kettunen
+Phoenician,barthélemy,1758 Barthélemy milestone,daniels-history
+Palmyrene Aramaic,barthélemy,1754 Barthélemy/Swinton stage,daniels-history;swinton-1754
+Early Brahmi,indic-script-recovery,1837 early-Brahmi milestone,prinsep-bibliography
+Kharosthi,indic-script-recovery,1838 coin-reading stage,prinsep-bibliography
+Old Turkic runiform,old-turkic,1893 Thomsen decipherment,thomsen-history
+Carian,carian,1993 consolidation of Egyptian-name approach,mnamon-carian
+Old South Arabian monumental script,south-arabian,1841 alphabet-identification milestone,mnamon-southarabian
+Tangut,tangut,1909 dictionary expansion stage,tangut-2016

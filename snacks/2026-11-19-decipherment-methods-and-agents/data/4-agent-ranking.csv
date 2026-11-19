@@ -1,0 +1,27 @@
+case,task_group,corpus,digital,language,anchors,tests,verification,total,language_double_total,language_condition,status,source_ids
+Byblos pseudo-hieroglyphic / syllabary,evidence-limited,1,1,1,1,2,1,7,8,,undeciphered,mnamon-byblos-(pseudo-hieroglyphic)
+Olmec / Cascajal block,evidence-limited,0,1,0,1,1,0,3,3,,possible early writing; undeciphered,cascajal-mesoweb
+Cretan hieroglyphs,evidence-limited,1,1,0,1,2,1,6,6,,undeciphered,mnamon-cretan-hieroglyphic;aegean-review-2024
+Cypro-Minoan,evidence-limited,1,1,0,1,2,1,6,6,,undeciphered,mnamon-cypro-minoan;aegean-review-2024;corazza-2022
+Phaistos disc,evidence-limited,0,1,0,0,1,0,2,2,,undeciphered,mnamon-phaistos-disc;aegean-review-2024
+Proto-Sinaitic gaps,evidence-limited,1,1,3,2,2,1,10,13,,partly read early alphabet,mnamon-proto-sinaitic
+Rongorongo,evidence-limited,1,1,2,1,2,1,8,10,Rapa Nui comparison is conditional on these tablets recording Rapa Nui speech.,undeciphered; readings and origin debated,rongorongo-2024;rongorongo-corpus
+Singapore Stone,evidence-limited,0,1,1,1,2,1,6,7,,partly legible fragment; language uncertain,singapore-2023;singapore-museum
+Voynich manuscript,evidence-limited,0,2,0,0,2,1,5,5,,contested artefact: language/cipher/nonlinguistic hypotheses,voynich-bowern;voynich-yale-2025;voynich-catalogue;voynich-description
+Ancient Zapotec writing,evidence-limited,not audited,1,3,2,2,1,not audited,not audited,,partly understood,zapotec-urcid
+Vinča symbols,excluded,1,1,0,0,2,0,4,4,,probably not writing; comparator,vinca-sproat
+Issyk-Kushan,partly-read,not audited,not audited,not audited,not audited,not audited,not audited,not audited,not audited,,developing partial decipherment; revised Bactrian readings,kushan-2023;kushan-2026
+Khitan large script,partly-read,1,1,2,2,2,2,10,12,,partly deciphered,khitan-geography;khitan-west;khitan-encoding;khitan-zaytsev
+Khitan small script,partly-read,2,2,2,2,3,2,13,15,,partly deciphered,khitan-2016;khitan-encoding;khitan-west;khitan-shimunek-2014;khitan-group
+Isthmian / Epi-Olmec,proposal-audit,1,1,2,2,2,1,9,11,,proposed decipherment contested,epi-olmec-claim;epi-olmec-review
+Linear Elamite,proposal-audit,1,1,2,2,2,1,9,11,,2022 decipherment claim; reception contested,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022
+Eteocypriot,readable-language,1,1,0,2,2,1,7,7,,script readable; language poorly understood,mnamon-cypriot
+Etruscan language,readable-language,3,2,1,2,3,2,13,14,,script readable; language partly understood,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met
+Iberian language,readable-language,2,2,0,2,3,2,11,11,,mostly readable scripts; language remains poorly understood,luo-tacl-2021;mnamon-iberian
+Meroitic language,readable-language,2,1,2,2,2,2,11,13,,script readable; language partly understood,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs;meroitic-book
+Indus signs,structure,2,1,1,1,3,1,9,10,,undeciphered; linguistic status debated,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014
+Khipu (comparison),structure,not audited,not audited,not audited,not audited,not audited,not audited,not audited,not audited,,accounting structure partly understood; linguistic encoding contested,khipu-2018;open-khipu
+Linear A,structure,2,2,0,2,3,1,10,10,,undeciphered,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory
+Proto-Elamite,structure,2,3,0,3,3,2,13,13,"Anchor score 3 is numerical/structural, not linguistic.",partly understood accounting; language undeciphered,born-2019;born-thesis;born-2022;born-2025;kelley-2022
+Jurchen,unread-signs,2,2,3,3,3,3,16,19,,substantially readable; vocabulary/epigraphy gaps,jurchen-2024;jurchen-west
+Oracle bone Chinese: remaining character gaps,unread-signs,3,2,3,3,3,1,15,18,,substantial known writing/language; many character values unresolved,guan-2024;obi-2025

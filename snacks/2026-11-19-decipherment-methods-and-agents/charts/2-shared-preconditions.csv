@@ -1,16 +1,20 @@
 condition,state,count,denominator
-Bilingual / partial parallel,yes,9,20
-Bilingual / partial parallel,partial,8,20
-Bilingual / partial parallel,no,3,20
-Bilingual / partial parallel,uncertain,0,20
-Prior target identity / continuity,yes,0,20
-Prior target identity / continuity,partial,5,20
-Prior target identity / continuity,no,15,20
-Prior target identity / continuity,uncertain,0,20
-Usable known linguistic comparator,yes,18,20
-Usable known linguistic comparator,partial,0,20
-Usable known linguistic comparator,no,2,20
-Usable known linguistic comparator,uncertain,0,20
+Readable parallel or key,yes,9,20
+Readable parallel or key,partial,8,20
+Readable parallel or key,no,3,20
+Readable parallel or key,uncertain,0,20
+Language or close relative documented at stage,yes,17,20
+Language or close relative documented at stage,partial,1,20
+Language or close relative documented at stage,no,2,20
+Language or close relative documented at stage,uncertain,0,20
+Language proposed for inscriptions before breakthrough,yes,3,20
+Language proposed for inscriptions before breakthrough,partial,15,20
+Language proposed for inscriptions before breakthrough,no,2,20
+Language proposed for inscriptions before breakthrough,uncertain,0,20
+Usable known linguistic comparator at stage,yes,18,20
+Usable known linguistic comparator at stage,partial,0,20
+Usable known linguistic comparator at stage,no,2,20
+Usable known linguistic comparator at stage,uncertain,0,20
 Broad script type before mapping,yes,7,20
 Broad script type before mapping,partial,11,20
 Broad script type before mapping,no,2,20

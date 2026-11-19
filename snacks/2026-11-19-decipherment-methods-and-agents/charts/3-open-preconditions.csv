@@ -1,121 +1,105 @@
-case,group,condition,state,source_ids,heading
-Linear A,open,Bilingual / partial parallel,no,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory,Parallel
-Linear A,open,Prior target identity / continuity,no,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory,Prior identity
-Linear A,open,Usable known linguistic comparator,no,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory,Comparator
-Linear A,open,Broad script type before mapping,yes,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory,Script type
-Linear A,open,Proper names as entry point,partial,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory,Names
-Cretan hieroglyphs,open,Bilingual / partial parallel,no,mnamon-cretan-hieroglyphic;aegean-review-2024,Parallel
-Cretan hieroglyphs,open,Prior target identity / continuity,no,mnamon-cretan-hieroglyphic;aegean-review-2024,Prior identity
-Cretan hieroglyphs,open,Usable known linguistic comparator,no,mnamon-cretan-hieroglyphic;aegean-review-2024,Comparator
-Cretan hieroglyphs,open,Broad script type before mapping,partial,mnamon-cretan-hieroglyphic;aegean-review-2024,Script type
-Cretan hieroglyphs,open,Proper names as entry point,partial,mnamon-cretan-hieroglyphic;aegean-review-2024,Names
-Phaistos disc,open,Bilingual / partial parallel,no,mnamon-phaistos-disc;aegean-review-2024,Parallel
-Phaistos disc,open,Prior target identity / continuity,no,mnamon-phaistos-disc;aegean-review-2024,Prior identity
-Phaistos disc,open,Usable known linguistic comparator,no,mnamon-phaistos-disc;aegean-review-2024,Comparator
-Phaistos disc,open,Broad script type before mapping,partial,mnamon-phaistos-disc;aegean-review-2024,Script type
-Phaistos disc,open,Proper names as entry point,uncertain,mnamon-phaistos-disc;aegean-review-2024,Names
-Cypro-Minoan,open,Bilingual / partial parallel,no,mnamon-cypro-minoan;aegean-review-2024;corazza-2022,Parallel
-Cypro-Minoan,open,Prior target identity / continuity,no,mnamon-cypro-minoan;aegean-review-2024;corazza-2022,Prior identity
-Cypro-Minoan,open,Usable known linguistic comparator,no,mnamon-cypro-minoan;aegean-review-2024;corazza-2022,Comparator
-Cypro-Minoan,open,Broad script type before mapping,partial,mnamon-cypro-minoan;aegean-review-2024;corazza-2022,Script type
-Cypro-Minoan,open,Proper names as entry point,uncertain,mnamon-cypro-minoan;aegean-review-2024;corazza-2022,Names
-Indus signs,open,Bilingual / partial parallel,no,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014,Parallel
-Indus signs,open,Prior target identity / continuity,no,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014,Prior identity
-Indus signs,open,Usable known linguistic comparator,partial,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014,Comparator
-Indus signs,open,Broad script type before mapping,partial,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014,Script type
-Indus signs,open,Proper names as entry point,uncertain,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014,Names
-Proto-Elamite,open,Bilingual / partial parallel,no,born-2019;born-thesis;born-2022;born-2025;kelley-2022,Parallel
-Proto-Elamite,open,Prior target identity / continuity,no,born-2019;born-thesis;born-2022;born-2025;kelley-2022,Prior identity
-Proto-Elamite,open,Usable known linguistic comparator,no,born-2019;born-thesis;born-2022;born-2025;kelley-2022,Comparator
-Proto-Elamite,open,Broad script type before mapping,partial,born-2019;born-thesis;born-2022;born-2025;kelley-2022,Script type
-Proto-Elamite,open,Proper names as entry point,partial,born-2019;born-thesis;born-2022;born-2025;kelley-2022,Names
-Rongorongo,open,Bilingual / partial parallel,no,rongorongo-2024;rongorongo-corpus,Parallel
-Rongorongo,open,Prior target identity / continuity,no,rongorongo-2024;rongorongo-corpus,Prior identity
-Rongorongo,open,Usable known linguistic comparator,yes,rongorongo-2024;rongorongo-corpus,Comparator
-Rongorongo,open,Broad script type before mapping,partial,rongorongo-2024;rongorongo-corpus,Script type
-Rongorongo,open,Proper names as entry point,uncertain,rongorongo-2024;rongorongo-corpus,Names
-Byblos pseudo-hieroglyphic / syllabary,open,Bilingual / partial parallel,no,mnamon-byblos-(pseudo-hieroglyphic),Parallel
-Byblos pseudo-hieroglyphic / syllabary,open,Prior target identity / continuity,no,mnamon-byblos-(pseudo-hieroglyphic),Prior identity
-Byblos pseudo-hieroglyphic / syllabary,open,Usable known linguistic comparator,partial,mnamon-byblos-(pseudo-hieroglyphic),Comparator
-Byblos pseudo-hieroglyphic / syllabary,open,Broad script type before mapping,partial,mnamon-byblos-(pseudo-hieroglyphic),Script type
-Byblos pseudo-hieroglyphic / syllabary,open,Proper names as entry point,uncertain,mnamon-byblos-(pseudo-hieroglyphic),Names
-Isthmian / Epi-Olmec,open,Bilingual / partial parallel,no,epi-olmec-claim;epi-olmec-review,Parallel
-Isthmian / Epi-Olmec,open,Prior target identity / continuity,no,epi-olmec-claim;epi-olmec-review,Prior identity
-Isthmian / Epi-Olmec,open,Usable known linguistic comparator,partial,epi-olmec-claim;epi-olmec-review,Comparator
-Isthmian / Epi-Olmec,open,Broad script type before mapping,partial,epi-olmec-claim;epi-olmec-review,Script type
-Isthmian / Epi-Olmec,open,Proper names as entry point,partial,epi-olmec-claim;epi-olmec-review,Names
-Ancient Zapotec writing,open,Bilingual / partial parallel,no,zapotec-urcid,Parallel
-Ancient Zapotec writing,open,Prior target identity / continuity,no,zapotec-urcid,Prior identity
-Ancient Zapotec writing,open,Usable known linguistic comparator,yes,zapotec-urcid,Comparator
-Ancient Zapotec writing,open,Broad script type before mapping,yes,zapotec-urcid,Script type
-Ancient Zapotec writing,open,Proper names as entry point,yes,zapotec-urcid,Names
-Khitan small script,open,Bilingual / partial parallel,partial,khitan-2016;khitan-encoding;khitan-west,Parallel
-Khitan small script,open,Prior target identity / continuity,no,khitan-2016;khitan-encoding;khitan-west,Prior identity
-Khitan small script,open,Usable known linguistic comparator,partial,khitan-2016;khitan-encoding;khitan-west,Comparator
-Khitan small script,open,Broad script type before mapping,yes,khitan-2016;khitan-encoding;khitan-west,Script type
-Khitan small script,open,Proper names as entry point,yes,khitan-2016;khitan-encoding;khitan-west,Names
-Khitan large script,open,Bilingual / partial parallel,partial,khitan-geography;khitan-west;khitan-encoding,Parallel
-Khitan large script,open,Prior target identity / continuity,no,khitan-geography;khitan-west;khitan-encoding,Prior identity
-Khitan large script,open,Usable known linguistic comparator,partial,khitan-geography;khitan-west;khitan-encoding,Comparator
-Khitan large script,open,Broad script type before mapping,yes,khitan-geography;khitan-west;khitan-encoding,Script type
-Khitan large script,open,Proper names as entry point,yes,khitan-geography;khitan-west;khitan-encoding,Names
-Meroitic language,open,Bilingual / partial parallel,partial,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs,Parallel
-Meroitic language,open,Prior target identity / continuity,no,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs,Prior identity
-Meroitic language,open,Usable known linguistic comparator,partial,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs,Comparator
-Meroitic language,open,Broad script type before mapping,yes,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs,Script type
-Meroitic language,open,Proper names as entry point,yes,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs,Names
-Etruscan language,open,Bilingual / partial parallel,partial,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met,Parallel
-Etruscan language,open,Prior target identity / continuity,no,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met,Prior identity
-Etruscan language,open,Usable known linguistic comparator,partial,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met,Comparator
-Etruscan language,open,Broad script type before mapping,yes,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met,Script type
-Etruscan language,open,Proper names as entry point,yes,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met,Names
-Voynich manuscript,open,Bilingual / partial parallel,no,voynich-bowern;voynich-yale-2025,Parallel
-Voynich manuscript,open,Prior target identity / continuity,no,voynich-bowern;voynich-yale-2025,Prior identity
-Voynich manuscript,open,Usable known linguistic comparator,no,voynich-bowern;voynich-yale-2025,Comparator
-Voynich manuscript,open,Broad script type before mapping,uncertain,voynich-bowern;voynich-yale-2025,Script type
-Voynich manuscript,open,Proper names as entry point,uncertain,voynich-bowern;voynich-yale-2025,Names
-Vinča symbols,open,Bilingual / partial parallel,no,vinca-sproat,Parallel
-Vinča symbols,open,Prior target identity / continuity,no,vinca-sproat,Prior identity
-Vinča symbols,open,Usable known linguistic comparator,no,vinca-sproat,Comparator
-Vinča symbols,open,Broad script type before mapping,no,vinca-sproat,Script type
-Vinča symbols,open,Proper names as entry point,uncertain,vinca-sproat,Names
-Proto-Sinaitic gaps,open,Bilingual / partial parallel,partial,mnamon-proto-sinaitic,Parallel
-Proto-Sinaitic gaps,open,Prior target identity / continuity,no,mnamon-proto-sinaitic,Prior identity
-Proto-Sinaitic gaps,open,Usable known linguistic comparator,yes,mnamon-proto-sinaitic,Comparator
-Proto-Sinaitic gaps,open,Broad script type before mapping,yes,mnamon-proto-sinaitic,Script type
-Proto-Sinaitic gaps,open,Proper names as entry point,yes,mnamon-proto-sinaitic,Names
-Olmec / Cascajal block,open,Bilingual / partial parallel,no,cascajal-mesoweb,Parallel
-Olmec / Cascajal block,open,Prior target identity / continuity,no,cascajal-mesoweb,Prior identity
-Olmec / Cascajal block,open,Usable known linguistic comparator,no,cascajal-mesoweb,Comparator
-Olmec / Cascajal block,open,Broad script type before mapping,partial,cascajal-mesoweb,Script type
-Olmec / Cascajal block,open,Proper names as entry point,uncertain,cascajal-mesoweb,Names
-Singapore Stone,open,Bilingual / partial parallel,no,singapore-2023;singapore-museum,Parallel
-Singapore Stone,open,Prior target identity / continuity,no,singapore-2023;singapore-museum,Prior identity
-Singapore Stone,open,Usable known linguistic comparator,partial,singapore-2023;singapore-museum,Comparator
-Singapore Stone,open,Broad script type before mapping,partial,singapore-2023;singapore-museum,Script type
-Singapore Stone,open,Proper names as entry point,uncertain,singapore-2023;singapore-museum,Names
-Jurchen,open,Bilingual / partial parallel,yes,jurchen-2024;jurchen-west,Parallel
-Jurchen,open,Prior target identity / continuity,partial,jurchen-2024;jurchen-west,Prior identity
-Jurchen,open,Usable known linguistic comparator,yes,jurchen-2024;jurchen-west,Comparator
-Jurchen,open,Broad script type before mapping,yes,jurchen-2024;jurchen-west,Script type
-Jurchen,open,Proper names as entry point,yes,jurchen-2024;jurchen-west,Names
-Linear Elamite,open,Bilingual / partial parallel,partial,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022,Parallel
-Linear Elamite,open,Prior target identity / continuity,partial,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022,Prior identity
-Linear Elamite,open,Usable known linguistic comparator,partial,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022,Comparator
-Linear Elamite,open,Broad script type before mapping,partial,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022,Script type
-Linear Elamite,open,Proper names as entry point,yes,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022,Names
-Eteocypriot,open,Bilingual / partial parallel,partial,mnamon-cypriot,Parallel
-Eteocypriot,open,Prior target identity / continuity,no,mnamon-cypriot,Prior identity
-Eteocypriot,open,Usable known linguistic comparator,no,mnamon-cypriot,Comparator
-Eteocypriot,open,Broad script type before mapping,yes,mnamon-cypriot,Script type
-Eteocypriot,open,Proper names as entry point,yes,mnamon-cypriot,Names
-Oracle bone Chinese: remaining character gaps,open,Bilingual / partial parallel,partial,guan-2024;obi-2025,Parallel
-Oracle bone Chinese: remaining character gaps,open,Prior target identity / continuity,partial,guan-2024;obi-2025,Prior identity
-Oracle bone Chinese: remaining character gaps,open,Usable known linguistic comparator,yes,guan-2024;obi-2025,Comparator
-Oracle bone Chinese: remaining character gaps,open,Broad script type before mapping,yes,guan-2024;obi-2025,Script type
-Oracle bone Chinese: remaining character gaps,open,Proper names as entry point,yes,guan-2024;obi-2025,Names
-Iberian language,open,Bilingual / partial parallel,partial,luo-tacl-2021,Parallel
-Iberian language,open,Prior target identity / continuity,no,luo-tacl-2021,Prior identity
-Iberian language,open,Usable known linguistic comparator,no,luo-tacl-2021,Comparator
-Iberian language,open,Broad script type before mapping,yes,luo-tacl-2021,Script type
-Iberian language,open,Proper names as entry point,yes,luo-tacl-2021,Names
+case,group,condition,state,selected_stage,source_ids,heading
+Linear A,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory,Parallel/key
+Linear A,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory,Comparator
+Linear A,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory,Script type
+Linear A,open,Proper names as entry point,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory,Names
+Cretan hieroglyphs,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,mnamon-cretan-hieroglyphic;aegean-review-2024,Parallel/key
+Cretan hieroglyphs,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,mnamon-cretan-hieroglyphic;aegean-review-2024,Comparator
+Cretan hieroglyphs,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-cretan-hieroglyphic;aegean-review-2024,Script type
+Cretan hieroglyphs,open,Proper names as entry point,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-cretan-hieroglyphic;aegean-review-2024,Names
+Phaistos disc,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,mnamon-phaistos-disc;aegean-review-2024,Parallel/key
+Phaistos disc,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,mnamon-phaistos-disc;aegean-review-2024,Comparator
+Phaistos disc,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-phaistos-disc;aegean-review-2024,Script type
+Phaistos disc,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,mnamon-phaistos-disc;aegean-review-2024,Names
+Cypro-Minoan,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,mnamon-cypro-minoan;aegean-review-2024;corazza-2022,Parallel/key
+Cypro-Minoan,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,mnamon-cypro-minoan;aegean-review-2024;corazza-2022,Comparator
+Cypro-Minoan,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-cypro-minoan;aegean-review-2024;corazza-2022,Script type
+Cypro-Minoan,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,mnamon-cypro-minoan;aegean-review-2024;corazza-2022,Names
+Indus signs,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014,Parallel/key
+Indus signs,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014,Comparator
+Indus signs,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014,Script type
+Indus signs,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014,Names
+Proto-Elamite,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,born-2019;born-thesis;born-2022;born-2025;kelley-2022,Parallel/key
+Proto-Elamite,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,born-2019;born-thesis;born-2022;born-2025;kelley-2022,Comparator
+Proto-Elamite,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,born-2019;born-thesis;born-2022;born-2025;kelley-2022,Script type
+Proto-Elamite,open,Proper names as entry point,partial,Present evidence in dated sources inspected 2026-11-19,born-2019;born-thesis;born-2022;born-2025;kelley-2022,Names
+Rongorongo,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,rongorongo-2024;rongorongo-corpus,Parallel/key
+Rongorongo,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,rongorongo-2024;rongorongo-corpus,Comparator
+Rongorongo,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,rongorongo-2024;rongorongo-corpus,Script type
+Rongorongo,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,rongorongo-2024;rongorongo-corpus,Names
+Byblos pseudo-hieroglyphic / syllabary,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,mnamon-byblos-(pseudo-hieroglyphic),Parallel/key
+Byblos pseudo-hieroglyphic / syllabary,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-byblos-(pseudo-hieroglyphic),Comparator
+Byblos pseudo-hieroglyphic / syllabary,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-byblos-(pseudo-hieroglyphic),Script type
+Byblos pseudo-hieroglyphic / syllabary,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,mnamon-byblos-(pseudo-hieroglyphic),Names
+Isthmian / Epi-Olmec,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,epi-olmec-claim;epi-olmec-review,Parallel/key
+Isthmian / Epi-Olmec,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,epi-olmec-claim;epi-olmec-review,Comparator
+Isthmian / Epi-Olmec,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,epi-olmec-claim;epi-olmec-review,Script type
+Isthmian / Epi-Olmec,open,Proper names as entry point,partial,Present evidence in dated sources inspected 2026-11-19,epi-olmec-claim;epi-olmec-review,Names
+Ancient Zapotec writing,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,zapotec-urcid,Parallel/key
+Ancient Zapotec writing,open,Usable known linguistic comparator at stage,yes,Present evidence in dated sources inspected 2026-11-19,zapotec-urcid,Comparator
+Ancient Zapotec writing,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,zapotec-urcid,Script type
+Ancient Zapotec writing,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,zapotec-urcid,Names
+Khitan small script,open,Readable parallel or key,yes,Present evidence in dated sources inspected 2026-11-19,khitan-2016;khitan-encoding;khitan-west;khitan-shimunek-2014;khitan-group,Parallel/key
+Khitan small script,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,khitan-2016;khitan-encoding;khitan-west;khitan-shimunek-2014;khitan-group,Comparator
+Khitan small script,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,khitan-2016;khitan-encoding;khitan-west;khitan-shimunek-2014;khitan-group,Script type
+Khitan small script,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,khitan-2016;khitan-encoding;khitan-west;khitan-shimunek-2014;khitan-group,Names
+Khitan large script,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,khitan-geography;khitan-west;khitan-encoding;khitan-zaytsev,Parallel/key
+Khitan large script,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,khitan-geography;khitan-west;khitan-encoding;khitan-zaytsev,Comparator
+Khitan large script,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,khitan-geography;khitan-west;khitan-encoding;khitan-zaytsev,Script type
+Khitan large script,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,khitan-geography;khitan-west;khitan-encoding;khitan-zaytsev,Names
+Meroitic language,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs;meroitic-book,Parallel/key
+Meroitic language,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs;meroitic-book,Comparator
+Meroitic language,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs;meroitic-book,Script type
+Meroitic language,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs;meroitic-book,Names
+Etruscan language,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met,Parallel/key
+Etruscan language,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met,Comparator
+Etruscan language,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met,Script type
+Etruscan language,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met,Names
+Voynich manuscript,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,voynich-bowern;voynich-yale-2025;voynich-catalogue;voynich-description,Parallel/key
+Voynich manuscript,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,voynich-bowern;voynich-yale-2025;voynich-catalogue;voynich-description,Comparator
+Voynich manuscript,open,Broad script type before mapping,uncertain,Present evidence in dated sources inspected 2026-11-19,voynich-bowern;voynich-yale-2025;voynich-catalogue;voynich-description,Script type
+Voynich manuscript,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,voynich-bowern;voynich-yale-2025;voynich-catalogue;voynich-description,Names
+Vinča symbols,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,vinca-sproat,Parallel/key
+Vinča symbols,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,vinca-sproat,Comparator
+Vinča symbols,open,Broad script type before mapping,no,Present evidence in dated sources inspected 2026-11-19,vinca-sproat,Script type
+Vinča symbols,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,vinca-sproat,Names
+Proto-Sinaitic gaps,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-proto-sinaitic,Parallel/key
+Proto-Sinaitic gaps,open,Usable known linguistic comparator at stage,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-proto-sinaitic,Comparator
+Proto-Sinaitic gaps,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-proto-sinaitic,Script type
+Proto-Sinaitic gaps,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-proto-sinaitic,Names
+Olmec / Cascajal block,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,cascajal-mesoweb,Parallel/key
+Olmec / Cascajal block,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,cascajal-mesoweb,Comparator
+Olmec / Cascajal block,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,cascajal-mesoweb,Script type
+Olmec / Cascajal block,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,cascajal-mesoweb,Names
+Singapore Stone,open,Readable parallel or key,no,Present evidence in dated sources inspected 2026-11-19,singapore-2023;singapore-museum,Parallel/key
+Singapore Stone,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,singapore-2023;singapore-museum,Comparator
+Singapore Stone,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,singapore-2023;singapore-museum,Script type
+Singapore Stone,open,Proper names as entry point,uncertain,Present evidence in dated sources inspected 2026-11-19,singapore-2023;singapore-museum,Names
+Jurchen,open,Readable parallel or key,yes,Present evidence in dated sources inspected 2026-11-19,jurchen-2024;jurchen-west,Parallel/key
+Jurchen,open,Usable known linguistic comparator at stage,yes,Present evidence in dated sources inspected 2026-11-19,jurchen-2024;jurchen-west,Comparator
+Jurchen,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,jurchen-2024;jurchen-west,Script type
+Jurchen,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,jurchen-2024;jurchen-west,Names
+Linear Elamite,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022,Parallel/key
+Linear Elamite,open,Usable known linguistic comparator at stage,partial,Present evidence in dated sources inspected 2026-11-19,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022,Comparator
+Linear Elamite,open,Broad script type before mapping,partial,Present evidence in dated sources inspected 2026-11-19,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022,Script type
+Linear Elamite,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022,Names
+Eteocypriot,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,mnamon-cypriot,Parallel/key
+Eteocypriot,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,mnamon-cypriot,Comparator
+Eteocypriot,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-cypriot,Script type
+Eteocypriot,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,mnamon-cypriot,Names
+Oracle bone Chinese: remaining character gaps,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,guan-2024;obi-2025,Parallel/key
+Oracle bone Chinese: remaining character gaps,open,Usable known linguistic comparator at stage,yes,Present evidence in dated sources inspected 2026-11-19,guan-2024;obi-2025,Comparator
+Oracle bone Chinese: remaining character gaps,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,guan-2024;obi-2025,Script type
+Oracle bone Chinese: remaining character gaps,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,guan-2024;obi-2025,Names
+Iberian language,open,Readable parallel or key,partial,Present evidence in dated sources inspected 2026-11-19,luo-tacl-2021;mnamon-iberian,Parallel/key
+Iberian language,open,Usable known linguistic comparator at stage,no,Present evidence in dated sources inspected 2026-11-19,luo-tacl-2021;mnamon-iberian,Comparator
+Iberian language,open,Broad script type before mapping,yes,Present evidence in dated sources inspected 2026-11-19,luo-tacl-2021;mnamon-iberian,Script type
+Iberian language,open,Proper names as entry point,yes,Present evidence in dated sources inspected 2026-11-19,luo-tacl-2021;mnamon-iberian,Names
+Issyk-Kushan,open,Readable parallel or key,yes,Present evidence in publications inspected 2026-11-19,kushan-2023;kushan-2026,Parallel/key
+Issyk-Kushan,open,Usable known linguistic comparator at stage,yes,Present evidence in publications inspected 2026-11-19,kushan-2023;kushan-2026,Comparator
+Issyk-Kushan,open,Broad script type before mapping,partial,Present evidence in publications inspected 2026-11-19,kushan-2023;kushan-2026,Script type
+Issyk-Kushan,open,Proper names as entry point,yes,Present evidence in publications inspected 2026-11-19,kushan-2023;kushan-2026,Names
+Khipu (comparison),open,Readable parallel or key,partial,Present evidence in publications inspected 2026-11-19,khipu-2018;open-khipu,Parallel/key
+Khipu (comparison),open,Usable known linguistic comparator at stage,partial,Present evidence in publications inspected 2026-11-19,khipu-2018;open-khipu,Comparator
+Khipu (comparison),open,Broad script type before mapping,partial,Present evidence in publications inspected 2026-11-19,khipu-2018;open-khipu,Script type
+Khipu (comparison),open,Proper names as entry point,uncertain,Present evidence in publications inspected 2026-11-19,khipu-2018;open-khipu,Names

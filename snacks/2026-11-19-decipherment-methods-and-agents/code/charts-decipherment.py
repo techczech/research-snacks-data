@@ -12,13 +12,13 @@ def read(name):return list(csv.DictReader((P/name).open()))
 def save(stem,rows,spec):
  with (C/(stem+'.csv')).open('w',newline='') as f:
   w=csv.DictWriter(f,fieldnames=list(rows[0]),lineterminator="\n");w.writeheader();w.writerows(rows)
- spec={'$schema':'https://vega.github.io/schema/vega-lite/v5.json','background':'#fffdf8','width':'container','config':{'font':'Arial','axis':{'labelFontSize':12,'titleFontSize':13,'gridColor':'#e2dfd5'},'title':{'fontSize':18,'anchor':'start','subtitleFontSize':12,'subtitleColor':'#4c5556'},'view':{'stroke':None},'legend':{'orient':'bottom','labelFontSize':12}},'data':{'url':'charts/'+stem+'.csv'},**spec}
+ spec={'$schema':'https://vega.github.io/schema/vega-lite/v5.json','background':'#fffdf8','width':480,'config':{'font':'Arial','axis':{'labelFontSize':16,'titleFontSize':16,'gridColor':'#e2dfd5'},'title':{'fontSize':18,'anchor':'start','subtitleFontSize':16,'subtitleColor':'#4c5556'},'view':{'stroke':None},'legend':{'orient':'bottom','labelFontSize':16,'titleFontSize':16,'labelLimit':650}},'data':{'url':'charts/'+stem+'.csv'},**spec}
  colorfield=spec.get('encoding',{}).get('color',{}).get('field')
- if colorfield in ['state','cohort']:
+ if colorfield in ['state','task_group']:
   spec['params']=[{'name':'state_pick','select':{'type':'point','fields':[colorfield]},'bind':'legend'}]
   spec['encoding']['opacity']={'condition':{'param':'state_pick','value':1},'value':0.2}
  (C/(stem+'.vl.json')).write_text(json.dumps(spec,ensure_ascii=False,indent=2)+'\n')
- png=copy.deepcopy(spec);png['width']=720;png['data']={'values':rows}
+ png=copy.deepcopy(spec);png['width']=480;png['data']={'values':rows}
  (C/(stem+'.png')).write_bytes(vlc.vegalite_to_png(png,scale=2))
 rows=read('1-timeline.csv')
 for r in rows:r['year']=int(r['year'])
@@ -27,16 +27,15 @@ rows=[]
 for r in read('2-preconditions-counts.csv'):
  for state in ['yes','partial','no','uncertain']:rows.append({'condition':r['condition'],'state':state,'count':int(r[state]),'denominator':int(r['total'])})
 colors={'domain':['yes','partial','no','uncertain'],'range':['#23656c','#c79b36','#e3dfd4','#859398']}
-save('2-shared-preconditions',rows,{'title':{'text':'Different routes supplied different constraints','subtitle':'20 selected historical recoveries; judgement codes, not a representative statistical sample'},'height':240,'mark':{'type':'bar','height':26},'encoding':{'x':{'field':'count','type':'quantitative','stack':'zero','axis':{'title':'Cases','tickMinStep':1}},'y':{'field':'condition','type':'nominal','sort':None,'axis':{'title':None,'labelLimit':260}},'color':{'field':'state','type':'nominal','scale':colors,'title':'Evidence code'},'order':{'field':'state','sort':'ascending'},'tooltip':[{'field':'condition'},{'field':'state'},{'field':'count','type':'quantitative'},{'field':'denominator','type':'quantitative'}]}})
+save('2-shared-preconditions',rows,{'title':{'text':'What the decipherers had to work with','subtitle':'Provisional coding by one compiler; selected dependent stages'},'height':340,'mark':{'type':'bar','height':26},'encoding':{'x':{'field':'count','type':'quantitative','stack':'zero','axis':{'title':'Cases','tickMinStep':1}},'y':{'field':'condition','type':'nominal','sort':None,'axis':{'title':None,'labelLimit':260}},'color':{'field':'state','type':'nominal','scale':colors,'title':'Evidence code'},'order':{'field':'state','sort':'ascending'},'tooltip':[{'field':'condition'},{'field':'state'},{'field':'count','type':'quantitative'},{'field':'denominator','type':'quantitative'}]}})
 rows=[r for r in read('3-preconditions-matrix.csv') if r['group']=='open']
-# Short display headings retain an exact meaning in the CSV and tooltip.
-short={'Bilingual / partial parallel':'Parallel','Prior target identity / continuity':'Prior identity','Usable known linguistic comparator':'Comparator','Broad script type before mapping':'Script type','Proper names as entry point':'Names'}
+# Authored column labels; no semantic inference from source text.
+short={'Readable parallel or key':'Parallel/key','Language or close relative documented at stage':'Documented','Language proposed for inscriptions before breakthrough':'Proposed','Usable known linguistic comparator at stage':'Comparator','Broad script type before mapping':'Script type','Proper names as entry point':'Names'}
 for r in rows:r['heading']=short[r['condition']]
-save('3-open-preconditions',rows,{'title':{'text':'The remaining gaps differ by case','subtitle':f'Present evidence for {len(rows)//5} open/partial or readable-with-gaps cases; access and coding limits in the CSVs'},'height':720,'mark':{'type':'rect','stroke':'#fffdf8','strokeWidth':2},'encoding':{'x':{'field':'heading','type':'ordinal','sort':list(short.values()),'axis':{'title':None,'labelAngle':0,'labelFontSize':11}},'y':{'field':'case','type':'ordinal','sort':None,'axis':{'title':None,'labelLimit':235}},'color':{'field':'state','type':'nominal','scale':colors,'title':'Evidence code'},'tooltip':[{'field':'case'},{'field':'condition'},{'field':'state'},{'field':'source_ids'}]}})
-rows=read('4-agent-ranking.csv')
-for r in rows:
- for key in ['total','corpus','digital','language','anchors','tests','verification','language_double_total']:r[key]=int(r[key])
-cohort_label={'undeciphered_or_partial':'Undeciphered / partly mapped','readable_with_gaps':'Readable, remaining gaps','excluded_nonwriting':'Excluded non-writing comparator'}
-for r in rows:r['cohort']=cohort_label[r['priority_group']]
-save('4-agent-priorities',rows,{'title':{'text':'Agent priorities: rank within each task group','subtitle':'Ordinal judgement /18; groups have different tasks. Equal totals are tied; Vinča is unranked.'},'height':730,'mark':{'type':'bar','height':17},'encoding':{'x':{'field':'total','type':'quantitative','scale':{'domain':[0,18]},'axis':{'title':'Six criteria, each scored 0–3','tickMinStep':1}},'y':{'field':'case','type':'nominal','sort':[r['case'] for r in rows],'axis':{'title':None,'labelLimit':235}},'color':{'field':'cohort','type':'nominal','scale':{'domain':list(cohort_label.values()),'range':['#23656c','#a47724','#859398']},'title':'Task group'},'tooltip':[{'field':'case'},{'field':'cohort'},{'field':'rank'},{'field':'total','type':'quantitative'},{'field':'language_double_rank'},{'field':'status'},{'field':'agent_loop'}]}})
+save('3-open-preconditions',rows,{'title':{'text':'Different gaps remain','subtitle':'Present resources in open/partial and comparison cases'},'height':900,'mark':{'type':'rect','stroke':'#fffdf8','strokeWidth':2},'encoding':{'x':{'field':'heading','type':'ordinal','sort':list(short.values()),'axis':{'title':None,'labelAngle':-35,'labelFontSize':16}},'y':{'field':'case','type':'ordinal','sort':None,'axis':{'title':None,'labelLimit':220}},'color':{'field':'state','type':'nominal','scale':colors,'title':'Evidence code'},'tooltip':[{'field':'case'},{'field':'condition'},{'field':'state'},{'field':'source_ids'}]}})
+rows=[r for r in read('8-task-groups.csv') if r['group_id']!='excluded']
+groups=['Structure without language','Partly read, with a language to test against','Audit of a published proposal','Script readable, language not understood','Language known, individual signs unread','Limited by evidence']
+rows=sorted(rows,key=lambda r:(groups.index(r['task_group']),r['case']))
+# A categorical matrix replaces the score bars; neither axis is a numerical priority.
+save('4-agent-priorities',rows,{'title':{'text':'Different tasks need different checks','subtitle':'Unordered within each group; no estimate of decipherment prospects'},'height':1000,'mark':{'type':'point','filled':True,'size':130},'encoding':{'x':{'field':'task_group','type':'nominal','sort':groups,'axis':None},'y':{'field':'case','type':'nominal','sort':[r['case'] for r in rows],'axis':{'title':None,'labelLimit':250}},'color':{'field':'task_group','type':'nominal','scale':{'domain':groups,'range':['#23656c','#b47a1c','#3b78a0','#738c36','#a34c32','#68777b']},'title':'Kind of task','legend':{'columns':1,'labelLimit':650}},'tooltip':[{'field':'case'},{'field':'task_group'},{'field':'checkable_result'},{'field':'obstacle'}]}})
 print('Rendered four charts; every PNG has its exact plotted CSV and Vega-Lite spec.')
