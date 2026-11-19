@@ -27,6 +27,7 @@ The checker rebuilds all snacks in temporary folders and diffs every final CSV a
 | [Can a cake be sickly?](snacks/2026-11-17-can-a-cake-be-sickly/) | Construction counts, corpus rates, association scores and counts of curated examples. |
 | [AI wealth control by 2035](snacks/2026-11-17-ai-wealth-control-2035/) | Historical comparison and payment tables, plus the stock-comparison boundary checks. |
 | [AI spending and historical booms](snacks/2026-11-19-ai-capex-historical-booms/) | Spending as a share of GDP, cumulative boom spending, revenue against capital in service, and the growth paths behind the charts. |
+| [Canals and nuclear power as investment booms](snacks/2026-11-19-canals-nuclear-investment-booms/) | Canal and civil nuclear spending as a share of GDP, canal receipts and returns, nuclear utilisation and cancellations. |
 | [Hawks and doves](snacks/2026-11-19-hawks-and-doves/) | Counts of elaborations of the political hawk and dove metaphor by source and decade, from saved annotations. |
 | [Literally](snacks/2026-11-19-literally-pet-peeve-redo/) | Claim audit counts, Ngram series and the reading and function counts from annotated contexts. |
 | [Metaphor use pilot](snacks/2026-11-19-metaphor-use-pilot/) | Agreement tables between two annotation passes over six texts, from frozen annotation records. |
