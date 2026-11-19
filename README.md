@@ -16,7 +16,7 @@ cd research-snacks-data && uv sync --locked
 uv run check.py
 ```
 
-The checker rebuilds all four snacks in temporary folders and diffs every final CSV against `expected/`. A difference gives a non-zero exit and a readable diff. The folders are removed on success and failure. To check one snack, pass its full folder name: `uv run check.py 2026-11-16-one-in-270-jobs`.
+The checker rebuilds all snacks in temporary folders and diffs every final CSV against `expected/`. A difference gives a non-zero exit and a readable diff. The folders are removed on success and failure. To check one snack, pass its full folder name: `uv run check.py 2026-11-16-one-in-270-jobs`.
 
 | Snack | What the default check rebuilds |
 |---|---|
@@ -24,6 +24,7 @@ The checker rebuilds all four snacks in temporary folders and diffs every final 
 | [Pace of change](snacks/2026-11-17-pace-of-change-1900-2026/) | Dissimilarity, robustness, social indicators, college shares and Ngram take-off years. |
 | [Can a cake be sickly?](snacks/2026-11-17-can-a-cake-be-sickly/) | Construction counts, corpus rates, association scores and counts of curated examples. |
 | [AI wealth control by 2035](snacks/2026-11-17-ai-wealth-control-2035/) | Historical comparison and payment tables, plus the stock-comparison boundary checks. |
+| [AI spending and historical booms](snacks/2026-11-19-ai-capex-historical-booms/) | Annual spending/GDP, revenue/capex, stage-three diagnostics and chart indices from selected source facts. |
 
 The default run needs no API key and makes no source-data requests. IPUMS microdata cannot be included. Each census snack explains how to request it with your own free account and `IPUMS_API_KEY`, then rerun the original aggregation. Corpus text is withheld; query options, positions and saved annotations let a licensed reader inspect the evidence. Recounting saved annotations does not validate their linguistic judgements. Rebuilding a chart does not independently verify a transcribed source value or a forecast.
 

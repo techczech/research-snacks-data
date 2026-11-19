@@ -1,0 +1,18 @@
+case,year,boom_start,annual_revenue_m,annual_capex_m,cumulative_financed_capital_m,unit,scope,source
+UK railways,1844,1844,5,5,77.5,GBP million,Whole existing railway network; revenue is gross traffic receipts,https://www-users.cse.umn.edu/~odlyzko/doc/hallucinations.pdf
+UK railways,1845,1844,6.1,13.1,88.5,GBP million,Whole existing railway network; revenue is gross traffic receipts,https://www-users.cse.umn.edu/~odlyzko/doc/hallucinations.pdf
+UK railways,1846,1844,7.5,30,126.3,GBP million,Whole existing railway network; revenue is gross traffic receipts,https://www-users.cse.umn.edu/~odlyzko/doc/hallucinations.pdf
+UK railways,1847,1844,8.4,43.9,167.3,GBP million,Whole existing railway network; revenue is gross traffic receipts,https://www-users.cse.umn.edu/~odlyzko/doc/hallucinations.pdf
+UK railways,1848,1844,9.8,33.1,204.4,GBP million,Whole existing railway network; revenue is gross traffic receipts,https://www-users.cse.umn.edu/~odlyzko/doc/hallucinations.pdf
+UK railways,1849,1844,11.4,24.8,234.4,GBP million,Whole existing railway network; revenue is gross traffic receipts,https://www-users.cse.umn.edu/~odlyzko/doc/hallucinations.pdf
+UK railways,1850,1844,12.7,13.1,245.8,GBP million,Whole existing railway network; revenue is gross traffic receipts,https://www-users.cse.umn.edu/~odlyzko/doc/hallucinations.pdf
+US railways,1880,1879,613.734,288.0,5402.038,USD million,Poor gross traffic receipts; financed book cost proxy; Ulmer annual capex,https://fraser.stlouisfed.org/files/docs/publications/stat_abstract/sa_1888.pdf
+US railways,1881,1879,701.781,450.0,6278.565,USD million,Poor gross traffic receipts; financed book cost proxy; Ulmer annual capex,https://fraser.stlouisfed.org/files/docs/publications/stat_abstract/sa_1888.pdf
+US railways,1882,1879,770.21,407.0,7016.75,USD million,Poor gross traffic receipts; financed book cost proxy; Ulmer annual capex,https://fraser.stlouisfed.org/files/docs/publications/stat_abstract/sa_1888.pdf
+US telecom,1997,1996,188529,65000,,USD million,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match,https://docs.fcc.gov/public/attachments/DOC-269251A1.pdf
+US telecom,1998,1996,200510,72000,,USD million,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match,https://docs.fcc.gov/public/attachments/DOC-269251A1.pdf
+US telecom,1999,1996,215763,92000,,USD million,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match,https://docs.fcc.gov/public/attachments/DOC-269251A1.pdf
+US telecom,2000,1996,229149,118000,,USD million,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match,https://docs.fcc.gov/public/attachments/DOC-269251A1.pdf
+US telecom,2001,1996,235513,111000,,USD million,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match,https://docs.fcc.gov/public/attachments/DOC-269251A1.pdf
+US telecom,2002,1996,232434,72000,,USD million,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match,https://docs.fcc.gov/public/attachments/DOC-269251A1.pdf
+US telecom,2003,1996,230711,57000,,USD million,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match,https://docs.fcc.gov/public/attachments/DOC-269251A1.pdf

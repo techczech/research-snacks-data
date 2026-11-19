@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-19-ai-capex-historical-booms",
+  "prepared": "2026-11-19",
+  "source_note": "Selected attributed facts; see DATA-SOURCES.md and METHOD.md",
+  "files": {
+    "data/ai-revenue-inputs.json": "980e7d5b0d6e1ac822f4531cdee871e2",
+    "data/revenue-inputs.csv": "a1b3674b277cb6218566d1477dce693c",
+    "data/spending-inputs.csv": "02d03ce7167e7e95f2b44691d0cdb40a",
+    "data/uk-gdp-inputs.csv": "088570e9c26b79d1f9dd160f45706442",
+    "code/charts-ai-capex.py": "009ee187fc22f84e9ac7cf56b54d0511",
+    "code/reproduce.py": "78281f190a57ddf4c7cd75de693924c6",
+    "expected/1-spending-gdp.csv": "60b2ef2aeeebc62ba376d72971c6c4df",
+    "expected/2-revenue-and-capex.csv": "7546491be2048061bff410ec81574abc",
+    "expected/ai-diagnostics.csv": "36c1a0476a024e1cb61744f086bf9409",
+    "expected/ai-metrics.csv": "48c7d8615dc4981354dd7d038f153aeb",
+    "expected/revenue-ratios.csv": "36e1aa67605492da53ca9e0c61afcea5",
+    "expected/stage-three-comparison.csv": "4fb791791747f1e77e6eb483a4352ad4",
+    "expected/uk-gdp-sensitivity.csv": "c308f6f754002b1751c00a095638589f"
+  }
+}

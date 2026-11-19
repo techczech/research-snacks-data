@@ -1,0 +1,18 @@
+precedent,year,years_since_boom_start,revenue_m,annual_capex_m,revenue_to_annual_capex,revenue_to_cumulative_capital_pct,scope
+UK railways,1844,0,5.0,5.0,1.0,6.4516,Whole existing railway network; revenue is gross traffic receipts
+UK railways,1845,1,6.1,13.1,0.4656,6.8927,Whole existing railway network; revenue is gross traffic receipts
+UK railways,1846,2,7.5,30.0,0.25,5.9382,Whole existing railway network; revenue is gross traffic receipts
+UK railways,1847,3,8.4,43.9,0.1913,5.0209,Whole existing railway network; revenue is gross traffic receipts
+UK railways,1848,4,9.8,33.1,0.2961,4.7945,Whole existing railway network; revenue is gross traffic receipts
+UK railways,1849,5,11.4,24.8,0.4597,4.8635,Whole existing railway network; revenue is gross traffic receipts
+UK railways,1850,6,12.7,13.1,0.9695,5.1668,Whole existing railway network; revenue is gross traffic receipts
+US railways,1880,1,613.734,288.0,2.131,11.3612,Poor gross traffic receipts; financed book cost proxy; Ulmer annual capex
+US railways,1881,2,701.781,450.0,1.5595,11.1774,Poor gross traffic receipts; financed book cost proxy; Ulmer annual capex
+US railways,1882,3,770.21,407.0,1.8924,10.9767,Poor gross traffic receipts; financed book cost proxy; Ulmer annual capex
+US telecom,1997,1,188529.0,65000.0,2.9004,,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match
+US telecom,1998,2,200510.0,72000.0,2.7849,,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match
+US telecom,1999,3,215763.0,92000.0,2.3453,,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match
+US telecom,2000,4,229149.0,118000.0,1.9419,,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match
+US telecom,2001,5,235513.0,111000.0,2.1217,,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match
+US telecom,2002,6,232434.0,72000.0,3.2283,,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match
+US telecom,2003,7,230711.0,57000.0,4.0476,,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match

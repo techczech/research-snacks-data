@@ -1,0 +1,17 @@
+{
+  "october_2026_run_rate_usd_bn": 345,
+  "ttm_to_october_2026_revenue_usd_bn": 188,
+  "run_rate_yoy_multiple": 4.2,
+  "q3_2026_estimated_ai_capex_usd_bn": 176,
+  "q3_2025_estimated_ai_capex_usd_bn": 79,
+  "article_q3_2026_five_company_capex_usd_bn": 230,
+  "article_q3_2026_capex_yoy_growth_pct": 118,
+  "article_2026_ytd_capex_us_gdp_pct": 2.3,
+  "anthropic_q3_2026_revenue_usd_bn": 17,
+  "anthropic_q3_2026_compute_infrastructure_cost_usd_bn": 9.9,
+  "anthropic_october_2026_run_rate_usd_bn": 81,
+  "source_revenue": "https://www.investmentbrief.ai/p/ai-investment-brief-monday-7",
+  "source_capex": "https://www.investmentbrief.ai/p/ai-investment-brief-monday-6",
+  "source_lab": "https://ipo.anthropic.com/documents/us/factsheet.pdf",
+  "deduplication_status": "Published method and endpoints verified; company-level reconciliation unavailable; not independently reproduced"
+}
