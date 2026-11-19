@@ -8,6 +8,7 @@ authors:
   - family-names: "Lukeš"
     given-names: "Dominik"
     orcid: "https://orcid.org/0000-0002-0832-3387"
+doi: "10.5281/zenodo.24370344"
 repository-code: "https://github.com/techczech/research-snacks-data"
 url: "https://researchsnacks.semanticmachines.fyi"
 license: CC-BY-4.0

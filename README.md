@@ -6,6 +6,8 @@ provenance: Published Research Snacks and their archived analysis inputs
 
 # Check a Research Snack
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24370344.svg)](https://doi.org/10.5281/zenodo.24370344)
+
 This repository holds the shareable inputs, code, methods and expected tables behind [Research Snacks](https://researchsnacks.semanticmachines.fyi). The [website repository](https://github.com/techczech/research-snacks) builds the site. This repository checks the calculations.
 
 Install [Git](https://git-scm.com/) and [uv](https://docs.astral.sh/uv/), then run these three commands:
@@ -37,3 +39,9 @@ Code is MIT. Our text, annotations and derived tables are CC BY 4.0, subject to 
 To cite this checking material: Dominik Lukeš (2026), *Research Snacks: data, code and methods*, this repository, the snack folder and the commit hash you checked. Cite the linked snack page and the original data providers as well. Each census folder includes the required IPUMS citation. There is no DOI yet.
 
 [VALIDATION.md](VALIDATION.md) records the verification and its limits. [provenance.json](provenance.json) identifies the public source version and hashes of the shipped inputs and expected tables.
+
+## Cite
+
+Lukeš, Dominik (2026). *Research Snacks: data, code and methods*. Zenodo. [https://doi.org/10.5281/zenodo.24370344](https://doi.org/10.5281/zenodo.24370344)
+
+That DOI always points to the latest archived release. Each release also has its own DOI, listed on the Zenodo record; cite that one when you need a fixed version.
