@@ -11,7 +11,7 @@ C=R/'charts';C.mkdir(exist_ok=True)
 def read(name):return list(csv.DictReader((P/name).open()))
 def save(stem,rows,spec):
  with (C/(stem+'.csv')).open('w',newline='') as f:
-  w=csv.DictWriter(f,fieldnames=list(rows[0]));w.writeheader();w.writerows(rows)
+  w=csv.DictWriter(f,fieldnames=list(rows[0]),lineterminator="\n");w.writeheader();w.writerows(rows)
  spec={'$schema':'https://vega.github.io/schema/vega-lite/v5.json','background':'#fffdf8','width':'container','config':{'font':'Arial','axis':{'labelFontSize':12,'titleFontSize':13,'gridColor':'#e2dfd5'},'title':{'fontSize':18,'anchor':'start','subtitleFontSize':12,'subtitleColor':'#4c5556'},'view':{'stroke':None},'legend':{'orient':'bottom','labelFontSize':12}},'data':{'url':'charts/'+stem+'.csv'},**spec}
  (C/(stem+'.vl.json')).write_text(json.dumps(spec,ensure_ascii=False,indent=2)+'\n')
  png=copy.deepcopy(spec);png['width']=720;png['data']={'values':rows}

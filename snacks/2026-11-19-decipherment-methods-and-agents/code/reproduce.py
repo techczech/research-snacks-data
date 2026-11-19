@@ -22,7 +22,7 @@ def read(path):
 def write(out,name,rows):
  assert rows,name
  with (out/name).open('w',newline='',encoding='utf-8') as f:
-  w=csv.DictWriter(f,fieldnames=list(rows[0]));w.writeheader();w.writerows(rows)
+  w=csv.DictWriter(f,fieldnames=list(rows[0]),lineterminator="\n");w.writeheader();w.writerows(rows)
 
 def main(out):
  out.mkdir(parents=True,exist_ok=True)
