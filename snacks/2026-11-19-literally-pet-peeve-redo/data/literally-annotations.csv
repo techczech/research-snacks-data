@@ -1,0 +1,181 @@
+sample_id,corpus,token_position,document_id,reading,emphasis,confidence,decision_note,annotator,rules_version,human_validated
+B01,bnc,29454996,A0T,factual,yes,high,Actual large count of tested children.,gpt-6.1-sol,literally-v1,no
+B02,bnc,91665569,CRV,metalinguistic,no,high,Interpreting a poem at face value.,gpt-6.1-sol,literally-v1,no
+B03,bnc,96387112,CA3,uncertain,yes,low,Absolute inability to concentrate may be hyperbole or asserted fact.,gpt-6.1-sol,literally-v1,no
+B04,bnc,1754132,JXT,dual,yes,medium,Conventional waiting idiom and actual counting both available.,gpt-6.1-sol,literally-v1,no
+B05,bnc,2837794,JT2,metalinguistic,no,high,Exact wording of an older text.,gpt-6.1-sol,literally-v1,no
+B06,bnc,85013097,CH6,factual,yes,high,Physical skin loss explicitly corroborated by the narrative.,gpt-6.1-sol,literally-v1,no
+B07,bnc,100059419,C8B,factual,yes,medium,Actual cosmetic colouring of skin.,gpt-6.1-sol,literally-v1,no
+B08,bnc,97251960,CBV,factual,yes,high,Actual location where manufacturing began.,gpt-6.1-sol,literally-v1,no
+B09,bnc,63845362,EW4,uncertain,yes,low,A moving vote may refer to a physical ballot or a figurative allocation; unresolved.,gpt-6.1-sol,literally-v1,no
+B10,bnc,106769864,FUK,factual,yes,medium,Working hours presented as an actual doubled quantity.,gpt-6.1-sol,literally-v1,no
+B11,bnc,23321827,H8V,metalinguistic,no,high,How a theoretical tenet is interpreted.,gpt-6.1-sol,literally-v1,no
+B12,bnc,78543838,KRH,factual,yes,high,Actual atom counting as measurement procedure.,gpt-6.1-sol,literally-v1,no
+B13,bnc,104433994,FEP,factual,yes,high,"Literalness scopes the belief attributed to people, not truth of that belief.",gpt-6.1-sol,literally-v1,no
+B14,bnc,99908197,C8N,metalinguistic,no,high,Explicit explanation that a preceding expression is a figure.,gpt-6.1-sol,literally-v1,no
+B15,bnc,77260683,K93,factual,yes,high,Physical manipulation restricted to one acoustic parameter.,gpt-6.1-sol,literally-v1,no
+B16,bnc,59259762,G02,factual,yes,high,Physical shaking alongside fear and crying.,gpt-6.1-sol,literally-v1,no
+B17,bnc,44088001,ARR,dual,yes,medium,Technical biological account deliberately claims a conventional metaphor as real.,gpt-6.1-sol,literally-v1,no
+B18,bnc,37754027,A8C,dual,yes,high,Sporting comeback and physical confrontation coincide.,gpt-6.1-sol,literally-v1,no
+B19,bnc,25909986,HAC,factual,yes,high,Large number of animation drawings.,gpt-6.1-sol,literally-v1,no
+B20,bnc,6244868,J1C,factual,yes,high,Physical adjacency of gardens.,gpt-6.1-sol,literally-v1,no
+B21,bnc,94734904,CMY,factual,yes,medium,"Actual reconstruction of software functionality, with conventional wording.",gpt-6.1-sol,literally-v1,no
+B22,bnc,43876035,ARW,factual,yes,medium,Actual help preventing academic failure; not a claim of rescue from death.,gpt-6.1-sol,literally-v1,no
+B23,bnc,51165025,B06,factual,yes,high,"Actual death and a stated cause, not imaginary death.",gpt-6.1-sol,literally-v1,no
+B24,bnc,97788620,CBW,metalinguistic,no,high,Statutory interpretation distinguished from legislative intent.,gpt-6.1-sol,literally-v1,no
+B25,bnc,68316942,ECU,metalinguistic,no,high,Translation of a foreign expression.,gpt-6.1-sol,literally-v1,no
+B26,bnc,56270332,GUG,dual,yes,high,Conventional investigation idiom becomes actual dismantling.,gpt-6.1-sol,literally-v1,no
+B27,bnc,5006023,JYE,metalinguistic,no,high,How an instruction was understood.,gpt-6.1-sol,literally-v1,no
+B28,bnc,85319119,CH1,factual,yes,medium,Character enters another character's home in a film.,gpt-6.1-sol,literally-v1,no
+B29,bnc,6848428,HRB,factual,yes,medium,Claim of complete lack of money at a stated time.,gpt-6.1-sol,literally-v1,no
+B30,bnc,39937814,A6L,factual,yes,medium,Actual geographical reach of markets.,gpt-6.1-sol,literally-v1,no
+B31,bnc,1517782,J55,metalinguistic,no,high,Interpretation of a verbal response.,gpt-6.1-sol,literally-v1,no
+B32,bnc,3134756,J7B,metalinguistic,no,high,How a legal test is applied.,gpt-6.1-sol,literally-v1,no
+B33,bnc,93639040,CG3,metalinguistic,no,high,Explicit contrast between metaphor and literal applicability.,gpt-6.1-sol,literally-v1,no
+B34,bnc,103431150,F9Y,factual,yes,high,Actual measurement of camera positions.,gpt-6.1-sol,literally-v1,no
+B35,bnc,3167817,J7Y,metalinguistic,yes,medium,Conceptual possibility itself is the subject; emphatic technical sense.,gpt-6.1-sol,literally-v1,no
+B36,bnc,111776236,FP2,factual,yes,high,Exact percentage contrasted with strong but incomplete support.,gpt-6.1-sol,literally-v1,no
+B37,bnc,108128246,FTW,factual,yes,medium,An actual increase in political commitment is asserted.,gpt-6.1-sol,literally-v1,no
+B38,bnc,6683085,HR9,metalinguistic,no,high,Whether a prophetic statement is meant at face value.,gpt-6.1-sol,literally-v1,no
+B39,bnc,3276882,J7R,metalinguistic,no,high,General contrast between literal and metaphorical interpretation.,gpt-6.1-sol,literally-v1,no
+B40,bnc,35576854,A16,factual,yes,high,Quantity of service firms.,gpt-6.1-sol,literally-v1,no
+B41,bnc,81924664,K4X,factual,yes,high,"Actual jaw dislocation, not a figurative reaction.",gpt-6.1-sol,literally-v1,no
+B42,bnc,103394652,F9Y,metalinguistic,no,medium,Definition of a technical term and its component operation.,gpt-6.1-sol,literally-v1,no
+B43,bnc,72803295,KCX,factual,yes,high,Butter physically runs off toast in the account.,gpt-6.1-sol,literally-v1,no
+B44,bnc,70275419,KDV,factual,yes,high,Actual duration before furnishing a building.,gpt-6.1-sol,literally-v1,no
+B45,bnc,64076250,EV8,uncertain,yes,low,Visual representation and memory distortion; physical literalness unclear.,gpt-6.1-sol,literally-v1,no
+B46,bnc,66100441,EA3,metalinguistic,no,high,Ritual statements require interpretation beyond their surface words.,gpt-6.1-sol,literally-v1,no
+B47,bnc,106141639,FBM,dual,yes,medium,A painted woman is depicted as an object; aesthetic literalisation.,gpt-6.1-sol,literally-v1,no
+B48,bnc,28120582,HPT,metalinguistic,no,high,Translation of a historical administrative term.,gpt-6.1-sol,literally-v1,no
+B49,bnc,17726378,H7X,metalinguistic,no,high,Whether a numerical ratio licenses a particular interpretation.,gpt-6.1-sol,literally-v1,no
+B50,bnc,92791244,CJV,dual,yes,medium,A rock aperture is described with a conventional object name.,gpt-6.1-sol,literally-v1,no
+B51,bnc,90015863,CCY,factual,yes,high,Number of bathroom suppliers.,gpt-6.1-sol,literally-v1,no
+B52,bnc,73976080,K1J,dual,yes,high,Campaign idiom becomes an aircraft landing joke.,gpt-6.1-sol,literally-v1,no
+B53,bnc,4285314,JYB,dual,yes,high,Medical repair invokes an idiom and physical pieces.,gpt-6.1-sol,literally-v1,no
+B54,bnc,65831820,EFX,metalinguistic,no,high,How propositions in a model are to be interpreted.,gpt-6.1-sol,literally-v1,no
+B55,bnc,30732121,ACR,dual,yes,high,A muscular animal breed motivates a commercial intrusion idiom.,gpt-6.1-sol,literally-v1,no
+B56,bnc,44936569,BND,factual,yes,high,Number of issues before marriage.,gpt-6.1-sol,literally-v1,no
+B57,bnc,80908126,K52,figurative,yes,medium,Financial survival idiom without physical hand-to-mouth movement evidence.,gpt-6.1-sol,literally-v1,no
+B58,bnc,1360606,J53,factual,yes,medium,Actual unintelligibility of a specialist activity is asserted.,gpt-6.1-sol,literally-v1,no
+B59,bnc,48957937,B1L,factual,yes,high,Actual short interval in weeks.,gpt-6.1-sol,literally-v1,no
+B60,bnc,55692139,GU9,metalinguistic,no,high,Translation of a house name.,gpt-6.1-sol,literally-v1,no
+S01,spoken2014,4311910,SCG9,factual,yes,high,Actual physical cover of a book.,gpt-6.1-sol,literally-v1,no
+S02,spoken2014,519067,S35K,factual,yes,high,Timing of finishing a book.,gpt-6.1-sol,literally-v1,no
+S03,spoken2014,562460,S376,factual,yes,high,Actual waiting for an email.,gpt-6.1-sol,literally-v1,no
+S04,spoken2014,11757739,SZQX,factual,yes,medium,"Spending all income, contrasted explicitly with having no savings.",gpt-6.1-sol,literally-v1,no
+S05,spoken2014,3073882,S8W2,factual,yes,medium,An exclusive causal explanation is being considered.,gpt-6.1-sol,literally-v1,no
+S06,spoken2014,10557325,SVX4,figurative,yes,medium,People characterised through an evaluative object idiom.,gpt-6.1-sol,literally-v1,no
+S07,spoken2014,7659010,SMW8,uncertain,yes,low,Sitting on a desk versus at it cannot be settled from the transcript.,gpt-6.1-sol,literally-v1,no
+S08,spoken2014,6141215,SHTW,figurative,yes,medium,Every day being identical is immediately qualified by different activities.,gpt-6.1-sol,literally-v1,no
+S09,spoken2014,3380704,S9KS,factual,yes,high,Actual journey to an estate agent.,gpt-6.1-sol,literally-v1,no
+S10,spoken2014,1112136,S4NB,factual,yes,high,Daily ice-cream consumption is explicitly reasserted as true.,gpt-6.1-sol,literally-v1,no
+S11,spoken2014,7630194,SMW8,factual,yes,high,An actual phone gesture followed by malfunction.,gpt-6.1-sol,literally-v1,no
+S12,spoken2014,9549538,STY2,factual,yes,high,Actual count of attended lectures and achieved marks.,gpt-6.1-sol,literally-v1,no
+S13,spoken2014,10084065,SV49,factual,yes,high,Actual monetary saving claimed.,gpt-6.1-sol,literally-v1,no
+S14,spoken2014,909277,S3YZ,factual,yes,high,Actual trip to a bathroom.,gpt-6.1-sol,literally-v1,no
+S15,spoken2014,1244281,S4ZA,factual,yes,medium,A conversation and its temporal relation to seeing a tea stand.,gpt-6.1-sol,literally-v1,no
+S16,spoken2014,6655456,SK3B,figurative,yes,medium,Universal availability claim in a hotel breakfast exaggerates its range.,gpt-6.1-sol,literally-v1,no
+S17,spoken2014,451987,S32W,factual,yes,medium,Small actual lateness forecast.,gpt-6.1-sol,literally-v1,no
+S18,spoken2014,648734,S38V,figurative,yes,high,A child's experiential isolation described as an enclosing bubble.,gpt-6.1-sol,literally-v1,no
+S19,spoken2014,671271,S3AC,metalinguistic,no,high,Exact wording and punctuation convention in telegrams.,gpt-6.1-sol,literally-v1,no
+S20,spoken2014,1217178,S4WJ,factual,yes,high,Actual bowl-emptying action in a hypothetical recipe.,gpt-6.1-sol,literally-v1,no
+S21,spoken2014,698254,S3C6,factual,yes,medium,Reported speech act; exact wording need not be word-for-word.,gpt-6.1-sol,literally-v1,no
+S22,spoken2014,5617580,SG3Q,factual,yes,high,Actual duration of a performance.,gpt-6.1-sol,literally-v1,no
+S23,spoken2014,11768514,SZQX,factual,yes,medium,Actual routine actions when alone.,gpt-6.1-sol,literally-v1,no
+S24,spoken2014,3735506,SASQ,factual,yes,medium,Urgency of ticket purchase; no impossible event required.,gpt-6.1-sol,literally-v1,no
+S25,spoken2014,2583571,S7RW,factual,yes,high,Actual short cooking duration.,gpt-6.1-sol,literally-v1,no
+S26,spoken2014,799549,S3LE,factual,yes,medium,Actual incredulity about traffic-information technology.,gpt-6.1-sol,literally-v1,no
+S27,spoken2014,4603450,SD6X,factual,yes,high,Actual immediate bed-going option.,gpt-6.1-sol,literally-v1,no
+S28,spoken2014,7894482,SNAS,uncertain,yes,low,An all-events claim may be exaggeration; context does not resolve scope.,gpt-6.1-sol,literally-v1,no
+S29,spoken2014,170856,S2DD,factual,yes,high,Actual ingredients in a dish.,gpt-6.1-sol,literally-v1,no
+S30,spoken2014,9097443,SRNC,uncertain,yes,low,Physical sickness versus aversion is unresolved.,gpt-6.1-sol,literally-v1,no
+S31,spoken2014,9971587,SUVQ,factual,yes,high,Actual number of bottles consumed.,gpt-6.1-sol,literally-v1,no
+S32,spoken2014,3462654,S9WZ,factual,yes,high,Actual waking of another person.,gpt-6.1-sol,literally-v1,no
+S33,spoken2014,9367103,STH5,factual,yes,medium,Emphasis on the gist of a report.,gpt-6.1-sol,literally-v1,no
+S34,spoken2014,7756381,SN4N,factual,yes,high,Approximate actual interval; literalness does not require exact precision.,gpt-6.1-sol,literally-v1,no
+S35,spoken2014,4151540,SBSJ,factual,yes,medium,Intended actual deadline.,gpt-6.1-sol,literally-v1,no
+S36,spoken2014,9961923,SUVQ,factual,yes,high,Actual encounter with a stranger.,gpt-6.1-sol,literally-v1,no
+S37,spoken2014,2985552,S8PT,factual,yes,medium,Approximate actual number of shop customers.,gpt-6.1-sol,literally-v1,no
+S38,spoken2014,5596797,SG2Y,factual,yes,medium,Actual redecorating described by a conventional social category.,gpt-6.1-sol,literally-v1,no
+S39,spoken2014,3401765,S9P6,metalinguistic,no,high,Explicit narrowing of a social-location term.,gpt-6.1-sol,literally-v1,no
+S40,spoken2014,5687745,SG78,factual,yes,high,Actual physical distance between parked cars.,gpt-6.1-sol,literally-v1,no
+S41,spoken2014,7062390,SL9V,factual,yes,medium,Actual practical need for a rental deposit.,gpt-6.1-sol,literally-v1,no
+S42,spoken2014,7616255,SMW8,factual,yes,high,Actual inability to stop a physical fall.,gpt-6.1-sol,literally-v1,no
+S43,spoken2014,5245183,SESD,factual,yes,medium,A short viewing period evokes remembered material; asserted as actual.,gpt-6.1-sol,literally-v1,no
+S44,spoken2014,1650610,S632,uncertain,uncertain,low,Incomplete transcript prevents recovery of the proposition.,gpt-6.1-sol,literally-v1,no
+S45,spoken2014,4575998,SD3W,figurative,yes,medium,Body size compared to duplicated heads as an emphatic illustration.,gpt-6.1-sol,literally-v1,no
+S46,spoken2014,11069167,SXJP,factual,yes,medium,An ordinary feasible duration of remaining in a venue.,gpt-6.1-sol,literally-v1,no
+S47,spoken2014,3109652,S8X7,uncertain,uncertain,low,Disfluent fragment does not resolve what is being emphasised.,gpt-6.1-sol,literally-v1,no
+S48,spoken2014,8959587,SR8V,figurative,yes,high,Absolute ranking of a story is evaluative hyperbole.,gpt-6.1-sol,literally-v1,no
+S49,spoken2014,2748075,S85D,factual,yes,medium,"Small medical-workforce number asserted as actual, not independently verified.",gpt-6.1-sol,literally-v1,no
+S50,spoken2014,9174344,SRYY,metalinguistic,no,high,Quoted target phrase is being discussed as a language example.,gpt-6.1-sol,literally-v1,no
+S51,spoken2014,609715,S38F,factual,yes,medium,Historical interval asserted; external truth not evaluated here.,gpt-6.1-sol,literally-v1,no
+S52,spoken2014,3454546,S9WZ,factual,yes,medium,Actual timing before leaving home; uncertain attachment to prior hair complaint.,gpt-6.1-sol,literally-v1,no
+S53,spoken2014,688080,S3C6,factual,yes,high,Actual completion shortly before presentation.,gpt-6.1-sol,literally-v1,no
+S54,spoken2014,10472060,SVR6,factual,yes,high,Actual recent conversation.,gpt-6.1-sol,literally-v1,no
+S55,spoken2014,2783202,S8B9,uncertain,yes,low,Number is contradicted immediately; possible hyperbole or self-correction.,gpt-6.1-sol,literally-v1,no
+S56,spoken2014,1647331,S632,factual,yes,medium,Actual recent occasion with a disfluent restart.,gpt-6.1-sol,literally-v1,no
+S57,spoken2014,11039460,SXEV,factual,yes,medium,Proposed surgery is feasible within a hypothetical conditional.,gpt-6.1-sol,literally-v1,no
+S58,spoken2014,7989220,SNJP,uncertain,yes,low,Landslide destruction is real but the scope of whole mountain is unresolved.,gpt-6.1-sol,literally-v1,no
+S59,spoken2014,1759429,S66A,metalinguistic,no,high,Actual name of a food item is being clarified.,gpt-6.1-sol,literally-v1,no
+S60,spoken2014,11758676,SZQX,uncertain,yes,low,Incomplete claim about finances; strength of no-money assertion unresolved.,gpt-6.1-sol,literally-v1,no
+W01,ententen,2880694336,,metalinguistic,no,high,Scope and reference of a geographical name.,gpt-6.1-sol,literally-v1,no
+W02,ententen,3496976089,,factual,yes,high,Actual classification of sales objections.,gpt-6.1-sol,literally-v1,no
+W03,ententen,4964339501,,mention_or_error,no,high,Word mentioned as a spelling correction rather than used.,gpt-6.1-sol,literally-v1,no
+W04,ententen,9171208378,,dual,yes,high,Academic accessibility idiom and actual office doors.,gpt-6.1-sol,literally-v1,no
+W05,ententen,9988827124,,uncertain,yes,low,Universal virtual-environment claim may be promotional hyperbole.,gpt-6.1-sol,literally-v1,no
+W06,ententen,12454093939,,factual,yes,high,Short attention duration presented as actual.,gpt-6.1-sol,literally-v1,no
+W07,ententen,13913291803,,mention_or_error,no,high,Apparent error for literary modifying analysis.,gpt-6.1-sol,literally-v1,no
+W08,ententen,14044648746,,factual,yes,medium,Large number of decorative eyelets asserted as actual.,gpt-6.1-sol,literally-v1,no
+W09,ententen,15145063783,,factual,yes,high,Number of confidential sources potentially exposed.,gpt-6.1-sol,literally-v1,no
+W10,ententen,15199088449,,factual,yes,high,Historical animal population asserted as actual.,gpt-6.1-sol,literally-v1,no
+W11,ententen,15478722362,,mention_or_error,no,high,"Quoted word being criticised, not an adverbial use.",gpt-6.1-sol,literally-v1,no
+W12,ententen,16505040597,,factual,yes,high,Actual number of auction listings.,gpt-6.1-sol,literally-v1,no
+W13,ententen,16999240540,,factual,yes,high,Actual contractual permission for time off.,gpt-6.1-sol,literally-v1,no
+W14,ententen,19790239729,,uncertain,yes,low,Quoted anthem idiom and civic commitment leave physical guarding unresolved.,gpt-6.1-sol,literally-v1,no
+W15,ententen,20863989646,,dual,yes,medium,Conventional drinking-establishment phrase and actual gin production coincide.,gpt-6.1-sol,literally-v1,no
+W16,ententen,20992451404,,uncertain,yes,low,Crowd influence and attribution of volition to a roar overlap.,gpt-6.1-sol,literally-v1,no
+W17,ententen,22323491787,,dual,yes,high,Conventional lawlessness expression and explicitly annulled laws coincide.,gpt-6.1-sol,literally-v1,no
+W18,ententen,23196868077,,metalinguistic,no,high,Explanation of Greek word components.,gpt-6.1-sol,literally-v1,no
+W19,ententen,23217140105,,factual,yes,high,Actual scene in a television narrative.,gpt-6.1-sol,literally-v1,no
+W20,ententen,23793134344,,factual,yes,high,Physical restraint in an account of violence.,gpt-6.1-sol,literally-v1,no
+W21,ententen,23933241255,,dual,yes,high,Artistic-distribution idiom and removal from print-page format coincide.,gpt-6.1-sol,literally-v1,no
+W22,ententen,26163094227,,factual,yes,medium,"Actual price comparison, contrasted with relative affordability.",gpt-6.1-sol,literally-v1,no
+W23,ententen,27563335254,,metalinguistic,no,high,Meaning of a personal name.,gpt-6.1-sol,literally-v1,no
+W24,ententen,28405381065,,uncertain,yes,low,Bodily deterioration versus workplace exhaustion not resolved.,gpt-6.1-sol,literally-v1,no
+W25,ententen,29740765406,,factual,yes,high,Actual contents of film footage.,gpt-6.1-sol,literally-v1,no
+W26,ententen,32770617170,,factual,yes,medium,Actual transfer of geopolitical responsibility; conventional abstract wording.,gpt-6.1-sol,literally-v1,no
+W27,ententen,32854848933,,factual,yes,high,Physical distribution of newspaper sheets.,gpt-6.1-sol,literally-v1,no
+W28,ententen,34149149543,,metalinguistic,no,high,Instruction about how to interpret clues.,gpt-6.1-sol,literally-v1,no
+W29,ententen,35855527509,,factual,yes,medium,Some people actually cannot tolerate gameplay; potential and personal scope.,gpt-6.1-sol,literally-v1,no
+W30,ententen,35984444000,,uncertain,yes,low,Conditional dollar comparison is rhetorical; exact equivalence unclear.,gpt-6.1-sol,literally-v1,no
+W31,ententen,35985985018,,factual,yes,high,Actual numerical range of a market index.,gpt-6.1-sol,literally-v1,no
+W32,ententen,36014227665,,uncertain,yes,low,Reported catastrophic prediction does not establish intended physical scope.,gpt-6.1-sol,literally-v1,no
+W33,ententen,39740282494,,metalinguistic,no,high,Word-for-word grammatical gloss.,gpt-6.1-sol,literally-v1,no
+W34,ententen,40602263821,,figurative,yes,medium,No physical quantum transition is described; promotional magnitude metaphor.,gpt-6.1-sol,literally-v1,no
+W35,ententen,41913976150,,dual,yes,medium,Light spatially isolates dancers; conventional cutting idiom foregrounded.,gpt-6.1-sol,literally-v1,no
+W36,ententen,42554577839,,metalinguistic,no,high,Interpretive gloss claimed by a preacher; its accuracy not established.,gpt-6.1-sol,literally-v1,no
+W37,ententen,43351083683,,factual,yes,medium,Geographical distribution of caves asserted as actual.,gpt-6.1-sol,literally-v1,no
+W38,ententen,43986187542,,dual,yes,medium,Explicit coordination contrasts physical and musical withdrawal.,gpt-6.1-sol,literally-v1,no
+W39,ententen,46767275873,,uncertain,yes,low,A drawn garment visually merges with anatomy; intended identity unclear.,gpt-6.1-sol,literally-v1,no
+W40,ententen,48071000162,,figurative,yes,medium,An excitement idiom survives apparent OCR corruption.,gpt-6.1-sol,literally-v1,no
+W41,ententen,48884204007,,metalinguistic,no,high,Translation of a Portuguese saying.,gpt-6.1-sol,literally-v1,no
+W42,ententen,51236315180,,factual,yes,high,Actual recent recovery and new illness.,gpt-6.1-sol,literally-v1,no
+W43,ententen,51766218990,,factual,yes,medium,Repeated monitoring of thoughts presented as actual over short intervals.,gpt-6.1-sol,literally-v1,no
+W44,ententen,51812368915,,metalinguistic,no,high,Purported etymological meaning.,gpt-6.1-sol,literally-v1,no
+W45,ententen,52550573118,,factual,yes,high,"Actual daily clothing, supported by subsequent description.",gpt-6.1-sol,literally-v1,no
+W46,ententen,54622045538,,dual,yes,medium,Abstract retail variety is reinterpreted as physical departments.,gpt-6.1-sol,literally-v1,no
+W47,ententen,54681022501,,uncertain,yes,low,Psychological rehabilitation versus metaphorical healing unresolved.,gpt-6.1-sol,literally-v1,no
+W48,ententen,54963016904,,factual,yes,medium,Actual social effect of a musical genre asserted.,gpt-6.1-sol,literally-v1,no
+W49,ententen,55264401376,,factual,yes,medium,"Absence of extra software features, with scope qualified by later requirements.",gpt-6.1-sol,literally-v1,no
+W50,ententen,56032934892,,metalinguistic,no,high,Literal story interpretation contrasted with its analogy.,gpt-6.1-sol,literally-v1,no
+W51,ententen,58293232938,,dual,yes,high,Explicit pairing of actual and figurative workplace harm.,gpt-6.1-sol,literally-v1,no
+W52,ententen,58866887654,,factual,yes,high,Death of a game avatar is actual within the game world.,gpt-6.1-sol,literally-v1,no
+W53,ententen,58989154556,,dual,yes,high,Conventional reversal idiom becomes physical inversion in a fantasy scene.,gpt-6.1-sol,literally-v1,no
+W54,ententen,59285191158,,factual,yes,high,Actual authorship of legislative wording.,gpt-6.1-sol,literally-v1,no
+W55,ententen,59287458853,,factual,yes,high,Actual pumping and filling action.,gpt-6.1-sol,literally-v1,no
+W56,ententen,59453665829,,factual,yes,medium,Actual integration of technical domains described as worlds.,gpt-6.1-sol,literally-v1,no
+W57,ententen,59708254682,,metalinguistic,no,high,How another comment should be interpreted.,gpt-6.1-sol,literally-v1,no
+W58,ententen,60317762661,,factual,yes,high,Actual spatial distribution of sea views.,gpt-6.1-sol,literally-v1,no
+W59,ententen,60722019581,,factual,yes,medium,Actual notation format; antecedent is outside the window.,gpt-6.1-sol,literally-v1,no
+W60,ententen,61377460401,,uncertain,yes,low,Absolute ranking of an unwanted change may be emphatic exaggeration.,gpt-6.1-sol,literally-v1,no

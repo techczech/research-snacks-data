@@ -1,0 +1,26 @@
+[
+  {
+    "query_id": "literally-a-crowd",
+    "corpname": "preloaded/ententen21_tt31",
+    "query": "[lc=\"literally\"] [lc=\"a\"] [lc=\"crowd\"]",
+    "hits": 7,
+    "inspected_positions": [
+      8759313087,
+      25045517578,
+      28947524313,
+      35054462978,
+      39886782852
+    ],
+    "inspection": "First five of seven surface matches; first is a natural physical crowd description, second a social/market description."
+  },
+  {
+    "query_id": "literally-12-feet",
+    "corpname": "preloaded/ententen21_tt31",
+    "query": "[lc=\"literally\"] [lc=\"12|twelve\"] [lc=\"feet\"] [lc=\"tall\"]",
+    "hits": 1,
+    "inspected_positions": [
+      45229829873
+    ],
+    "inspection": "One surface match concerns a disc-golf basket, not human height."
+  }
+]

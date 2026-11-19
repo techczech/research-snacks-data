@@ -1,0 +1,53 @@
+[
+  {
+    "corpus": "bnc",
+    "corpname": "preloaded/bnc2",
+    "label": "BNC1994",
+    "period": "Late twentieth century; source years vary",
+    "words": 96052598,
+    "tokens": 112181015,
+    "documents": 4054,
+    "hits": 1936,
+    "sample_size": 60,
+    "query": "[lc=\"literally\"]",
+    "sample_method": "Python random.Random(20110223).sample on complete concordance",
+    "raw_sample_md5": "ec694cbff1848202f66faa65688dd7a1",
+    "api_version": "5.89",
+    "compiled": "02/01/2016 12:25:03",
+    "finished": 1
+  },
+  {
+    "corpus": "spoken2014",
+    "corpname": "preloaded/bnc2014_spoken_tt3",
+    "label": "Spoken BNC2014",
+    "period": "2012–2016",
+    "words": 10495185,
+    "tokens": 11832933,
+    "documents": 1251,
+    "hits": 2067,
+    "sample_size": 60,
+    "query": "[lc=\"literally\"]",
+    "sample_method": "Python random.Random(20110223).sample on complete concordance",
+    "raw_sample_md5": "a0d841581c1ab04e5062f1b81e1ea20e",
+    "api_version": "5.89",
+    "compiled": "12/17/2019 13:59:57",
+    "finished": 1
+  },
+  {
+    "corpus": "ententen",
+    "corpname": "preloaded/ententen21_tt31",
+    "label": "enTenTen21",
+    "period": "Collected October–December 2021; Wikipedia to January 2022",
+    "words": 52268286493,
+    "tokens": 61585997113,
+    "documents": 120252162,
+    "hits": 1837887,
+    "sample_size": 60,
+    "query": "[lc=\"literally\"]",
+    "sample_method": "Sketch Engine q query followed by r60; server sample not seed-controlled",
+    "raw_sample_md5": "2b729393c72c861896c2d9242e18b6ca",
+    "api_version": "5.89",
+    "compiled": "05/23/2023 01:03:08",
+    "finished": 1
+  }
+]

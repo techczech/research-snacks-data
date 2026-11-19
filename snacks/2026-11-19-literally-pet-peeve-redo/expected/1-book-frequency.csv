@@ -1,0 +1,661 @@
+corpus,year,per_million_words
+English,1800,11.385527
+English,1801,11.568504
+English,1802,11.236794
+English,1803,9.757258
+English,1804,10.690511
+English,1805,11.663251
+English,1806,10.174436
+English,1807,11.232955
+English,1808,10.844652
+English,1809,10.289001
+English,1810,10.897706
+English,1811,12.434002
+English,1812,9.816438
+English,1813,10.974904
+English,1814,12.506962
+English,1815,11.683337
+English,1816,12.894199
+English,1817,12.498831
+English,1818,14.212066
+English,1819,12.173907
+English,1820,13.427652
+English,1821,12.572544
+English,1822,12.484006
+English,1823,14.242671
+English,1824,13.704269
+English,1825,14.7523
+English,1826,13.508726
+English,1827,13.383166
+English,1828,13.697153
+English,1829,15.373725
+English,1830,13.489189
+English,1831,13.521519
+English,1832,12.584296
+English,1833,15.572191
+English,1834,14.717394
+English,1835,14.903539
+English,1836,15.366113
+English,1837,16.001879
+English,1838,13.668005
+English,1839,14.655245
+English,1840,14.521503
+English,1841,14.412744
+English,1842,15.357638
+English,1843,15.504269
+English,1844,15.584364
+English,1845,14.531119
+English,1846,14.964107
+English,1847,14.815376
+English,1848,15.368069
+English,1849,14.606196
+English,1850,17.12565
+English,1851,15.778433
+English,1852,15.972842
+English,1853,14.703472
+English,1854,15.717333
+English,1855,15.156741
+English,1856,15.686119
+English,1857,14.533274
+English,1858,13.685054
+English,1859,14.896372
+English,1860,15.046038
+English,1861,14.563666
+English,1862,15.308996
+English,1863,14.638118
+English,1864,14.142513
+English,1865,13.98406
+English,1866,14.002857
+English,1867,13.961679
+English,1868,13.723631
+English,1869,13.497287
+English,1870,14.166685
+English,1871,14.73207
+English,1872,13.409204
+English,1873,14.001935
+English,1874,13.246989
+English,1875,13.636223
+English,1876,12.807939
+English,1877,12.491898
+English,1878,12.941189
+English,1879,12.357388
+English,1880,12.900767
+English,1881,13.240891
+English,1882,13.412491
+English,1883,12.956268
+English,1884,12.639969
+English,1885,12.038701
+English,1886,11.173438
+English,1887,10.720678
+English,1888,11.340962
+English,1889,10.708714
+English,1890,11.232545
+English,1891,11.049536
+English,1892,11.002035
+English,1893,10.700507
+English,1894,9.878198
+English,1895,9.632961
+English,1896,9.87042
+English,1897,10.112376
+English,1898,9.307752
+English,1899,10.018711
+English,1900,9.24227
+English,1901,8.655489
+English,1902,8.799994
+English,1903,8.774905
+English,1904,8.808668
+English,1905,8.666327
+English,1906,8.585955
+English,1907,8.104591
+English,1908,8.102793
+English,1909,7.979528
+English,1910,8.497496
+English,1911,7.759765
+English,1912,7.618969
+English,1913,7.456619
+English,1914,7.558762
+English,1915,7.337055
+English,1916,7.563957
+English,1917,7.818945
+English,1918,8.061679
+English,1919,8.047208
+English,1920,8.278622
+English,1921,7.698705
+English,1922,8.32971
+English,1923,8.240439
+English,1924,8.456281
+English,1925,8.814064
+English,1926,8.327645
+English,1927,8.327351
+English,1928,8.326056
+English,1929,8.409587
+English,1930,8.392804
+English,1931,8.045909
+English,1932,8.342569
+English,1933,7.82665
+English,1934,8.721741
+English,1935,8.451893
+English,1936,8.550419
+English,1937,8.595558
+English,1938,8.439242
+English,1939,8.066334
+English,1940,8.1571
+English,1941,8.142107
+English,1942,9.04975
+English,1943,9.069169
+English,1944,9.391883
+English,1945,9.096692
+English,1946,9.262237
+English,1947,9.312814
+English,1948,9.0609
+English,1949,8.919891
+English,1950,9.021218
+English,1951,9.205649
+English,1952,8.988828
+English,1953,9.203841
+English,1954,9.153157
+English,1955,9.411985
+English,1956,9.876971
+English,1957,9.225529
+English,1958,9.575164
+English,1959,9.242445
+English,1960,9.593044
+English,1961,9.815813
+English,1962,10.049008
+English,1963,9.849517
+English,1964,9.845471
+English,1965,10.149186
+English,1966,10.03536
+English,1967,10.344717
+English,1968,10.491613
+English,1969,10.520813
+English,1970,10.860735
+English,1971,10.817956
+English,1972,10.547832
+English,1973,10.574388
+English,1974,10.627136
+English,1975,10.228035
+English,1976,10.154082
+English,1977,10.136447
+English,1978,10.033649
+English,1979,10.160218
+English,1980,10.561577
+English,1981,10.216394
+English,1982,10.539085
+English,1983,10.777033
+English,1984,10.657684
+English,1985,10.533031
+English,1986,10.891477
+English,1987,11.142963
+English,1988,11.400251
+English,1989,11.443932
+English,1990,11.492132
+English,1991,11.864418
+English,1992,12.360622
+English,1993,12.636709
+English,1994,12.571944
+English,1995,12.597884
+English,1996,13.755774
+English,1997,13.896018
+English,1998,14.385327
+English,1999,14.920506
+English,2000,15.41241
+English,2001,15.407742
+English,2002,16.119233
+English,2003,16.645911
+English,2004,17.177114
+English,2005,17.444203
+English,2006,17.662804
+English,2007,18.330852
+English,2008,18.645224
+English,2009,20.136375
+English,2010,20.368946
+English,2011,20.54388
+English,2012,18.670795
+English,2013,19.378678
+English,2014,20.656837
+English,2015,21.508962
+English,2016,21.320427
+English,2017,20.41364
+English,2018,19.998545
+English,2019,20.092262
+British English,1800,10.916494
+British English,1801,12.370412
+British English,1802,11.714948
+British English,1803,9.287972
+British English,1804,10.696103
+British English,1805,11.957162
+British English,1806,10.147487
+British English,1807,11.478909
+British English,1808,9.760393
+British English,1809,10.211537
+British English,1810,10.189528
+British English,1811,11.266533
+British English,1812,9.397502
+British English,1813,10.003814
+British English,1814,11.829287
+British English,1815,11.790148
+British English,1816,13.096881
+British English,1817,12.930692
+British English,1818,14.693701
+British English,1819,12.177402
+British English,1820,13.537206
+British English,1821,13.208931
+British English,1822,12.399325
+British English,1823,14.202037
+British English,1824,13.768194
+British English,1825,13.938694
+British English,1826,13.032244
+British English,1827,13.079736
+British English,1828,13.069751
+British English,1829,16.200136
+British English,1830,13.668269
+British English,1831,13.373951
+British English,1832,14.702317
+British English,1833,13.909116
+British English,1834,14.991403
+British English,1835,14.44218
+British English,1836,15.034355
+British English,1837,15.253821
+British English,1838,13.301653
+British English,1839,14.979207
+British English,1840,14.30902
+British English,1841,14.251576
+British English,1842,13.587009
+British English,1843,13.880248
+British English,1844,15.285981
+British English,1845,13.800416
+British English,1846,14.517494
+British English,1847,14.719689
+British English,1848,15.041366
+British English,1849,14.478271
+British English,1850,18.603736
+British English,1851,15.208652
+British English,1852,17.413038
+British English,1853,15.404074
+British English,1854,16.831273
+British English,1855,15.894146
+British English,1856,16.446536
+British English,1857,14.738689
+British English,1858,14.335799
+British English,1859,15.511204
+British English,1860,14.521105
+British English,1861,15.671997
+British English,1862,16.185294
+British English,1863,15.799004
+British English,1864,14.838874
+British English,1865,15.989398
+British English,1866,14.901561
+British English,1867,15.650533
+British English,1868,15.12774
+British English,1869,14.892839
+British English,1870,15.771728
+British English,1871,17.038597
+British English,1872,15.732503
+British English,1873,16.738745
+British English,1874,15.047416
+British English,1875,15.774282
+British English,1876,15.516203
+British English,1877,14.402838
+British English,1878,16.112476
+British English,1879,14.413504
+British English,1880,16.173774
+British English,1881,16.792119
+British English,1882,17.207662
+British English,1883,17.030371
+British English,1884,16.918744
+British English,1885,14.97711
+British English,1886,13.463882
+British English,1887,12.079366
+British English,1888,14.276567
+British English,1889,12.96204
+British English,1890,13.186794
+British English,1891,13.528862
+British English,1892,13.292216
+British English,1893,13.508867
+British English,1894,11.567851
+British English,1895,12.758306
+British English,1896,12.007218
+British English,1897,13.238493
+British English,1898,11.321086
+British English,1899,11.50624
+British English,1900,10.58283
+British English,1901,10.579983
+British English,1902,10.462684
+British English,1903,10.462169
+British English,1904,10.429652
+British English,1905,10.707831
+British English,1906,10.533735
+British English,1907,9.883362
+British English,1908,9.023251
+British English,1909,8.731525
+British English,1910,9.941218
+British English,1911,8.573144
+British English,1912,9.221419
+British English,1913,8.661299
+British English,1914,8.605568
+British English,1915,9.262546
+British English,1916,8.67876
+British English,1917,8.591674
+British English,1918,8.702
+British English,1919,8.833465
+British English,1920,8.900239
+British English,1921,8.405966
+British English,1922,8.673636
+British English,1923,10.048491
+British English,1924,9.261224
+British English,1925,12.569341
+British English,1926,9.377575
+British English,1927,9.952773
+British English,1928,10.64687
+British English,1929,9.631236
+British English,1930,9.770634
+British English,1931,9.288479
+British English,1932,9.9078
+British English,1933,9.142166
+British English,1934,11.158672
+British English,1935,11.224091
+British English,1936,10.085065
+British English,1937,9.260474
+British English,1938,9.499379
+British English,1939,9.172037
+British English,1940,9.328166
+British English,1941,9.051868
+British English,1942,9.582083
+British English,1943,9.743179
+British English,1944,9.950593
+British English,1945,9.072441
+British English,1946,9.598427
+British English,1947,11.286949
+British English,1948,10.514761
+British English,1949,10.796231
+British English,1950,9.161744
+British English,1951,9.776317
+British English,1952,9.574574
+British English,1953,10.320673
+British English,1954,9.796621
+British English,1955,9.497815
+British English,1956,11.993531
+British English,1957,10.167183
+British English,1958,10.131506
+British English,1959,9.994068
+British English,1960,10.000638
+British English,1961,10.446711
+British English,1962,10.430993
+British English,1963,10.527647
+British English,1964,10.405642
+British English,1965,9.920931
+British English,1966,9.723348
+British English,1967,10.166683
+British English,1968,10.244497
+British English,1969,10.543177
+British English,1970,10.278536
+British English,1971,10.191176
+British English,1972,10.518005
+British English,1973,11.828627
+British English,1974,10.161674
+British English,1975,10.417637
+British English,1976,10.522962
+British English,1977,10.675779
+British English,1978,10.701934
+British English,1979,10.926067
+British English,1980,11.601938
+British English,1981,11.163041
+British English,1982,11.702068
+British English,1983,11.804423
+British English,1984,11.911897
+British English,1985,11.806193
+British English,1986,12.673928
+British English,1987,12.907349
+British English,1988,12.901524
+British English,1989,13.138239
+British English,1990,13.702235
+British English,1991,13.822467
+British English,1992,14.050055
+British English,1993,14.690682
+British English,1994,15.114182
+British English,1995,14.81508
+British English,1996,15.829553
+British English,1997,15.913982
+British English,1998,16.695897
+British English,1999,17.194208
+British English,2000,18.898563
+British English,2001,17.23603
+British English,2002,19.046325
+British English,2003,19.452552
+British English,2004,19.20511
+British English,2005,19.922712
+British English,2006,20.673041
+British English,2007,22.11661
+British English,2008,20.514114
+British English,2009,21.624486
+British English,2010,21.732977
+British English,2011,21.281565
+British English,2012,20.90064
+British English,2013,21.094025
+British English,2014,20.848393
+British English,2015,21.728521
+British English,2016,21.693013
+British English,2017,22.429613
+British English,2018,22.944008
+British English,2019,23.632563
+American English,1800,14.008648
+American English,1801,7.166671
+American English,1802,11.52196
+American English,1803,11.289811
+American English,1804,10.08984
+American English,1805,9.858047
+American English,1806,8.332903
+American English,1807,10.018967
+American English,1808,12.314464
+American English,1809,11.07121
+American English,1810,11.967472
+American English,1811,17.216505
+American English,1812,11.497782
+American English,1813,14.031661
+American English,1814,13.451497
+American English,1815,12.078902
+American English,1816,11.333405
+American English,1817,10.940077
+American English,1818,12.391747
+American English,1819,11.247977
+American English,1820,12.153286
+American English,1821,10.904263
+American English,1822,12.242689
+American English,1823,13.137337
+American English,1824,13.288605
+American English,1825,17.064816
+American English,1826,13.553011
+American English,1827,13.865768
+American English,1828,14.664435
+American English,1829,14.861192
+American English,1830,13.712516
+American English,1831,14.354335
+American English,1832,10.454957
+American English,1833,18.088038
+American English,1834,13.891151
+American English,1835,15.663104
+American English,1836,15.084983
+American English,1837,17.169164
+American English,1838,14.425858
+American English,1839,13.869633
+American English,1840,14.92071
+American English,1841,14.700177
+American English,1842,18.084616
+American English,1843,15.864551
+American English,1844,17.081381
+American English,1845,15.89592
+American English,1846,16.182893
+American English,1847,15.701765
+American English,1848,16.445452
+American English,1849,15.241737
+American English,1850,16.628166
+American English,1851,16.78858
+American English,1852,15.068585
+American English,1853,14.064045
+American English,1854,14.904481
+American English,1855,14.9238
+American English,1856,15.001266
+American English,1857,14.925271
+American English,1858,13.325888
+American English,1859,15.019033
+American English,1860,15.883057
+American English,1861,13.777813
+American English,1862,13.456785
+American English,1863,14.147172
+American English,1864,14.393281
+American English,1865,12.444299
+American English,1866,13.775143
+American English,1867,13.426876
+American English,1868,12.91193
+American English,1869,13.115338
+American English,1870,13.741842
+American English,1871,13.19033
+American English,1872,12.310624
+American English,1873,12.791252
+American English,1874,12.718257
+American English,1875,12.753062
+American English,1876,11.426608
+American English,1877,11.809374
+American English,1878,11.200537
+American English,1879,11.523218
+American English,1880,11.690211
+American English,1881,11.685223
+American English,1882,11.481263
+American English,1883,11.28743
+American English,1884,11.019517
+American English,1885,10.890906
+American English,1886,10.697772
+American English,1887,10.742968
+American English,1888,10.418496
+American English,1889,10.213037
+American English,1890,10.814004
+American English,1891,10.654929
+American English,1892,10.532749
+American English,1893,10.068371
+American English,1894,9.723047
+American English,1895,8.911247
+American English,1896,9.458556
+American English,1897,9.516611
+American English,1898,8.986981
+American English,1899,10.038524
+American English,1900,9.293196
+American English,1901,8.519442
+American English,1902,8.671685
+American English,1903,8.545401
+American English,1904,8.790581
+American English,1905,8.362033
+American English,1906,8.35413
+American English,1907,7.955267
+American English,1908,8.135797
+American English,1909,8.045833
+American English,1910,8.438227
+American English,1911,7.869514
+American English,1912,7.517232
+American English,1913,7.505999
+American English,1914,7.613527
+American English,1915,7.253513
+American English,1916,7.6575
+American English,1917,8.049582
+American English,1918,8.3085
+American English,1919,8.232313
+American English,1920,8.547686
+American English,1921,7.894079
+American English,1922,8.662421
+American English,1923,8.53838
+American English,1924,8.926744
+American English,1925,8.461557
+American English,1926,8.506766
+American English,1927,8.389708
+American English,1928,8.14465
+American English,1929,8.608368
+American English,1930,8.636134
+American English,1931,8.341293
+American English,1932,8.325246
+American English,1933,8.035521
+American English,1934,8.638269
+American English,1935,8.731843
+American English,1936,8.818344
+American English,1937,9.080004
+American English,1938,8.797398
+American English,1939,8.309548
+American English,1940,8.322921
+American English,1941,8.389196
+American English,1942,9.415279
+American English,1943,9.421732
+American English,1944,9.776003
+American English,1945,9.604447
+American English,1946,9.633361
+American English,1947,9.505369
+American English,1948,9.411643
+American English,1949,9.066316
+American English,1950,9.585086
+American English,1951,9.640566
+American English,1952,9.336244
+American English,1953,9.577043
+American English,1954,9.634932
+American English,1955,10.049667
+American English,1956,10.261967
+American English,1957,9.654246
+American English,1958,10.220834
+American English,1959,9.88796
+American English,1960,10.122837
+American English,1961,10.475812
+American English,1962,10.67477
+American English,1963,10.333413
+American English,1964,10.410359
+American English,1965,10.636281
+American English,1966,10.824726
+American English,1967,11.120856
+American English,1968,11.325531
+American English,1969,11.23224
+American English,1970,11.757437
+American English,1971,11.436285
+American English,1972,11.237601
+American English,1973,10.966247
+American English,1974,11.020757
+American English,1975,10.687599
+American English,1976,10.396159
+American English,1977,10.381094
+American English,1978,10.054663
+American English,1979,10.467755
+American English,1980,10.868803
+American English,1981,10.437034
+American English,1982,10.781402
+American English,1983,10.912246
+American English,1984,11.006319
+American English,1985,10.691252
+American English,1986,11.05308
+American English,1987,11.325583
+American English,1988,11.775681
+American English,1989,11.524953
+American English,1990,11.522073
+American English,1991,12.02559
+American English,1992,12.628899
+American English,1993,12.790144
+American English,1994,12.39556
+American English,1995,12.553582
+American English,1996,13.832095
+American English,1997,14.023646
+American English,1998,14.362427
+American English,1999,14.87456
+American English,2000,15.041486
+American English,2001,15.438665
+American English,2002,15.770805
+American English,2003,16.704902
+American English,2004,17.038931
+American English,2005,17.406429
+American English,2006,17.699557
+American English,2007,17.968932
+American English,2008,18.633202
+American English,2009,20.662784
+American English,2010,20.175614
+American English,2011,21.676753
+American English,2012,18.954358
+American English,2013,19.108675
+American English,2014,21.289433
+American English,2015,22.619964
+American English,2016,22.674621
+American English,2017,23.44409
+American English,2018,22.81893
+American English,2019,24.335047

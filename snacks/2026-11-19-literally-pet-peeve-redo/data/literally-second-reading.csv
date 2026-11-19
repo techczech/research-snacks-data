@@ -1,0 +1,37 @@
+sample_id,first_reading,second_reading,emphasis,changed,reviewer,human_validated,note
+B01,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+B03,uncertain,uncertain,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+B09,figurative,uncertain,yes,true,same gpt-6.1-sol agent,no,Physical ballot movement versus a speed metaphor is not resolved.
+B11,metalinguistic,metalinguistic,no,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+B15,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+B19,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+B20,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+B42,metalinguistic,metalinguistic,no,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+B45,uncertain,uncertain,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+B52,dual,dual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+B55,dual,dual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+B56,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+S01,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+S03,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+S09,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+S11,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+S15,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+S19,metalinguistic,metalinguistic,no,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+S20,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+S42,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+S45,figurative,figurative,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+S52,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+S55,uncertain,uncertain,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+S56,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+W01,metalinguistic,metalinguistic,no,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+W03,mention_or_error,mention_or_error,no,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+W09,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+W11,mention_or_error,mention_or_error,no,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+W15,dual,dual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+W19,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+W20,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+W42,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+W45,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+W52,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+W55,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.
+W56,factual,factual,yes,false,same gpt-6.1-sol agent,no,Second contextual reading retained the label.

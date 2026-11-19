@@ -1,0 +1,19 @@
+corpus,reading,count,sample_size,percent
+BNC1994,factual,28,60,46.667
+BNC1994,figurative,1,60,1.667
+BNC1994,metalinguistic,19,60,31.667
+BNC1994,dual,9,60,15.0
+BNC1994,uncertain,3,60,5.0
+BNC1994,mention_or_error,0,60,0.0
+Spoken BNC2014,factual,42,60,70.0
+Spoken BNC2014,figurative,6,60,10.0
+Spoken BNC2014,metalinguistic,4,60,6.667
+Spoken BNC2014,dual,0,60,0.0
+Spoken BNC2014,uncertain,8,60,13.333
+Spoken BNC2014,mention_or_error,0,60,0.0
+enTenTen21,factual,27,60,45.0
+enTenTen21,figurative,2,60,3.333
+enTenTen21,metalinguistic,10,60,16.667
+enTenTen21,dual,9,60,15.0
+enTenTen21,uncertain,9,60,15.0
+enTenTen21,mention_or_error,3,60,5.0

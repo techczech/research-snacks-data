@@ -1,0 +1,57 @@
+claim_id,source_line,empirical_claim,assessment,basis
+C01,17,Apostrophe usage for numeral and acronym plurals has moved on.,Outside scope,Ancillary usage claim; no plural-apostrophe sample.
+C02,19,"The primary function of literally is intensification, including factual expressions.",Supported in bounded samples,Separate emphasis labels; no claim to represent all English.
+C03,19,"This is standard written, edited and published English, not a colloquial appendage.","Partly right, register overgeneralised",Literary/dictionary evidence supports established use; Merriam-Webster marks exaggerated sense informal.
+C04,19,Factual or potentially factual expressions are frequently intensified.,Supported in bounded samples,Factual reading and emphatic function often coexist.
+C05,27,Intensifying literally is neither new nor confined to conversation.,Supported,Dictionary historical evidence and later primary study.
+C06,27,TIME frequency rises from the 1940s and peaks in the 1980s.,Unreproduced,No 2011 TIME version/export or complete historical query.
+C07,27,TIME frequency in the 2000s returns to its 1950s level.,Unreproduced; not generalisable,Books are a different population and show a higher 2000s rate.
+C08,27,Intensifier share may be slightly higher in 1920s TIME than 2000s TIME.,Untestable here,Original openly uncounted glance; no matched historical annotation sample.
+C09,35,Ranked COCA preceding-adverb list and counts support intensifier knowledge.,Counts unreproduced; inference untested,Every reported count retained in 2011-other-reported-numbers.csv and 2011-historical-collocates.csv; proximity cannot establish speakers' knowledge.
+C10,39,Just is the fourth preceding-adverb collocate and often supports emphasis.,Rank unreproduced; function plausible,Contemporary contextual sample supports emphatic just combinations; no equivalent COCA window.
+C11,43,Up/down/out/now co-occurrence is coincidental because they are frequent words.,Untested,Would require association scores against marginal frequencies.
+C12,45,"Figuratively is by far the most common wider collocate, with 304 COCA hits.",Unreproduced,"No exact span, query or corpus snapshot."
+C13,45,Figuratively appears exclusively as part of literally and figuratively.,Too categorical,The post itself separates the words in example 9. A new reverse-order query timed out and contributes no count.
+C14,49,Literally/figuratively pairings can themselves involve two figurative readings.,"Plausible, not independently validated",Requires context-sensitive interpretation; dual category preserves overlap.
+C15,55,Disambiguation is a secondary function of literally.,Ordering depends on definition,Emphasis is common but overlaps with factual clarification; not mutually exclusive categories.
+C16,55,The intensifier function cannot be paraphrased with the adjective literal.,Untested diagnostic,No systematic paraphrase judgement experiment.
+C17,55,Literal and figurative categories are not always clear-cut.,Supported as annotation limitation,Uncertain and dual readings retained separately.
+C18,55,"Clear disambiguating examples are hard to find, and rarer than prescriptivists imply.",Rarity unproved,No stated comparison or prescriptivist baseline; metalinguistic readings are present in new samples.
+C19,61,Hyperbole need not involve a clear cross-domain mapping.,Interpretive distinction,No independent taxonomy experiment; relevant to defining figurative versus emphasis.
+C20,65,Numerals and quantifiers often combine emphasis with clarification.,Supported in bounded samples,Contextual readings contain many actual quantities and durations.
+C21,77,Speakers sometimes realise an initially emphatic expression is literally applicable.,Untested speaker-process claim,A transcript alone cannot recover the speaker's prior intention.
+C22,81,Translation and etymological explanation are common uses.,Occurrences supported; frequency bounded,Metalinguistic sample includes translation and word meanings.
+C23,89,Technical not-figurative literally has nothing to do with popular usage.,Too categorical,"Interpretation uses appear in corpus contexts, including ordinary conversation."
+C24,89,The author found no technical not-figurative examples in his corpus search.,Historical search report unrepeatable,New observations cannot disprove what the author personally failed to retrieve.
+C25,91,"Intensification is primary, disambiguation secondary, with degrees rather than complementary classes.",Broad insight supported; ranking qualified,Meaning/function separated; corpus scope and overlap explicit.
+C26,93,Literally is a good indicator of nearby figurative language and a worse indicator of strict fact.,Not established,Clearly figurative readings are few; measuring marker precision/recall requires a separately annotated comparison corpus.
+C27,93,Goatly's 1997 book discusses literally among metaphor markers.,Not independently checked,Attribution preserved; book not obtained in full for this check.
+C28,93,ATT-META researchers told the author they used literally as a metaphor indicator.,Personal report untestable,No original correspondence or project implementation inspected.
+C29,97,The Literally Blog stopped in 2009 and was reportedly founded by linguistics graduates.,Not rechecked,Ancillary website history and reported credentials.
+C30,97,Humorous literalisation pictures may themselves be more figurative than their source phrases.,"Interpretive, untested",No defined set or image annotation.
+C31,101,Pinker listed 18 expressions for faeces in a linked RSA talk.,Not checked,Ancillary attributed number; no inference in this snack relies on it.
+C32,101,Intensifiers add emphasis even when they add no descriptive content.,Interpretive claim,The new function annotation explicitly recognises emphasis.
+C33,111,More absurd literal alternatives reduce confusion.,Untested causal claim,Requires a comprehension experiment.
+C34,111,The author found no subtle case where the ambiguity really mattered.,Historical search report unrepeatable,Absence of retrieved cases does not measure misunderstanding.
+C35,111,Prescriptivists use literally to exercise power over insecure speakers.,Untested social hypothesis,No causal or attitudinal study conducted here.
+C36,111,Confusion between the two functions does not produce real consequential misunderstandings.,Unestablished universal,Neither corpus occurrence nor absence of documented incidents proves this.
+C37,111,Prescriptivists rarely support confusion claims with more than a few examples.,Untested quantifier,No systematic inventory of their arguments.
+C38,117,Nonliteral literally has been acceptable in TIME for close to a century.,Historical examples supplied; exact duration unreproduced,2011 post supplies 1920s examples; later dictionary evidence independently establishes older literary use.
+C39,119,"TIME uses literally roughly 200–300 times per decade, less than once per issue.",Unreproduced count; conditional arithmetic,200–300 per ten years is below weekly frequency; does not measure all language or editorial effectiveness.
+C40,119,"A selected compilation of speeches makes repeated uses salient, though otherwise nobody noticed.",Compilation not checked; nobody overclaims,Ancillary anecdote; no audience-attention data.
+C41,119,"Literally is not a buzzword or symbol of its time, on TIME evidence.",Not established,"No operational definition; book frequency rises later, without proving social salience."
+C42,123,Prescriptivist empirical claims are typically factually wrong.,Untested generalisation,No defined population or audit of claims.
+C43,123,Purism and radical tendencies occur in every speech community and persist.,Untested universal,Outside the English token sample.
+C44,127,"Google returned 910000, 1620000 and 6630000 for three differently worded peeve searches.",Historical observation unrepeatable,Queries and counts preserved; no dated search snapshots or relevance annotations.
+C45,127,"Despite irrelevant hits, the Google ranking suggests literally is a smaller peeve.",Invalid measurement inference,"Unmatched queries, opaque estimates and no population/relevance denominator cannot rank annoyance."
+C46,127,Literally was absent from the top ten results for a top-10-mistakes Google search.,Historical observation unrepeatable,"No dated URLs, order, location or saved pages."
+C47,146,The top noun collocates are all quantifiers.,Unsupported categorical gloss,Nine nouns are listed under a top-ten heading; means needs its own contextual check.
+C48,133,"Ranked adjacent adjective, noun, numeral and adverb counts in Update 2.",Counts unreproduced,All 49 listed values retained with exact source lines; tagging and window caveats preserved.
+C49,197,A significant minority of uses concerns scale or measure.,Occurrence supported; original proportion unmeasured,Number/duration examples recur; no original denominator or scale annotation.
+C50,197,"Google literally-feet-tall examples are mostly six/seven feet, some eight or physical extensions.",Historical search unrepeatable,No original Google export or judged denominator; exact frequency and rank of human heights cannot be recovered.
+C51,197,No human-height sentences of literally twelve feet tall were found.,Historical search report unrepeatable,"New web surface query found one disc-golf basket, not a person; old Google search is unreproducible."
+C52,197,"Literally rarely means actually, verifiably, precisely.",Too broad,Factual readings and interpretation uses are substantial; emphasis can coexist with actual truth.
+C53,197,Numerical literally respects a contextual scale rather than attaching arbitrarily.,"Plausible, untested distribution","Needs matched quantities, referents and acceptability judgements."
+C54,197,With plausible numbers it is most often both intensifier and disambiguator.,Untested majority,No validated quantitative overlap measure.
+C55,197,Literally thousands at dinner and literally a crowd are ungrammatical; literally two dozen can mean eighteen.,Categorical exclusion weakened; population acceptability untested,"Seven adjacent literally-a-crowd matches; first five inspected, first a natural physical crowd. No acceptability experiment."
+C56,197,Speakers know numeral literally is ambiguous and must clarify a seven-foot claim.,Untested knowledge and obligation,Corpus usage cannot establish mental knowledge or a universal need to clarify.

@@ -1,0 +1,7 @@
+corpus,measure,count,sample_size,percent,lower,upper
+BNC1994,Emphatic function,42,60,70.0,57.491,80.102
+BNC1994,Clearly figurative reading,1,60,1.667,0.295,8.855
+Spoken BNC2014,Emphatic function,54,60,90.0,79.851,95.336
+Spoken BNC2014,Clearly figurative reading,6,60,10.0,4.664,20.149
+enTenTen21,Emphatic function,47,60,78.333,66.38,86.877
+enTenTen21,Clearly figurative reading,2,60,3.333,0.919,11.364

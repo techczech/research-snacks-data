@@ -1,0 +1,47 @@
+[
+  {
+    "label": "English",
+    "url": "https://books.google.com/ngrams/json?content=literally%2Cliterally+died%2Cliterally+true%2Cliterally+thousands%2Cliterally+_ADJ_&year_start=1800&year_end=2019&corpus=en-2019&smoothing=0&case_insensitive=true",
+    "parameters": {
+      "content": "literally,literally died,literally true,literally thousands,literally _ADJ_",
+      "year_start": 1800,
+      "year_end": 2019,
+      "corpus": "en-2019",
+      "smoothing": 0,
+      "case_insensitive": "true"
+    },
+    "file": "english-ngram.json",
+    "md5": "d64a14cac3898912b1c097705e24bdd0",
+    "retrieved": "2026-11-19T11:24:12.012827+00:00"
+  },
+  {
+    "label": "British English",
+    "url": "https://books.google.com/ngrams/json?content=literally%2Cliterally+died%2Cliterally+true%2Cliterally+thousands%2Cliterally+_ADJ_&year_start=1800&year_end=2019&corpus=en-GB-2019&smoothing=0&case_insensitive=true",
+    "parameters": {
+      "content": "literally,literally died,literally true,literally thousands,literally _ADJ_",
+      "year_start": 1800,
+      "year_end": 2019,
+      "corpus": "en-GB-2019",
+      "smoothing": 0,
+      "case_insensitive": "true"
+    },
+    "file": "british-english-ngram.json",
+    "md5": "7dc50a3d226d0a7e5d1936fab118588b",
+    "retrieved": "2026-11-19T11:24:13.149623+00:00"
+  },
+  {
+    "label": "American English",
+    "url": "https://books.google.com/ngrams/json?content=literally%2Cliterally+died%2Cliterally+true%2Cliterally+thousands%2Cliterally+_ADJ_&year_start=1800&year_end=2019&corpus=en-US-2019&smoothing=0&case_insensitive=true",
+    "parameters": {
+      "content": "literally,literally died,literally true,literally thousands,literally _ADJ_",
+      "year_start": 1800,
+      "year_end": 2019,
+      "corpus": "en-US-2019",
+      "smoothing": 0,
+      "case_insensitive": "true"
+    },
+    "file": "american-english-ngram.json",
+    "md5": "a5ea805fe7372189048eb6a1c21acb88",
+    "retrieved": "2026-11-19T11:24:14.275682+00:00"
+  }
+]

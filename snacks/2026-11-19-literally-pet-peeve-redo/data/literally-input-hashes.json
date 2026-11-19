@@ -1,0 +1,54 @@
+[
+  {
+    "file": "2011-claim-inventory.csv",
+    "md5": "096529f60fa8ad402c4dccf7b1816e95"
+  },
+  {
+    "file": "2011-historical-collocates.csv",
+    "md5": "9929ed2d287acf9f4c048a4adfd470be"
+  },
+  {
+    "file": "2011-other-reported-numbers.csv",
+    "md5": "50d0809d9171a7f2e4af66bb48a6b102"
+  },
+  {
+    "file": "american-english-ngram.json",
+    "md5": "a5ea805fe7372189048eb6a1c21acb88"
+  },
+  {
+    "file": "british-english-ngram.json",
+    "md5": "7dc50a3d226d0a7e5d1936fab118588b"
+  },
+  {
+    "file": "english-ngram.json",
+    "md5": "d64a14cac3898912b1c097705e24bdd0"
+  },
+  {
+    "file": "literally-annotations.csv",
+    "md5": "e35a357668ae6bc50f0a51f3e2b34dc0"
+  },
+  {
+    "file": "literally-corpora.json",
+    "md5": "aee20af1168423d58c0b6acc3d0462bd"
+  },
+  {
+    "file": "literally-corpus-requests.json",
+    "md5": "895a72442577b0189f299aad14e990e1"
+  },
+  {
+    "file": "literally-followup-queries.json",
+    "md5": "ecdfe64c0e30fb17a3e1303902220290"
+  },
+  {
+    "file": "literally-second-reading.csv",
+    "md5": "63865a59d627ecf7fd95ecddf4af446c"
+  },
+  {
+    "file": "ngram-requests.json",
+    "md5": "34f54fd3d9abfa5f96d58ee57920ba9c"
+  },
+  {
+    "file": "provider-citations.md",
+    "md5": "a8e0d09083af46e71ed83f0233ec430e"
+  }
+]
