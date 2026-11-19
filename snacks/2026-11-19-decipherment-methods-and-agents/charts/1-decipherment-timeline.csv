@@ -4,8 +4,8 @@ Phoenician,1758,1758,Jean-Jacques Barthélemy; earlier scholars,yes,daniels-hist
 Old Persian cuneiform,1802,1802–1846,Grotefend; Rask; Burnouf; Lassen; Rawlinson; Hincks,partial,cathcart-2011
 Egyptian Demotic,1822,1802–1855,Åkerblad; de Sacy; Young; Champollion; Brugsch and successors,yes,egypt-bm-guide;mnamon-demotic
 Egyptian hieroglyphs,1822,1819–1824,Thomas Young; Jean-François Champollion; later scholars,yes,egypt-yale;egypt-bm-guide
-Early Brahmi,1837,1836–1838,James Prinsep; Christian Lassen; Cunningham; Indian scholarly collaborators,yes,prinsep-bibliography
-Kharosthi,1838,1830s–1840s,Prinsep; Lassen; Norris; Masson; Cunningham and collaborators,yes,prinsep-bibliography
+Early Brahmi,1837,1836–1838,James Prinsep; Christian Lassen; Cunningham; Indian scholarly collaborators,partial,prinsep-bibliography
+Kharosthi,1838,1830s–1840s,Prinsep; Lassen; Norris; Masson; Cunningham and collaborators,partial,prinsep-bibliography
 Old South Arabian monumental script,1841,1841–late 1800s,Wilhelm Gesenius; Emil Rödiger; later epigraphers,no,mnamon-southarabian
 Elamite cuneiform,1853,1844–1853 and later,Nils Westergaard; Edward Hincks; Edwin Norris; A. H. Sayce,yes,cathcart-2011
 Akkadian / Babylonian / Assyrian,1857,1846–1857,Edward Hincks; Henry Rawlinson; Jules Oppert; William Henry Fox Talbot,yes,cathcart-2011;daniels-history
@@ -18,4 +18,4 @@ Ugaritic alphabetic cuneiform,1930,1929–1931,Charles Virolleaud; Hans Bauer; �
 Luwian hieroglyphs,1947,1930s–1970s,Gelb; Meriggi; Forrer; Bossert; Çambel; Hawkins; Morpurgo Davies; Neumann and others,yes,mnamon-luwian
 Linear B / Mycenaean Greek,1952,1940s–1953,Alice Kober; Emmett Bennett; Michael Ventris; John Chadwick; Carl Blegen,no,mnamon-linear-b
 Maya hieroglyphs,1952,1952–1980s and continuing,Yuri Knorozov; Tatiana Proskouriakoff; Heinrich Berlin; David Stuart; many Maya and other epigraphers,partial,maya-kettunen
-Carian,1993,1981–1996,John D. Ray; Diether Schürr; Ignacio J. Adiego,yes,mnamon-carian
+Carian,1993,1981–1996,John D. Ray; Diether Schürr; Ignacio J. Adiego,partial,mnamon-carian

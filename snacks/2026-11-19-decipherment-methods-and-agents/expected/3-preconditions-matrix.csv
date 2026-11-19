@@ -69,12 +69,12 @@ Palmyrene Aramaic,historical,Target identified at outset,yes,daniels-history
 Palmyrene Aramaic,historical,Usable known linguistic comparator,yes,daniels-history
 Palmyrene Aramaic,historical,Broad script type before mapping,yes,daniels-history
 Palmyrene Aramaic,historical,Proper names as entry point,yes,daniels-history
-Early Brahmi,historical,Bilingual / partial parallel,yes,prinsep-bibliography
+Early Brahmi,historical,Bilingual / partial parallel,partial,prinsep-bibliography
 Early Brahmi,historical,Target identified at outset,partial,prinsep-bibliography
 Early Brahmi,historical,Usable known linguistic comparator,yes,prinsep-bibliography
 Early Brahmi,historical,Broad script type before mapping,partial,prinsep-bibliography
 Early Brahmi,historical,Proper names as entry point,yes,prinsep-bibliography
-Kharosthi,historical,Bilingual / partial parallel,yes,prinsep-bibliography
+Kharosthi,historical,Bilingual / partial parallel,partial,prinsep-bibliography
 Kharosthi,historical,Target identified at outset,partial,prinsep-bibliography
 Kharosthi,historical,Usable known linguistic comparator,yes,prinsep-bibliography
 Kharosthi,historical,Broad script type before mapping,yes,prinsep-bibliography
@@ -84,7 +84,7 @@ Old Turkic runiform,historical,Target identified at outset,partial,thomsen-histo
 Old Turkic runiform,historical,Usable known linguistic comparator,yes,thomsen-history
 Old Turkic runiform,historical,Broad script type before mapping,partial,thomsen-history
 Old Turkic runiform,historical,Proper names as entry point,yes,thomsen-history
-Carian,historical,Bilingual / partial parallel,yes,mnamon-carian
+Carian,historical,Bilingual / partial parallel,partial,mnamon-carian
 Carian,historical,Target identified at outset,partial,mnamon-carian
 Carian,historical,Usable known linguistic comparator,yes,mnamon-carian
 Carian,historical,Broad script type before mapping,yes,mnamon-carian

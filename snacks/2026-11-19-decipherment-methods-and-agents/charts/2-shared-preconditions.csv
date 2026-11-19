@@ -1,6 +1,6 @@
 condition,state,count,denominator
-Bilingual / partial parallel,yes,13,20
-Bilingual / partial parallel,partial,4,20
+Bilingual / partial parallel,yes,10,20
+Bilingual / partial parallel,partial,7,20
 Bilingual / partial parallel,no,3,20
 Bilingual / partial parallel,uncertain,0,20
 Target identified at outset,yes,2,20
