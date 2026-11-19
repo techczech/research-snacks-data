@@ -24,7 +24,11 @@ The checker rebuilds all snacks in temporary folders and diffs every final CSV a
 | [Pace of change](snacks/2026-11-17-pace-of-change-1900-2026/) | Dissimilarity, robustness, social indicators, college shares and Ngram take-off years. |
 | [Can a cake be sickly?](snacks/2026-11-17-can-a-cake-be-sickly/) | Construction counts, corpus rates, association scores and counts of curated examples. |
 | [AI wealth control by 2035](snacks/2026-11-17-ai-wealth-control-2035/) | Historical comparison and payment tables, plus the stock-comparison boundary checks. |
-| [AI spending and historical booms](snacks/2026-11-19-ai-capex-historical-booms/) | Annual spending/GDP, revenue/capex, stage-three diagnostics and chart indices from selected source facts. |
+| [AI spending and historical booms](snacks/2026-11-19-ai-capex-historical-booms/) | Spending as a share of GDP, cumulative boom spending, revenue against capital in service, and the growth paths behind the charts. |
+| [Hawks and doves](snacks/2026-11-19-hawks-and-doves/) | Counts of elaborations of the political hawk and dove metaphor by source and decade, from saved annotations. |
+| [Literally](snacks/2026-11-19-literally-pet-peeve-redo/) | Claim audit counts, Ngram series and the reading and function counts from annotated contexts. |
+| [Metaphor use pilot](snacks/2026-11-19-metaphor-use-pilot/) | Agreement tables between two annotation passes over six texts, from frozen annotation records. |
+| [Revolution speed](snacks/2026-11-19-revolution-speed-2011-redo/) | Date arithmetic for sixteen episodes, era sensitivities, NAVCO success rates and survey facts. |
 
 The default run needs no API key and makes no source-data requests. IPUMS microdata cannot be included. Each census snack explains how to request it with your own free account and `IPUMS_API_KEY`, then rerun the original aggregation. Corpus text is withheld; query options, positions and saved annotations let a licensed reader inspect the evidence. Recounting saved annotations does not validate their linguistic judgements. Rebuilding a chart does not independently verify a transcribed source value or a forecast.
 
