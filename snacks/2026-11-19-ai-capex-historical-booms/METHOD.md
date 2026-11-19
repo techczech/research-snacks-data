@@ -1,31 +1,48 @@
 ---
-title: AI spending and historical booms — method
+title: AI spending and historical booms — revised method
 date: 2026-11-19
-provenance: AI capex historical-booms source captures and checked calculations
+provenance: Coordinator-selected Astra and Fable reviews; attributed public source facts
 ---
 
 # Method
 
-Annual nominal spending divided by same-country, same-year nominal GDP is the target scale comparison. Programme obligations/outlays, private capex, land and geographical coverage are stated in the inputs and on the page. A fiscal series uses OMB fiscal GDP; a calendar series uses BEA GDPA. UK GDP is the historical UK including Ireland at market prices. The older factor-cost GDP is a separate sensitivity.
+This revision distinguishes three questions: reproducing the article's 2.3%; measuring domestic AI capex; and testing twentieth-century US precedents. The first rounds correctly under the disclosed reporting-period convention. The second is not identified by company totals. The third has a close case in 1910, not a demonstrated maximum across the century.
 
-## What each output checks
+## Outputs and page figures
 
-| Output | Page figures and source locators |
+| Output | What it checks |
 |---|---|
-| `1-spending-gdp.csv` | Main table/chart: 6.48%, 5.53%, 3.78%, 1.15%, 0.83%, 0.48%, 0.44%, 0.42%; the 2.3% AI row is an explicitly reported proxy. Odlyzko Tables 1–2 pp.32–34; BoE A9 P165; Ulmer C-10 p.272 and D-1 pp.320–321; MeasuringWorth selected years; USTelecom chart 1 p.2; Planetary Society original-dollar Apollo worksheet; FHWA FA-203; Hewlett/Anderson p.724; BEA GDPA and OMB 10.1. |
-| `revenue-ratios.csv` | Annual receipts/annual capex and separately annual receipts/accumulated financed capital. UK: Odlyzko pp.32,34. US: Poor through Statistical Abstract 1888 Table98 p.184, plus Ulmer C-10. Telecom: FCC Table1.1 p.1-13, USTelecom chart1 p.2. |
-| `2-revenue-and-capex.csv` | Chart indices: UK 1844=100; US telecom 1997=100. Both revenue and capital spending, all seven annual observations in each case. |
-| `ai-diagnostics.csv` | 345/704, 188/704, 345/920, 188/920; capex denominators are Q3 estimates multiplied by four. These periods/cohorts are not matched. |
-| `ai-metrics.csv` | 345/12=28.75; run rate/TTM=1.835; revenue growth 320%; AI Q3 capex growth 122.78%; Anthropic 17/9.9=1.717 (revenue/compute-and-infrastructure expense, not capex or profit). |
-| `stage-three-comparison.csv` | Third elapsed year after judgement-selected starts: UK1844→1847, US1879→1882, telecom1996→1999, AI2023→2026. Existing mature businesses remain included; AI is only a diagnostic. |
-| `uk-gdp-sensitivity.csv` | 43.9 / 677.973×100 =6.475%; 43.9/604×100 =7.268%. Market-price historical UK versus older factor-cost GDP. |
+| company-reconciliation.csv | Five named companies, cash PPE, reporting/calendar alignment; 560.350bn reported and 563.638bn calendar-estimated nine-month cash. Company/period/source/statement locators in company-cash-inputs.csv. |
+| ai-spending-shares.csv | 2.2994%, 2.3129%, conditional 70% allocation 1.6096%, latest-quarter pace 2.7927%, EV estimated AI cloud pace 2.1327%. GDP2026 Q1-Q3: BEA A191RC via FRED, 29 October 2026 vintage. |
+| 1-spending-gdp.csv | Main historical table/chart; 1910 rail740/33746=2.1929%; 1924 private electricity791.6/87786=0.9017%; other peaks unchanged. Numerator and denominator links in spending-inputs.csv. |
+| historical-checks.csv | Railway land exclusions; 1949 electricity0.7618%; NASA FY1964 obligations0.7352%, separately from Apollo programme0.4795%. Input source table/cell locators included. |
+| company-annual-cash.csv | 2024,2025 and first nine reported months2026 actual company purchases; Microsoft's calendar-year bridge; Oracle's Dec-Nov years and Dec-Aug nine months. Prior inputs carry individual filing locators. |
+| cumulative-spending.csv | Sum of nominal gross spending / one stated reference year's GDP: UK23.3048%, US18.9911% and12.0568%, broad global firms3.6685%. Not summed annual shares; unequal durations and price changes retained. |
+| revenue-ratios.csv | Historical gross revenue / financed-capital stock. Revenue and capex have separate source/locator fields. No third-year ranking or AI TTM/current-quarter ratio remains. |
+| 2-revenue-and-capex.csv, growth-comparison.csv | Actual-year growth paths. UK1844 onward, US1880 onward, telecom1997 onward; independently indexed revenue/capex. AI October run-rate growth4.2x versus Q3 estimated capex176/79; adjacent timing, changing cohort, not a matched return. Common logarithmic chart scale. |
+| telecom-segments.csv, 3-telecom-segments.csv | FCC Table1.1 end-user toll,wireless,local,total,2000-2003. Toll -32.7959%, wireless49.9446%, total0.6817% (CSV authoritative). No segment capex matched to these receipts. |
+| capital-in-service.csv | Historical gross receipts/financed capital; EV November2 infrastructure255/563=45.2931%; all-stack345/563=61.2789%; infrastructure255/915 including CIP=27.8689%. No net-return interpretation. |
+| ai-capital-cost.csv | Reported capital563,including CIP915; annual80depreciation+16OpEx+84return=180; infrastructure coverage1.416667,all-stack1.916667; commitments475/703 annual costs and source-reported growth conditions22/36%. |
+| ai-sensitivity.csv | Hypothetical100bn equipment,60bn revenue at full use/base price. Straight-line depreciation,15% return on original capital. Cash operating surplus=revenue*utilisation*price*cash margin; coverage=surplus/(equipment/life+required return). Margin is before depreciation. One variable changes per row; no fleet estimate, buildings,land,tax or separate finance costs. |
+| anthropic-q3.csv | Fact sheet printed pp.13-15:16.956bn sales,9.863compute,-.567GAAP result,2.463adjusted;1.070SBC+1.960noncash charity reconcile. Margins-3.3439%/14.5258%. Single-company illustration. |
+| ai-metrics.csv, uk-gdp-sensitivity.csv | Published revenue/run-rate endpoints and growth; UK1847 market-price6.4752% versus older factor-cost7.2682%. |
 
-## Judgements and exclusions
+## Periods and accounting
 
-Boom windows: UK1844–1850; US1870–1889 and subwindow1880–1889; telecom1996–2013; private electricity1929–1950; ApolloFY1960–1973; federal interstatesFY1956–1976; Manhattan1942–1946. Peak means the greatest share of GDP in that window, not greatest nominal spending. Public inputs retain selected peak candidates. Full annual-source searching was performed in the analysis, and is not independently validated by this offline check. In particular, MeasuringWorth asks permission for publishing more than five consecutive GDP observations; the public inputs contain only the isolated early-US GDP facts used in the displayed calculations. A reader can retrieve the linked complete series for a new peak search.
+For nine-month nominal GDP, add Q1,Q2,Q3 seasonally adjusted annual rates and divide by four. The Q3 pace instead divides four times quarterly cash by Q3 annual-rate GDP. Do not divide nine months' cash by one annual-rate observation.
 
-Ulmer's annual railway estimates before 1912 depend on reconstruction and interpolation; they are not precise contemporary accounts. Its including-land cash series is used, not moving averages or the all-regulated-industries total. Poor's financed cost is a book-liability proxy; explicit divisions can differ from Poor's own differently based published percentage. Its traffic reporting covers returning lines; the capex/revenue cohorts do not align exactly.
+Microsoft January-September2026 cash = FY2026 115948 - six months ended December2025 49270 + quarter ended September2026 39367 (USD million). Calendar2024/2025 use the analogous annual-minus-prior-half-plus-current-half bridge.
 
-Telecom's revenue excludes carrier-to-carrier pass-through, but omits some revenue covered by the broader capex population. Fibre-only receipts/capex were not established. The US 1850s railway national peak, British1790s canal annual national share and stage-matched receipts, and civil nuclear programme revenue/capex remain missing, not zero.
+Oracle's quarters end February,May,August,November. The available Dec-Aug flow is18635+16493+28499. The calendar estimate takes2/3 ofDec-Feb,allMar-May/allJun-Aug,and aSeptember atJun-Aug's monthly pace. September is not disclosed; this is an explicitly assumed alignment, not exact calendar observation. Earlier annual totals keep Oracle's reportedDec-Nov windows, disclosed rather than disguised as calendar years. Oracle2025 rolling total =FY2025 21215 -H1FY2025 6273 +Q1FY2026 8502 +Q2FY2026 12033.
 
-AI inputs are Exponential View's published estimates and the article's broad-company proxy. The Oct26 capex estimate preceded some Q3 earnings. Company disclosures support substantial sales but do not reconstruct the deduplicated aggregate. Its in-service depreciation/operating-cost/required-return model has a different denominator from current cash capex. Do not sum lab sales and the same money paid to hosting providers. No model of eventual profits or bubble probability is fitted.
+All firms use cash PPE purchases. Exclude new finance-lease assets and financing principal; do not mix Microsoft's lease-inclusive headline or Meta's purchases-plus-principal with this series. Amazon is gross before sales/incentives; Oracle is before customer-financing offsets. Cash does not equal national-account fixed investment; all firms include non-AI and overseas activity.
+
+## Historical peak reconstruction and rights
+
+Peak selection windows: UK1844-1850; US1870-1889,1880-1889,1900-1914; electricity1900-1950; telecom1996-2013; ApolloFY1960-1973; federal interstatesFY1956-1976; Manhattan1942-1946. Peak means share, not greatest currency total. The1910rail sample and electricity extension were added after reviews identified them; they are exploratory additions. Ulmer C-10 pp.272-273 includes land; D-1 pp.320-321 excludes land and public utilities.1871is extrapolated from1873sample; excluding land gives5.4187% rather than5.5348%.
+
+The public offline check validates selected facts and arithmetic, not full peak selection. To repeat the private search: obtain MeasuringWorth nominal GDP1900-1928 through itsNOMINALGDP query; transcribe UlmerC-10 columns1/3 for1900-1914 and D-1 column3 for1900-1928; join laterBEA calendar GDP; divide cash byGDP and select the maximum within the stated window.1924wins the electricity1900-1950search. Keep the full GDP extract private: the provider asks permission above five consecutive observations. Selected public GDP facts are non-consecutive. UKBoE A9 P165 gives1847historical-UKGDP,includingIreland.
+
+BEA detailed investment was redownloaded from the actual linked detailnonres_inv1.xlsx workbook and validated as OOXML. Earlier spreadsheet-named responses were HTML. This repair is not a completed standardTable2.7 or all-public/private full-century comparison.
+
+Investor outcomes are sourced narrative, not numeric return estimates: Odlyzko railway share chart/analysis; Commercial and Financial Chronicle1894 retrospective and receiverships; Couper/Hejkal/Wolman telecom bankruptcies. Fable's memory-only receivership share,Poor1871receipts and shale totals are excluded. Canal,nuclear and1850srail named-source leads remain unresolved. The cost model's internal company estimates and eliminations remain unaudited.

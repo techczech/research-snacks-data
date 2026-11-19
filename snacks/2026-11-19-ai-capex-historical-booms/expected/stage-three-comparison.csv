@@ -1,6 +1,0 @@
-precedent,year,chosen_start,elapsed_years,revenue_to_annual_capex,qualification
-UK railways,1847,1844,3,0.1913,Whole existing railway network; revenue is gross traffic receipts
-US railways,1882,1879,3,1.8924,Poor gross traffic receipts; financed book cost proxy; Ulmer annual capex
-US telecom,1999,1996,3,2.3453,FCC end-user telecom revenue divided by broader USTelecom provider capex including cable; imperfect cohort match
-AI: October revenue run rate,2026,2023,3,0.4901,"Different periods and coverage; diagnostic only, not a matched return or margin"
-AI: Trailing twelve-month revenue,2026,2023,3,0.267,"Different periods and coverage; diagnostic only, not a matched return or margin"

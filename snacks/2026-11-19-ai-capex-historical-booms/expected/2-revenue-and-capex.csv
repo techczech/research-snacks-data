@@ -1,29 +1,39 @@
-precedent,year,years_from_first_observation,series,index_first_observation_100,first_observation_year
-UK railways,1844,0,Gross revenue,100.0,1844
-UK railways,1844,0,Annual capex,100.0,1844
-UK railways,1845,1,Gross revenue,122.0,1844
-UK railways,1845,1,Annual capex,262.0,1844
-UK railways,1846,2,Gross revenue,150.0,1844
-UK railways,1846,2,Annual capex,600.0,1844
-UK railways,1847,3,Gross revenue,168.0,1844
-UK railways,1847,3,Annual capex,878.0,1844
-UK railways,1848,4,Gross revenue,196.0,1844
-UK railways,1848,4,Annual capex,662.0,1844
-UK railways,1849,5,Gross revenue,228.0,1844
-UK railways,1849,5,Annual capex,496.0,1844
-UK railways,1850,6,Gross revenue,254.0,1844
-UK railways,1850,6,Annual capex,262.0,1844
-US telecom,1997,0,End-user revenue,100.0,1997
-US telecom,1997,0,Annual capex,100.0,1997
-US telecom,1998,1,End-user revenue,106.355,1997
-US telecom,1998,1,Annual capex,110.769,1997
-US telecom,1999,2,End-user revenue,114.446,1997
-US telecom,1999,2,Annual capex,141.538,1997
-US telecom,2000,3,End-user revenue,121.546,1997
-US telecom,2000,3,Annual capex,181.538,1997
-US telecom,2001,4,End-user revenue,124.921,1997
-US telecom,2001,4,Annual capex,170.769,1997
-US telecom,2002,5,End-user revenue,123.288,1997
-US telecom,2002,5,Annual capex,110.769,1997
-US telecom,2003,6,End-user revenue,122.374,1997
-US telecom,2003,6,Annual capex,87.692,1997
+precedent,period,year,series,index_first_observation_100,basis
+UK railways,1844,1844,Revenue,100.0,Annual observations; each series independently starts at 100
+UK railways,1844,1844,Capex,100.0,Annual observations; each series independently starts at 100
+UK railways,1845,1845,Revenue,122.0,Annual observations; each series independently starts at 100
+UK railways,1845,1845,Capex,262.0,Annual observations; each series independently starts at 100
+UK railways,1846,1846,Revenue,150.0,Annual observations; each series independently starts at 100
+UK railways,1846,1846,Capex,600.0,Annual observations; each series independently starts at 100
+UK railways,1847,1847,Revenue,168.0,Annual observations; each series independently starts at 100
+UK railways,1847,1847,Capex,878.0,Annual observations; each series independently starts at 100
+UK railways,1848,1848,Revenue,196.0,Annual observations; each series independently starts at 100
+UK railways,1848,1848,Capex,662.0,Annual observations; each series independently starts at 100
+UK railways,1849,1849,Revenue,228.0,Annual observations; each series independently starts at 100
+UK railways,1849,1849,Capex,496.0,Annual observations; each series independently starts at 100
+UK railways,1850,1850,Revenue,254.0,Annual observations; each series independently starts at 100
+UK railways,1850,1850,Capex,262.0,Annual observations; each series independently starts at 100
+US railways,1880,1880,Revenue,100.0,Annual observations; each series independently starts at 100
+US railways,1880,1880,Capex,100.0,Annual observations; each series independently starts at 100
+US railways,1881,1881,Revenue,114.346,Annual observations; each series independently starts at 100
+US railways,1881,1881,Capex,156.25,Annual observations; each series independently starts at 100
+US railways,1882,1882,Revenue,125.496,Annual observations; each series independently starts at 100
+US railways,1882,1882,Capex,141.319,Annual observations; each series independently starts at 100
+US telecom,1997,1997,Revenue,100.0,Annual observations; each series independently starts at 100
+US telecom,1997,1997,Capex,100.0,Annual observations; each series independently starts at 100
+US telecom,1998,1998,Revenue,106.355,Annual observations; each series independently starts at 100
+US telecom,1998,1998,Capex,110.769,Annual observations; each series independently starts at 100
+US telecom,1999,1999,Revenue,114.446,Annual observations; each series independently starts at 100
+US telecom,1999,1999,Capex,141.538,Annual observations; each series independently starts at 100
+US telecom,2000,2000,Revenue,121.546,Annual observations; each series independently starts at 100
+US telecom,2000,2000,Capex,181.538,Annual observations; each series independently starts at 100
+US telecom,2001,2001,Revenue,124.921,Annual observations; each series independently starts at 100
+US telecom,2001,2001,Capex,170.769,Annual observations; each series independently starts at 100
+US telecom,2002,2002,Revenue,123.288,Annual observations; each series independently starts at 100
+US telecom,2002,2002,Capex,110.769,Annual observations; each series independently starts at 100
+US telecom,2003,2003,Revenue,122.374,Annual observations; each series independently starts at 100
+US telecom,2003,2003,Capex,87.692,Annual observations; each series independently starts at 100
+AI: estimates,2025,2025,Revenue,100,October revenue run rate; Q3 AI capex estimate; adjacent periods and changing cohort
+AI: estimates,2025,2025,Capex,100.0,October revenue run rate; Q3 AI capex estimate; adjacent periods and changing cohort
+AI: estimates,2026,2026,Revenue,420.0,October revenue run rate; Q3 AI capex estimate; adjacent periods and changing cohort
+AI: estimates,2026,2026,Capex,222.785,October revenue run rate; Q3 AI capex estimate; adjacent periods and changing cohort

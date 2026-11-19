@@ -1,0 +1,4 @@
+period,nominal_gdp_saar_bn,vintage,source,locator
+2026Q1,31906.274,2026-10-29 advance Q3; retrieved 2026-11-19,https://fred.stlouisfed.org/series/GDP,BEA account A191RC; quarterly current-dollar SAAR
+2026Q2,32563.03,2026-10-29 advance Q3; retrieved 2026-11-19,https://fred.stlouisfed.org/series/GDP,BEA account A191RC; quarterly current-dollar SAAR
+2026Q3,33010.036,2026-10-29 advance Q3; retrieved 2026-11-19,https://fred.stlouisfed.org/series/GDP,BEA account A191RC; quarterly current-dollar SAAR

@@ -1,0 +1,6 @@
+case,annual_revenue,capital,unit,revenue_capital_pct,basis
+UK railways 1847,8.4,167.3,GBP million,5.0209,"Financed capital; gross receipts, no operating costs"
+US railways 1882,770.21,7016.75,USD million,10.9767,Poor book-finance proxy; gross traffic receipts
+AI infrastructure / in service,255,563,USD billion,45.2931,EV Nov2; run rate; estimated costs and boundaries not independently audited
+AI all stack / in service,345,563,USD billion,61.2789,EV Nov2; run rate; estimated costs and boundaries not independently audited
+AI infrastructure / including CIP,255,915,USD billion,27.8689,EV Nov2; run rate; estimated costs and boundaries not independently audited

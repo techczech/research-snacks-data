@@ -1,0 +1,17 @@
+company,year,cash_ppe_m,source,locator
+Alphabet,2024,52535,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm,2025 10-K cash flow p.52; 2024 column
+Alphabet,2025,91447,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm,2025 10-K cash flow p.52; 2025 column
+Amazon,2024,82999,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm,2025 10-K cash flow; 2024 purchases
+Amazon,2025,131819,https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm,2025 10-K cash flow; 2025 purchases
+Meta,2024,37256,https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm,2025 10-K cash flow p.78; 2024 purchases
+Meta,2025,69691,https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm,2025 10-K cash flow p.78; 2025 purchases
+Microsoft FY2024,2024,44477,https://www.microsoft.com/investor/reports/ar26/index.html,FY2024 column cash flow
+Microsoft H1FY2024,2024,19652,https://www.microsoft.com/en-us/investor/earnings/fy-2025-q2/press-release-webcast,six months ended Dec 2023
+Microsoft H1FY2025,2024,30727,https://www.microsoft.com/en-us/investor/earnings/fy-2025-q2/press-release-webcast,six months ended Dec 2024
+Microsoft FY2025,2025,64551,https://www.microsoft.com/investor/reports/ar26/index.html,FY2025 column cash flow
+Microsoft H1FY2026,2025,49270,https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast/,six months ended Dec 2025
+Oracle TTM Nov2024,2024,10745,https://investor.oracle.com/investor-news/news-details/2025/Oracle-Announces-Fiscal-2025-Fourth-Quarter-and-Fiscal-Full-Year-Financial-Results/default.aspx,trailing four quarters capex; fiscal Q2FY2025 column
+Oracle H1FY2025,2025,6273,https://investor.oracle.com/investor-news/news-details/2024/Oracle-Announces-Fiscal-2025-Second-Quarter-Financial-Results/default.aspx,six months ended Nov 2024 cash flow
+Oracle FY2025,2025,21215,https://investor.oracle.com/investor-news/news-details/2025/Oracle-Announces-Fiscal-2025-Fourth-Quarter-and-Fiscal-Full-Year-Financial-Results/default.aspx,year ended May 2025 cash flow
+Oracle Q1FY2026,2025,8502,https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx,quarter ended Aug 2025
+Oracle Q2FY2026,2025,12033,https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx,quarter ended Nov 2025

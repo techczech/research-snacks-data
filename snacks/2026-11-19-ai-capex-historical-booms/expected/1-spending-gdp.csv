@@ -1,10 +1,13 @@
-precedent,year,peak_spend_pct_gdp,status,scope
-UK railways,1847,6.4752,Reconstructed historical share,Private; UK including Ireland; market-price GDP
-"US railways, 1870s",1871,5.5348,Reconstructed historical share,Private gross capex including land; reconstructed annual series
-"US railways, 1880s",1881,3.7809,Reconstructed historical share,Private gross capex including land; reconstructed annual series
-US broadband providers,2000,1.1511,Reconstructed historical share,Wireline plus wireless plus cable; not fibre alone
-US private electricity,1930,0.8344,Reconstructed historical share,Private electric light/power; excludes land and public utilities
-Apollo including overhead,1964,0.4795,Reconstructed historical share,Public programme obligations; direct plus indirect; excludes Gemini and robotic missions
-US federal interstates,1964,0.4389,Reconstructed historical share,Federal Interstate column only; excludes state/local match
-Manhattan Project,1944,0.4185,Reconstructed historical share,Public programme expenditures; capital plus operations; calendar annual total
-"Five tech firms, 2026 YTD",2026,2.3,Reported global-company proxy,"Global total company capex / US GDP; YTD, not a complete year or domestic AI total"
+precedent,year,peak_spend_pct_gdp,status,scope,label
+UK railways,1847,6.4752,Historical private industry,Private; UK including Ireland; market-price GDP,UK railways (1847)
+"US railways, 1870s",1871,5.5348,Historical private industry,Private gross capex including land; reconstructed annual series,"US railways, 1870s (1871)"
+"US railways, 1880s",1881,3.7809,Historical private industry,Private gross capex including land; reconstructed annual series; peak shown separately from 1882 revenue observation,"US railways, 1880s (1881)"
+"US railways, 1900-1914",1910,2.1929,Historical private industry,Ulmer C-10 pp.272-273; gross including land; excluding land 714 million,"US railways, 1900-1914 (1910)"
+US broadband providers,2000,1.1511,Historical private industry,Wireline plus wireless plus cable; not fibre alone,US broadband providers (2000)
+US private electricity,1924,0.9017,Historical private industry,Private electric light/power; excludes land and public utilities,US private electricity (1924)
+Apollo including overhead,1964,0.4795,Public programme,Public programme obligations; direct plus indirect; excludes Gemini and robotic missions,Apollo including overhead (1964)
+US federal interstates,1964,0.4389,Public programme,Federal Interstate column only; excludes state/local match,US federal interstates (1964)
+Manhattan Project,1944,0.4185,Public programme,Public programme expenditures; capital plus operations; calendar annual total,Manhattan Project (1944)
+AI: reported proxy,2026,2.3,Article proxy,Global total company capex / US GDP; nine months,AI: reported proxy (2026)
+AI: 70% allocation scenario,2026,1.6096,AI scenario,"Scenario, not measured domestic AI capex; includes non-AI spending",AI: 70% allocation scenario (2026)
+AI: Q3 cash pace,2026,2.7927,AI scenario,"Pace, not a forecast; Oracle Jun-Aug against other firms Jul-Sept",AI: Q3 cash pace (2026)

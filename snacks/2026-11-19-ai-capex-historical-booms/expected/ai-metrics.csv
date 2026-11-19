@@ -1,6 +1,7 @@
 metric,value
-"October implied monthly revenue, USD bn",28.75
-Run rate divided by TTM revenue,1.835106
-"Run-rate revenue growth YoY, percent",320.0
-"Estimated AI Q3 capex growth YoY, percent",122.7848
-Anthropic Q3 revenue / compute and infrastructure cost,1.717172
+AI revenue run-rate YoY growth pct,320.0
+AI Q3 estimated capex YoY growth pct,122.7848
+UK receipts CAGR 1844-1847 pct,18.8784
+Telecom receipts CAGR 1997-2000 pct,6.7202
+AI October run rate USD bn,345
+AI TTM revenue USD bn,188

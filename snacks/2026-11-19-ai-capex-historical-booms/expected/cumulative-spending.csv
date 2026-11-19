@@ -1,0 +1,5 @@
+case,cumulative_spend_m,reference_gdp_m,reference_year,pct_one_year_gdp,scope
+UK railways 1845-1850,158.0,677.9730763232121,1847,23.3048,Gross nominal spending; peak-share reference year; unequal boom durations
+US railways 1870-1873,1472.0,7751.0,1871,18.9911,Gross nominal spending; peak-share reference year; unequal boom durations
+US railways 1880-1883,1435.0,11902.0,1881,12.0568,Gross nominal spending; peak-share reference year; unequal boom durations
+Five firms 2024-Sept2026,1210965.0,33010036.0,2026Q3 SAAR,3.6685,Worldwide total company cash purchases; Oracle one month early; not domestic AI-only

@@ -1,0 +1,4 @@
+case,spending_m,reference_year,gdp_m,source
+UK railways 1845-1850,158.0,1847,677.9730763232121,Odlyzko Table 1 p.32; BoE A9 P165
+US railways 1870-1873,1472.0,1871,7751,Ulmer C-10 p.272; MeasuringWorth 1871
+US railways 1880-1883,1435.0,1881,11902,Ulmer C-10 p.272; MeasuringWorth 1881

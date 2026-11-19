@@ -1,0 +1,7 @@
+scenario,equipment_bn,full_utilisation_revenue_bn,life_years,utilisation,price_multiple,cash_margin,required_return
+Illustrative base,100,60,6,1,1,0.6,0.15
+Five-year life,100,60,5,1,1,0.6,0.15
+Three-year life,100,60,3,1,1,0.6,0.15
+Utilisation 75%,100,60,6,0.75,1,0.6,0.15
+Price 20% lower,100,60,6,1,0.8,0.6,0.15
+Margin 40%,100,60,6,1,1,0.4,0.15

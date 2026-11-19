@@ -1,0 +1,13 @@
+company,period,cash_ppe_m,source,locator
+Microsoft,FY2026,115948,https://www.microsoft.com/investor/reports/ar26/index.html,Cash flow: year ended June 30 2026
+Microsoft,FY2026-H1,49270,https://www.microsoft.com/en-us/investor/earnings/fy-2026-q2/press-release-webcast/,Cash flow: six months ended Dec 31 2025
+Microsoft,FY2027-Q1,39367,https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast/,Cash flow: three months ended Sept 30 2026
+Meta,CY2026-9M,83055,https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx,Cash flow: nine months Sept 30 2026; purchases of PPE
+Meta,CY2026-Q3,33942,https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx,Cash flow: three months Sept 30 2026; purchases of PPE
+Amazon,CY2026-9M,175670,https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/,Cash flow: nine months Sept 30 2026; gross purchases before sales/incentives
+Amazon,CY2026-Q3,77259,https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/,Cash flow: three months Sept 30 2026; gross purchases
+Alphabet,CY2026-9M,131953,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm,10-Q p.9: nine months Sept 30 2026; purchases of PPE
+Alphabet,CY2026-Q3,51400,https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm,10-Q p.48: quarter capex rounded to 0.1 billion
+Oracle,FY2026-Q3,18635,https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx,Cash capex table; Dec 2025-Feb 2026
+Oracle,FY2026-Q4,16493,https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx,Cash capex table; Mar-May 2026
+Oracle,FY2027-Q1,28499,https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx,Cash capex table; Jun-Aug 2026

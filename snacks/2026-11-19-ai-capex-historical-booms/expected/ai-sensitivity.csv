@@ -1,0 +1,7 @@
+scenario,life_years,utilisation_pct,price_multiple,cash_margin_pct,revenue_bn,cash_operating_surplus_bn,depreciation_bn,required_return_bn,coverage
+Illustrative base,6.0,100.0,1.0,60.0,60.0,36.0,16.6667,15.0,1.1368
+Five-year life,5.0,100.0,1.0,60.0,60.0,36.0,20.0,15.0,1.0286
+Three-year life,3.0,100.0,1.0,60.0,60.0,36.0,33.3333,15.0,0.7448
+Utilisation 75%,6.0,75.0,1.0,60.0,45.0,27.0,16.6667,15.0,0.8526
+Price 20% lower,6.0,100.0,0.8,60.0,48.0,28.8,16.6667,15.0,0.9095
+Margin 40%,6.0,100.0,1.0,40.0,60.0,24.0,16.6667,15.0,0.7579
