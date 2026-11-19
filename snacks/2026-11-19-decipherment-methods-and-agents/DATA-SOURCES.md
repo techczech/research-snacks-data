@@ -33,3 +33,9 @@ Only our short factual descriptions, literature codings, ordinal scores, derived
 | [Vesuvius Challenge](https://scrollprize.org/grandprize) | Organisers describe reading recovered Greek; dataset/image rules vary by object and competition. | No scan or recovered Greek text copied. |
 
 These are intentionally conservative decisions. The snack can be checked from its manual annotations without redistributing any of the underlying corpora. A new experiment must check the exact corpus version and rights before downloading or publishing its texts.
+
+## Review revision sources
+
+The 19 November source-review revision adds published paper/project descriptions and museum/archival metadata, plus primary records of named scholars' reported interviews. It redistributes only our factual summaries, bibliographic metadata, codings and arithmetic. No full paper, book, transcript, ancient inscription image or source-corpus transcription is included. The public source register gives inspected sections and access mechanisms; failed downloads remain failures. Matthews 2025's later successful section reading is explicitly distinguished from the original empty capture.
+
+Corazza et al. 2022 explicitly state that code, vectors and models are available while source sign images remain copyrighted. CuneiML's current author repository distributes a dehydrated representation and requires separate source-image acquisition. OBI-Bench's author repository links released test data; a complete constituent-image licence audit was not performed. These distinctions justify preparation/access limits in the scores; no open-image right is inferred from an open article or repository. Interview reports are evidence of attributed scholarly reactions, not technical validation of a decipherment.

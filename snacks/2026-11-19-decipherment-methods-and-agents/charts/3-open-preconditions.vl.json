@@ -28,9 +28,9 @@
   },
   "title": {
     "text": "The remaining gaps differ by case",
-    "subtitle": "Present evidence for 22 open or partial cases; full cell evidence and dated corpus notes in the CSVs"
+    "subtitle": "Present evidence for 24 open/partial or readable-with-gaps cases; access and coding limits in the CSVs"
   },
-  "height": 660,
+  "height": 720,
   "mark": {
     "type": "rect",
     "stroke": "#fffdf8",
@@ -42,7 +42,7 @@
       "type": "ordinal",
       "sort": [
         "Parallel",
-        "Known target",
+        "Prior identity",
         "Comparator",
         "Script type",
         "Names"

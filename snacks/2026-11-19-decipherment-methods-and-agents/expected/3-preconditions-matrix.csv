@@ -1,211 +1,221 @@
 case,group,condition,state,source_ids
 Egyptian hieroglyphs,historical,Bilingual / partial parallel,yes,egypt-yale;egypt-bm-guide
-Egyptian hieroglyphs,historical,Target identified at outset,no,egypt-yale;egypt-bm-guide
+Egyptian hieroglyphs,historical,Prior target identity / continuity,partial,egypt-yale;egypt-bm-guide
 Egyptian hieroglyphs,historical,Usable known linguistic comparator,yes,egypt-yale;egypt-bm-guide
 Egyptian hieroglyphs,historical,Broad script type before mapping,partial,egypt-yale;egypt-bm-guide
 Egyptian hieroglyphs,historical,Proper names as entry point,yes,egypt-yale;egypt-bm-guide
 Egyptian Demotic,historical,Bilingual / partial parallel,yes,egypt-bm-guide;mnamon-demotic
-Egyptian Demotic,historical,Target identified at outset,no,egypt-bm-guide;mnamon-demotic
+Egyptian Demotic,historical,Prior target identity / continuity,partial,egypt-bm-guide;mnamon-demotic
 Egyptian Demotic,historical,Usable known linguistic comparator,yes,egypt-bm-guide;mnamon-demotic
 Egyptian Demotic,historical,Broad script type before mapping,partial,egypt-bm-guide;mnamon-demotic
 Egyptian Demotic,historical,Proper names as entry point,yes,egypt-bm-guide;mnamon-demotic
-Old Persian cuneiform,historical,Bilingual / partial parallel,partial,cathcart-2011
-Old Persian cuneiform,historical,Target identified at outset,no,cathcart-2011
+Old Persian cuneiform,historical,Bilingual / partial parallel,no,cathcart-2011
+Old Persian cuneiform,historical,Prior target identity / continuity,no,cathcart-2011
 Old Persian cuneiform,historical,Usable known linguistic comparator,yes,cathcart-2011
 Old Persian cuneiform,historical,Broad script type before mapping,partial,cathcart-2011
 Old Persian cuneiform,historical,Proper names as entry point,yes,cathcart-2011
 Akkadian / Babylonian / Assyrian,historical,Bilingual / partial parallel,yes,cathcart-2011;daniels-history
-Akkadian / Babylonian / Assyrian,historical,Target identified at outset,no,cathcart-2011;daniels-history
+Akkadian / Babylonian / Assyrian,historical,Prior target identity / continuity,no,cathcart-2011;daniels-history
 Akkadian / Babylonian / Assyrian,historical,Usable known linguistic comparator,yes,cathcart-2011;daniels-history
 Akkadian / Babylonian / Assyrian,historical,Broad script type before mapping,no,cathcart-2011;daniels-history
 Akkadian / Babylonian / Assyrian,historical,Proper names as entry point,yes,cathcart-2011;daniels-history
-Sumerian cuneiform,historical,Bilingual / partial parallel,yes,daniels-history;cathcart-2011
-Sumerian cuneiform,historical,Target identified at outset,no,daniels-history;cathcart-2011
-Sumerian cuneiform,historical,Usable known linguistic comparator,no,daniels-history;cathcart-2011
-Sumerian cuneiform,historical,Broad script type before mapping,yes,daniels-history;cathcart-2011
-Sumerian cuneiform,historical,Proper names as entry point,partial,daniels-history;cathcart-2011
+Sumerian cuneiform,historical,Bilingual / partial parallel,yes,daniels-history;cathcart-2011;haupt-1879
+Sumerian cuneiform,historical,Prior target identity / continuity,no,daniels-history;cathcart-2011;haupt-1879
+Sumerian cuneiform,historical,Usable known linguistic comparator,no,daniels-history;cathcart-2011;haupt-1879
+Sumerian cuneiform,historical,Broad script type before mapping,yes,daniels-history;cathcart-2011;haupt-1879
+Sumerian cuneiform,historical,Proper names as entry point,partial,daniels-history;cathcart-2011;haupt-1879
 Elamite cuneiform,historical,Bilingual / partial parallel,yes,cathcart-2011
-Elamite cuneiform,historical,Target identified at outset,no,cathcart-2011
+Elamite cuneiform,historical,Prior target identity / continuity,no,cathcart-2011
 Elamite cuneiform,historical,Usable known linguistic comparator,no,cathcart-2011
 Elamite cuneiform,historical,Broad script type before mapping,partial,cathcart-2011
 Elamite cuneiform,historical,Proper names as entry point,yes,cathcart-2011
 Hittite language in cuneiform,historical,Bilingual / partial parallel,partial,mnamon-hittite;daniels-history
-Hittite language in cuneiform,historical,Target identified at outset,no,mnamon-hittite;daniels-history
+Hittite language in cuneiform,historical,Prior target identity / continuity,no,mnamon-hittite;daniels-history
 Hittite language in cuneiform,historical,Usable known linguistic comparator,yes,mnamon-hittite;daniels-history
 Hittite language in cuneiform,historical,Broad script type before mapping,yes,mnamon-hittite;daniels-history
 Hittite language in cuneiform,historical,Proper names as entry point,uncertain,mnamon-hittite;daniels-history
-Luwian hieroglyphs,historical,Bilingual / partial parallel,yes,mnamon-luwian
-Luwian hieroglyphs,historical,Target identified at outset,no,mnamon-luwian
+Luwian hieroglyphs,historical,Bilingual / partial parallel,partial,mnamon-luwian
+Luwian hieroglyphs,historical,Prior target identity / continuity,no,mnamon-luwian
 Luwian hieroglyphs,historical,Usable known linguistic comparator,yes,mnamon-luwian
 Luwian hieroglyphs,historical,Broad script type before mapping,partial,mnamon-luwian
 Luwian hieroglyphs,historical,Proper names as entry point,yes,mnamon-luwian
 Ugaritic alphabetic cuneiform,historical,Bilingual / partial parallel,no,snyder-2010;mnamon-ugaritic
-Ugaritic alphabetic cuneiform,historical,Target identified at outset,no,snyder-2010;mnamon-ugaritic
+Ugaritic alphabetic cuneiform,historical,Prior target identity / continuity,no,snyder-2010;mnamon-ugaritic
 Ugaritic alphabetic cuneiform,historical,Usable known linguistic comparator,yes,snyder-2010;mnamon-ugaritic
 Ugaritic alphabetic cuneiform,historical,Broad script type before mapping,partial,snyder-2010;mnamon-ugaritic
 Ugaritic alphabetic cuneiform,historical,Proper names as entry point,partial,snyder-2010;mnamon-ugaritic
-Linear B / Mycenaean Greek,historical,Bilingual / partial parallel,no,mnamon-linear-b
-Linear B / Mycenaean Greek,historical,Target identified at outset,no,mnamon-linear-b
-Linear B / Mycenaean Greek,historical,Usable known linguistic comparator,yes,mnamon-linear-b
-Linear B / Mycenaean Greek,historical,Broad script type before mapping,yes,mnamon-linear-b
-Linear B / Mycenaean Greek,historical,Proper names as entry point,yes,mnamon-linear-b
+Linear B / Mycenaean Greek,historical,Bilingual / partial parallel,no,mnamon-linear-b;kober-pasp
+Linear B / Mycenaean Greek,historical,Prior target identity / continuity,no,mnamon-linear-b;kober-pasp
+Linear B / Mycenaean Greek,historical,Usable known linguistic comparator,yes,mnamon-linear-b;kober-pasp
+Linear B / Mycenaean Greek,historical,Broad script type before mapping,yes,mnamon-linear-b;kober-pasp
+Linear B / Mycenaean Greek,historical,Proper names as entry point,yes,mnamon-linear-b;kober-pasp
 Cypriot syllabary (Greek texts),historical,Bilingual / partial parallel,yes,mnamon-cypriot
-Cypriot syllabary (Greek texts),historical,Target identified at outset,partial,mnamon-cypriot
+Cypriot syllabary (Greek texts),historical,Prior target identity / continuity,no,mnamon-cypriot
 Cypriot syllabary (Greek texts),historical,Usable known linguistic comparator,yes,mnamon-cypriot
 Cypriot syllabary (Greek texts),historical,Broad script type before mapping,partial,mnamon-cypriot
 Cypriot syllabary (Greek texts),historical,Proper names as entry point,yes,mnamon-cypriot
 Maya hieroglyphs,historical,Bilingual / partial parallel,partial,maya-kettunen
-Maya hieroglyphs,historical,Target identified at outset,no,maya-kettunen
+Maya hieroglyphs,historical,Prior target identity / continuity,partial,maya-kettunen
 Maya hieroglyphs,historical,Usable known linguistic comparator,yes,maya-kettunen
 Maya hieroglyphs,historical,Broad script type before mapping,no,maya-kettunen
-Maya hieroglyphs,historical,Proper names as entry point,yes,maya-kettunen
+Maya hieroglyphs,historical,Proper names as entry point,no,maya-kettunen
 Phoenician,historical,Bilingual / partial parallel,yes,daniels-history
-Phoenician,historical,Target identified at outset,yes,daniels-history
+Phoenician,historical,Prior target identity / continuity,partial,daniels-history
 Phoenician,historical,Usable known linguistic comparator,yes,daniels-history
 Phoenician,historical,Broad script type before mapping,yes,daniels-history
 Phoenician,historical,Proper names as entry point,yes,daniels-history
-Palmyrene Aramaic,historical,Bilingual / partial parallel,yes,daniels-history
-Palmyrene Aramaic,historical,Target identified at outset,yes,daniels-history
-Palmyrene Aramaic,historical,Usable known linguistic comparator,yes,daniels-history
-Palmyrene Aramaic,historical,Broad script type before mapping,yes,daniels-history
-Palmyrene Aramaic,historical,Proper names as entry point,yes,daniels-history
+Palmyrene Aramaic,historical,Bilingual / partial parallel,yes,daniels-history;swinton-1754
+Palmyrene Aramaic,historical,Prior target identity / continuity,partial,daniels-history;swinton-1754
+Palmyrene Aramaic,historical,Usable known linguistic comparator,yes,daniels-history;swinton-1754
+Palmyrene Aramaic,historical,Broad script type before mapping,yes,daniels-history;swinton-1754
+Palmyrene Aramaic,historical,Proper names as entry point,yes,daniels-history;swinton-1754
 Early Brahmi,historical,Bilingual / partial parallel,partial,prinsep-bibliography
-Early Brahmi,historical,Target identified at outset,partial,prinsep-bibliography
+Early Brahmi,historical,Prior target identity / continuity,no,prinsep-bibliography
 Early Brahmi,historical,Usable known linguistic comparator,yes,prinsep-bibliography
 Early Brahmi,historical,Broad script type before mapping,partial,prinsep-bibliography
 Early Brahmi,historical,Proper names as entry point,yes,prinsep-bibliography
 Kharosthi,historical,Bilingual / partial parallel,partial,prinsep-bibliography
-Kharosthi,historical,Target identified at outset,partial,prinsep-bibliography
+Kharosthi,historical,Prior target identity / continuity,no,prinsep-bibliography
 Kharosthi,historical,Usable known linguistic comparator,yes,prinsep-bibliography
 Kharosthi,historical,Broad script type before mapping,yes,prinsep-bibliography
 Kharosthi,historical,Proper names as entry point,yes,prinsep-bibliography
 Old Turkic runiform,historical,Bilingual / partial parallel,partial,thomsen-history
-Old Turkic runiform,historical,Target identified at outset,partial,thomsen-history
+Old Turkic runiform,historical,Prior target identity / continuity,no,thomsen-history
 Old Turkic runiform,historical,Usable known linguistic comparator,yes,thomsen-history
 Old Turkic runiform,historical,Broad script type before mapping,partial,thomsen-history
 Old Turkic runiform,historical,Proper names as entry point,yes,thomsen-history
 Carian,historical,Bilingual / partial parallel,partial,mnamon-carian
-Carian,historical,Target identified at outset,partial,mnamon-carian
+Carian,historical,Prior target identity / continuity,no,mnamon-carian
 Carian,historical,Usable known linguistic comparator,yes,mnamon-carian
 Carian,historical,Broad script type before mapping,yes,mnamon-carian
 Carian,historical,Proper names as entry point,yes,mnamon-carian
-Old South Arabian monumental script,historical,Bilingual / partial parallel,no,mnamon-southarabian
-Old South Arabian monumental script,historical,Target identified at outset,partial,mnamon-southarabian
+Old South Arabian monumental script,historical,Bilingual / partial parallel,partial,mnamon-southarabian
+Old South Arabian monumental script,historical,Prior target identity / continuity,no,mnamon-southarabian
 Old South Arabian monumental script,historical,Usable known linguistic comparator,yes,mnamon-southarabian
 Old South Arabian monumental script,historical,Broad script type before mapping,partial,mnamon-southarabian
 Old South Arabian monumental script,historical,Proper names as entry point,uncertain,mnamon-southarabian
 Tangut,historical,Bilingual / partial parallel,yes,tangut-2016
-Tangut,historical,Target identified at outset,partial,tangut-2016
+Tangut,historical,Prior target identity / continuity,no,tangut-2016
 Tangut,historical,Usable known linguistic comparator,yes,tangut-2016
 Tangut,historical,Broad script type before mapping,partial,tangut-2016
 Tangut,historical,Proper names as entry point,uncertain,tangut-2016
 Linear A,open,Bilingual / partial parallel,no,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory
-Linear A,open,Target identified at outset,no,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory
-Linear A,open,Usable known linguistic comparator,partial,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory
+Linear A,open,Prior target identity / continuity,no,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory
+Linear A,open,Usable known linguistic comparator,no,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory
 Linear A,open,Broad script type before mapping,yes,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory
 Linear A,open,Proper names as entry point,partial,mnamon-linear-a;aegean-review-2024;sigla;linear-a-ivory
 Cretan hieroglyphs,open,Bilingual / partial parallel,no,mnamon-cretan-hieroglyphic;aegean-review-2024
-Cretan hieroglyphs,open,Target identified at outset,no,mnamon-cretan-hieroglyphic;aegean-review-2024
+Cretan hieroglyphs,open,Prior target identity / continuity,no,mnamon-cretan-hieroglyphic;aegean-review-2024
 Cretan hieroglyphs,open,Usable known linguistic comparator,no,mnamon-cretan-hieroglyphic;aegean-review-2024
 Cretan hieroglyphs,open,Broad script type before mapping,partial,mnamon-cretan-hieroglyphic;aegean-review-2024
 Cretan hieroglyphs,open,Proper names as entry point,partial,mnamon-cretan-hieroglyphic;aegean-review-2024
 Phaistos disc,open,Bilingual / partial parallel,no,mnamon-phaistos-disc;aegean-review-2024
-Phaistos disc,open,Target identified at outset,no,mnamon-phaistos-disc;aegean-review-2024
+Phaistos disc,open,Prior target identity / continuity,no,mnamon-phaistos-disc;aegean-review-2024
 Phaistos disc,open,Usable known linguistic comparator,no,mnamon-phaistos-disc;aegean-review-2024
 Phaistos disc,open,Broad script type before mapping,partial,mnamon-phaistos-disc;aegean-review-2024
 Phaistos disc,open,Proper names as entry point,uncertain,mnamon-phaistos-disc;aegean-review-2024
-Cypro-Minoan,open,Bilingual / partial parallel,no,mnamon-cypro-minoan;aegean-review-2024
-Cypro-Minoan,open,Target identified at outset,no,mnamon-cypro-minoan;aegean-review-2024
-Cypro-Minoan,open,Usable known linguistic comparator,no,mnamon-cypro-minoan;aegean-review-2024
-Cypro-Minoan,open,Broad script type before mapping,partial,mnamon-cypro-minoan;aegean-review-2024
-Cypro-Minoan,open,Proper names as entry point,uncertain,mnamon-cypro-minoan;aegean-review-2024
+Cypro-Minoan,open,Bilingual / partial parallel,no,mnamon-cypro-minoan;aegean-review-2024;corazza-2022
+Cypro-Minoan,open,Prior target identity / continuity,no,mnamon-cypro-minoan;aegean-review-2024;corazza-2022
+Cypro-Minoan,open,Usable known linguistic comparator,no,mnamon-cypro-minoan;aegean-review-2024;corazza-2022
+Cypro-Minoan,open,Broad script type before mapping,partial,mnamon-cypro-minoan;aegean-review-2024;corazza-2022
+Cypro-Minoan,open,Proper names as entry point,uncertain,mnamon-cypro-minoan;aegean-review-2024;corazza-2022
 Indus signs,open,Bilingual / partial parallel,no,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014
-Indus signs,open,Target identified at outset,no,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014
+Indus signs,open,Prior target identity / continuity,no,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014
 Indus signs,open,Usable known linguistic comparator,partial,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014
 Indus signs,open,Broad script type before mapping,partial,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014
 Indus signs,open,Proper names as entry point,uncertain,yadav-2010;indus-parpola;icit;rao-2009;sproat-2014
 Proto-Elamite,open,Bilingual / partial parallel,no,born-2019;born-thesis;born-2022;born-2025;kelley-2022
-Proto-Elamite,open,Target identified at outset,no,born-2019;born-thesis;born-2022;born-2025;kelley-2022
+Proto-Elamite,open,Prior target identity / continuity,no,born-2019;born-thesis;born-2022;born-2025;kelley-2022
 Proto-Elamite,open,Usable known linguistic comparator,no,born-2019;born-thesis;born-2022;born-2025;kelley-2022
 Proto-Elamite,open,Broad script type before mapping,partial,born-2019;born-thesis;born-2022;born-2025;kelley-2022
 Proto-Elamite,open,Proper names as entry point,partial,born-2019;born-thesis;born-2022;born-2025;kelley-2022
 Rongorongo,open,Bilingual / partial parallel,no,rongorongo-2024;rongorongo-corpus
-Rongorongo,open,Target identified at outset,no,rongorongo-2024;rongorongo-corpus
-Rongorongo,open,Usable known linguistic comparator,partial,rongorongo-2024;rongorongo-corpus
+Rongorongo,open,Prior target identity / continuity,no,rongorongo-2024;rongorongo-corpus
+Rongorongo,open,Usable known linguistic comparator,yes,rongorongo-2024;rongorongo-corpus
 Rongorongo,open,Broad script type before mapping,partial,rongorongo-2024;rongorongo-corpus
 Rongorongo,open,Proper names as entry point,uncertain,rongorongo-2024;rongorongo-corpus
 Byblos pseudo-hieroglyphic / syllabary,open,Bilingual / partial parallel,no,mnamon-byblos-(pseudo-hieroglyphic)
-Byblos pseudo-hieroglyphic / syllabary,open,Target identified at outset,no,mnamon-byblos-(pseudo-hieroglyphic)
+Byblos pseudo-hieroglyphic / syllabary,open,Prior target identity / continuity,no,mnamon-byblos-(pseudo-hieroglyphic)
 Byblos pseudo-hieroglyphic / syllabary,open,Usable known linguistic comparator,partial,mnamon-byblos-(pseudo-hieroglyphic)
 Byblos pseudo-hieroglyphic / syllabary,open,Broad script type before mapping,partial,mnamon-byblos-(pseudo-hieroglyphic)
 Byblos pseudo-hieroglyphic / syllabary,open,Proper names as entry point,uncertain,mnamon-byblos-(pseudo-hieroglyphic)
 Isthmian / Epi-Olmec,open,Bilingual / partial parallel,no,epi-olmec-claim;epi-olmec-review
-Isthmian / Epi-Olmec,open,Target identified at outset,no,epi-olmec-claim;epi-olmec-review
+Isthmian / Epi-Olmec,open,Prior target identity / continuity,no,epi-olmec-claim;epi-olmec-review
 Isthmian / Epi-Olmec,open,Usable known linguistic comparator,partial,epi-olmec-claim;epi-olmec-review
 Isthmian / Epi-Olmec,open,Broad script type before mapping,partial,epi-olmec-claim;epi-olmec-review
 Isthmian / Epi-Olmec,open,Proper names as entry point,partial,epi-olmec-claim;epi-olmec-review
 Ancient Zapotec writing,open,Bilingual / partial parallel,no,zapotec-urcid
-Ancient Zapotec writing,open,Target identified at outset,no,zapotec-urcid
-Ancient Zapotec writing,open,Usable known linguistic comparator,partial,zapotec-urcid
+Ancient Zapotec writing,open,Prior target identity / continuity,no,zapotec-urcid
+Ancient Zapotec writing,open,Usable known linguistic comparator,yes,zapotec-urcid
 Ancient Zapotec writing,open,Broad script type before mapping,yes,zapotec-urcid
 Ancient Zapotec writing,open,Proper names as entry point,yes,zapotec-urcid
 Khitan small script,open,Bilingual / partial parallel,partial,khitan-2016;khitan-encoding;khitan-west
-Khitan small script,open,Target identified at outset,no,khitan-2016;khitan-encoding;khitan-west
+Khitan small script,open,Prior target identity / continuity,no,khitan-2016;khitan-encoding;khitan-west
 Khitan small script,open,Usable known linguistic comparator,partial,khitan-2016;khitan-encoding;khitan-west
 Khitan small script,open,Broad script type before mapping,yes,khitan-2016;khitan-encoding;khitan-west
 Khitan small script,open,Proper names as entry point,yes,khitan-2016;khitan-encoding;khitan-west
 Khitan large script,open,Bilingual / partial parallel,partial,khitan-geography;khitan-west;khitan-encoding
-Khitan large script,open,Target identified at outset,no,khitan-geography;khitan-west;khitan-encoding
+Khitan large script,open,Prior target identity / continuity,no,khitan-geography;khitan-west;khitan-encoding
 Khitan large script,open,Usable known linguistic comparator,partial,khitan-geography;khitan-west;khitan-encoding
 Khitan large script,open,Broad script type before mapping,yes,khitan-geography;khitan-west;khitan-encoding
 Khitan large script,open,Proper names as entry point,yes,khitan-geography;khitan-west;khitan-encoding
 Meroitic language,open,Bilingual / partial parallel,partial,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs
-Meroitic language,open,Target identified at outset,no,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs
+Meroitic language,open,Prior target identity / continuity,no,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs
 Meroitic language,open,Usable known linguistic comparator,partial,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs
 Meroitic language,open,Broad script type before mapping,yes,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs
 Meroitic language,open,Proper names as entry point,yes,meroitic-rilly;mnamon-meroitic-cursive-and-hieroglyphs
-Etruscan language,open,Bilingual / partial parallel,partial,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan
-Etruscan language,open,Target identified at outset,no,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan
-Etruscan language,open,Usable known linguistic comparator,partial,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan
-Etruscan language,open,Broad script type before mapping,yes,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan
-Etruscan language,open,Proper names as entry point,yes,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan
+Etruscan language,open,Bilingual / partial parallel,partial,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met
+Etruscan language,open,Prior target identity / continuity,no,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met
+Etruscan language,open,Usable known linguistic comparator,partial,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met
+Etruscan language,open,Broad script type before mapping,yes,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met
+Etruscan language,open,Proper names as entry point,yes,mnamon-etruscan;etruscan-liber;etruscan-2024;openetruscan;etruscan-met
 Voynich manuscript,open,Bilingual / partial parallel,no,voynich-bowern;voynich-yale-2025
-Voynich manuscript,open,Target identified at outset,no,voynich-bowern;voynich-yale-2025
+Voynich manuscript,open,Prior target identity / continuity,no,voynich-bowern;voynich-yale-2025
 Voynich manuscript,open,Usable known linguistic comparator,no,voynich-bowern;voynich-yale-2025
 Voynich manuscript,open,Broad script type before mapping,uncertain,voynich-bowern;voynich-yale-2025
 Voynich manuscript,open,Proper names as entry point,uncertain,voynich-bowern;voynich-yale-2025
 Vinča symbols,open,Bilingual / partial parallel,no,vinca-sproat
-Vinča symbols,open,Target identified at outset,no,vinca-sproat
+Vinča symbols,open,Prior target identity / continuity,no,vinca-sproat
 Vinča symbols,open,Usable known linguistic comparator,no,vinca-sproat
 Vinča symbols,open,Broad script type before mapping,no,vinca-sproat
 Vinča symbols,open,Proper names as entry point,uncertain,vinca-sproat
 Proto-Sinaitic gaps,open,Bilingual / partial parallel,partial,mnamon-proto-sinaitic
-Proto-Sinaitic gaps,open,Target identified at outset,no,mnamon-proto-sinaitic
-Proto-Sinaitic gaps,open,Usable known linguistic comparator,partial,mnamon-proto-sinaitic
+Proto-Sinaitic gaps,open,Prior target identity / continuity,no,mnamon-proto-sinaitic
+Proto-Sinaitic gaps,open,Usable known linguistic comparator,yes,mnamon-proto-sinaitic
 Proto-Sinaitic gaps,open,Broad script type before mapping,yes,mnamon-proto-sinaitic
 Proto-Sinaitic gaps,open,Proper names as entry point,yes,mnamon-proto-sinaitic
 Olmec / Cascajal block,open,Bilingual / partial parallel,no,cascajal-mesoweb
-Olmec / Cascajal block,open,Target identified at outset,no,cascajal-mesoweb
-Olmec / Cascajal block,open,Usable known linguistic comparator,partial,cascajal-mesoweb
+Olmec / Cascajal block,open,Prior target identity / continuity,no,cascajal-mesoweb
+Olmec / Cascajal block,open,Usable known linguistic comparator,no,cascajal-mesoweb
 Olmec / Cascajal block,open,Broad script type before mapping,partial,cascajal-mesoweb
 Olmec / Cascajal block,open,Proper names as entry point,uncertain,cascajal-mesoweb
 Singapore Stone,open,Bilingual / partial parallel,no,singapore-2023;singapore-museum
-Singapore Stone,open,Target identified at outset,partial,singapore-2023;singapore-museum
+Singapore Stone,open,Prior target identity / continuity,no,singapore-2023;singapore-museum
 Singapore Stone,open,Usable known linguistic comparator,partial,singapore-2023;singapore-museum
 Singapore Stone,open,Broad script type before mapping,partial,singapore-2023;singapore-museum
-Singapore Stone,open,Proper names as entry point,yes,singapore-2023;singapore-museum
+Singapore Stone,open,Proper names as entry point,uncertain,singapore-2023;singapore-museum
 Jurchen,open,Bilingual / partial parallel,yes,jurchen-2024;jurchen-west
-Jurchen,open,Target identified at outset,partial,jurchen-2024;jurchen-west
+Jurchen,open,Prior target identity / continuity,partial,jurchen-2024;jurchen-west
 Jurchen,open,Usable known linguistic comparator,yes,jurchen-2024;jurchen-west
 Jurchen,open,Broad script type before mapping,yes,jurchen-2024;jurchen-west
 Jurchen,open,Proper names as entry point,yes,jurchen-2024;jurchen-west
-Linear Elamite,open,Bilingual / partial parallel,partial,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025
-Linear Elamite,open,Target identified at outset,partial,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025
-Linear Elamite,open,Usable known linguistic comparator,partial,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025
-Linear Elamite,open,Broad script type before mapping,partial,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025
-Linear Elamite,open,Proper names as entry point,yes,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025
+Linear Elamite,open,Bilingual / partial parallel,partial,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022
+Linear Elamite,open,Prior target identity / continuity,partial,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022
+Linear Elamite,open,Usable known linguistic comparator,partial,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022
+Linear Elamite,open,Broad script type before mapping,partial,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022
+Linear Elamite,open,Proper names as entry point,yes,desset-2022;mnamon-linearElamite;kelley-2022;iran-2025;dahl-2023;lawler-2022;maeder-interview-2022;dahl-interview-2022
 Eteocypriot,open,Bilingual / partial parallel,partial,mnamon-cypriot
-Eteocypriot,open,Target identified at outset,no,mnamon-cypriot
+Eteocypriot,open,Prior target identity / continuity,no,mnamon-cypriot
 Eteocypriot,open,Usable known linguistic comparator,no,mnamon-cypriot
 Eteocypriot,open,Broad script type before mapping,yes,mnamon-cypriot
 Eteocypriot,open,Proper names as entry point,yes,mnamon-cypriot
+Oracle bone Chinese: remaining character gaps,open,Bilingual / partial parallel,partial,guan-2024;obi-2025
+Oracle bone Chinese: remaining character gaps,open,Prior target identity / continuity,partial,guan-2024;obi-2025
+Oracle bone Chinese: remaining character gaps,open,Usable known linguistic comparator,yes,guan-2024;obi-2025
+Oracle bone Chinese: remaining character gaps,open,Broad script type before mapping,yes,guan-2024;obi-2025
+Oracle bone Chinese: remaining character gaps,open,Proper names as entry point,yes,guan-2024;obi-2025
+Iberian language,open,Bilingual / partial parallel,partial,luo-tacl-2021
+Iberian language,open,Prior target identity / continuity,no,luo-tacl-2021
+Iberian language,open,Usable known linguistic comparator,no,luo-tacl-2021
+Iberian language,open,Broad script type before mapping,yes,luo-tacl-2021
+Iberian language,open,Proper names as entry point,yes,luo-tacl-2021

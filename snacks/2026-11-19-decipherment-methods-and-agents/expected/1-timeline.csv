@@ -1,21 +1,21 @@
 case,year,milestone,people,bilingual,source_ids
-Palmyrene Aramaic,1754,1754,Jean-Jacques Barthélemy,yes,daniels-history
+Palmyrene Aramaic,1754,1754,Jean-Jacques Barthélemy; John Swinton; Godwyn and other contributors,yes,daniels-history;swinton-1754
 Phoenician,1758,1758,Jean-Jacques Barthélemy; earlier scholars,yes,daniels-history
-Old Persian cuneiform,1802,1802–1846,Grotefend; Rask; Burnouf; Lassen; Rawlinson; Hincks,partial,cathcart-2011
-Egyptian Demotic,1822,1802–1855,Åkerblad; de Sacy; Young; Champollion; Brugsch and successors,yes,egypt-bm-guide;mnamon-demotic
+Egyptian Demotic,1802,1802–1855,Åkerblad; de Sacy; Young; Champollion; Brugsch and successors,yes,egypt-bm-guide;mnamon-demotic
+Old Persian cuneiform,1802,1802–1846,Grotefend; Rask; Burnouf; Lassen; Rawlinson; Hincks,no,cathcart-2011
 Egyptian hieroglyphs,1822,1819–1824,Thomas Young; Jean-François Champollion; later scholars,yes,egypt-yale;egypt-bm-guide
-Early Brahmi,1837,1836–1838,James Prinsep; Christian Lassen; Cunningham; Indian scholarly collaborators,partial,prinsep-bibliography
-Kharosthi,1838,1830s–1840s,Prinsep; Lassen; Norris; Masson; Cunningham and collaborators,partial,prinsep-bibliography
-Old South Arabian monumental script,1841,1841–late 1800s,Wilhelm Gesenius; Emil Rödiger; later epigraphers,no,mnamon-southarabian
+Early Brahmi,1837,1836–1838,Prinsep; Lassen; Pandit Kamalakanta and collaborators,partial,prinsep-bibliography
+Kharosthi,1838,1830s–1840s,Masson; Prinsep; Lassen; Norris and others,partial,prinsep-bibliography
+Old South Arabian monumental script,1841,1841–late 1800s,Wilhelm Gesenius; Emil Rödiger; later epigraphers,partial,mnamon-southarabian
 Elamite cuneiform,1853,1844–1853 and later,Nils Westergaard; Edward Hincks; Edwin Norris; A. H. Sayce,yes,cathcart-2011
 Akkadian / Babylonian / Assyrian,1857,1846–1857,Edward Hincks; Henry Rawlinson; Jules Oppert; William Henry Fox Talbot,yes,cathcart-2011;daniels-history
 Cypriot syllabary (Greek texts),1871,1871–1876,George Smith; Samuel Birch; Brandis; Schmidt; Deecke; Siegismund; Ahrens,yes,mnamon-cypriot
-Sumerian cuneiform,1878,1850s–1878 and later,Hincks; Rawlinson; Oppert; Haupt; many later Sumerologists,yes,daniels-history;cathcart-2011
+Sumerian cuneiform,1879,1850s–1878 and later,Hincks; Rawlinson; Oppert; Haupt; many later Sumerologists,yes,daniels-history;cathcart-2011;haupt-1879
 Old Turkic runiform,1893,1893–1896,Vilhelm Thomsen; Wilhelm Radloff,partial,thomsen-history
 Tangut,1909,1909–1930s and continuing,Aleksei Ivanov; Luo Fucheng; Nikolai Nevsky; later scholars,yes,tangut-2016
 Hittite language in cuneiform,1915,1915–1917,Bedřich Hrozný; earlier Knudtzon; subsequent Hittitologists,partial,mnamon-hittite;daniels-history
 Ugaritic alphabetic cuneiform,1930,1929–1931,Charles Virolleaud; Hans Bauer; Édouard Dhorme,no,snyder-2010;mnamon-ugaritic
-Luwian hieroglyphs,1947,1930s–1970s,Gelb; Meriggi; Forrer; Bossert; Çambel; Hawkins; Morpurgo Davies; Neumann and others,yes,mnamon-luwian
-Linear B / Mycenaean Greek,1952,1940s–1953,Alice Kober; Emmett Bennett; Michael Ventris; John Chadwick; Carl Blegen,no,mnamon-linear-b
-Maya hieroglyphs,1952,1952–1980s and continuing,Yuri Knorozov; Tatiana Proskouriakoff; Heinrich Berlin; David Stuart; many Maya and other epigraphers,partial,maya-kettunen
-Carian,1993,1981–1996,John D. Ray; Diether Schürr; Ignacio J. Adiego,partial,mnamon-carian
+Luwian hieroglyphs,1947,1930s–1970s,Gelb; Forrer; Bossert; Hrozný; Meriggi; Çambel; Laroche; Hawkins; Morpurgo Davies; Neumann and others,partial,mnamon-luwian
+Linear B / Mycenaean Greek,1952,1940s–1953,Alice Kober; Emmett Bennett; Michael Ventris; John Chadwick; Carl Blegen,no,mnamon-linear-b;kober-pasp
+Maya hieroglyphs,1952,1952–1980s and continuing,Yuri Knorozov; Heinrich Berlin; Tatiana Proskouriakoff; many later epigraphers,partial,maya-kettunen
+Carian,1993,1960s–1996,Vitaly Shevoroshkin; John Ray; Diether Schürr; Ignacio Adiego and others,partial,mnamon-carian

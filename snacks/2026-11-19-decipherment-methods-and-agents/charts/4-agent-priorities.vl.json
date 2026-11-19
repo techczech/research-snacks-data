@@ -27,13 +27,12 @@
     "url": "charts/4-agent-priorities.csv"
   },
   "title": {
-    "text": "Agent priorities for checkable gains",
-    "subtitle": "Ordinal literature-based judgement, /18; Vinča comparator shown but excluded from the rank"
+    "text": "Agent priorities: rank within each task group",
+    "subtitle": "Ordinal judgement /18; groups have different tasks. Equal totals are tied; Vinča is unranked."
   },
-  "height": 630,
+  "height": 730,
   "mark": {
     "type": "bar",
-    "color": "#23656c",
     "height": 17
   },
   "encoding": {
@@ -55,27 +54,29 @@
       "field": "case",
       "type": "nominal",
       "sort": [
-        "Jurchen",
-        "Etruscan language",
         "Proto-Elamite",
         "Khitan small script",
-        "Meroitic language",
-        "Ancient Zapotec writing",
         "Linear A",
-        "Khitan large script",
         "Proto-Sinaitic gaps",
+        "Ancient Zapotec writing",
+        "Khitan large script",
+        "Indus signs",
         "Isthmian / Epi-Olmec",
         "Linear Elamite",
-        "Indus signs",
         "Rongorongo",
         "Voynich manuscript",
         "Byblos pseudo-hieroglyphic / syllabary",
+        "Eteocypriot",
         "Cretan hieroglyphs",
         "Cypro-Minoan",
-        "Eteocypriot",
         "Singapore Stone",
         "Olmec / Cascajal block",
         "Phaistos disc",
+        "Oracle bone Chinese: remaining character gaps",
+        "Jurchen",
+        "Etruscan language",
+        "Iberian language",
+        "Meroitic language",
         "Vinča symbols"
       ],
       "axis": {
@@ -83,9 +84,29 @@
         "labelLimit": 235
       }
     },
+    "color": {
+      "field": "cohort",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Undeciphered / partly mapped",
+          "Readable, remaining gaps",
+          "Excluded non-writing comparator"
+        ],
+        "range": [
+          "#23656c",
+          "#a47724",
+          "#859398"
+        ]
+      },
+      "title": "Task group"
+    },
     "tooltip": [
       {
         "field": "case"
+      },
+      {
+        "field": "cohort"
       },
       {
         "field": "rank"
@@ -103,6 +124,25 @@
       {
         "field": "agent_loop"
       }
-    ]
-  }
+    ],
+    "opacity": {
+      "condition": {
+        "param": "state_pick",
+        "value": 1
+      },
+      "value": 0.2
+    }
+  },
+  "params": [
+    {
+      "name": "state_pick",
+      "select": {
+        "type": "point",
+        "fields": [
+          "cohort"
+        ]
+      },
+      "bind": "legend"
+    }
+  ]
 }
