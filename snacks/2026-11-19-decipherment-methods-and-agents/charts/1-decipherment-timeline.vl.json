@@ -1,0 +1,103 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#fffdf8",
+  "width": "container",
+  "config": {
+    "font": "Arial",
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 13,
+      "gridColor": "#e2dfd5"
+    },
+    "title": {
+      "fontSize": 18,
+      "anchor": "start",
+      "subtitleFontSize": 12,
+      "subtitleColor": "#4c5556"
+    },
+    "view": {
+      "stroke": null
+    },
+    "legend": {
+      "orient": "bottom",
+      "labelFontSize": 12
+    }
+  },
+  "data": {
+    "url": "charts/1-decipherment-timeline.csv"
+  },
+  "title": {
+    "text": "Decipherment happened in stages",
+    "subtitle": "Selected milestones in 20 recoveries; a plotted date is not a date of complete understanding"
+  },
+  "height": 550,
+  "mark": {
+    "type": "point",
+    "filled": true,
+    "size": 85,
+    "color": "#23656c"
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          1740,
+          2005
+        ]
+      },
+      "axis": {
+        "format": "d",
+        "title": "Year of selected milestone",
+        "tickCount": 8
+      }
+    },
+    "y": {
+      "field": "case",
+      "type": "nominal",
+      "sort": [
+        "Palmyrene Aramaic",
+        "Phoenician",
+        "Old Persian cuneiform",
+        "Egyptian Demotic",
+        "Egyptian hieroglyphs",
+        "Early Brahmi",
+        "Kharosthi",
+        "Old South Arabian monumental script",
+        "Elamite cuneiform",
+        "Akkadian / Babylonian / Assyrian",
+        "Cypriot syllabary (Greek texts)",
+        "Sumerian cuneiform",
+        "Old Turkic runiform",
+        "Tangut",
+        "Hittite language in cuneiform",
+        "Ugaritic alphabetic cuneiform",
+        "Luwian hieroglyphs",
+        "Linear B / Mycenaean Greek",
+        "Maya hieroglyphs",
+        "Carian"
+      ],
+      "axis": {
+        "title": null,
+        "labelLimit": 240
+      }
+    },
+    "tooltip": [
+      {
+        "field": "case"
+      },
+      {
+        "field": "year",
+        "type": "quantitative",
+        "format": "d"
+      },
+      {
+        "field": "milestone"
+      },
+      {
+        "field": "people"
+      }
+    ]
+  }
+}

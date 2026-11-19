@@ -1,0 +1,21 @@
+condition,state,count,denominator
+Bilingual / partial parallel,yes,13,20
+Bilingual / partial parallel,partial,4,20
+Bilingual / partial parallel,no,3,20
+Bilingual / partial parallel,uncertain,0,20
+Target identified at outset,yes,2,20
+Target identified at outset,partial,7,20
+Target identified at outset,no,11,20
+Target identified at outset,uncertain,0,20
+Usable known linguistic comparator,yes,18,20
+Usable known linguistic comparator,partial,0,20
+Usable known linguistic comparator,no,2,20
+Usable known linguistic comparator,uncertain,0,20
+Broad script type before mapping,yes,7,20
+Broad script type before mapping,partial,11,20
+Broad script type before mapping,no,2,20
+Broad script type before mapping,uncertain,0,20
+Proper names as entry point,yes,15,20
+Proper names as entry point,partial,2,20
+Proper names as entry point,no,0,20
+Proper names as entry point,uncertain,3,20

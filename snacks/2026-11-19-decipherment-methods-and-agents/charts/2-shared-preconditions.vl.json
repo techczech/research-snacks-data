@@ -1,0 +1,97 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#fffdf8",
+  "width": "container",
+  "config": {
+    "font": "Arial",
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 13,
+      "gridColor": "#e2dfd5"
+    },
+    "title": {
+      "fontSize": 18,
+      "anchor": "start",
+      "subtitleFontSize": 12,
+      "subtitleColor": "#4c5556"
+    },
+    "view": {
+      "stroke": null
+    },
+    "legend": {
+      "orient": "bottom",
+      "labelFontSize": 12
+    }
+  },
+  "data": {
+    "url": "charts/2-shared-preconditions.csv"
+  },
+  "title": {
+    "text": "Different routes supplied different constraints",
+    "subtitle": "20 selected historical recoveries; judgement codes, not a representative statistical sample"
+  },
+  "height": 240,
+  "mark": {
+    "type": "bar",
+    "height": 26
+  },
+  "encoding": {
+    "x": {
+      "field": "count",
+      "type": "quantitative",
+      "stack": "zero",
+      "axis": {
+        "title": "Cases",
+        "tickMinStep": 1
+      }
+    },
+    "y": {
+      "field": "condition",
+      "type": "nominal",
+      "sort": null,
+      "axis": {
+        "title": null,
+        "labelLimit": 260
+      }
+    },
+    "color": {
+      "field": "state",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "yes",
+          "partial",
+          "no",
+          "uncertain"
+        ],
+        "range": [
+          "#23656c",
+          "#c79b36",
+          "#e3dfd4",
+          "#859398"
+        ]
+      },
+      "title": "Evidence code"
+    },
+    "order": {
+      "field": "state",
+      "sort": "ascending"
+    },
+    "tooltip": [
+      {
+        "field": "condition"
+      },
+      {
+        "field": "state"
+      },
+      {
+        "field": "count",
+        "type": "quantitative"
+      },
+      {
+        "field": "denominator",
+        "type": "quantitative"
+      }
+    ]
+  }
+}

@@ -38,3 +38,7 @@ NAVCO 1.3 CC0 terms, the provider’s verbatim citation, limited factual transcr
 ## Canals and civil nuclear investment booms (19 November 2026)
 
 The [snack-specific source register](snacks/2026-11-19-canals-nuclear-investment-booms/DATA-SOURCES.md) records the selected-fact decisions, EIA public-domain data, Eurostat attribution, restricted GDP boundaries and withheld originals. The rerun distinguishes canal period means, partial US nuclear accounting expenditure and an approximate French construction observation from annual national peaks.
+
+## Decipherment methods and agents (19 November 2026)
+
+The [snack-specific source register](snacks/2026-11-19-decipherment-methods-and-agents/DATA-SOURCES.md) records the CDLI, SigLA, DĀMOS, ICIT, Unicode and other provider access/licence boundaries. Only original survey judgements and short cited facts are shared; ancient corpus texts, sign images, book/article copies and private session records are withheld.

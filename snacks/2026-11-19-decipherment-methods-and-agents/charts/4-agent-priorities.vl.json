@@ -1,0 +1,108 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#fffdf8",
+  "width": "container",
+  "config": {
+    "font": "Arial",
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 13,
+      "gridColor": "#e2dfd5"
+    },
+    "title": {
+      "fontSize": 18,
+      "anchor": "start",
+      "subtitleFontSize": 12,
+      "subtitleColor": "#4c5556"
+    },
+    "view": {
+      "stroke": null
+    },
+    "legend": {
+      "orient": "bottom",
+      "labelFontSize": 12
+    }
+  },
+  "data": {
+    "url": "charts/4-agent-priorities.csv"
+  },
+  "title": {
+    "text": "Agent priorities for checkable gains",
+    "subtitle": "Ordinal literature-based judgement, /18; Vinča comparator shown but excluded from the rank"
+  },
+  "height": 630,
+  "mark": {
+    "type": "bar",
+    "color": "#23656c",
+    "height": 17
+  },
+  "encoding": {
+    "x": {
+      "field": "total",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          0,
+          18
+        ]
+      },
+      "axis": {
+        "title": "Six criteria, each scored 0–3",
+        "tickMinStep": 1
+      }
+    },
+    "y": {
+      "field": "case",
+      "type": "nominal",
+      "sort": [
+        "Jurchen",
+        "Etruscan language",
+        "Proto-Elamite",
+        "Khitan small script",
+        "Meroitic language",
+        "Ancient Zapotec writing",
+        "Linear A",
+        "Khitan large script",
+        "Proto-Sinaitic gaps",
+        "Isthmian / Epi-Olmec",
+        "Linear Elamite",
+        "Indus signs",
+        "Rongorongo",
+        "Voynich manuscript",
+        "Byblos pseudo-hieroglyphic / syllabary",
+        "Cretan hieroglyphs",
+        "Cypro-Minoan",
+        "Eteocypriot",
+        "Singapore Stone",
+        "Olmec / Cascajal block",
+        "Phaistos disc",
+        "Vinča symbols"
+      ],
+      "axis": {
+        "title": null,
+        "labelLimit": 235
+      }
+    },
+    "tooltip": [
+      {
+        "field": "case"
+      },
+      {
+        "field": "rank"
+      },
+      {
+        "field": "total",
+        "type": "quantitative"
+      },
+      {
+        "field": "language_double_rank"
+      },
+      {
+        "field": "status"
+      },
+      {
+        "field": "agent_loop"
+      }
+    ]
+  }
+}

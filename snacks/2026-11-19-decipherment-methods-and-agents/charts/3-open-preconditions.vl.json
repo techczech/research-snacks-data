@@ -1,0 +1,99 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "background": "#fffdf8",
+  "width": "container",
+  "config": {
+    "font": "Arial",
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 13,
+      "gridColor": "#e2dfd5"
+    },
+    "title": {
+      "fontSize": 18,
+      "anchor": "start",
+      "subtitleFontSize": 12,
+      "subtitleColor": "#4c5556"
+    },
+    "view": {
+      "stroke": null
+    },
+    "legend": {
+      "orient": "bottom",
+      "labelFontSize": 12
+    }
+  },
+  "data": {
+    "url": "charts/3-open-preconditions.csv"
+  },
+  "title": {
+    "text": "The remaining gaps differ by case",
+    "subtitle": "Present evidence for 22 open or partial cases; full cell evidence and dated corpus notes in the CSVs"
+  },
+  "height": 660,
+  "mark": {
+    "type": "rect",
+    "stroke": "#fffdf8",
+    "strokeWidth": 2
+  },
+  "encoding": {
+    "x": {
+      "field": "heading",
+      "type": "ordinal",
+      "sort": [
+        "Parallel",
+        "Known target",
+        "Comparator",
+        "Script type",
+        "Names"
+      ],
+      "axis": {
+        "title": null,
+        "labelAngle": 0,
+        "labelFontSize": 11
+      }
+    },
+    "y": {
+      "field": "case",
+      "type": "ordinal",
+      "sort": null,
+      "axis": {
+        "title": null,
+        "labelLimit": 235
+      }
+    },
+    "color": {
+      "field": "state",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "yes",
+          "partial",
+          "no",
+          "uncertain"
+        ],
+        "range": [
+          "#23656c",
+          "#c79b36",
+          "#e3dfd4",
+          "#859398"
+        ]
+      },
+      "title": "Evidence code"
+    },
+    "tooltip": [
+      {
+        "field": "case"
+      },
+      {
+        "field": "condition"
+      },
+      {
+        "field": "state"
+      },
+      {
+        "field": "source_ids"
+      }
+    ]
+  }
+}

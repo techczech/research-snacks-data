@@ -1,0 +1,33 @@
+{
+  "title": "Decipherment survey reconstruction inputs and outputs",
+  "date": "2026-11-19",
+  "source_scope": "Manual literature coding; no ancient corpus text redistributed",
+  "sha256": {
+    "data/decipherment-cases.csv": "3c7b3514b9d0d16c6b75ed606fd44c20b05f0a5b3fc8f85c016d229a7483fab0",
+    "data/decipherment-cell-evidence.csv": "2a20d0a39627a38431ecc0a415bf15ab00ead23517843f2fe57331f018231f83",
+    "data/decipherment-computational-work.csv": "1b225dabbc775dd527f47ebbaf5ba2179dee9f4770df60c991d5b168ae265ae9",
+    "data/decipherment-sources.csv": "3ae8f634fffcdf1e4763abc53f500d404c76f123540870433c9d562420963e15",
+    "code/charts-decipherment.py": "4a609a5464b6655d4c325c8a466b7d1cd82d628ab680e3975f0547a64bbf69f7",
+    "code/reproduce.py": "9f32d5b551972720b48e5a36a45c07d80498b856c05f97fbc6de87c569bfe344",
+    "code/session-usage-codex.py": "6d051c641702a7549c71282a1d96a570afbae9b55f3cb14c82f16a009ca3b2ea",
+    "expected/1-timeline.csv": "34c3d6ba728ef4f3c11b54c75d08f4e545a36821104c47b9bf3ecd67635d9d9f",
+    "expected/2-preconditions-counts.csv": "85eb4d9948b02c9ae43e64d915398c449704a90c961038946ce55ccd592dc5ee",
+    "expected/3-preconditions-matrix.csv": "dc27426e4593e58a28ab905092a1329281ec7c5d54d195845cf5907ec73f85de",
+    "expected/4-agent-ranking.csv": "96aca1e5b65fd5436e8ee1a51526cf1a0937778053ec0360309a1fdcb47c88aa",
+    "expected/5-corpus-availability.csv": "16a36971489d89d5416aba5ed1a73303ffc4227880e761a62b6b458dbb7e0f76",
+    "expected/6-claim-tests.csv": "529ec0dd6e3e35eac8b896e232fa6528fbdb9cb23c9f9482e9f7c9a09df455c0",
+    "expected/7-survey-size.csv": "6bd368c7d396375475da88b2d58bf5d5b0a6fc62524ff67191a3a0530297f8e4",
+    "charts/1-decipherment-timeline.csv": "34c3d6ba728ef4f3c11b54c75d08f4e545a36821104c47b9bf3ecd67635d9d9f",
+    "charts/1-decipherment-timeline.png": "92d2884175baad696e7a4365a4b86001f2b60a130088c622fb26fb96cf6c7d19",
+    "charts/1-decipherment-timeline.vl.json": "4d6ec71f32c145e2590d9a3fc3e1ed42d8c04ed342846ee5d3e6ef872f39f6f1",
+    "charts/2-shared-preconditions.csv": "9d8c1b6d4c86cc351b667c3e8ef43ed01668d541e72e3adb173b665ec72239da",
+    "charts/2-shared-preconditions.png": "65e08ffb41d5427e1e6defc69bca31399763528d1720cd986edbadfb886cd66d",
+    "charts/2-shared-preconditions.vl.json": "f60ec7c80f100aa2130246f4f92ed372b6bcd5aaf5142e92571cae888da61d36",
+    "charts/3-open-preconditions.csv": "fa90e3402bfabc5d730c135e6f37f36037995423c4443b98747aa65bbf755cf4",
+    "charts/3-open-preconditions.png": "845c7de48d3608b00197c0528ece7c49d0f954d29f19ef0ba6e168658e45a729",
+    "charts/3-open-preconditions.vl.json": "414ad39a2f3cd81f7ad2032f8313ac94a4f1bef499c3f3a6a92b22dac5d30138",
+    "charts/4-agent-priorities.csv": "96aca1e5b65fd5436e8ee1a51526cf1a0937778053ec0360309a1fdcb47c88aa",
+    "charts/4-agent-priorities.png": "0862c15e4277e97785754299cdd6d2c208a5d6747a95dad9e264e2834fe18498",
+    "charts/4-agent-priorities.vl.json": "482337122e645da7a8b97476bc5517f9feef2ea1ac368da9cb69f752142cb4d2"
+  }
+}
