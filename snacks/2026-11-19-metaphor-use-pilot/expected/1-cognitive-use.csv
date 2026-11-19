@@ -1,0 +1,9 @@
+dimension,category,pass_id,units,documents
+cognitive,attributive,A,19,6
+cognitive,attributive,B,39,6
+cognitive,constitutive,A,40,6
+cognitive,constitutive,B,19,6
+cognitive,mixed,A,0,0
+cognitive,mixed,B,0,0
+cognitive,uncertain,A,0,0
+cognitive,uncertain,B,0,0

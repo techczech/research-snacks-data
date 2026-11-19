@@ -1,0 +1,20 @@
+dimension,n,agree,disagree,agreement_percent,kappa
+Identification (M/L/U),402,380,22,94.53,0.8113
+Identification (M/L; excludes any U),385,377,8,97.92,0.9152
+cognitive,51,26,25,50.98,0.0964
+elaboration,51,26,25,50.98,0.0964
+social,51,39,12,76.47,0.5328
+binding,51,35,16,68.63,-0.0238
+scope,51,51,0,100.00,1.0000
+social: declarative,51,51,0,100.00,undefined
+social: exegetic,51,51,0,100.00,1.0000
+social: figurative,51,43,8,84.31,0.1282
+social: innovative,51,51,0,100.00,undefined
+social: performative,51,47,4,92.16,0.6277
+social: prevaricative,51,51,0,100.00,undefined
+social: uncertain,51,51,0,100.00,undefined
+binding: anaphoric,51,44,7,86.27,-0.0348
+binding: cataphoric,51,40,11,78.43,0.0000
+binding: exophoric,51,51,0,100.00,undefined
+binding: none,51,35,16,68.63,-0.0382
+binding: uncertain,51,51,0,100.00,undefined

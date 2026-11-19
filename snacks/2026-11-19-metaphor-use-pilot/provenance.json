@@ -1,0 +1,22 @@
+{
+  "id": "2026-11-19-metaphor-use-pilot",
+  "annotation_status": "provisional; not checked by Dominik",
+  "input_and_expected_sha256": {
+    "CODEBOOK.md": "7bb457471dd0cd53478d532eb0fbb520564168dd755bcec3aa5845d077fa3f4f",
+    "DATA-SOURCES.md": "65e3a4301aa4003c65a14e8581c46f403ce383be57e1f4113627874d997da9a9",
+    "code/reproduce.py": "aa06be2c16f4946d8d48cdde4e6465650c8156e53b743f1b269a5bf80c154ca8",
+    "data/PSF-LICENCE.txt": "bde0d5c50f75668f7e316744ea08ab406fda136dfc1013c41e3ca4ba016f7788",
+    "data/pass-a.json": "c205b14b4b5ae3be87fe6af6d7faf64f5fbceef3400cff5b61b4036ab99c9627",
+    "data/pass-b.json": "d9ef0cc159a62eaa2c9675de22aaa2e6f31b197cfc6321a9e100d1e1faa80f92",
+    "data/pilot-texts.json": "af5a47dc5d5a1d866148aae1672344c7859dd2a3ca742052e7570de8f92cf74b",
+    "data/pilot-units.csv": "78c88310f48f9032ac4fb9fbe50de1ec5049d57042128f7ccf3045454b9e54e1",
+    "expected/1-cognitive-use.csv": "fd805364012e558dc746c4a077c9412a7c9409aa196f551e3ba07688308240b3",
+    "expected/2-agreement.csv": "037aa9459d6e213fce197071bfa47deae45e5154d2747c6ad86c94c9218a0ea5",
+    "expected/agreement.csv": "020c1b5f15dba2a2ff5cc9b4ee08b6e8227a8837062646a952b17a5113f29b58",
+    "expected/corpus-summary.csv": "d223647eda638c41f5c007602dff53a71bffd76b3ee58db221dfec378eb1bab7",
+    "expected/disagreements.csv": "6b699c70e59db2d42333ab21d2e3a0bc3ff4334155e4a2dc6edcb47c59ebce76",
+    "expected/identification-confusion.csv": "8b390c125a7fffc823343bb053f9f178626033be25bb903bccd3d4dcbb0e1e3a",
+    "expected/pilot-totals.csv": "59bbbc669f874ece443d294f9ad10ec68cdb63a9efbba0bff4f55c74bf5ccbb5",
+    "expected/use-counts.csv": "3abc4fe5807f740f1f960c44d339bf3cbf855d8a6fa0f011e6f21255cdf038b7"
+  }
+}
