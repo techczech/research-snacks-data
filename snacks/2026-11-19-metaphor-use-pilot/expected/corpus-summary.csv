@@ -1,7 +1,7 @@
-text_id,genre,units,a_metaphor,b_metaphor,a_uncertain,b_uncertain,both_metaphor,identification_disagreements
-H,Parliamentary speech,87,11,11,1,1,10,2
-P,Government policy,68,10,9,1,4,7,6
-W,Encyclopaedia,50,13,13,1,1,12,4
-N,News report,52,7,9,0,0,7,2
-S,Science explainer,80,9,8,1,4,8,3
-E,Programming tutorial,65,9,8,3,3,7,5
+text_id,genre,whitespace_tokens,units,a_metaphor,b_metaphor,a_uncertain,b_uncertain,both_metaphor,identification_disagreements
+H,Parliamentary speech,87,87,11,11,1,1,10,2
+P,Government policy,70,68,10,9,1,4,7,6
+W,Encyclopaedia,50,50,13,13,1,1,12,4
+N,News report,52,52,7,9,0,0,7,2
+S,Science explainer,80,80,9,8,1,4,8,3
+E,Programming tutorial,65,65,9,8,3,3,7,5

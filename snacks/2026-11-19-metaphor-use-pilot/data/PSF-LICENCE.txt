@@ -1,7 +1,7 @@
-Copyright © 2001 Python Software Foundation. All rights reserved.
+Copyright © 2001 Python Software Foundation; All Rights Reserved
 Source: https://docs.python.org/3.14/license.html
 
-PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2¶
+PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
 1. This LICENSE AGREEMENT is between the Python Software Foundation ("PSF"), and
    the Individual or Organization ("Licensee") accessing and otherwise using this
    software ("Python") in source or binary form and its associated documentation.
@@ -42,3 +42,5 @@ PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2¶
 
 8. By copying, installing or otherwise using Python, Licensee agrees
    to be bound by the terms and conditions of this License Agreement.
+
+Changes in this excerpt distribution: the opening prose paragraph is selected, whitespace is normalised, and orthographic units are numbered in a separate CSV. No substantive wording or code is changed.

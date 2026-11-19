@@ -1,5 +1,6 @@
-dimension,n,agree,disagree,agreement_percent,kappa
-cognitive,51,26,25,50.98,0.0964
-social,51,39,12,76.47,0.5328
-binding,51,35,16,68.63,-0.0238
-scope,51,51,0,100.00,1.0000
+dimension,n,agree,disagree,agreement_percent,kappa,display,label
+cognitive,51,26,25,50.98,0.0964,Cognitive use,50.98% · κ 0.0964
+social,51,39,12,76.47,0.5328,Social label sets,76.47% · κ 0.5328
+binding,51,35,16,68.63,-0.0238,Textual binding,68.63% · κ -0.0238
+scope,51,51,0,100.00,1.0000,Scope in excerpt,100.00% · κ 1.0000
+social: figurative,51,43,8,84.31,0.1282,Figurative appeal,84.31% · κ 0.1282
