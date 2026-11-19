@@ -92,6 +92,25 @@
         "field": "denominator",
         "type": "quantitative"
       }
-    ]
-  }
+    ],
+    "opacity": {
+      "condition": {
+        "param": "state_pick",
+        "value": 1
+      },
+      "value": 0.2
+    }
+  },
+  "params": [
+    {
+      "name": "state_pick",
+      "select": {
+        "type": "point",
+        "fields": [
+          "state"
+        ]
+      },
+      "bind": "legend"
+    }
+  ]
 }
