@@ -1,0 +1,11 @@
+{
+  "model": "gpt-6.1-sol",
+  "start_utc": "2026-11-19T11:19:14.492Z",
+  "snapshot_utc": "2026-11-19T11:43:21.703Z",
+  "distinct_usage_events": 52,
+  "input_tokens": 11196791,
+  "cached_input_tokens": 10878464,
+  "output_tokens": 43866,
+  "reasoning_output_tokens": 10901,
+  "coverage": "This research and drafting session through the snapshot. Later validation and publication excluded."
+}

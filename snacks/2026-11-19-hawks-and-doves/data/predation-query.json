@@ -1,0 +1,30 @@
+{
+  "Lines": [],
+  "finished": 1,
+  "concsize": 0,
+  "fullsize": 0,
+  "asyn": 0,
+  "Desc": [
+    {
+      "op": "Query",
+      "arg": "([lc=\"hawks?\"] []{0,15} [lemma_lc=\"kill|eat|hunt|devour|prey|swoop|tear|pluck\"] []{0,15} [lc=\"doves?\"]) | ([lc=\"doves?\"] []{0,15} [lemma_lc=\"kill|eat|hunt|devour|prey|swoop|tear|pluck\"] []{0,15} [lc=\"hawks?\"])",
+      "nicearg": "hawks?, kill|eat|hunt|devour|prey|swoop|tear|pluck, doves?",
+      "rel": 0,
+      "size": 0,
+      "tourl": "q=q%28%5Blc%3D%22hawks%3F%22%5D+%5B%5D%7B0%2C15%7D+%5Blemma_lc%3D%22kill%7Ceat%7Chunt%7Cdevour%7Cprey%7Cswoop%7Ctear%7Cpluck%22%5D+%5B%5D%7B0%2C15%7D+%5Blc%3D%22doves%3F%22%5D%29+%7C+%28%5Blc%3D%22doves%3F%22%5D+%5B%5D%7B0%2C15%7D+%5Blemma_lc%3D%22kill%7Ceat%7Chunt%7Cdevour%7Cprey%7Cswoop%7Ctear%7Cpluck%22%5D+%5B%5D%7B0%2C15%7D+%5Blc%3D%22hawks%3F%22%5D%29"
+    }
+  ],
+  "api_version": "5.89",
+  "manatee_version": "2.36.7-SkE-2.239.1",
+  "request": {
+    "q": "q([lc=\"hawks?\"] []{0,15} [lemma_lc=\"kill|eat|hunt|devour|prey|swoop|tear|pluck\"] []{0,15} [lc=\"doves?\"]) | ([lc=\"doves?\"] []{0,15} [lemma_lc=\"kill|eat|hunt|devour|prey|swoop|tear|pluck\"] []{0,15} [lc=\"hawks?\"])",
+    "pagesize": "100",
+    "action": "concordance",
+    "format": "json",
+    "asyn": 0,
+    "refs": "=doc.src,=doc.date,=doc.year",
+    "kwicleftctx": "-60",
+    "kwicrightctx": "60",
+    "corpname": "preloaded/sibol_corpus"
+  }
+}

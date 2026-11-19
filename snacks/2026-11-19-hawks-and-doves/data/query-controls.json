@@ -1,0 +1,7 @@
+{
+  "positive_control": "[lemma_lc=\"kill\"]",
+  "corpus": "preloaded/sibol_corpus",
+  "finished": 1,
+  "concsize": 206749,
+  "purpose": "Check lemma attribute retrieval works before interpreting a completed zero-result narrow predation query."
+}

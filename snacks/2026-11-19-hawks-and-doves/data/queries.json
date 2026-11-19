@@ -1,0 +1,69 @@
+[
+  {
+    "id": "sibol-sample-wide",
+    "request": {
+      "q": [
+        "q[lc=\"hawks?|doves?|hawkish|dovish\"]",
+        "r160"
+      ],
+      "pagesize": "160",
+      "action": "concordance",
+      "format": "json",
+      "asyn": 0,
+      "refs": "=doc.src,=doc.date,=doc.year",
+      "kwicleftctx": "-80",
+      "kwicrightctx": "80",
+      "corpname": "preloaded/sibol_corpus"
+    },
+    "operations": [
+      {
+        "op": "Query",
+        "arg": "[lc=\"hawks?|doves?|hawkish|dovish\"]",
+        "nicearg": "hawks?|doves?|hawkish|dovish",
+        "rel": 11.66,
+        "size": 11766,
+        "tourl": "q=q%5Blc%3D%22hawks%3F%7Cdoves%3F%7Chawkish%7Cdovish%22%5D"
+      },
+      {
+        "op": "Random sample",
+        "arg": "160",
+        "nicearg": "",
+        "rel": 0.16,
+        "size": 160,
+        "tourl": "q=q%5Blc%3D%22hawks%3F%7Cdoves%3F%7Chawkish%7Cdovish%22%5D&q=r160"
+      }
+    ],
+    "finished": 1,
+    "returned_lines": 160,
+    "response_md5": "d97ae6d300757c0f569b0cf9d72092a6"
+  },
+  {
+    "id": "sibol-pairs-wide",
+    "request": {
+      "q": [
+        "q[lc=\"hawks?\"] []{0,20} [lc=\"doves?\"] | [lc=\"doves?\"] []{0,20} [lc=\"hawks?\"]"
+      ],
+      "pagesize": "500",
+      "action": "concordance",
+      "format": "json",
+      "asyn": 0,
+      "refs": "=doc.src,=doc.date,=doc.year",
+      "kwicleftctx": "-80",
+      "kwicrightctx": "80",
+      "corpname": "preloaded/sibol_corpus"
+    },
+    "operations": [
+      {
+        "op": "Query",
+        "arg": "[lc=\"hawks?\"] []{0,20} [lc=\"doves?\"] | [lc=\"doves?\"] []{0,20} [lc=\"hawks?\"]",
+        "nicearg": "hawks?, doves?",
+        "rel": 0.22,
+        "size": 221,
+        "tourl": "q=q%5Blc%3D%22hawks%3F%22%5D+%5B%5D%7B0%2C20%7D+%5Blc%3D%22doves%3F%22%5D+%7C+%5Blc%3D%22doves%3F%22%5D+%5B%5D%7B0%2C20%7D+%5Blc%3D%22hawks%3F%22%5D"
+      }
+    ],
+    "finished": 1,
+    "returned_lines": 221,
+    "response_md5": "7ba87519ae6fe217d283de5ae85fbb02"
+  }
+]

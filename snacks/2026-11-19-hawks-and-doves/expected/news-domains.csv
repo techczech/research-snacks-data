@@ -1,0 +1,4 @@
+domain,policy_tokens,elaborated_tokens,policy_sample_denominator
+monetary,22,2,50
+fiscal_or_price,6,0,50
+other_policy,22,0,50
