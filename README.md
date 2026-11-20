@@ -30,7 +30,6 @@ The checker rebuilds all snacks in temporary folders and diffs every final CSV a
 | [Canals and nuclear power as investment booms](snacks/2026-11-19-canals-nuclear-investment-booms/) | Canal and civil nuclear spending as a share of GDP, canal receipts and returns, nuclear utilisation and cancellations. |
 | [Hawks and doves](snacks/2026-11-19-hawks-and-doves/) | Counts of elaborations of the political hawk and dove metaphor by source and decade, from saved annotations. |
 | [Literally](snacks/2026-11-19-literally-pet-peeve-redo/) | Claim audit counts, Ngram series and the reading and function counts from annotated contexts. |
-| [Metaphor use pilot](snacks/2026-11-19-metaphor-use-pilot/) | Agreement tables between two annotation passes over six texts, from frozen annotation records. |
 | [Revolution speed](snacks/2026-11-19-revolution-speed-2011-redo/) | Date arithmetic for sixteen episodes, era sensitivities, NAVCO success rates and survey facts. |
 | [Decipherment methods and agents](snacks/2026-11-19-decipherment-methods-and-agents/) | Stage-specific coding for 20 dependent historical recoveries, two identity questions, 26-case open/comparison matrix, unordered task groups, council response and downloadable tractability sensitivity. |
 
