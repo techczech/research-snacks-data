@@ -1,0 +1,115 @@
+[
+  {
+    "file": "census-power-1929.pdf",
+    "url": "https://www2.census.gov/prod2/decennial/documents/03450419v1ch06.pdf",
+    "final_url": "https://www2.census.gov/prod2/decennial/documents/03450419v1ch06.pdf",
+    "bytes": 8657339,
+    "md5": "ec9cccf2ebea0e4206e9bdfc11dbba03",
+    "sha256": "aabfd2064962b5fbba641a6996517c5e141e13138945d5f4cde320319991112e",
+    "retrieved_at": "2026-11-17T08:26:43.721550+00:00",
+    "status": "downloaded"
+  },
+  {
+    "file": "att-1952.pdf",
+    "url": "https://memorial.bellsystem.com/pdf/1952ATTar_Complete.pdf",
+    "final_url": "https://memorial.bellsystem.com/pdf/1952ATTar_Complete.pdf",
+    "bytes": 30562751,
+    "md5": "7e2d5d4ada2b3ec2196e323ddf455625",
+    "sha256": "ff6f3db821ba61f765f24e697ccf7bcff99a13875e2bc1fb9a725d2385d9e5b3",
+    "retrieved_at": "2026-11-17T08:26:51.300093+00:00",
+    "status": "downloaded"
+  },
+  {
+    "file": "ici-factbook-2025.pdf",
+    "url": "https://www.ici.org/system/files/2025-05/2025-factbook.pdf",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "fed-payments-2021.html",
+    "url": "https://www.federalreserve.gov/paymentsystems/december-2021-findings-from-the-federal-reserve-payments-study.htm",
+    "final_url": "https://www.federalreserve.gov/paymentsystems/december-2021-findings-from-the-federal-reserve-payments-study.htm",
+    "bytes": 165505,
+    "md5": "382b965439135b62c5e8972f255b18db",
+    "sha256": "0c13b6bc2a9b0741301fd7a08cefd109a98e0634b6ad6be2f423b82bcf063064",
+    "retrieved_at": "2026-11-17T08:26:37.439258+00:00",
+    "status": "downloaded"
+  },
+  {
+    "file": "itu-sdg.html",
+    "url": "https://www.itu.int/en/ITU-D/Statistics/Pages/SDGs-ITU-ICT-indicators.aspx",
+    "final_url": "https://www.itu.int/en/ITU-D/Statistics/Pages/SDGs-ITU-ICT-indicators.aspx",
+    "bytes": 103738,
+    "md5": "b785b4da9a92f6fd823a1d9f642171a4",
+    "sha256": "c48afa5cc7ccfd04a2fc0161d7303a7551a8210a397b0dee93f96fa8c2643e21",
+    "retrieved_at": "2026-11-17T08:26:38.941515+00:00",
+    "status": "downloaded"
+  },
+  {
+    "file": "senate-dial.html",
+    "url": "https://www.senate.gov/artandhistory/senate-stories/senators-balk-at-dial-telephones.htm",
+    "final_url": "https://www.senate.gov/artandhistory/senate-stories/senators-balk-at-dial-telephones.htm",
+    "bytes": 38334,
+    "md5": "94370a2dc1d0ab949df3a9621e9446c3",
+    "sha256": "8ba1c721bcf8739edd3f9e1916f8fccf784eb4f0f3afcc73a008a7875c839b6a",
+    "retrieved_at": "2026-11-17T08:26:38.546959+00:00",
+    "status": "downloaded"
+  },
+  {
+    "file": "bcb-pix.html",
+    "url": "https://www.bcb.gov.br/en/pressdetail/2396/nota/https%3A/www3.bcb.gov.br/sgspub",
+    "final_url": "https://www.bcb.gov.br/en/pressdetail/2396/nota/https%3A/www3.bcb.gov.br/sgspub",
+    "bytes": 5898,
+    "md5": "30be707d5b10fb76aa3d11194cc59eb1",
+    "sha256": "a5e289b3bbd3fd9a9c61df3b193fb90a700e4c22aa422491bbdd4d8e6d9e04f8",
+    "retrieved_at": "2026-11-17T08:26:39.464193+00:00",
+    "status": "downloaded"
+  },
+  {
+    "file": "bis-fx.html",
+    "url": "https://www.bis.org/publications/fx-execution-algorithms-and-market-functioning",
+    "final_url": "https://www.bis.org/publications/fx-execution-algorithms-and-market-functioning",
+    "bytes": 122351,
+    "md5": "3c7f346b9ac1bfb34f1d9ffbe27705be",
+    "sha256": "8f86136026dc74161c38f59d3f9f50267e3f107359d02985ee0401901c913186",
+    "retrieved_at": "2026-11-17T08:26:41.534965+00:00",
+    "status": "downloaded"
+  },
+  {
+    "file": "fed-wealth-definition.html",
+    "url": "https://www.federalreserve.gov/releases/z1/preview/html/b101.htm",
+    "final_url": "https://www.federalreserve.gov/releases/z1/preview/html/b101.htm",
+    "bytes": 137330,
+    "md5": "1dc0a016386c0b91e9048ad2d2d7c825",
+    "sha256": "74408217e29059b30ac02e725433fd01f4d3310287864d5a0e8df72e01f3a45a",
+    "retrieved_at": "2026-11-17T08:26:39.745041+00:00",
+    "status": "downloaded"
+  },
+  {
+    "file": "ici-factbook-2025.pdf",
+    "url": "https://www.icifactbook.org/pdf/2025-factbook.pdf",
+    "bytes": 6587865,
+    "md5": "0170781a0917121b9cf5699e97539318",
+    "sha256": "06b36b37f76df4bfbdd0693b05115bce7b9e054a67e5a2f5d017ffbffbb15717",
+    "status": "downloaded",
+    "recorded_at": "2026-11-17T08:37:39.284862+00:00"
+  },
+  {
+    "file": "bis-fx.pdf",
+    "url": "https://www.bis.org/publications/fx-execution-algorithms-and-market-functioning.pdf",
+    "bytes": 494088,
+    "md5": "5fe925346dac6ba923acc15f8b71c995",
+    "sha256": "42a106fdc1344aa0db00f7a39b1ae5d72f8d8d3af2f46c6a45abb4c3b0fce048",
+    "status": "downloaded",
+    "recorded_at": "2026-11-17T08:37:39.286173+00:00"
+  },
+  {
+    "file": "bis-pix.pdf",
+    "url": "https://www.bis.org/publications/bulletin-52-central-banks-monetary-system-and-public-payment-infrastructures-lessons-brazils-pix.pdf",
+    "bytes": 506793,
+    "md5": "fd9b5d6f7d06864d0834e278b8d95854",
+    "sha256": "d6f399ba98c74bbd2b423352a074bdba89e39d4e10a43a7c076a2bacf4d17c21",
+    "status": "downloaded",
+    "recorded_at": "2026-11-17T08:37:39.287352+00:00"
+  }
+]

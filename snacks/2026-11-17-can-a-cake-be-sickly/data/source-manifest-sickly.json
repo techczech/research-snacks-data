@@ -1,0 +1,74 @@
+[
+  {
+    "source_relative_path": "_REPORT-sickly-inanimate-predication.md",
+    "published_file": "data/_REPORT-sickly-inanimate-predication.md",
+    "sha256": "2dd5134b17a899826611e6dbd236a26b1da6128aa2e095a7ccf0784b2fb3d7e4",
+    "bytes": 38745
+  },
+  {
+    "source_relative_path": "report-sickly-inanimate-predication.single.html",
+    "published_file": "data/original-sickly-report.html",
+    "sha256": "2efcca91723b2f0f8538e8d1a9c92bd8382a03d8999fee9665d5bb2cc8128a2b",
+    "bytes": 133178
+  },
+  {
+    "source_relative_path": "evidence.md",
+    "published_file": "data/original-sickly-evidence.md",
+    "sha256": "1ded61c8628fdbe7fd9f0bf2e282ac13ef92a508d86d4add48756ed11315adb1",
+    "bytes": 9251
+  },
+  {
+    "source_relative_path": "visual-report/method.md",
+    "published_file": "data/original-sickly-method.md",
+    "sha256": "52eadf07eb5815ce4e2c2abc2138eb1fae150cc655fca6235ea98cc8e6afa36d",
+    "bytes": 1633
+  },
+  {
+    "source_relative_path": "20261007-160001-food-constructions.md",
+    "published_file": "data/20261007-160001-food-constructions.md",
+    "sha256": "acd7a1aec2ef9e6a78094229b5fca3cd960de6c4f18a6d6d0986d342999f504a",
+    "bytes": 1038
+  },
+  {
+    "source_relative_path": "20261007-160002-collocation-measures.md",
+    "published_file": "data/20261007-160002-collocation-measures.md",
+    "sha256": "a2e2a28f16ba72d00ccd45ccf0eb5a4b712fdc47d6df141727fbfc345f097084",
+    "bytes": 1149
+  },
+  {
+    "source_relative_path": "20261007-160003-american-sparsity-and-tags.md",
+    "published_file": "data/20261007-160003-american-sparsity-and-tags.md",
+    "sha256": "e18b935146467106e51ba3aa2921132c4d81f00f497b20584bd051185bdcf1f6",
+    "bytes": 928
+  },
+  {
+    "source_relative_path": "analysis-bnc-sickly-food-constructions.csv",
+    "published_file": "data/analysis-bnc-sickly-food-constructions.csv",
+    "sha256": "f6516aaded578a35c6a7127c2dbc7bc7a91ba05da82bc6f11b671be72ebe59b2",
+    "bytes": 16896
+  },
+  {
+    "source_relative_path": "visual-report/data/kwic.json",
+    "published_file": "data/kwic.json",
+    "sha256": "d47280f80296a8d4e694ce364e8e655dcb38dda3637cc3739532b8a54afd528d",
+    "bytes": 14308
+  },
+  {
+    "source_relative_path": "visual-report/data/collocations-bnc.json",
+    "published_file": "data/collocations-bnc.json",
+    "sha256": "8e2189f8bbe3d4e335ca10191f58292ab7664c437df705d5408983d801515c0d",
+    "bytes": 7686
+  },
+  {
+    "source_relative_path": "visual-report/data/collocations-oanc.json",
+    "published_file": "data/collocations-oanc.json",
+    "sha256": "dedc5590887fecc9711429f53d67c7e49af5c5d369fedf2765ecd5722d707b35",
+    "bytes": 994
+  },
+  {
+    "source_relative_path": "visual-report/data/word-sketch.json",
+    "published_file": "data/word-sketch.json",
+    "sha256": "de654ced9c2a4252815ab914547e7d01620613ec8c07d393cb2023f96031ebb8",
+    "bytes": 7681
+  }
+]

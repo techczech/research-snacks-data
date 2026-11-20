@@ -29,3 +29,9 @@ The default run recalculates elapsed years, validates the percentage ranges, rec
 Every input row includes its primary-source URL and page/table locator. Source values were transcribed and checked in the original research. The checking repo makes that transcription inspectable; it does not independently re-extract the PDFs. Fetch the sources at those URLs to inspect the transcription. See DATA-SOURCES.md for the distinct ICI, ITU and BIS terms before reusing these rows.
 
 Private model scenarios, assumptions from broader exploratory models, personal usage/account snapshots, session logs, full PDFs and cached web pages are withheld. They are not required by this published snack's calculation. Historical timing and token figures are outside the rerun.
+
+## Additional research files
+
+- [`data/source-manifest.json`](data/source-manifest.json) — Primary-source URLs, retrieval statuses and checksums; source provenance without source documents.
+
+These additions do not change `check.py` or its expected-output set. Extraction and optional chart-rendering scripts are separate from the default numerical check.

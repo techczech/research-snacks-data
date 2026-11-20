@@ -44,3 +44,11 @@ Diff the two generated aggregate CSVs against their namesakes in `data/`. A late
 Required IPUMS citation, copied verbatim from the original Version 16.0 codebook underlying the entry:
 
 > Steven Ruggles, Sarah Flood, Matthew Sobek, Daniel Backman, Grace Cooper, Julia A. Rivera Drew, Stephanie Richards, Renae Rodgers, Jonathan Schroeder, and Kari C.W. Williams. IPUMS USA: Version 16.0 [dataset]. Minneapolis, MN: IPUMS, 2025. https://doi.org/10.18128/D010.V16.0
+
+## Additional research files
+
+- [`code/charts.py`](code/charts.py) — Original renderer for the jobs figures; analysis output code.
+- [`code/extract.py`](code/extract.py) — Original IPUMS extract request code; no microdata or credentials included.
+- [`code/extract2.py`](code/extract2.py) — Original second IPUMS extract request code; no microdata or credentials included.
+
+These additions do not change `check.py` or its expected-output set. Extraction and optional chart-rendering scripts are separate from the default numerical check.
