@@ -1,0 +1,40 @@
+corpus,referent,construction,coordination,reading,left,node,right,reference,token
+BNC,ham,elliptical/supplementary,coordinated,visual,the ham pale and,sickly,and the olives slimy.,bncdoc.id=HTT; David Lee's classification=W_fict_prose; bncdoc.title=Ratking.,8264144
+BNC,sweets (mithai),attributive,coordinated,flavour,Wallah's stickiest and most,sickly,sweets. Nearby other shops,bncdoc.id=H89; David Lee's classification=W_misc; bncdoc.title=City of djinns.,24180666
+BNC,breakfast mix,attributive,sole,flavour inferred,a supply of the,sickly,"breakfast mix, and restocked",bncdoc.id=AT3; David Lee's classification=W_misc; bncdoc.title=Wheelbarrow across the Sahara.,31557459
+BNC,cherry brandy,explicit verbal complement,coordinated,flavour,then I found it,sickly,and thick. I only,bncdoc.id=AR8; David Lee's classification=W_non_ac_polit_law_edu; bncdoc.title=The SAS at war 1941-1945.,43631753
+BNC,chocolate cake,explicit verbal complement,sole,anticipated flavour,it looked a little,sickly,. Then I plucked,bncdoc.id=BN6; David Lee's classification=W_biography; bncdoc.title=Seasons of my life.,45844644
+BNC,canned tomatoes,explicit verbal complement,coordinated,flavour,they become monotonous and,sickly,. Two to three,bncdoc.id=EFU; David Lee's classification=W_misc; bncdoc.title=An omelette and a glass of wine.,65782117
+BNC,cream eggs,elliptical/supplementary,sole,flavour,now do ya? bit,sickly,", but I'll eat",bncdoc.id=KD6; David Lee's classification=S_conv; bncdoc.title====NONE===,70558912
+BNC,coffee cake,elliptical/supplementary,sole,flavour,"really want ano ,",sickly,", take them home",bncdoc.id=KBW; David Lee's classification=S_conv; bncdoc.title====NONE===,71331007
+BNC,chocolates/truffles,explicit verbal complement,sole,flavour,these because there too,sickly,wouldn't you like a,bncdoc.id=KBB; David Lee's classification=S_conv; bncdoc.title====NONE===,71448088
+BNC,chocolates,explicit verbal complement,sole,flavour,sick. They're a bit,sickly,aren't they those chocolate,bncdoc.id=KBB; David Lee's classification=S_conv; bncdoc.title====NONE===,71465045
+BNC,peppermint truffle,elliptical/supplementary,sole,flavour,Peppermint truffle. Yeah. Quite,sickly,. You only get,bncdoc.id=KCR; David Lee's classification=S_conv; bncdoc.title====NONE===,73697651
+BNC,Spanish white wine,attributive,coordinated,flavour,sweet but not too,sickly,Spanish white perfect with,bncdoc.id=CBC; David Lee's classification=W_newsp_other_social; bncdoc.title=Today.,97701033
+BNC,Indian desserts,attributive,coordinated,flavour,the rather sweet and,sickly,Indian desserts. And drink,bncdoc.id=CDR; David Lee's classification=W_misc; bncdoc.title=Total health and fitness.,101346811
+BNC,shortbread buttons,attributive,sole,flavour,handed little packs of,sickly,shortbread buttons to the,bncdoc.id=FS5; David Lee's classification=W_fict_poetry; bncdoc.title=Sky ray lolly.,110611156
+BNC,cocktail,elliptical/supplementary,sole,flavour,"was sticky sweet, almost",sickly,. She would have,bncdoc.id=FPX; David Lee's classification=W_fict_prose; bncdoc.title=War in high heels.,110988643
+BNC,colour,predicative,sole,visual,but her colour is,sickly,"in many instances here,",bncdoc.id=J1K; David Lee's classification=W_misc; bncdoc.title=Women's Art.,5852567
+BNC,parody,predicative,sole,metaphorical,unproductive. parody has grown,sickly,", its place in",bncdoc.id=ARD; David Lee's classification=W_ac_humanities_arts; bncdoc.title=Screen.,44094992
+BNC,light,attributive,coordinated,visual,in a chic and,sickly,"light, so sickly and",bncdoc.id=G2E; David Lee's classification=W_pop_lore; bncdoc.title=Harpers & Queen.,52783654
+BNC,light,predicative,coordinated,visual,"and sickly light, so",sickly,and so chic that,bncdoc.id=G2E; David Lee's classification=W_pop_lore; bncdoc.title=Harpers & Queen.,52783658
+BNC,Japan / economy,predicative,sole,metaphorical,year. Japan also looks,sickly,. The Fund now,bncdoc.id=CR7; David Lee's classification=W_pop_lore; bncdoc.title=The Economist.,90984014
+BNC,fruit drink,adjective modifier,uncoordinated,flavour,stewardess handed me a,sickly,sweet fruit drink and,bncdoc.id=APC; David Lee's classification=W_misc; bncdoc.title=In the palace of serpents.,42812173
+BNC,brownies,adjective modifier,uncoordinated,flavour,oh they were really,sickly,"rich, weren't they and",bncdoc.id=KE3; David Lee's classification=S_conv; bncdoc.title====NONE===,82283919
+OANC,pallor,attributive,sole,visual,"face , casting a",sickly,pallor over her heartbeat-strong,Domain=fiction; Corpus=masc,109371
+OANC,children,predicative,sole,health,his children are,sickly,,Domain=journal; Corpus=oanc,2767958
+OANC,green / toothpaste colour,attributive,asyndetic / juxtaposed,visual,a,sickly,", opaque green",Domain=journal; Corpus=oanc,3262710
+OANC,child,attributive,sole,health,a,sickly,child,Domain=journal; Corpus=oanc,4398022
+OANC,look / image colours,attributive,sole,visual,a,sickly,look,Domain=journal; Corpus=oanc,4734551
+OANC,economy,attributive,sole,metaphorical,a,sickly,economy,Domain=journal; Corpus=oanc,5391873
+enTenTen13,cake (matched passage),attributive,sole,flavour,a very,sickly cake,,url=http://www.culturecompass.co.uk/2011/10/29/interview-with-oh-my/,20007415499
+enTenTen13,cake (same cake),predicative,sole,flavour,that cake was so,sickly,!,url=http://www.culturecompass.co.uk/2011/10/29/interview-with-oh-my/,20007415499
+enTenTen13,soy sauce,attributive,asyndetic / juxtaposed,flavour,"relation to the thin,",sickly sauce,in packets from Chinese,url=http://thenibble.com/REVIEWS/main/salts/gourmet-soy-sauce.asp,6354722820
+enTenTen13,frosting,attributive,sole,flavour,with fake cream and,sickly frosting,. I am not,url=http://www.cruisecritic.com/memberreviews/memberreview.cfm?EntryID=228663,10776312293
+enTenTen13,cherry brandy,attributive,sole,flavour,"strangely, cherry brandy (a",sickly drink,then mainly associated with,url=http://andrewstuttaford.com/2009/07/17/destination-moon/,13345985541
+enTenTen13,chocolates,attributive,sole,flavour,One of the more,sickly chocolates,", this one has",url=http://www.previousmagazine.com/ultimate-christmas-hamper-hotel-chocolat-review,13363793024
+enTenTen13,syrup,attributive,sole,flavour,to shaved ice with,sickly syrup,":>o. Priceless, truly ....",url=http://rvthereyet.ca/2006/05/,22411816983
+ukWaC,cream,predicative,sole,flavour,,cream is rather sickly,,Website (e.g. wikipedia.org)=sch.uk; doc.id=http://www.woodgreen.oxon.sch.uk/wgs_50/memories_staff_pupil/mr_pooley/diary.htm,83621010
+ukWaC,white chocolate,predicative,sole,flavour,,chocolate tends to be rather sickly,,Website (e.g. wikipedia.org)=chocolate.co.uk; doc.id=http://www.chocolate.co.uk/fact18.php,309109141
+enTenTen13,biscuits,adjective modifier,uncoordinated,flavour,"a fan array, those",sickly sweet biscuits,that are the only,url=http://www.harikunzru.com/archive/kaltes-klares-wasser-2005,14474876274
+enTenTen13,biscuit image / cosmetic smell,adjective modifier,uncoordinated,olfactory imagery,like so sort of,sickly sweet biscuit,. And the scent,url=http://bittenglam.blogspot.ca/2012/08/review-jergens-natural-glow-daily.html,21817472461
