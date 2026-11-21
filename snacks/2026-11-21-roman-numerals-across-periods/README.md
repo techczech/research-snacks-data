@@ -1,7 +1,7 @@
 ---
 title: Roman numerals across periods
 date: 2026-11-21
-provenance: Roman Numeral Reader v3, commit f18898eb1347658cbfe05a71c200be86b2e0322f
+provenance: Roman Numeral Reader v3, commit b15675de12c18fcd8c1092417a0671854d84f786
 ---
 
 # Roman numerals across periods

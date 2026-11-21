@@ -921,17 +921,6 @@ globalThis.RomanResearch = {
       "pages": "Search extract only, fragment cccc liij; opening returned cache miss"
     },
     {
-      "id": "poitiers",
-      "author": "Robert Favreau and Jean Michaud",
-      "year": 1974,
-      "title": "Corpus des inscriptions de la France médiévale 1.1: Ville de Poitiers",
-      "publisher_or_journal": "CNRS; Persée",
-      "url": "https://www.persee.fr/doc/cifm_0000-0000_1974_cat_1_1?pageId=T2_16",
-      "accessed": "2026-11-21",
-      "read_full_text": false,
-      "pages": "No. 82, Epitaphe de Madalfredus; reported dates 802 or 808"
-    },
-    {
       "id": "prinz",
       "author": "Joseph Prinz",
       "year": 1972,
@@ -1036,21 +1025,10 @@ globalThis.RomanResearch = {
       "year": 1954,
       "title": "The Last Time I Saw Paris, copyright title card",
       "publisher_or_journal": "Title-card reproduction, CopyrightData.com",
-      "url": "https://www.copyrightdata.com/chart/ch02.html",
+      "url": "https://www.copyrightdata.com/chart/LastParis.jpg",
       "accessed": "2026-11-21",
       "read_full_text": false,
-      "pages": "Errors or Absence of Year"
-    },
-    {
-      "id": "lastparis-afi",
-      "author": "American Film Institute",
-      "year": "n.d.",
-      "title": "The Last Time I Saw Paris (1954), AFI Catalog of Feature Films",
-      "publisher_or_journal": "American Film Institute",
-      "url": "https://catalog.afi.com/Film/51256-THE-LAST-TIME-I-SAW-PARIS?cxt=filmography",
-      "accessed": "2026-11-21",
-      "read_full_text": false,
-      "pages": "History and copyright details"
+      "pages": "Copyright notice on the reproduced frame"
     }
   ],
   "letters": {
@@ -2139,10 +2117,10 @@ globalThis.RomanResearch = {
         "ad"
       ],
       "date": "1954 film",
-      "source": "MGM, The Last Time I Saw Paris, title card",
+      "source": "View the film’s copyright frame",
       "why": "The 1954 film’s notice reads MCMXLIV (1944). MCMLIV would give 1954.",
-      "url": "https://www.copyrightdata.com/chart/ch02.html",
-      "source_status": "Title-card reproduction. The AFI Catalog also records the 1944 date in the copyright notice.",
+      "url": "https://www.copyrightdata.com/chart/LastParis.jpg",
+      "source_status": "CopyrightData.com reproduces the film frame.",
       "topic": "A film date misprint",
       "start": 8
     },

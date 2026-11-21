@@ -3,6 +3,7 @@
   const R = globalThis.RomanReader;
   const { conventions, sources, presets, letters, glossary } = globalThis.RomanResearch;
   const $ = id => document.getElementById(id);
+  const main = document.querySelector('main');
   const q = $('q'), mode = $('mode'), period = $('period'), date = $('date'), out = $('out');
   const periods = Object.fromEntries(R.PERIODS.map(p => [p.id, p]));
   const sourceById = Object.fromEntries(sources.map(s => [s.id, s]));
@@ -219,9 +220,9 @@
 
   function presetContext() {
     if (!currentPreset?.topic) return '';
-    const { kind, topic, why, url } = currentPreset;
+    const { kind, topic, why, url, source } = currentPreset;
     return `<p class="preset-context"><strong>${esc(topic)}.</strong> ${linked(why)}
-      ${kind === 'constructed' ? '<span class="muted">Constructed example.</span>' : sourceLink(url, 'Source')}</p>`;
+      ${kind === 'constructed' ? '<span class="muted">Constructed example.</span>' : sourceLink(url, source)}</p>`;
   }
 
   function shortReference(id) {
@@ -331,7 +332,7 @@
 
   function render() {
     const labels = { number: 'Enter a Roman numeral or a number', passage: 'Paste a passage', chronogram: 'Phrase as written' };
-    const placeholders = { number: 'e.g. MCMXCIX, 2026 or Henry VIII', passage: 'e.g. Paid .xx. for cloth and XII for thread.', chronogram: 'e.g. MIserICorDIae' };
+    const placeholders = { number: 'e.g. MCMXCIX or 2026', passage: 'e.g. Paid .xx. for cloth and XII for thread.', chronogram: 'e.g. MIserICorDIae' };
     const isPassage = mode.value === 'passage';
     const isChronogram = mode.value === 'chronogram';
     $('input-label').textContent = labels[mode.value];
@@ -483,7 +484,7 @@
     const copy = event.target.closest('[data-copy-note]');
     if (copy) copyNote(copy);
   });
-  document.querySelector('main').addEventListener('click', event => {
+  main.addEventListener('click', event => {
     const link = event.target.closest('[data-reveal]');
     if (!link || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
     const target = $(link.hash.slice(1));
@@ -498,7 +499,22 @@
   for (const control of [mode, period, date]) control.addEventListener('change', render);
   q.addEventListener('input', () => { currentPreset = null; render(); });
   window.addEventListener('hashchange', loadState);
-  $('page-header').hidden = new URLSearchParams(location.search).get('embed') === '1';
+  const embed = new URLSearchParams(location.search).get('embed') === '1';
+  $('page-header').hidden = embed;
+  document.body.classList.toggle('embedded', embed);
   loadState();
   renderPresets();
+
+  if (embed && window.parent !== window && location.origin !== 'null') {
+    const reportHeight = () => {
+      // Measure the content instead of the viewport so the frame can shrink too.
+      const height = Math.ceil(main.getBoundingClientRect().height);
+      window.parent.postMessage({ type: 'research-snack:tool-height', height }, location.origin);
+    };
+    new ResizeObserver(reportHeight).observe(main, { box: 'border-box' });
+    window.addEventListener('message', event => {
+      if (event.source === window.parent && event.origin === location.origin
+          && event.data === 'research-snack:measure-tool') reportHeight();
+    });
+  }
 })();

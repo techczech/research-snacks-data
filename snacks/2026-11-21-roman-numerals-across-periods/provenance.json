@@ -1,23 +1,23 @@
 {
   "source": "Roman Numeral Reader",
-  "source_commit": "f18898eb1347658cbfe05a71c200be86b2e0322f",
+  "source_commit": "b15675de12c18fcd8c1092417a0671854d84f786",
   "initial_ratings_commit": "09ab74a",
   "research_pass_commit": "4ee6f99",
   "original_reference_records": 45,
   "original_references_read_in_full": 2,
   "source_sha256_before_packaging": {
-    "index.html": "48d925b82abf30f43ef893bae5da596e273f8e2e9188aeaf229b7aa478737fc6",
-    "reader.js": "e1efef6de7653682b9223bcee77026e44644ea1d86f34cadad6c0e33648d0589",
-    "reader.css": "c49a478533b670df123d069cab904dc5bfda74a8ffbc76ba881bb8fea1be2193",
+    "index.html": "e66b2cfa41285d1c5bd6d9915b5db6af26ae2254e5c185baf6f1d3b7172343dd",
+    "reader.js": "a28d4d64f34aeba34b6819b072efeca4756d81baa337d5acb6fa007259a90103",
+    "reader.css": "2dcaa83612d31b1a6c017c8845aa67ff1118fee1d8c977bcb15c953995844f8b",
     "roman.js": "826d2d5d5a95d73c85ad55567c9c0d0daf119080710df12041331586a33d7c66",
-    "data/research.js": "d35128ccf125b51bbac40be135de0a4d6534a76e69af40666de1371d7d7ab56c",
+    "data/research.js": "71525cbdfb3b6c996a5bfce3fad68e892d3eec5b2d5a2dcfb23dcf32730f05ce",
     "data/conventions.json": "a13f22db71dbf771adba90685ddaeebd404c85320ca5c0de72e40e24d345ba9e",
     "data/teaching.json": "c7df9ee7d82d8e7d7dd2ae3f1a6a0dbe09322c1fddd8a25f1ae757e88e0f4d88",
     "data/letters.json": "52055dc0efae18cdfe673cc56cc0a03fa2a2fa9a1067e98fc51cd6724e263f1f",
     "build-data.mjs": "d8242ad4f05ca5386c09a7ffb973a85cddf3e9d536c821da0fe6c728eee132ee",
     "test.mjs": "384d09fdeedeb8995fee18235246239b722e53982675e08ce4a3a6163676db5b",
-    "research/examples.json": "7a2e888341c7b7e81d845569cea9403dfd3ab001a95ba628b826b100e668e46d",
-    "research/references.json": "d16cc6bf306e83e01741ac6f48d79d4212e843c7f906f53e24a0d511c9b9a6db",
+    "research/examples.json": "20f0de99471c317bb116439058eb432eea87ab0237d7f239c62b67fc1e4b2cb6",
+    "research/references.json": "895beb54da0efe74ea903ddd3c5b9ad12e4abdc90bb65262aea3b0179552d826",
     "research/ratings.json": "9f23d41537ba86b6ba0882bfaacb353d467a4ce056c3f17c831f13c4aaeb0d3b",
     "research/findings.md": "88889cf4f43ce22000e991f778fe80d8102984e98a229e59320f94c7edd8a901",
     "research/search-log.md": "d88e5fa17a526c286d950125e27d2a9ace1e3075cf04f6e107092e5e4524e8d8",
@@ -30,5 +30,6 @@
   "research_build_commit": "7e8617615c760039b24369405c9f0a4a514d61b1",
   "generated_reports": {
     "data/preset-check.md": "code/test.mjs --write-preset-check"
-  }
+  },
+  "audience_build_commit": "f18898eb1347658cbfe05a71c200be86b2e0322f"
 }

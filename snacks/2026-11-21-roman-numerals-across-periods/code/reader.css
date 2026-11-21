@@ -156,3 +156,6 @@
   }
 
   .letter-gloss h3 { margin-top: 0; }
+
+  .embedded main { padding-bottom: 12px; }
+  .embedded main > :last-child { margin-bottom: 0; }
