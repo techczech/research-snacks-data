@@ -1,0 +1,138 @@
+{
+  "A": [
+    {
+      "source": "cappelli1901",
+      "value": "500; marked form 5,000"
+    },
+    {
+      "source": "ducangeAC",
+      "value": "500"
+    }
+  ],
+  "B": [
+    {
+      "source": "cappelli1901",
+      "value": "300; marked form 3,000"
+    },
+    {
+      "source": "ducangeAC",
+      "value": "300"
+    },
+    {
+      "source": "chrisomalis",
+      "value": "Portuguese navigational b = 5"
+    }
+  ],
+  "E": [
+    {
+      "source": "cappelli1901",
+      "value": "250"
+    }
+  ],
+  "F": [
+    {
+      "source": "cappelli1901",
+      "value": "40"
+    }
+  ],
+  "G": [
+    {
+      "source": "cappelli1901",
+      "value": "400"
+    }
+  ],
+  "H": [
+    {
+      "source": "cappelli1901",
+      "value": "200"
+    }
+  ],
+  "K": [
+    {
+      "source": "cappelli1901",
+      "value": "151; marked form 151,000"
+    }
+  ],
+  "N": [
+    {
+      "source": "cappelli1901",
+      "value": "90"
+    },
+    {
+      "source": "chrisomalis",
+      "value": "Iberian astronomical N = 9"
+    }
+  ],
+  "O": [
+    {
+      "source": "cappelli1901",
+      "value": "11"
+    },
+    {
+      "source": "chrisomalis",
+      "value": "Iberian astronomical o = 8"
+    }
+  ],
+  "P": [
+    {
+      "source": "cappelli1901",
+      "value": "400"
+    }
+  ],
+  "Q": [
+    {
+      "source": "cappelli1901",
+      "value": "500"
+    },
+    {
+      "source": "chrisomalis",
+      "value": "Iberian astronomical Q = 5 and q = 4"
+    }
+  ],
+  "R": [
+    {
+      "source": "cappelli1901",
+      "value": "80"
+    },
+    {
+      "source": "chrisomalis",
+      "value": "Portuguese navigational R = 40"
+    }
+  ],
+  "S": [
+    {
+      "source": "cappelli1901",
+      "value": "70"
+    },
+    {
+      "source": "chrisomalis",
+      "value": "Iberian astronomical S = 7 and s = 6"
+    }
+  ],
+  "T": [
+    {
+      "source": "cappelli1901",
+      "value": "160 or 1,000"
+    },
+    {
+      "source": "chrisomalis",
+      "value": "Iberian astronomical t = 3"
+    }
+  ],
+  "Y": [
+    {
+      "source": "cappelli1901",
+      "value": "150; marked form 150,000"
+    }
+  ],
+  "Z": [
+    {
+      "source": "cappelli1901",
+      "value": "2,000"
+    },
+    {
+      "source": "ducangeOZ",
+      "value": "2,000"
+    }
+  ]
+}

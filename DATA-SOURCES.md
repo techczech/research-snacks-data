@@ -42,3 +42,7 @@ The [snack-specific source register](snacks/2026-11-19-canals-nuclear-investment
 ## Decipherment methods and agents (19 November 2026)
 
 The [snack-specific source register](snacks/2026-11-19-decipherment-methods-and-agents/DATA-SOURCES.md) records the CDLI, SigLA, DĀMOS, ICIT, Unicode and other provider access/licence boundaries. Only original survey judgements and short cited facts are shared; ancient corpus texts, sign images, book/article copies and private session records are withheld.
+
+## Roman numerals across periods (21 November 2026)
+
+The [snack-specific source register](snacks/2026-11-21-roman-numerals-across-periods/DATA-SOURCES.md) records limits on copying archive, inscription and publication material. The package shares selected numeral tokens, documented values, citations, original notes and rerun code.

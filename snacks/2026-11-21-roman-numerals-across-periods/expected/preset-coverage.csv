@@ -1,0 +1,11 @@
+period,result,presets
+Classical,Matched,10
+Classical,Mismatch,1
+Early medieval,Matched,10
+Early medieval,Mismatch,0
+Late medieval,Matched,9
+Late medieval,Mismatch,1
+Early modern,Matched,11
+Early modern,Mismatch,0
+Modern,Matched,5
+Modern,Mismatch,0

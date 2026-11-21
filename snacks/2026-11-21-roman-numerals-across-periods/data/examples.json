@@ -1,0 +1,777 @@
+[
+  {
+    "input": "CCCXXC",
+    "period_id": "classical",
+    "values": [
+      380
+    ],
+    "convention_ids": [
+      "runSub",
+      "irregularSub"
+    ],
+    "date": "157 BCE",
+    "source": "CIL I 536, as cited on p. 74 n. 2",
+    "why": "Two tens subtracted from the final hundred in a larger number.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Introduction_to_the_study_of_Latin_inscriptions_%28IA_cu31924075494371%29.pdf"
+  },
+  {
+    "input": "IIII",
+    "period_id": "classical",
+    "values": [
+      4
+    ],
+    "convention_ids": [
+      "additive4"
+    ],
+    "date": "late Republic, probably mid-1st century BCE",
+    "source": "CIL I² 592, Lex de Gallia Cisalpina",
+    "why": "The four in the municipal office IIIIvir uses four strokes.",
+    "url": "https://www.academia.edu/4970696/Lex_de_Gallia_Cisalpina_CIL_I_2_592_"
+  },
+  {
+    "input": "|(I)|",
+    "period_id": "classical",
+    "values": [
+      100000000
+    ],
+    "convention_ids": [
+      "frame",
+      "apostrophus"
+    ],
+    "date": "36 CE",
+    "source": "Ostia inscription, reported by Chrisomalis p. 114 citing Menninger p. 245",
+    "why": "Frame applied to a thousand sign. Full-width side strokes represent the source's printed transcription; the original has not been inspected.",
+    "url": "https://www.cambridge.org/core/books/numerical-notation/4C3107573159D539D04DD7307423FA36",
+    "source_status": "Source unavailable to the council reviewer. Link opens the publisher record"
+  },
+  {
+    "input": "IIX",
+    "period_id": "classical",
+    "values": [
+      8
+    ],
+    "convention_ids": [
+      "runSub"
+    ],
+    "date": "71 CE",
+    "source": "CIL VI 931, Vespasian's road restoration, no. 22",
+    "why": "The eighth imperial acclamation appears in a copy of an official inscription.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Introduction_to_the_study_of_Latin_inscriptions_%28IA_cu31924075494371%29.pdf"
+  },
+  {
+    "input": "XIIX",
+    "period_id": "classical",
+    "values": [
+      18
+    ],
+    "convention_ids": [
+      "runSub"
+    ],
+    "date": "77–78 CE",
+    "source": "ILS 253 / CIL III 6993, near Prusa",
+    "why": "The eighteenth imperial acclamation, written with a subtractive run at the end.",
+    "url": "https://db.edcs.eu/epigr/dessau/de-a0069.pdf"
+  },
+  {
+    "input": "VIIII",
+    "period_id": "classical",
+    "values": [
+      9
+    ],
+    "convention_ids": [
+      "additive4"
+    ],
+    "date": "77–78 CE",
+    "source": "ILS 253 / CIL III 6993, near Prusa",
+    "why": "The same inscription used additive nine in Vespasian's tribunician count and designation for consul.",
+    "url": "https://db.edcs.eu/epigr/dessau/de-a0069.pdf"
+  },
+  {
+    "input": "DCCCLXXIIII",
+    "period_id": "classical",
+    "values": [
+      121
+    ],
+    "convention_ids": [
+      "additive4",
+      "auc"
+    ],
+    "date": "121 CE",
+    "source": "Hadrian aureus, RIC II.3 353",
+    "why": "The coin counts 874 years in Rome's foundation era. The expected civil year is 121 CE.",
+    "url": "https://ignca.gov.in/Asi_data/17029.pdf",
+    "options": {
+      "date": "auc"
+    }
+  },
+  {
+    "input": "ↀↀↀↀ C XLI",
+    "period_id": "classical",
+    "values": [
+      4141
+    ],
+    "convention_ids": [
+      "apostrophus"
+    ],
+    "date": "142–180 CE",
+    "source": "RIB 2205, Antonine Wall, diplomatic line 6",
+    "why": "Four thousand signs and subtractive XL occur in a single distance.",
+    "url": "https://romaninscriptionsofbritain.org/inscriptions/2205"
+  },
+  {
+    "input": "IIII CĐXI",
+    "period_id": "classical",
+    "values": [
+      4411
+    ],
+    "convention_ids": [
+      "additive4",
+      "distinctionMarks"
+    ],
+    "date": "142–161 CE",
+    "source": "RIB 2208, Antonine Wall, diplomatic line 7",
+    "why": "The initial four means thousands and struck Đ participates in a subtractive 411. The modern value comes from the edition. The date shown expands the edition’s abbreviated or mistyped “a.d. 142-61”.",
+    "url": "https://romaninscriptionsofbritain.org/inscriptions/2208"
+  },
+  {
+    "input": "XXXXII",
+    "period_id": "classical",
+    "values": [
+      42
+    ],
+    "convention_ids": [
+      "additive4"
+    ],
+    "date": "146–150 CE",
+    "source": "CIL VI 10048 / ILS 5287, Diocles's age",
+    "why": "Four tens on the charioteer's career inscription.",
+    "url": "https://agora.edu.es/descarga/articulo/8065051.pdf"
+  },
+  {
+    "input": "XXIII",
+    "period_id": "classical",
+    "values": [
+      23
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "date": "146–150 CE",
+    "source": "CIL VI 10048 / ILS 5287, Diocles's age",
+    "why": "Days of age supplement the 42 years on the same inscription.",
+    "url": "https://agora.edu.es/descarga/articulo/8065051.pdf"
+  },
+  {
+    "input": "ↅ",
+    "period_id": "early-medieval",
+    "values": [
+      6
+    ],
+    "convention_ids": [
+      "lateSix"
+    ],
+    "date": "8th century CE",
+    "source": "Cappelli’s eighth-century figures, reproduced in Perry fig. 16",
+    "why": "Unicode shorthand for the C-like six among Cappelli's eighth-century glyph specimens.",
+    "url": "https://www.unicode.org/wg2/docs/n3218.pdf"
+  },
+  {
+    "input": "VI",
+    "period_id": "early-medieval",
+    "values": [
+      6
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "date": "345 CE",
+    "source": "ILCV 4422 / CIL X 6420, Tarracina epitaph",
+    "why": "An early date by day of the month. The year was supplied by naming consuls.",
+    "url": "https://journal.fi/arctos/article/download/88205/47344",
+    "source_status": "Source unavailable to the council reviewer"
+  },
+  {
+    "input": "XVIII",
+    "period_id": "early-medieval",
+    "values": [
+      18
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "date": "517 CE",
+    "source": "ILCV 1147A, Nola epitaph",
+    "why": "The numeral gives 18 January in the burial record.",
+    "url": "https://journal.fi/arctos/article/download/88205/47344",
+    "source_status": "Source unavailable to the council reviewer"
+  },
+  {
+    "input": "DCLXXXIII",
+    "period_id": "early-medieval",
+    "values": [
+      645
+    ],
+    "convention_ids": [
+      "standard",
+      "spanishEra"
+    ],
+    "date": "23 August 645 CE",
+    "source": "Museo Arqueológico Nacional 1960/47/24, l. 6",
+    "why": "The era numeral is 683. The edition converts it to 645 CE.",
+    "url": "https://revistas.ucm.es/index.php/GERI/article/download/71951/4564456554709/4564456599554",
+    "options": {
+      "date": "spanishEra"
+    }
+  },
+  {
+    "input": "dcccLxxvi",
+    "period_id": "early-medieval",
+    "values": [
+      876
+    ],
+    "convention_ids": [
+      "standard",
+      "ad"
+    ],
+    "date": "876 CE (event recorded)",
+    "source": "Milan calendar, October 8 entry, p. 294",
+    "why": "Mixed-case Christian year dates the battle at Andernach. The same calendar’s 5 October entry gives 876 for an event Prinz dates to 877. The exact glyphs of the 8 October entry need checking against the plate.",
+    "url": "https://www.mgh-bibliothek.de/dokumente/a/a089822.pdf",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "dccccxxxiii",
+    "period_id": "early-medieval",
+    "values": [
+      933
+    ],
+    "convention_ids": [
+      "additive4",
+      "ad"
+    ],
+    "date": "13 August 933 CE",
+    "source": "St Gall, Stiftsarchiv Urkunden IV, 485",
+    "why": "Christian era year appears next to an indiction and a conflicting regnal count.",
+    "url": "https://losthistory.net/medievalwriting/whyread/florilegium.htm",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "vi",
+    "period_id": "early-medieval",
+    "values": [
+      933
+    ],
+    "convention_ids": [
+      "standard",
+      "indiction"
+    ],
+    "date": "13 August 933 CE",
+    "source": "St Gall, Stiftsarchiv Urkunden IV, 485",
+    "why": "Indiction six is written beside the year 933. The converter lists 933 alongside the other years with the same indiction.",
+    "url": "https://losthistory.net/medievalwriting/whyread/florilegium.htm",
+    "options": {
+      "date": "indiction"
+    }
+  },
+  {
+    "input": "DCCCCLXIII",
+    "period_id": "early-medieval",
+    "values": [
+      963
+    ],
+    "convention_ids": [
+      "additive4",
+      "ad"
+    ],
+    "date": "963 CE",
+    "source": "Rome, Silvagni Monum. XVI.3, apud Kajanto p. 45",
+    "why": "An early Christian-era numeral in the corpus of Roman epitaphs.",
+    "url": "https://journal.fi/arctos/article/download/88205/47344",
+    "source_status": "Source unavailable to the council reviewer",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "DCCCCLXXVII",
+    "period_id": "early-medieval",
+    "values": [
+      977
+    ],
+    "convention_ids": [
+      "additive4",
+      "ad"
+    ],
+    "date": "977 CE",
+    "source": "Rome, Silvagni Monum. XVI.4, apud Kajanto p. 45",
+    "why": "Christian-era date with four hundreds.",
+    "url": "https://journal.fi/arctos/article/download/88205/47344",
+    "source_status": "Source unavailable to the council reviewer",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "DCCCCLXXXI",
+    "period_id": "early-medieval",
+    "values": [
+      981
+    ],
+    "convention_ids": [
+      "additive4",
+      "ad"
+    ],
+    "date": "981 CE",
+    "source": "Rome, Silvagni Monum. XVII.1, apud Kajanto p. 45",
+    "why": "Christian-era date with four additive hundreds.",
+    "url": "https://journal.fi/arctos/article/download/88205/47344",
+    "source_status": "Source unavailable to the council reviewer",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "IX.XX.XVI",
+    "period_id": "late-medieval",
+    "values": [
+      196
+    ],
+    "convention_ids": [
+      "vigesimal"
+    ],
+    "date": "1231 CE",
+    "source": "Numerical Notation table 4.13, citing Smith 1926 p. 6",
+    "why": "Nine scores plus sixteen gives 196. The document dates to 1231 CE.",
+    "url": "https://www.cambridge.org/core/books/numerical-notation/4C3107573159D539D04DD7307423FA36",
+    "source_status": "Source unavailable to the council reviewer. Link opens the publisher record"
+  },
+  {
+    "input": "IIIIˣˣ et huit",
+    "period_id": "late-medieval",
+    "values": [
+      88
+    ],
+    "convention_ids": [
+      "vigesimal",
+      "hybridNumerals"
+    ],
+    "date": "1388 CE",
+    "source": "Numerical Notation table 4.13, citing Guitel 1975 p. 225",
+    "why": "Mixed-script numeral phrase, four scores plus French eight. Raised xx represented with Unicode superscripts here.",
+    "url": "https://www.cambridge.org/core/books/numerical-notation/4C3107573159D539D04DD7307423FA36",
+    "source_status": "Source unavailable to the council reviewer. Link opens the publisher record"
+  },
+  {
+    "input": "MCCCCXII",
+    "period_id": "late-medieval",
+    "values": [
+      1412
+    ],
+    "convention_ids": [
+      "additive4",
+      "ad"
+    ],
+    "date": "January 1412 CE",
+    "source": "S. Maria sopra Minerva, Forcella I no. 1579, apud Kajanto p. 46",
+    "why": "The epitaph gives both a Christian-era year and indiction.",
+    "url": "https://journal.fi/arctos/article/download/88205/47344",
+    "source_status": "Source unavailable to the council reviewer",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "Mᵒiiijᶜlvj",
+    "period_id": "late-medieval",
+    "values": [
+      1456
+    ],
+    "convention_ids": [
+      "multiplicative",
+      "ordinalMarks",
+      "finalJ",
+      "ad"
+    ],
+    "date": "1456 CE (year glossed by Cappelli)",
+    "source": "Römische Zahlschrift p. 434, M plate",
+    "why": "Ordinal o, raised hundred and terminal j. Input renders the edition's parenthesised reading with Unicode superscripts.",
+    "url": "https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "M . CCCC . LXIIII",
+    "period_id": "late-medieval",
+    "values": [
+      1464
+    ],
+    "convention_ids": [
+      "additive4",
+      "ad"
+    ],
+    "date": "20 September 1464 CE",
+    "source": "Forcella VII no. 239, Camane family tomb",
+    "why": "Dots and additive hundreds and units in a Rome epitaph.",
+    "url": "https://resources.warburg.sas.ac.uk/pdf/hnh5600b2797976v7.pdf",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "lxxixº",
+    "period_id": "late-medieval",
+    "values": [
+      79
+    ],
+    "convention_ids": [
+      "ordinalMarks",
+      "standard"
+    ],
+    "date": "16 August 1479 CE",
+    "source": "Lerida Breviary colophon, p. 102",
+    "why": "The numeric tail is 79. Printed words supply the other 1400.",
+    "url": "https://www.gutenberg.org/files/56628/56628-h/56628-h.htm",
+    "source_status": "Source unavailable to the council reviewer"
+  },
+  {
+    "input": "M.cccc.xc.",
+    "period_id": "late-medieval",
+    "values": [
+      1490
+    ],
+    "convention_ids": [
+      "additive4",
+      "ad"
+    ],
+    "date": "7 September 1490 CE",
+    "source": "Hermann Lichtenstein's Aquinas Opuscula colophon, p. 184",
+    "why": "The following vii belongs to a day clause. Concatenation would make a plausible but wrong year.",
+    "url": "https://www.gutenberg.org/files/56628/56628-h/56628-h.htm",
+    "source_status": "Source unavailable to the council reviewer",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "XCij",
+    "period_id": "late-medieval",
+    "values": [
+      1492
+    ],
+    "convention_ids": [
+      "omittedCentury",
+      "finalJ"
+    ],
+    "date": "10 March 1492 CE",
+    "source": "Hans Schauer's Augsburg Beichtbuchlein colophon, p. 183",
+    "why": "The written numeral is 92. Context supplies the century.",
+    "url": "https://www.gutenberg.org/files/56628/56628-h/56628-h.htm",
+    "source_status": "Source unavailable to the council reviewer",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "M.cccc.lxxxxiii.",
+    "period_id": "late-medieval",
+    "values": [
+      1493
+    ],
+    "convention_ids": [
+      "additive4",
+      "ad"
+    ],
+    "date": "1493 CE",
+    "source": "Gasparo Visconti, Rithmi, Milan, p. 104",
+    "why": "The colophon writes both 400 and 90 additively.",
+    "url": "https://www.gutenberg.org/files/56628/56628-h/56628-h.htm",
+    "source_status": "Source unavailable to the council reviewer",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "MCCCCIC",
+    "period_id": "late-medieval",
+    "values": [
+      1499
+    ],
+    "convention_ids": [
+      "irregularSub",
+      "additive4",
+      "ad"
+    ],
+    "date": "1499 CE (death date)",
+    "source": "Forcella VII no. 313, Thomas Knyght epitaph, Rome",
+    "why": "IC is 99 following four written hundreds. The edition transmits it from a Vatican manuscript.",
+    "url": "https://resources.warburg.sas.ac.uk/pdf/hnh5600b2797976v7.pdf",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "IIᶜ",
+    "period_id": "early-modern",
+    "values": [
+      200
+    ],
+    "convention_ids": [
+      "multiplicative"
+    ],
+    "date": "1514 CE",
+    "source": "Jakob Köbel, Rechenbiechlin, Augsburg, quoted in Cajori §55 p. 34",
+    "why": "The numerator in a fraction, with C in superscript.",
+    "url": "https://en.wikisource.org/wiki/A_History_Of_Mathematical_Notations/Volume_1/Romans"
+  },
+  {
+    "input": "IIIIᶜ.LX",
+    "period_id": "early-modern",
+    "values": [
+      460
+    ],
+    "convention_ids": [
+      "multiplicative",
+      "additive4"
+    ],
+    "date": "1514 CE",
+    "source": "Jakob Köbel, Rechenbiechlin, Augsburg, quoted in Cajori §55 p. 34",
+    "why": "The denominator of the same fraction adds LX after four hundreds.",
+    "url": "https://en.wikisource.org/wiki/A_History_Of_Mathematical_Notations/Volume_1/Romans"
+  },
+  {
+    "input": "XVCXIV",
+    "period_id": "early-modern",
+    "values": [
+      1514
+    ],
+    "convention_ids": [
+      "multiplicativePlain",
+      "ad"
+    ],
+    "date": "1514 CE (as listed)",
+    "source": "Numerical Notation table 4.13, citing Smith 1926 p. 7",
+    "why": "Baseline XV multiplies C, followed by XIV.",
+    "url": "https://www.cambridge.org/core/books/numerical-notation/4C3107573159D539D04DD7307423FA36",
+    "source_status": "Source unavailable to the council reviewer. Link opens the publisher record",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "vij·c.",
+    "period_id": "early-modern",
+    "values": [
+      700
+    ],
+    "convention_ids": [
+      "multiplicativePlain",
+      "finalJ"
+    ],
+    "date": "1534 CE",
+    "source": "Sebastian Franck, Weltbuch, fol. ccxx, quoted in Cajori §55 n. 18",
+    "why": "The source joins a punctuated seven hundreds with XL in words for 740 German miles.",
+    "url": "https://en.wikisource.org/wiki/A_History_Of_Mathematical_Notations/Volume_1/Romans"
+  },
+  {
+    "input": "ijᶜ xxij",
+    "period_id": "early-modern",
+    "values": [
+      222
+    ],
+    "convention_ids": [
+      "multiplicative",
+      "finalJ"
+    ],
+    "date": "May 1580 CE",
+    "source": "Estate of James VI's Household, National Records of Scotland, doc. 3 l. 14",
+    "why": "A payment amount in pounds, with a raised hundred and final j.",
+    "url": "https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf"
+  },
+  {
+    "input": "iiiiᶜ xliiij",
+    "period_id": "early-modern",
+    "values": [
+      444
+    ],
+    "convention_ids": [
+      "multiplicative",
+      "additive4",
+      "finalJ"
+    ],
+    "date": "May 1580 CE",
+    "source": "Estate of James VI's Household, National Records of Scotland, doc. 3 l. 16",
+    "why": "Four hundreds and forty-four pounds in a livery payment total.",
+    "url": "https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf"
+  },
+  {
+    "input": "CIↃ IↃ XCIV",
+    "period_id": "early-modern",
+    "values": [
+      1594
+    ],
+    "convention_ids": [
+      "apostrophus",
+      "ad"
+    ],
+    "date": "1594 CE",
+    "source": "Dorn, Clavis totius philosophiae chymisticae, A1r, Herborn",
+    "why": "The title-page revived apostrophus for 1000 and 500 alongside ordinary subtraction for 94.",
+    "url": "https://www.theatrum-paracelsicum.com/Bibliographia_Paracelsica/BP.Dorn.1594-01",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "MIserICorDIae",
+    "period_id": "early-modern",
+    "values": [
+      1603
+    ],
+    "convention_ids": [
+      "chronogram"
+    ],
+    "date": "1603 CE",
+    "source": "Angliae et Hiberniae nova descriptio, cartographic chronogram census",
+    "why": "Highlighted capitals in the selected word date the original map issue.",
+    "url": "https://www.maphistory.info/chronograms.html",
+    "options": {
+      "mode": "chronogram"
+    }
+  },
+  {
+    "input": "MIserICorDIae et patIentIae",
+    "period_id": "early-modern",
+    "values": [
+      1605
+    ],
+    "convention_ids": [
+      "chronogram"
+    ],
+    "date": "1605 CE",
+    "source": "Quadus and Caymox, distance triangle, Nuremberg, census entry 1605",
+    "why": "Selected capital letters across two words sum to 1605.",
+    "url": "https://www.maphistory.info/chronograms.html",
+    "options": {
+      "mode": "chronogram"
+    }
+  },
+  {
+    "input": "Lxxxxj",
+    "period_id": "early-modern",
+    "values": [
+      91
+    ],
+    "convention_ids": [
+      "additive4",
+      "finalJ"
+    ],
+    "date": "1609 CE",
+    "source": "John Tod inventory, National Records of Scotland, doc. 4 l. 40",
+    "why": "Total of pounds uses four tens and final j.",
+    "url": "https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf"
+  },
+  {
+    "input": "vj C&",
+    "period_id": "early-modern",
+    "values": [
+      600
+    ],
+    "convention_ids": [
+      "multiplicativePlain",
+      "finalJ",
+      "hybridNumerals"
+    ],
+    "date": "1663 CE",
+    "source": "National Records of Scotland, illustrated Jaj date",
+    "why": "The numeric component vj with abbreviated hundreds is 600. The suspension mark is rendered as in the archive transcript.",
+    "url": "https://api.scotlandspeople.gov.uk/scottish-handwriting/coaching/problem-solver/problem-words/dates"
+  },
+  {
+    "input": "IV",
+    "period_id": "modern",
+    "values": [
+      4
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "date": "1886 CE (tablet installed)",
+    "source": "Statue of Liberty tablet, day of month",
+    "why": "The same monument uses subtractive IV and commemorates July 1776.",
+    "url": "https://www.nps.gov/places/000/statue-front.htm"
+  },
+  {
+    "input": "MDCCLXXVI",
+    "period_id": "modern",
+    "values": [
+      1776
+    ],
+    "convention_ids": [
+      "standard",
+      "ad"
+    ],
+    "date": "1886 CE (tablet installed)",
+    "source": "Statue of Liberty tablet, year",
+    "why": "The date referred to predates the inscription by 110 years.",
+    "url": "https://www.nps.gov/places/000/statue-front.htm",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "IIII",
+    "period_id": "modern",
+    "values": [
+      4
+    ],
+    "convention_ids": [
+      "additive4",
+      "clockIIII"
+    ],
+    "date": "c. 1890–1910 CE",
+    "source": "Barnes Foundation tall-case clock, 2001.25.86",
+    "why": "Four strokes mark four hours on the chapter ring.",
+    "url": "https://www.barnesfoundation.org/research-notes-clock"
+  },
+  {
+    "input": "MDCCCCX",
+    "period_id": "modern",
+    "values": [
+      1910
+    ],
+    "convention_ids": [
+      "additive4",
+      "ad"
+    ],
+    "date": "1910 date, arch completed 1912",
+    "source": "Admiralty Arch, London, frieze",
+    "why": "A modern public inscription chooses DCCCC for 900.",
+    "url": "https://www.royalparks.org.uk/visit/parks/st-jamess-park/monuments",
+    "options": {
+      "date": "ad"
+    }
+  },
+  {
+    "input": "MCMXXV",
+    "period_id": "modern",
+    "values": [
+      1925
+    ],
+    "convention_ids": [
+      "standard",
+      "ad"
+    ],
+    "date": "1925 copyright, 1926 release",
+    "source": "Alice’s Little Parade, Winkler title card reproduced by restorer Dave Bossert, p. 1",
+    "why": "The copyright date on the frame differs from the first release year.",
+    "url": "https://davidbossert.com/assets/article-alice-s-litte-parade-article.pdf",
+    "options": {
+      "date": "ad"
+    }
+  }
+]

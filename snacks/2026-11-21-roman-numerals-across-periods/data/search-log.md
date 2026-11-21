@@ -1,0 +1,277 @@
+# Roman Numeral Reader search log
+
+UK local time (GMT, 21 November 2026). Entries record each submitted query and explicit source retrieval or in-source find, in call order. A batch shares a timestamp. Search result snippets can supply leads even when a subsequent source retrieval fails.
+
+- 2026-11-21 09:50:20 GMT — Search — “Cagnat Cours épigraphie latine chiffres romains IIX XIIX IC numéraux signes barre texte archive”
+- 2026-11-21 09:50:20 GMT — Search — “Adriano Cappelli Dizionario abbreviature numeri romani numerazione medievale A B E F G H K numeri pdf”
+- 2026-11-21 09:50:20 GMT — Search — “Cajori History Mathematical Notations Roman numerals 1904 Roman 20 score iiii 1000 archive pdf”
+- 2026-11-21 09:50:20 GMT — Search — “A Keyser 1988 origin Latin numerals 1 to 1000 pdf Roman numerals inscriptions IIX IC”
+- 2026-11-21 09:50:28 GMT — Search — “medieval roman numerals superscript m c accounts four score iiij xx roman numerals palaeography National Archives date thousand omitted”
+- 2026-11-21 09:50:28 GMT — Search — “medieval early modern numerals superscript vigesimal French xiiij xx archival transcription paleographie chiffres romains dates omission millésime”
+- 2026-11-21 09:50:28 GMT — Search — “Cajori A History of Mathematical Notations volume 1 Roman numerals pages 30 34 full text archive Gutenberg”
+- 2026-11-21 09:50:28 GMT — Search — “Roman numerals paleography medieval National Archives Scottish handwriting iij numerals year omitted thousand 15th century colophon”
+- 2026-11-21 09:50:34 GMT — Open — [source](https://upload.wikimedia.org/wikipedia/commons/4/47/Introduction_to_the_study_of_Latin_inscriptions_%28IA_cu31924075494371%29.pdf)
+- 2026-11-21 09:50:34 GMT — Open — [source](https://www.unicode.org/L2/L2006/06269-add-roman.pdf)
+- 2026-11-21 09:50:34 GMT — Open — [source](https://warwick.ac.uk/fac/arts/ren/languages/manuscripttoprint/latin/manuali_hoepli_adriano_cappelli-lexicon_abbreviaturarum._dizionario_di_abbreviature_latine_ed_italiane-ulrico_hoepli_1999.pdf)
+- 2026-11-21 09:50:34 GMT — Open — [source](https://dspace.bcucluj.ro/handle/123456789/141853)
+- 2026-11-21 09:50:34 GMT — Open — [source](https://www.academia.edu/7554252/_The_Origin_of_the_Latin_Numerals_1_to_1000_American_Journal_of_Archaeology_92_1988_529_546)
+- 2026-11-21 09:50:34 GMT — Open — [source](https://dbooks.bodleian.ox.ac.uk/books/PDFs/N13779866.pdf)
+- 2026-11-21 09:50:34 GMT — Find — [source](https://warwick.ac.uk/fac/arts/ren/languages/manuscripttoprint/latin/manuali_hoepli_adriano_cappelli-lexicon_abbreviaturarum._dizionario_di_abbreviature_latine_ed_italiane-ulrico_hoepli_1999.pdf) · “NUMERAZIONE ROMANA”
+- 2026-11-21 09:50:34 GMT — Find — [source](https://upload.wikimedia.org/wikipedia/commons/4/47/Introduction_to_the_study_of_Latin_inscriptions_%28IA_cu31924075494371%29.pdf) · “IIX”
+- 2026-11-21 09:50:34 GMT — Find — [source](https://dbooks.bodleian.ox.ac.uk/books/PDFs/N13779866.pdf) · “vingt”
+- 2026-11-21 09:50:40 GMT — Open — [source](https://warwick.ac.uk/fac/arts/ren/languages/manuscripttoprint/latin/manuali_hoepli_adriano_cappelli-lexicon_abbreviaturarum._dizionario_di_abbreviature_latine_ed_italiane-ulrico_hoepli_1999.pdf) · extract at line 1180
+- 2026-11-21 09:50:40 GMT — Open — [source](https://warwick.ac.uk/fac/arts/ren/languages/manuscripttoprint/latin/manuali_hoepli_adriano_cappelli-lexicon_abbreviaturarum._dizionario_di_abbreviature_latine_ed_italiane-ulrico_hoepli_1999.pdf) · extract at line 10300
+- 2026-11-21 09:50:40 GMT — Open — [source](https://upload.wikimedia.org/wikipedia/commons/4/47/Introduction_to_the_study_of_Latin_inscriptions_%28IA_cu31924075494371%29.pdf) · extract at line 2396
+- 2026-11-21 09:50:40 GMT — Open — [source](https://www.unicode.org/L2/L2006/06269-add-roman.pdf) · extract at line 66
+- 2026-11-21 09:50:40 GMT — Open — [source](https://dbooks.bodleian.ox.ac.uk/books/PDFs/N13779866.pdf) · extract at line 358
+- 2026-11-21 09:50:40 GMT — Click — [source](https://dspace.bcucluj.ro/bitstream/123456789/141853/1/Cagnat_Rene-Cours_d_epigraphie_latine-1914.pdf) · link 5 — Failed to fetch the source (404) Not Found
+- 2026-11-21 09:50:49 GMT — Search — “"omission du millésime" date chiffre romain année millésime médiéval "mil" paléographie millier omis charte chronologie Giry”
+- 2026-11-21 09:50:49 GMT — Search — “manuscript date omission millennium "omitted" thousand date incunabula colophon Roman palaeography "century" Glaister”
+- 2026-11-21 09:50:49 GMT — Search — “chronogram dated inscription MD museum chronogram DUCHRONOGRAM latin university chronograms James Hilton archive”
+- 2026-11-21 09:50:49 GMT — Search — “regnal year indiction Spanish era 38 Byzantine anno mundi 5508 chronology date Giry archive manuscript charter Roman numerals”
+- 2026-11-21 09:50:59 GMT — Search — “sundial clock IIII museum clock face IIII Smithsonian British Museum 4 St Albans clock monument date MDCCLXXVI NPS film MCM copyright archive”
+- 2026-11-21 09:50:59 GMT — Search — “Roman numerals early modern apostrophus CIƆ 1586 Zwinger title page 1624 1637 1665 Philosophical Transactions  unicode numerals”
+- 2026-11-21 09:50:59 GMT — Search — “AUC ab urbe condita year inscription DCCCC Rome coin 1000 Philip saeculares Censorinus 1014 Tacitus year numerals date Roman”
+- 2026-11-21 09:50:59 GMT — Search — “Early medieval inscriptions "anno domini" roman numerals dated 8th 9th century epitaph Charlemagne Bede Alcuin Monumenta Germaniae”
+- 2026-11-21 09:51:06 GMT — Search — “"DCCCLXXIIII" Hadrian aureus British Museum OCRE”
+- 2026-11-21 09:51:06 GMT — Search — “Zwinger Theatrum humanae vitae 1586 title page e-rara XXC Roman numerals 1586”
+- 2026-11-21 09:51:06 GMT — Search — “1624 Roman numerals CIↃ IↃ title page Early Modern apostrophus Elzevir digital library date”
+- 2026-11-21 09:51:06 GMT — Search — “site:loc.gov film "MCM" "copyright" title frame roman numerals film title card”
+- 2026-11-21 09:51:11 GMT — Search — “site:romaninscriptionsofbritain.org RIB "XIIX" "IIX" "inscription" numerals Roman”
+- 2026-11-21 09:51:11 GMT — Search — “site:romaninscriptionsofbritain.org "overline" 1000 distance RIB 2208 2205 roman numerals”
+- 2026-11-21 09:51:11 GMT — Search — “"Roman" "IIII" site:britishmuseum.org collection clock dial nineteenth century IIII”
+- 2026-11-21 09:51:11 GMT — Search — “"MDCCLXXVI" site:nps.gov Statue Liberty tablet "MDCCLXXVI" monument Roman numerals”
+- 2026-11-21 09:51:17 GMT — Open — [source](https://www.gutenberg.org/files/56628/56628-h/56628-h.htm)
+- 2026-11-21 09:51:17 GMT — Open — [source](https://assets.cambridge.org/97805217/70958/sample/9780521770958wsc00.pdf)
+- 2026-11-21 09:51:17 GMT — Open — [source](https://journal.fi/arctos/article/download/88205/47344)
+- 2026-11-21 09:51:17 GMT — Open — [source](https://duepublico2.uni-due.de/servlets/MCRFileNodeServlet/duepublico_derivate_00083300/metaphorik_14_2008_Zedelmaier.pdf)
+- 2026-11-21 09:51:17 GMT — Open — [source](https://numismatics.org/ocre/id/ric.2_3%282%29.hdn.353) — URL the source is not accessible via this tool.
+- 2026-11-21 09:51:17 GMT — Open — [source](https://romaninscriptionsofbritain.org/inscriptions/2208)
+- 2026-11-21 09:51:17 GMT — Open — [source](https://romaninscriptionsofbritain.org/inscriptions/2205)
+- 2026-11-21 09:51:17 GMT — Find — [source](https://www.gutenberg.org/files/56628/56628-h/56628-h.htm) · “in dem XCij”
+- 2026-11-21 09:51:17 GMT — Find — [source](https://journal.fi/arctos/article/download/88205/47344) · “anno Domini”
+- 2026-11-21 09:51:25 GMT — Search — “site:nationalarchives.gov.uk palaeography "minims" "numerals" document iiij date archive transcription”
+- 2026-11-21 09:51:25 GMT — Search — “site:romaninscriptionsofbritain.org inscriptions "1000" "bar" numeral Roman "over" thousands”
+- 2026-11-21 09:51:25 GMT — Search — “site:britishmuseum.org collection Hadrian "874" aureus birth Rome chariot races Hadrian Museum”
+- 2026-11-21 09:51:25 GMT — Search — “"l'an" "ccc" "sans le millésime" date année médiévale omission du millier paléographie datation”
+- 2026-11-21 09:51:32 GMT — Search — “National Archives palaeography minims minim confusion i n m u iij document transcription”
+- 2026-11-21 09:51:32 GMT — Search — “Cappelli "K" "151" medieval roman numerals Du Cange numeri litterae B 300 Z 2000 Notae Papianae”
+- 2026-11-21 09:51:32 GMT — Search — “Cajori Roman numerals medieval letters 151 K chapter 1928 full text roman numerals”
+- 2026-11-21 09:51:32 GMT — Search — “site:loc.gov movie "copyright MCM" film "MCM" title silent film copyright roman numeral film”
+- 2026-11-21 09:51:37 GMT — Find — [unofficial copy URL withheld] · “Medieval multiplicative Roman numerals”
+- 2026-11-21 09:51:37 GMT — Find — [unofficial copy URL withheld] · “letter numerals”
+- 2026-11-21 09:51:37 GMT — Find — [source](https://warwick.ac.uk/fac/arts/ren/languages/manuscripttoprint/latin/manuali_hoepli_adriano_cappelli-lexicon_abbreviaturarum._dizionario_di_abbreviature_latine_ed_italiane-ulrico_hoepli_1999.pdf) · “151 000” — No matching text found for "151 000"
+- 2026-11-21 09:51:37 GMT — Find — [source](https://romaninscriptionsofbritain.org/inscriptions/2208) · “Translation”
+- 2026-11-21 09:51:37 GMT — Find — [source](https://romaninscriptionsofbritain.org/inscriptions/2205) · “Translation”
+- 2026-11-21 09:51:43 GMT — Open — [unofficial copy URL withheld] · extract at line 2652
+- 2026-11-21 09:51:43 GMT — Open — [unofficial copy URL withheld] · extract at line 2521
+- 2026-11-21 09:51:43 GMT — Open — [source](https://warwick.ac.uk/fac/arts/ren/languages/manuscripttoprint/latin/manuali_hoepli_adriano_cappelli-lexicon_abbreviaturarum._dizionario_di_abbreviature_latine_ed_italiane-ulrico_hoepli_1999.pdf) · extract at line 1204
+- 2026-11-21 09:51:43 GMT — Open — [source](https://www.unicode.org/L2/L2006/06269-add-roman.pdf) · extract at line 170
+- 2026-11-21 09:51:43 GMT — Open — [source](https://romaninscriptionsofbritain.org/inscriptions/2208) · extract at line 111
+- 2026-11-21 09:51:43 GMT — Open — [source](https://romaninscriptionsofbritain.org/inscriptions/2205) · extract at line 111
+- 2026-11-21 09:51:43 GMT — Open — [source](https://www.persee.fr/doc/cifm_0000-0000_1974_cat_1_1?pageId=T2_16)
+- 2026-11-21 09:51:43 GMT — Open — [source](https://www.barnesfoundation.org/research-notes-clock)
+- 2026-11-21 09:51:43 GMT — Open — [source](https://api.scotlandspeople.gov.uk/scottish-handwriting/coaching/problem-solver/problem-words/dates)
+- 2026-11-21 09:51:53 GMT — Search — “Cajori "Roman numerals" "1392" 33 Roman numerals Appendix Cajori djvu Roman symbols”
+- 2026-11-21 09:51:53 GMT — Search — “"littera numeralis" "denotat" "K" site:ducange.enc.sorbonne.fr”
+- 2026-11-21 09:51:53 GMT — Search — “Pacatian 1001 ROMAE AETER AN MILL ET PRIMO British Museum coin Pacatianus OCRE”
+- 2026-11-21 09:51:53 GMT — Search — “copyright "MCMXL" title card film digitized copyright "MCML" archive film closing credits copyright Roman numeral screenshot”
+- 2026-11-21 09:52:01 GMT — Search — “"A" "Littera numeralis" Du Cange numerals K du cange E 250 z 2000 online glossarium”
+- 2026-11-21 09:52:01 GMT — Search — “Harvard gate "DCCCC" inscription 1900 264 Roman numerals McPharlin gate Harvard”
+- 2026-11-21 09:52:01 GMT — Search — “digitized title card "MCMXXV" copyright film The Gold Rush copyright title photograph”
+- 2026-11-21 09:52:01 GMT — Search — “site:britishmuseum.org "aureus" "Hadrian" "874th" circus”
+- 2026-11-21 09:52:01 GMT — Open — [source](https://warwick.ac.uk/fac/arts/ren/languages/manuscripttoprint/latin/manuali_hoepli_adriano_cappelli-lexicon_abbreviaturarum._dizionario_di_abbreviature_latine_ed_italiane-ulrico_hoepli_1999.pdf) · extract at line 1198
+- 2026-11-21 09:52:01 GMT — Open — [source](https://upload.wikimedia.org/wikipedia/commons/4/47/Introduction_to_the_study_of_Latin_inscriptions_%28IA_cu31924075494371%29.pdf) · extract at line 2371
+- 2026-11-21 09:52:01 GMT — Open — [unofficial copy URL withheld] · extract at line 2529
+- 2026-11-21 09:52:01 GMT — Open — [source](https://www.gutenberg.org/files/56628/56628-h/56628-h.htm) · extract at line 2468
+- 2026-11-21 09:52:01 GMT — Open — [source](https://www.maphistory.info/chronograms.html)
+- 2026-11-21 09:52:01 GMT — Open — [source](https://www.adfontes.uzh.ch/ressourcen/abkuerzungen/cappelli-online/4/6/145) — Failed to fetch the source (400) Timeout fetching
+- 2026-11-21 09:52:11 GMT — Search — “Cappelli dizionario archive org 1912 numerazione romana 415 416 419”
+- 2026-11-21 09:52:11 GMT — Search — “"when" "Cappelli" "numeration" 413 416 scan archive.org Cappelli abbreviature 1912 1929”
+- 2026-11-21 09:52:11 GMT — Search — “"Statue" "MDCCCCX" Admiralty Arch Historic England inscription "MDCDIII" Saint Louis Art Museum”
+- 2026-11-21 09:52:11 GMT — Search — “"IIC" roman numerals inscription "IC" inscriptions CIL epigraphy miles steps LXIIX”
+- 2026-11-21 09:52:11 GMT — Open — [source](https://www.gutenberg.org/files/56628/56628-h/56628-h.htm) · extract at line 2425
+- 2026-11-21 09:52:11 GMT — Open — [source](https://upload.wikimedia.org/wikipedia/commons/4/47/Introduction_to_the_study_of_Latin_inscriptions_%28IA_cu31924075494371%29.pdf) · extract at line 5367
+- 2026-11-21 09:52:11 GMT — Open — [source](https://www.centrechastel.sorbonne-universite.fr/ressources/du-bon-usage-des-archives-de-lancien-regime)
+- 2026-11-21 09:52:11 GMT — Open — [source](https://davidbossert.com/assets/article-alice-s-litte-parade-article.pdf)
+- 2026-11-21 09:52:18 GMT — Open — [source](https://pelavicino.labcd.unipi.it/numerazione-carte/) — Failed to fetch the source (502) Bad Gateway
+- 2026-11-21 09:52:18 GMT — Open — [source](https://mateo.uni-mannheim.de/camenaref/ducange/bd3/DuCange_glossarium_i-n.html) — Failed to fetch the source (400) Timeout fetching
+- 2026-11-21 09:52:18 GMT — Open — [source](https://mateo.uni-mannheim.de/camenaref/ducange/bd1/DuCange_glossarium_a-c.html)
+- 2026-11-21 09:52:18 GMT — Open — [source](https://www.adfontes.uzh.ch/ressourcen/abkuerzungen/cappelli-online/category/down/4) — Failed to fetch the source Cache miss
+- 2026-11-21 09:52:18 GMT — Open — [source](https://viewer.onb.ac.at/ABO_%2BZ17931900X)
+- 2026-11-21 09:52:18 GMT — Open — [source](https://www.nps.gov/places/000/statue-front.htm)
+- 2026-11-21 09:52:18 GMT — Find — [source](https://mateo.uni-mannheim.de/camenaref/ducange/bd3/DuCange_glossarium_i-n.html) · “quae 150. denotat” — Failed to fetch the source (400) Timeout fetching
+- 2026-11-21 09:52:18 GMT — Find — [source](https://www.unicode.org/L2/L2006/06269-add-roman.pdf) · “six appears” — No matching text found for "six appears"
+- 2026-11-21 09:52:18 GMT — Find — [source](https://www.gutenberg.org/files/56628/56628-h/56628-h.htm) · “p184” — No matching text found for "p184"
+- 2026-11-21 09:52:27 GMT — Search — “CIL VI 931 IIX Vespasian EDCS date 71 72 CIL Vespasian XIIX L Antonium Nasonem 77”
+- 2026-11-21 09:52:27 GMT — Search — “Corpus inscriptionum CIL VI 10015 frame CCCLVIII LXIII CXX Diocles 35863120 winning inscription University”
+- 2026-11-21 09:52:27 GMT — Search — “"Cappelli" "417" "numerazione romana" adfontes abb numerali H K”
+- 2026-11-21 09:52:27 GMT — Search — “"Hadrian" "DCCCLXXIIII" "britishmuseum.org/collection" coin”
+- 2026-11-21 09:52:27 GMT — Find — [unofficial copy URL withheld] · “Diocles” — No matching text found for "Diocles"
+- 2026-11-21 09:52:27 GMT — Find — [source](https://www.unicode.org/L2/L2006/06269-add-roman.pdf) · “ROMAN NUMERAL SIX”
+- 2026-11-21 09:52:27 GMT — Find — [source](https://www.maphistory.info/chronograms.html) · “winchester”
+- 2026-11-21 09:52:39 GMT — Open — [source](https://ignca.gov.in/Asi_data/17029.pdf)
+- 2026-11-21 09:52:39 GMT — Open — [source](https://collections.si.edu/search/detail/edanmdm%3Anmaahc_2013.118.122.1?print=yes) — Failed to fetch the source Cache miss
+- 2026-11-21 09:52:39 GMT — Open — [source](https://www.folger.edu/blogs/collation/golden-quills-and-paleography-skills/)
+- 2026-11-21 09:52:39 GMT — Open — [source](https://www.mgh-bibliothek.de/dokumente/a/a089822.pdf)
+- 2026-11-21 09:52:39 GMT — Open — [source](https://www.degruyterbrill.com/document/doi/10.1515/9783110479010-008/pdf?licenseType=free)
+- 2026-11-21 09:52:39 GMT — Open — [source](https://www.persee.fr/doc/roma_0035-8029_1956_num_77_306_3032?pageId=T1_176)
+- 2026-11-21 09:52:39 GMT — Open — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf)
+- 2026-11-21 09:52:39 GMT — Open — [source](https://db.edcs.eu/epigr/dessau/de-a0069.pdf)
+- 2026-11-21 09:52:39 GMT — Find — [unofficial copy URL withheld] · “35,863,120”
+- 2026-11-21 09:52:39 GMT — Find — [source](https://www.unicode.org/L2/L2006/06269-add-roman.pdf) · “Figure 13.”
+- 2026-11-21 09:52:46 GMT — Open — [source](https://en.wikisource.org/wiki/Page%3AThe_Gold_Rush_%281925%29.webm/3) — Failed to fetch the source Cache miss
+- 2026-11-21 09:52:46 GMT — Open — [source](https://live-www.nationalarchives.gov.uk/latin/reference/dating-latin-documents/) — Failed to fetch the source (403) Forbidden
+- 2026-11-21 09:52:46 GMT — Open — [source](https://www.romaninscriptionsofbritain.org/inscriptions/2494.66) — Failed to fetch the source Cache miss
+- 2026-11-21 09:52:46 GMT — Find — [source](https://www.gutenberg.org/files/56628/56628-h/56628-h.htm) · “Millesimo”
+- 2026-11-21 09:52:46 GMT — Find — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · “iiij bed” — No matching text found for "iiij bed"
+- 2026-11-21 09:52:46 GMT — Find — [source](https://www.folger.edu/blogs/collation/golden-quills-and-paleography-skills/) · “ii presses”
+- 2026-11-21 09:52:46 GMT — Find — [source](https://www.cervantesvirtual.com/portales/constituciones_hispanoamericanas/obra/theatrum-humanae-vitae-4/) · “Leer obra” — Failed to fetch the source Cache miss
+- 2026-11-21 09:52:46 GMT — Find — [source](https://upload.wikimedia.org/wikipedia/commons/d/db/The_epigraphical_evidence_for_the_reigns_of_Vespasian_and_Titus_.._%28IA_epigraphicalevid00newt%29.pdf) · “imp. IIX” — Failed to fetch the source (400) Content length is too large: 11694253
+- 2026-11-21 09:52:46 GMT — Find — [source](https://www.unicode.org/L2/L2006/06269-add-roman.pdf) · “Lex Repetundarum” — No matching text found for "Lex Repetundarum"
+- 2026-11-21 09:53:01 GMT — Open — [source](https://archive.org/details/lexiconabbreviat00capp)
+- 2026-11-21 09:53:01 GMT — Open — [source](https://books.google.com/books?id=TYlHAAAAYAAJ&pg=PA416) — URL the source is not accessible via this tool.
+- 2026-11-21 09:53:01 GMT — Open — [source](https://www.nationalarchives.gov.uk/help-with-your-research/reading-old-documents/roman-numerals/) — Failed to fetch the source (403) Forbidden
+- 2026-11-21 09:53:01 GMT — Open — [source](https://cdn.nationalarchives.gov.uk/documents/latin-palaeography-activities-and-documents.pdf)
+- 2026-11-21 09:53:01 GMT — Open — [source](https://en.numista.com/254910)
+- 2026-11-21 09:53:01 GMT — Find — [unofficial copy URL withheld] · “Cajori 1928: 33”
+- 2026-11-21 09:53:01 GMT — Find — [source](https://upload.wikimedia.org/wikipedia/commons/4/47/Introduction_to_the_study_of_Latin_inscriptions_%28IA_cu31924075494371%29.pdf) · “The bar above”
+- 2026-11-21 09:53:01 GMT — Find — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · “saxty” — No matching text found for "saxty"
+- 2026-11-21 09:53:01 GMT — Find — [source](https://losthistory.net/medievalwriting/whyread/florilegium.htm) · “933”
+- 2026-11-21 09:53:08 GMT — Open — [source](https://mateo.uni-mannheim.de/camenaref/ducange/bd4/DuCange_glossarium_o-z.html)
+- 2026-11-21 09:53:08 GMT — Open — [source](https://www.persee.fr/doc/bec_0373-6237_1999_num_157_1_450961?pageId=T1_52)
+- 2026-11-21 09:53:08 GMT — Open — [source](https://katapi.org.uk/G%26LPalaeography/AddsCorrs.html)
+- 2026-11-21 09:53:08 GMT — Open — [source](https://leunumismatik.com/en/lot/48/296)
+- 2026-11-21 09:53:08 GMT — Click — [source](https://www.britishmuseum.org/) · link 24 — Failed to fetch the source (403) Forbidden
+- 2026-11-21 09:53:08 GMT — Find — [source](https://archive.org/details/lexiconabbreviat00capp) · “FULL TEXT”
+- 2026-11-21 09:53:08 GMT — Find — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · “viij”
+- 2026-11-21 09:53:08 GMT — Find — [source](https://www.mgh-bibliothek.de/dokumente/a/a089822.pdf) · “Zürich” — No matching text found for "Zürich"
+- 2026-11-21 09:53:08 GMT — Find — [source](https://upload.wikimedia.org/wikipedia/commons/4/47/Introduction_to_the_study_of_Latin_inscriptions_%28IA_cu31924075494371%29.pdf) · “The horizontal line”
+- 2026-11-21 09:53:15 GMT — Search — “Admiralty Arch inscription MDCCCCX site:historicengland.org.uk OR site:royalparks.org.uk OR site:gov.uk”
+- 2026-11-21 09:53:15 GMT — Search — “"IN ANNO XLVIII" Madalfredus Poitiers epitaphe 802”
+- 2026-11-21 09:53:15 GMT — Search — “Spanish era inscription era DCCCC roman numerals dated museum medieval Spanish era tomb inscription "ERA"”
+- 2026-11-21 09:53:15 GMT — Open — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · extract at line 614
+- 2026-11-21 09:53:15 GMT — Open — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · extract at line 674
+- 2026-11-21 09:53:15 GMT — Open — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · extract at line 685
+- 2026-11-21 09:53:15 GMT — Click — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · link 133
+- 2026-11-21 09:53:23 GMT — Open — [source](https://revistas.ucm.es/index.php/GERI/article/download/71951/4564456554709/4564456599554)
+- 2026-11-21 09:53:23 GMT — Open — [source](https://www.ucm.es/archivoepigraficohispania/file/bae5f03-menor-ac?ver=)
+- 2026-11-21 09:53:23 GMT — Find — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · “151000”
+- 2026-11-21 09:53:23 GMT — Find — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · “zweihundert” — No matching text found for "zweihundert"
+- 2026-11-21 09:53:23 GMT — Find — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · “RÖMISCHE ZAHLEN” — No matching text found for "RÖMISCHE ZAHLEN"
+- 2026-11-21 09:53:23 GMT — Find — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · “Lxxxxj”
+- 2026-11-21 09:53:23 GMT — Find — [source](https://duepublico2.uni-due.de/servlets/MCRFileNodeServlet/duepublico_derivate_00083300/metaphorik_14_2008_Zedelmaier.pdf) · “Episcopius”
+- 2026-11-21 09:53:23 GMT — Find — [source](https://journal.fi/arctos/article/download/88205/47344) · “Konsulat” — No matching text found for "Konsulat"
+- 2026-11-21 09:53:31 GMT — Open — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · extract at line 71625
+- 2026-11-21 09:53:31 GMT — Open — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · extract at line 71750
+- 2026-11-21 09:53:31 GMT — Open — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · extract at line 71895
+- 2026-11-21 09:53:31 GMT — Open — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · extract at line 72158
+- 2026-11-21 09:53:31 GMT — Open — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · extract at line 72300
+- 2026-11-21 09:53:31 GMT — Open — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · extract at line 72415
+- 2026-11-21 09:53:31 GMT — Find — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · “Lord High Treasurer” — No matching text found for "Lord High Treasurer"
+- 2026-11-21 09:53:31 GMT — Find — [source](https://www.persee.fr/doc/cifm_0000-0000_1974_cat_1_1?pageId=T2_16) · “Madalfredus (pl.” — No matching text found for "Madalfredus (pl."
+- 2026-11-21 09:53:47 GMT — Search — “Newton Principia 1687 title page "CIↃ" "CLXXXVII" Cambridge University Library digital”
+- 2026-11-21 09:53:47 GMT — Search — “"IↃ" early modern title page "CIↃ" 17th century library apostrophus books date Principia 1687”
+- 2026-11-21 09:53:47 GMT — Search — “Bungus numerorum mysteria Romanorum numeratio 1591 1585 scan e-rara digitized”
+- 2026-11-21 09:53:47 GMT — Search — “Lex Rubria "X" sestertium 10000 inscription line text Tabula Veleias "vinculum" Suetonius Galba 5”
+- 2026-11-21 09:53:47 GMT — Open — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · extract at line 575
+- 2026-11-21 09:53:47 GMT — Open — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · extract at line 657
+- 2026-11-21 09:53:47 GMT — Open — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · extract at line 71555
+- 2026-11-21 09:53:47 GMT — Open — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · extract at line 71721
+- 2026-11-21 09:53:55 GMT — Open — [source](https://en.wikisource.org/wiki/A_History_Of_Mathematical_Notations/Volume_1/Romans)
+- 2026-11-21 09:53:55 GMT — Open — [source](https://www.theatrum-paracelsicum.com/Bibliographia_Paracelsica/BP.Dorn.1594-01)
+- 2026-11-21 09:53:55 GMT — Open — [source](https://www.lostartoflogarithms.com/chapter02/)
+- 2026-11-21 09:53:55 GMT — Open — [source](https://www.gov.br/bn/pt-br/central-de-conteudos/producao/publicacoes/colecoes/anais-biblioteca-nacional/copy_of_anais-da-biblioteca-nacional-vol-140/anais-da-biblioteca-nacional-vol-140/an140_digital-9094.pdf)
+- 2026-11-21 09:53:55 GMT — Open — [source](https://bms-du-chatillonnais.e-monsite.com/medias/files/latin-abreviations-medievales-pour-la-paleographie.pdf)
+- 2026-11-21 09:53:55 GMT — Open — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · extract at line 584
+- 2026-11-21 09:53:55 GMT — Find — [source](https://en.wikisource.org/wiki/A_History_Of_Mathematical_Notations/Volume_1/Romans) · “1392”
+- 2026-11-21 09:53:55 GMT — Find — [source](https://en.wikisource.org/wiki/A_History_Of_Mathematical_Notations/Volume_1/Romans) · “multiplication”
+- 2026-11-21 09:53:55 GMT — Find — [source](https://www.gov.br/bn/pt-br/central-de-conteudos/producao/publicacoes/colecoes/anais-biblioteca-nacional/copy_of_anais-da-biblioteca-nacional-vol-140/anais-da-biblioteca-nacional-vol-140/an140_digital-9094.pdf) · “apostróphus”
+- 2026-11-21 09:53:55 GMT — Find — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · “(N)  90”
+- 2026-11-21 09:54:09 GMT — Search — “"cccc liij" "pero" "martinez" 1453 lápida León”
+- 2026-11-21 09:54:09 GMT — Search — “"K" "150" "151" Du Cange glossarium site:ducange.enc.sorbonne.fr OR site:mateo.uni-mannheim.de”
+- 2026-11-21 09:54:09 GMT — Open — [source](https://www.academia.edu/170401993/L%C3%A1pidas_medievales_del_Museo_de_Le%C3%B3n_Espa%C3%B1a_) — Failed to fetch the source Cache miss
+- 2026-11-21 09:54:09 GMT — Open — [source](https://bms-du-chatillonnais.e-monsite.com/medias/files/latin-abreviations-medievales-pour-la-paleographie.pdf) · extract at line 1016
+- 2026-11-21 09:54:09 GMT — Open — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · extract at line 581
+- 2026-11-21 09:54:09 GMT — Open — [source](https://www.unicode.org/L2/L2006/06269-add-roman.pdf) · extract at line 411
+- 2026-11-21 09:54:09 GMT — Open — [source](https://db.edcs.eu/epigr/dessau/de-a0069.pdf) · extract at line 162
+- 2026-11-21 09:54:09 GMT — Find — [source](https://mateo.uni-mannheim.de/camenaref/ducange/bd4/DuCange_glossarium_o-z.html) · “### S.”
+- 2026-11-21 09:54:09 GMT — Find — [source](https://mateo.uni-mannheim.de/camenaref/ducange/bd4/DuCange_glossarium_o-z.html) · “### Z.”
+- 2026-11-21 09:54:09 GMT — Find — [source](https://www.gutenberg.org/files/56628/56628-h/56628-h.htm) · “Page_184” — No matching text found for "Page_184"
+- 2026-11-21 09:54:19 GMT — Open — [source](https://bms-du-chatillonnais.e-monsite.com/medias/files/latin-abreviations-medievales-pour-la-paleographie.pdf) · extract at line 1009
+- 2026-11-21 09:54:19 GMT — Open — [source](https://en.wikisource.org/wiki/A_History_Of_Mathematical_Notations/Volume_1/Romans) · extract at line 109
+- 2026-11-21 09:54:19 GMT — Open — [source](https://upload.wikimedia.org/wikipedia/commons/4/47/Introduction_to_the_study_of_Latin_inscriptions_%28IA_cu31924075494371%29.pdf) · extract at line 2310
+- 2026-11-21 09:54:19 GMT — Open — [source](https://archive.org/stream/lexiconabbreviat00capp/lexiconabbreviat00capp_djvu.txt) · extract at line 71529
+- 2026-11-21 09:54:19 GMT — Find — [source](https://www.gutenberg.org/files/56628/56628-h/56628-h.htm) · “XCij.”
+- 2026-11-21 09:54:19 GMT — Find — [source](https://www.mgh-bibliothek.de/dokumente/a/a089822.pdf) · “Prinz”
+- 2026-11-21 09:54:19 GMT — Find — [source](https://www.maphistory.info/chronograms.html) · “MIserICorDIae”
+- 2026-11-21 09:55:42 GMT — Search — “"cccc liij" OR "cccc.liii" OR "cccc lxxv" "l'an" medieval charter omission date in year fifteenth archives”
+- 2026-11-21 09:55:42 GMT — Search — “"Tabula Veleias" "sestertium" inscription Lex Rubria 10000 CIL pages Epigraphik”
+- 2026-11-21 09:55:42 GMT — Search — “"CIL VI 10048" Diocles charioteer inscription text 35 863 120 primary ILS 5287”
+- 2026-11-21 09:55:42 GMT — Search — “"Der Mailänder Kalender" "Joseph Prinz" mgh 1976 kalender”
+- 2026-11-21 09:55:42 GMT — Open — [source](https://library.si.edu/digital-library/book/petribungibergo00bong) — Request rejected by the source.
+- 2026-11-21 09:55:42 GMT — Open — [source](https://www.academia.edu/123756218/Diplomatics_The_Science_of_Reading_Medieval_Documents_A_Handbook_Milano_2024) — Request rejected by the source.
+- 2026-11-21 09:55:53 GMT — Search — “incunabula "M.CCCC.IC" 1499 colophon Latin site:books.google.com OR site:archive.org OR site:harvard.edu OR site:bl.uk”
+- 2026-11-21 09:55:53 GMT — Search — “"mccccic" 1499 colophon incunable”
+- 2026-11-21 09:55:53 GMT — Search — “"lex rubria" "X" CIL "sestertium" 'HS' Tabula inscription Römische”
+- 2026-11-21 09:55:53 GMT — Search — “"Prinz" "Mailänder Kalender" "Abhandlungen" 294”
+- 2026-11-21 09:55:53 GMT — Open — [source](https://agora.edu.es/descarga/articulo/8065051.pdf)
+- 2026-11-21 09:55:53 GMT — Open — [source](https://caro.huma-num.fr/corpus/France/Lothaire_1/XXXIXa)
+- 2026-11-21 09:55:53 GMT — Find — [source](https://scottishrecordsassociation.org/documents/NRS-Scottish_handwriting_self-help_kit-web.pdf) · “Estate of the Household of James VI, 1580”
+- 2026-11-21 09:55:53 GMT — Find — [source](https://en.wikisource.org/wiki/A_History_Of_Mathematical_Notations/Volume_1/Romans) · “Giraua”
+- 2026-11-21 09:56:02 GMT — Search — “"MDCCCCX" Admiralty Arch inscription 1910 Historic England Royal Parks”
+- 2026-11-21 09:56:02 GMT — Search — “"IIII" "Shepherd Gate Clock" royal museums greenwich clock roman numerals 1852”
+- 2026-11-21 09:56:02 GMT — Open — [source](https://oskardiethelm.library.site/resources/detail/single/19282)
+- 2026-11-21 09:56:02 GMT — Open — [source](https://resources.warburg.sas.ac.uk/pdf/hnh5600b2797976v7.pdf)
+- 2026-11-21 09:56:02 GMT — Open — [source](https://resources.warburg.sas.ac.uk/pdf/hnh5600b2797976v2.pdf)
+- 2026-11-21 09:56:02 GMT — Find — [source](https://resources.warburg.sas.ac.uk/pdf/hnh5600b2797976v7.pdf) · “OBIIT MCCCCIC”
+- 2026-11-21 09:56:02 GMT — Find — [source](https://agora.edu.es/descarga/articulo/8065051.pdf) · “XXXXII”
+- 2026-11-21 09:56:02 GMT — Find — [source](https://www.mgh-bibliothek.de/dokumente/a/a089822.pdf) · “Kalendar” — No matching text found for "Kalendar"
+- 2026-11-21 09:56:02 GMT — Find — [source](https://www.maphistory.info/chronograms.html) · “Jodocus Hondius”
+- 2026-11-21 09:57:40 GMT — Search — “medieval fifteenth dates omit thousand years "thousand" "omitted" roman numerals dates inscription”
+- 2026-11-21 09:57:40 GMT — Search — “"omitted" "thousands" "colophons" date 1500 medieval Roman numerals bibliographical”
+- 2026-11-21 09:57:40 GMT — Search — “"mil" "milesimo" "omisión" "millar" fechas números romanos diplomática siglo XV”
+- 2026-11-21 09:57:40 GMT — Search — “Joan Carbonell "Natione Hispanus" González Manils autor epigrafía 2021”
+- 2026-11-21 09:57:40 GMT — Open — [source](https://www.royalparks.org.uk/visit/parks/st-jamess-park/monuments)
+- 2026-11-21 09:57:40 GMT — Open — [source](https://cdn.nationalarchives.gov.uk/documents/latin-palaeography-activities-and-documents.pdf) · extract at line 5
+- 2026-11-21 09:57:40 GMT — Open — [source](https://agora.edu.es/descarga/articulo/8065051.pdf) · extract at line 22
+- 2026-11-21 09:57:40 GMT — Open — [source](https://www.maphistory.info/chronograms.html) · extract at line 545
+- 2026-11-21 09:57:40 GMT — Open — [source](https://www.mgh-bibliothek.de/dokumente/a/a089822.pdf) · extract at line 12
+- 2026-11-21 09:58:45 GMT — Search — “"six late form" "ↅ" actual dated inscription Visigothic coin 6 palaeography ϛ”
+- 2026-11-21 09:58:45 GMT — Search — “site:academic.oup.com Oxford Handbook Latin Palaeography "Roman numerals" Charles Burnett numerals medieval”
+- 2026-11-21 09:58:45 GMT — Search — “"Prinz" "Kalender" "Heimpel" "Mailänder" Joseph Prinz 1972”
+- 2026-11-21 09:58:45 GMT — Search — “"numero" "XXCIII" "130" Karpinski signboard Roman inscription”
+- 2026-11-21 09:58:45 GMT — Open — [source](https://agora.edu.es/descarga/articulo/8065051.pdf) · extract at line 8
+- 2026-11-21 09:58:45 GMT — Open — [source](https://www.mgh-bibliothek.de/dokumente/a/a089822.pdf) · extract at line 25
+- 2026-11-21 09:58:45 GMT — Open — [source](https://www.unicode.org/L2/L2006/06269-add-roman.pdf) · extract at line 20
+- 2026-11-21 09:58:45 GMT — Open — [unofficial copy URL withheld]
+- 2026-11-21 09:58:53 GMT — Open — [source](https://www.mgh-bibliothek.de/dokumente/a/a089822.pdf) · extract at line 18
+- 2026-11-21 09:58:53 GMT — Open — [source](https://www.unicode.org/L2/L2006/06269-add-roman.pdf) · extract at line 14
+- 2026-11-21 09:58:53 GMT — Open — [source](https://www.academia.edu/123756218/Diplomatics_The_Science_of_Reading_Medieval_Documents_A_Handbook_Milano_2024) · extract at line 20
+- 2026-11-21 09:58:53 GMT — Open — [source](https://agora.edu.es/descarga/articulo/8065051.pdf) · extract at line 664
+- 2026-11-21 09:58:53 GMT — Open — [source](https://www.gov.br/bn/pt-br/central-de-conteudos/producao/publicacoes/colecoes/anais-biblioteca-nacional/copy_of_anais-da-biblioteca-nacional-vol-140/anais-da-biblioteca-nacional-vol-140/an140_digital-9094.pdf) · extract at line 398
+- 2026-11-21 09:58:53 GMT — Find — [unofficial copy URL withheld] · “post .xxxii.”
+- 2026-11-21 09:58:53 GMT — Find — [source](https://www.unicode.org/L2/L2006/06269-add-roman.pdf) · “Visigothic” — No matching text found for "Visigothic"
+- 2026-11-21 09:58:53 GMT — Find — [source](https://www.unicode.org/wg2/docs/n3218.pdf) · “Fig. 16”
+- 2026-11-21 09:59:02 GMT — Search — “CIL VIII 1577 "5000" overline inscription 1577 Roman Tunisia date CIL VIII 98 overline”
+- 2026-11-21 09:59:02 GMT — Open — [source](https://www.gov.br/bn/pt-br/central-de-conteudos/producao/publicacoes/colecoes/anais-biblioteca-nacional/copy_of_anais-da-biblioteca-nacional-vol-140/anais-da-biblioteca-nacional-vol-140/an140_digital-9094.pdf) · extract at line 333
+- 2026-11-21 09:59:02 GMT — Find — [source](https://www.unicode.org/wg2/docs/n3218.pdf) · “From Gordon 1958”
+- 2026-11-21 09:59:02 GMT — Find — [source](https://www.unicode.org/wg2/docs/n3218.pdf) · “Figure 16.”
+- 2026-11-21 09:59:02 GMT — Find — [unofficial copy URL withheld] · “Ostia from AD 36”
+- 2026-11-21 09:59:02 GMT — Find — [unofficial copy URL withheld] · “Abbreviations”
+- 2026-11-21 09:59:02 GMT — Find — [source](https://www.academia.edu/123756218/Diplomatics_The_Science_of_Reading_Medieval_Documents_A_Handbook_Milano_2024) · “Simone” — No matching text found for "Simone"
+- 2026-11-21 09:59:29 GMT — Open — [source](https://www.academia.edu/123756218/Diplomatics_The_Science_of_Reading_Medieval_Documents_A_Handbook_Milano_2024) · extract at line 4
+- 2026-11-21 09:59:29 GMT — Open — [source](https://journal.fi/arctos/article/download/88205/47344) · extract at line 18
+- 2026-11-21 09:59:29 GMT — Open — [unofficial copy URL withheld] · extract at line 8600
+- 2026-11-21 09:59:29 GMT — Open — [source](https://www.maphistory.info/chronograms.html) · extract at line 441
+- 2026-11-21 09:59:29 GMT — Find — [source](https://www.gov.br/bn/pt-br/central-de-conteudos/producao/publicacoes/colecoes/anais-biblioteca-nacional/copy_of_anais-da-biblioteca-nacional-vol-140/anais-da-biblioteca-nacional-vol-140/an140_digital-9094.pdf) · “A data da publicação”
+- 2026-11-21 09:59:29 GMT — Find — [source](https://burjcdigital.urjc.es/items/d1f1bae0-5092-40f0-93d5-628bbc99539c/full) · “Hispania antiqua” — Failed to fetch the source Cache miss
+- 2026-11-21 09:59:29 GMT — Find — [source](https://mateo.uni-mannheim.de/camenaref/ducange/bd1/DuCange_glossarium_a-c.html) · “Numeralis”
+- 2026-11-21 10:01:07 GMT — Open — [source](https://www.academia.edu/123756218/Diplomatics_The_Science_of_Reading_Medieval_Documents_A_Handbook_Milano_2024) · extract at line 1
+- 2026-11-21 10:01:07 GMT — Open — [source](https://www.unicode.org/wg2/docs/n3218.pdf) · extract at line 695
+- 2026-11-21 10:01:07 GMT — Open — [source](https://www.mgh-bibliothek.de/dokumente/a/a089822.pdf) · extract at line 94
+- 2026-11-21 10:01:07 GMT — Find — [source](https://www.persee.fr/doc/cifm_0000-0000_1974_cat_1_1?pageId=T2_16) · “XLVIII” — No matching text found for "XLVIII"
+- 2026-11-21 10:01:07 GMT — Find — [source](https://burjcdigital.urjc.es/bitstream/handle/10115/21150/2021%20Natione%20Hispanus.%20Separata.pdf?isAllowed=y&sequence=1) · “DOI”
+- 2026-11-21 10:01:07 GMT — Find — [source](https://www.gov.br/bn/pt-br/central-de-conteudos/producao/publicacoes/colecoes/anais-biblioteca-nacional/copy_of_anais-da-biblioteca-nacional-vol-140/anais-da-biblioteca-nacional-vol-140/an140_digital-9094.pdf) · “Carvalho”
+- 2026-11-21 10:01:07 GMT — Find — [source](https://www.gutenberg.org/files/56628/56628-h/56628-h.htm) · “Lichtenstein dated”
+- 2026-11-21 10:01:07 GMT — Find — [unofficial copy URL withheld] · “PUNCTUATION AND ABBREVIATION”

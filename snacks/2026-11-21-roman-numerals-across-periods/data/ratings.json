@@ -1,0 +1,530 @@
+{
+  "standard": {
+    "ratings": [
+      2,
+      2,
+      2,
+      2,
+      3
+    ],
+    "justification": "The forms now standard already occur in Roman and medieval material, but stricter modern canonical order is typical chiefly in modern usage.",
+    "citations": [
+      "egbert",
+      "rib2205",
+      "cappelli",
+      "pollard",
+      "chrisomalis",
+      "nps",
+      "bossert"
+    ]
+  },
+  "additive4": {
+    "ratings": [
+      3,
+      3,
+      3,
+      2,
+      2
+    ],
+    "justification": "Additive fours and nines are ordinary in the examined Roman and medieval records and survive in early modern accounts and modern clocks and monuments.",
+    "citations": [
+      "egbert",
+      "mattingly",
+      "kajanto",
+      "pollard",
+      "nrs",
+      "barnes",
+      "royalparks"
+    ]
+  },
+  "irregularSub": {
+    "ratings": [
+      1,
+      0,
+      2,
+      0,
+      0
+    ],
+    "justification": "Classical exceptions have narrow scope, and late-fifteenth-century IC is attested in print and stone; a wider period rating for IL or XM lacks equivalent evidence.",
+    "citations": [
+      "egbert",
+      "pollard",
+      "forcella"
+    ]
+  },
+  "runSub": {
+    "ratings": [
+      2,
+      0,
+      2,
+      1,
+      0
+    ],
+    "justification": "Flavian IIX and XIIX, Republican XXC, and incunable iic/iiic belong to identifiable traditions, with scarce evidence in the intervening centuries.",
+    "citations": [
+      "egbert",
+      "dessau253",
+      "pollard",
+      "cajori"
+    ]
+  },
+  "oddOrder": {
+    "ratings": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    "justification": "Individually documented exceptions such as classical XXCIII and reported eighth-century LXL support a low prior for named forms, conditional on structure and context.",
+    "citations": [
+      "egbert",
+      "cappelli",
+      "cappelli1901",
+      "cajori"
+    ]
+  },
+  "additiveSum": {
+    "ratings": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "justification": "Certain lower-before-higher medieval ordinals are additive in Latin word order, but the general method of ignoring order is only a fallback.",
+    "citations": [
+      "cappelli1901",
+      "cappellien",
+      "cajori"
+    ]
+  },
+  "multiplicative": {
+    "ratings": [
+      0,
+      0,
+      3,
+      2,
+      0
+    ],
+    "justification": "Raised C and M are frequent in some late medieval accounts and attested in sixteenth-century commercial arithmetic and Scottish records.",
+    "citations": [
+      "cappellien",
+      "cappelli1901",
+      "cajori",
+      "nrs",
+      "chrisomalis"
+    ]
+  },
+  "multiplicativePlain": {
+    "ratings": [
+      1,
+      0,
+      2,
+      2,
+      0
+    ],
+    "justification": "Baseline multiplication is reported sporadically for classical thousands and attested in later medieval and early modern evidence, sometimes with a separating dot or an abbreviated unit word.",
+    "citations": [
+      "cajori",
+      "chrisomalis",
+      "scots"
+    ]
+  },
+  "vigesimal": {
+    "ratings": [
+      0,
+      0,
+      3,
+      2,
+      0
+    ],
+    "justification": "Score notation is reported as frequent in late-medieval print and characterises some French and British records, with continued use in early modern hands.",
+    "citations": [
+      "cappelli",
+      "pollard",
+      "cajori",
+      "chastel",
+      "nrs",
+      "chrisomalis"
+    ]
+  },
+  "separate": {
+    "ratings": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "justification": "Final j marks a numeral in some hands, but an internal j alone lacks evidence as a rule for splitting adjacent values.",
+    "citations": [
+      "nrs",
+      "pollard",
+      "cappelli1901",
+      "cajori"
+    ]
+  },
+  "vinculum": {
+    "ratings": [
+      2,
+      1,
+      2,
+      1,
+      0
+    ],
+    "justification": "The Roman ×1,000 overbar and medieval continuation are documented, while an identical-looking stroke can mark a numeral or abbreviation.",
+    "citations": [
+      "egbert",
+      "cappelli",
+      "cappellien",
+      "chrisomalis",
+      "cajori"
+    ]
+  },
+  "frame": {
+    "ratings": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "justification": "Roman three-sided frames multiply by 100,000 in rare high-value inscriptions, with no independently dated examples of continued ordinary use in the other bins.",
+    "citations": [
+      "egbert",
+      "chrisomalis",
+      "cappellien"
+    ]
+  },
+  "apostrophus": {
+    "ratings": [
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "justification": "Ancient inscriptional signs, Priscian's account around 500 and Renaissance imprints establish use and transmission; the evidence does not establish general popularity.",
+    "citations": [
+      "egbert",
+      "rib2205",
+      "cappelli",
+      "cajori",
+      "dorn",
+      "chrisomalis"
+    ]
+  },
+  "archaic": {
+    "ratings": [
+      2,
+      2,
+      1,
+      0,
+      0
+    ],
+    "justification": "The archaic fifty and the late six belong to different histories, with the latter particularly well evidenced in late Antiquity and early medieval hands.",
+    "citations": [
+      "egbert",
+      "cappelli1901",
+      "unicode",
+      "chrisomalis"
+    ]
+  },
+  "ignored": {
+    "ratings": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "justification": "Units, date words, ordinal marks and abbreviations require recognition or warning; discarding unknown glyphs is a software fallback.",
+    "citations": [
+      "nrs",
+      "cappellien",
+      "pollard"
+    ]
+  },
+  "minim": {
+    "ratings": [
+      0,
+      1,
+      2,
+      2,
+      0
+    ],
+    "justification": "Similar strokes motivate alternative transcriptions in late medieval and early modern hands, with judgement required for the individual token.",
+    "citations": [
+      "tna",
+      "harvard",
+      "nrs",
+      "scots"
+    ]
+  },
+  "ad": {
+    "ratings": [
+      0,
+      2,
+      3,
+      3,
+      3
+    ],
+    "justification": "The Christian era spreads in the early Middle Ages and becomes ordinary for years in later Western sources, with local differences in year start.",
+    "citations": [
+      "kajanto",
+      "cheney",
+      "tock",
+      "pollard",
+      "nps"
+    ]
+  },
+  "omittedMillennium": {
+    "ratings": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "justification": "A late-medieval León fragment is a candidate, but secure omission of the thousand alone remains unverified and other apparently similar cases spell out mille.",
+    "citations": [
+      "leon",
+      "pollard"
+    ]
+  },
+  "omittedCentury": {
+    "ratings": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "justification": "Pollard describes occasional shortening by late-fifteenth-century printers and documents XCij for 1492 in Augsburg.",
+    "citations": [
+      "pollard"
+    ]
+  },
+  "auc": {
+    "ratings": [
+      1,
+      0,
+      0,
+      1,
+      1
+    ],
+    "justification": "The Hadrianic city date is secure and Renaissance humanists and modern scholarship use AUC retrospectively; require the era and epoch to be supplied.",
+    "citations": [
+      "mattingly",
+      "egbert",
+      "thompson",
+      "diplomatics"
+    ]
+  },
+  "chronogram": {
+    "ratings": [
+      0,
+      0,
+      1,
+      3,
+      1
+    ],
+    "justification": "Meaningful additive letter-dates have an especially well-documented early modern European tradition, distinct from an arbitrary sum of a dirty numeral.",
+    "citations": [
+      "campbell",
+      "chrisomalis"
+    ]
+  },
+  "medievalLetters": {
+    "ratings": [
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "justification": "Glossaries and specialised local traditions give differing values. A selected source profile is necessary.",
+    "citations": [
+      "cappelli1901",
+      "ducangeAC",
+      "ducangeOZ",
+      "cajori",
+      "chrisomalis",
+      "keyser"
+    ]
+  },
+  "regnalYear": {
+    "ratings": [
+      2,
+      3,
+      3,
+      2,
+      1
+    ],
+    "justification": "Regnal or office years require authority, jurisdiction and an accession rule, and continue in some forms after the Middle Ages.",
+    "citations": [
+      "cheney",
+      "poitiers",
+      "stgall",
+      "diplomatics",
+      "royalparks",
+      "pollard"
+    ]
+  },
+  "indiction": {
+    "ratings": [
+      0,
+      3,
+      2,
+      1,
+      0
+    ],
+    "justification": "A 15-year cycle used by medieval chanceries and some later notaries narrows a dated interval when the year-start style is known.",
+    "citations": [
+      "cheney",
+      "kajanto",
+      "stgall",
+      "lorusso",
+      "diplomatics"
+    ]
+  },
+  "spanishEra": {
+    "ratings": [
+      0,
+      3,
+      3,
+      0,
+      0
+    ],
+    "justification": "Iberian inscriptions and documents use an era counted from 38 BCE with regional end dates.",
+    "citations": [
+      "santiago",
+      "menor",
+      "cheney"
+    ]
+  },
+  "byzantineAnnoMundi": {
+    "ratings": [
+      0,
+      2,
+      3,
+      2,
+      0
+    ],
+    "justification": "Selected Byzantine manuscript dates use a world era whose year starts in September, so the month controls the conversion.",
+    "citations": [
+      "lorusso",
+      "thompson"
+    ]
+  },
+  "finalJ": {
+    "ratings": [
+      0,
+      1,
+      3,
+      3,
+      0
+    ],
+    "justification": "A long or descended last i is written j in many later Western hands and in fifteenth-century print.",
+    "citations": [
+      "cajori",
+      "pollard",
+      "nrs",
+      "tna",
+      "cappelli1901"
+    ]
+  },
+  "ordinalMarks": {
+    "ratings": [
+      0,
+      1,
+      3,
+      2,
+      0
+    ],
+    "justification": "Raised ordinal endings such as o in date formulae may carry grammar while leaving the numeral value unchanged.",
+    "citations": [
+      "cappelli1901",
+      "pollard",
+      "tock"
+    ]
+  },
+  "distinctionMarks": {
+    "ratings": [
+      2,
+      2,
+      3,
+      2,
+      0
+    ],
+    "justification": "Dots and strokes can distinguish numerals or currency from letters; they are evidence to retain even when they do not modify the value.",
+    "citations": [
+      "egbert",
+      "rib2208",
+      "cappelli",
+      "cajori",
+      "clemens"
+    ]
+  },
+  "clockIIII": {
+    "ratings": [
+      0,
+      0,
+      2,
+      2,
+      3
+    ],
+    "justification": "Four strokes are the usual form on modern Roman-numeral dials in the cited synthesis, with older clock examples and surviving alternatives.",
+    "citations": [
+      "chrisomalis",
+      "barnes",
+      "bn"
+    ]
+  },
+  "hybridNumerals": {
+    "ratings": [
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "justification": "Some late medieval and early modern examples mix number words, Arabic digits or special units with Roman numeral signs.",
+    "citations": [
+      "cappelli1901",
+      "chrisomalis",
+      "pollard",
+      "scots"
+    ]
+  },
+  "earlyFifty": {
+    "ratings": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "justification": "The early arrow-like forms of fifty are distinct from the late six and from L.",
+    "citations": [
+      "egbert",
+      "unicode"
+    ]
+  },
+  "lateSix": {
+    "ratings": [
+      2,
+      2,
+      1,
+      0,
+      0
+    ],
+    "justification": "A late-form six appears from the imperial period and in late-antique and early medieval hands; specialised sources disagree on origins and the end of related forms.",
+    "citations": [
+      "unicode",
+      "cappelli1901",
+      "chrisomalis"
+    ]
+  }
+}

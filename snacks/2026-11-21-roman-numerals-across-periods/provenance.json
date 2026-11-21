@@ -1,0 +1,30 @@
+{
+  "source": "Roman Numeral Reader",
+  "source_commit": "7e8617615c760039b24369405c9f0a4a514d61b1",
+  "initial_ratings_commit": "09ab74a",
+  "research_pass_commit": "4ee6f99",
+  "original_reference_records": 45,
+  "original_references_read_in_full": 2,
+  "source_sha256_before_packaging": {
+    "index.html": "12fb7f43d824cac521866645fcdf1a413110fb4038b2db6734e7308cb5b1bf60",
+    "reader.js": "b259296ae2edecaccd75777719b95741cead7f9c78999bdd992fc84a2d0085fb",
+    "reader.css": "10a49d8b50e1b98beaaa13cb0ec06212ebae0dd30dcdfdc6a62e8e52bc6022ee",
+    "roman.js": "418280c4afa4fcf4f003cbcfd879592acff44d099023d19538727107ab663e83",
+    "data/research.js": "8110a074650cf8a9e84d95e4ed54956994c06db7e41747699d989741098b0715",
+    "data/conventions.json": "a13f22db71dbf771adba90685ddaeebd404c85320ca5c0de72e40e24d345ba9e",
+    "data/teaching.json": "36b71205745731d4113f993b9b3447eb0c15704dd46f5e23f7c47e6e354e6a78",
+    "data/letters.json": "52055dc0efae18cdfe673cc56cc0a03fa2a2fa9a1067e98fc51cd6724e263f1f",
+    "build-data.mjs": "16de9b913a1e70693695a2deff9d81c4ce5420e56844d6b32eeb6ca1033ba2b1",
+    "test.mjs": "a1544667da0682093e6cf01f3825b45a0c8acb9382c52f117333efa8c28e6156",
+    "research/examples.json": "40506cec95e35039703395b58f5058e0cf140860903447a2cdb20c68b141dfe2",
+    "research/references.json": "dc52630dfdcd5839b65d461d9c16cd56e0308ffcf3dacbe8a3470f7caf6b899f",
+    "research/ratings.json": "9f23d41537ba86b6ba0882bfaacb353d467a4ce056c3f17c831f13c4aaeb0d3b",
+    "research/findings.md": "88889cf4f43ce22000e991f778fe80d8102984e98a229e59320f94c7edd8a901",
+    "research/search-log.md": "d88e5fa17a526c286d950125e27d2a9ace1e3075cf04f6e107092e5e4524e8d8",
+    "research/preset-check.md": "4fa3b1e61cdf710cfbd0b20f0e93237889a89f50860b7802f38bcd46f59d0457",
+    "research/council/packet.md": "ed4558ceeaffbc1bc9afe8a6852d0f5fc07e5573071e0932a661c643a6f31128",
+    "research/council/claude-haiku-5-5.md": "581eb55cee57197413187a310d035b6221379e30cd9de2ea29078aee12faf68a",
+    "research/council/gemini-4-neon.md": "7e60538c05f8879b268cf404291d398fb9e89cbdbb16789570971d7bee3e6401",
+    "research/council/reconciliation.md": "1b305383a467eaa5b94cd7b9545ceb11c7c0bf23fa898fde0bcc4f4f0de4e1c7"
+  }
+}

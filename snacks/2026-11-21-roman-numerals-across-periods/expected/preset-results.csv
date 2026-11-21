@@ -1,0 +1,48 @@
+input,period,expected,reader_outputs,result
+CCCXXC,Classical,380,380 / 400 / 420,Matched
+IIII,Classical,4,4,Matched
+|(I)|,Classical,100000000,100000000,Matched
+IIX,Classical,8,8 / 10 / 12,Matched
+XIIX,Classical,18,18 / 20 / 22,Matched
+VIIII,Classical,9,9,Matched
+DCCCLXXIIII,Classical,121,121,Matched
+ↀↀↀↀ C XLI,Classical,4141,4141 / 4161,Matched
+IIII CĐXI,Classical,4411,113 / 107 / 411 / 115,Mismatch
+XXXXII,Classical,42,42,Matched
+XXIII,Classical,23,23,Matched
+ↅ,Early medieval,6,6,Matched
+VI,Early medieval,6,6,Matched
+XVIII,Early medieval,18,18,Matched
+DCLXXXIII,Early medieval,645,645,Matched
+dcccLxxvi,Early medieval,876,876 / 1876,Matched
+dccccxxxiii,Early medieval,933,933 / 1933,Matched
+vi,Early medieval,933,303 / 318 / 333 / 348 / 363 / 378 / 393 / 408 / 423 / 438 / 453 / 468 / 483 / 498 / 513 / 528 / 543 / 558 / 573 / 588 / 603 / 618 / 633 / 648 / 663 / 678 / 693 / 708 / 723 / 738 / 753 / 768 / 783 / 798 / 813 / 828 / 843 / 858 / 873 / 888 / 903 / 918 / 933 / 948 / 963 / 978 / 993,Matched
+DCCCCLXIII,Early medieval,963,963 / 1963,Matched
+DCCCCLXXVII,Early medieval,977,977 / 1977,Matched
+DCCCCLXXXI,Early medieval,981,981 / 1981,Matched
+IX.XX.XVI,Late medieval,196,196 / 45 / 47,Matched
+IIIIˣˣ et huit,Late medieval,88,83 / 86,Mismatch
+MCCCCXII,Late medieval,1412,1412,Matched
+Mᵒiiijᶜlvj,Late medieval,1456,1456,Matched
+M . CCCC . LXIIII,Late medieval,1464,1464,Matched
+lxxixº,Late medieval,79,79 / 81,Matched
+M.cccc.xc.,Late medieval,1490,1490 / 1510,Matched
+XCij,Late medieval,1492,1092 / 1192 / 1292 / 1392 / 1492 / 92 / 112 / 1112,Matched
+M.cccc.lxxxxiii.,Late medieval,1493,1493,Matched
+MCCCCIC,Late medieval,1499,1499 / 1501,Matched
+IIᶜ,Early modern,200,200,Matched
+IIIIᶜ.LX,Early modern,460,460,Matched
+XVCXIV,Early modern,1514,1514 / 119 / 131 / 1119 / 1131,Matched
+vij·c.,Early modern,700,700 / 105 / 107,Matched
+ijᶜ xxij,Early modern,222,222,Matched
+iiiiᶜ xliiij,Early modern,444,444,Matched
+CIↃ IↃ XCIV,Early modern,1594,1594 / 1616,Matched
+MIserICorDIae,Early modern,1603,1603,Matched
+MIserICorDIae et patIentIae,Early modern,1605,1605,Matched
+Lxxxxj,Early modern,91,91,Matched
+vj C&,Early modern,600,104 / 600 / 106,Matched
+IV,Modern,4,4 / 6,Matched
+MDCCLXXVI,Modern,1776,1776,Matched
+IIII,Modern,4,4,Matched
+MDCCCCX,Modern,1910,1910,Matched
+MCMXXV,Modern,1925,1925 / 2125,Matched

@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Roman Numeral Reader</title>
+<link rel="stylesheet" href="reader.css">
+</head>
+<body>
+<main>
+  <header id="page-header">
+    <h1>Roman Numeral Reader</h1>
+    <p class="lede">Read a numeral as written, compare its possible values and see where each convention is documented.</p>
+  </header>
+
+  <section class="panel" aria-label="Reader">
+    <div class="field">
+      <label for="mode">Read as</label>
+      <select id="mode">
+        <option value="number">Numeral</option>
+        <option value="passage">Passage</option>
+        <option value="chronogram">Chronogram</option>
+      </select>
+    </div>
+    <label class="small" for="q" id="input-label">Numeral as written</label>
+    <textarea id="q" rows="1" autocomplete="off" spellcheck="false" placeholder="e.g. Mᵒiiijᶜlvj"></textarea>
+    <details id="insert">
+      <summary>Insert numeral signs</summary>
+      <div class="palette" id="palette"></div>
+    </details>
+    <div class="controls">
+      <div class="field">
+        <label for="period">Period of the source</label>
+        <select id="period"></select>
+      </div>
+      <div class="field" id="date-field">
+        <label for="date">Date reckoning</label>
+        <select id="date">
+          <option value="">None</option>
+          <option value="ad">Christian era (AD/CE)</option>
+          <option value="auc">Founding of Rome (AUC)</option>
+          <option value="spanishEra">Spanish era</option>
+          <option value="indiction">Indiction cycle</option>
+        </select>
+      </div>
+    </div>
+  </section>
+
+  <div id="out" role="region" aria-label="Analysis"></div>
+
+  <section aria-labelledby="examples-title">
+    <h2 id="examples-title">Examples</h2>
+    <div class="panel controls filters">
+      <div class="field"><label for="example-group">Group by</label>
+        <select id="example-group"><option value="period">Period</option><option value="convention">Convention</option></select>
+      </div>
+      <div class="field"><label for="example-period">Period</label><select id="example-period"></select></div>
+      <div class="field"><label for="example-convention">Convention</label><select id="example-convention"></select></div>
+      <div class="field"><label for="example-kind">Origin</label>
+        <select id="example-kind"><option value="">All examples</option><option value="attested">Reported in sources</option><option value="constructed">Constructed</option></select>
+      </div>
+    </div>
+    <p id="example-count" class="muted" role="status"></p>
+    <div id="examples"></div>
+    <button type="button" id="more-examples">Show more examples</button>
+  </section>
+
+  <section aria-labelledby="method-title">
+    <h2 id="method-title">Conventions and evidence</h2>
+    <details class="panel" id="rules">
+      <summary>Period ratings and sources by convention</summary>
+      <p>These ratings are editorial judgements based on partial reading. They describe how a convention fits a period and, where specified, a genre or region. They are not frequency counts and cannot date a source.</p>
+      <ul id="rating-key"></ul>
+      <p class="muted">The lowest rating among the conventions in a reading guides its rank. “No evidence found” ranks like “rare”. With no source period selected, each reading ranks by its best-rated period.</p>
+      <div id="rule-list"></div>
+    </details>
+    <details class="panel">
+      <summary>Typing the signs</summary>
+      <p>Use <code>^m</code>, <code>^c</code> and <code>^xx</code> for superscripts, <code>_X</code> for a bar over X, <code>|X̅|</code> for a framed numeral and <code>(I)</code> or <code>CIↃ</code> for the apostrophus. A j can stand for i and a u for v.</p>
+    </details>
+  </section>
+
+  <section aria-labelledby="sources-title">
+    <h2 id="sources-title">Sources</h2>
+    <details class="panel">
+      <summary id="source-summary">Bibliography and reading coverage</summary>
+      <ol id="source-list"></ol>
+    </details>
+  </section>
+</main>
+
+<script src="data/research.js"></script>
+<script src="roman.js"></script>
+<script src="reader.js"></script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+---
+title: Source and reuse decisions for Roman numerals across periods
+date: 2026-11-21
+provenance: Cleaned Roman Numeral Reader bibliography and provider terms
+---
+
+# Source and reuse decisions
+
+The package and web reader share a small set of attributed numeral strings, reported values and catalogue or page locators, along with original research notes and code. For the complete attribution and reading status use the [reference register](data/references.json). Source books, PDF extracts, photographs, plates, OCR dumps and corpus exports are withheld. The terms below distinguish source access from what this package redistributes.
+
+| Sources | Provider terms or status | Decision |
+|---|---|---|
+| Roman Inscriptions of Britain, records 2205 and 2208 | [RIB terms](https://romaninscriptionsofbritain.org/about/terms-of-use). The terms reserve image copyright. | Cite both entries. Include only the numeral strings, catalogue locators and reported distances. |
+| National Records of Scotland, Scotland's People, National Archives and related archive teaching materials | [Scotland's People copyright](https://www.scotlandspeople.gov.uk/content/copyright) and [terms](https://www.scotlandspeople.gov.uk/terms-and-conditions). The [National Archives](https://www.nationalarchives.gov.uk/terms-and-conditions/copyright/) describes OGL coverage, with exceptions. | Use selected numeral tokens and factual metadata. Withhold teaching materials, images and complete transcriptions. |
+| Gerión, Persée, Kajanto via Arctos and other journal or institutional sources | [Gerión credits and CC BY 4.0 terms](https://revistas.ucm.es/index.php/GERI/derechos). [Persée's terms](https://www.persee.fr/cgu) distinguish types of material and rights. A host record alone supplies no licence for a source edition. | Cite authors and locators. Retain individual historic numeral tokens and derived facts. Withhold article prose, full inscriptions, OCR and images. |
+| Cambridge Core, De Gruyter Brill, Cappelli editions and other modern publisher, library and author records | [Cambridge Core terms](https://www.cambridge.org/core/legal-notices/terms) distinguish copyrighted and open-access material. Access to an edition or its index does not grant common redistribution terms across books. | Link official records where available. Keep individual tokens and attributed factual readings with independent commentary. No book, chapter, plate or source table is copied. |
+| Egbert, Dessau, Cajori, Pollard, Du Cange, Prinz and other digitised historical publications | Editions and scans have distinct rights and provider conditions. [Project Gutenberg's licence page](https://www.gutenberg.org/policy/license.html) was unavailable when preparing this package. | Link the digital edition. Share only selected historical numeral strings, factual readings and locators. No blanket redistribution permission is assumed for a source text or scan. |
+| Unicode proposal and museum or monument references | [Unicode terms of use](https://www.unicode.org/copyright.html) and [National Park Service disclaimer](https://www.nps.gov/aboutus/disclaimer.htm). Third-party material can have separate rights. | Cite the proposal and collection or institution records. Share standard encoded characters, numeral tokens and factual object metadata. Withhold proposal illustrations, photographs and museum prose. |
+
+The copies of the search log and council materials retain the research decisions and access failures. Unofficial source URLs and the working directory were removed. The original working transcript and account records are private. The original agent documents describe the pre-build state and may contain reports that the later reconciliation corrected. The v2 source checksums are recorded in [provenance](provenance.json).

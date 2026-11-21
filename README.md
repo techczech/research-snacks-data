@@ -32,6 +32,7 @@ The checker rebuilds all snacks in temporary folders and diffs every final CSV a
 | [Literally](snacks/2026-11-19-literally-pet-peeve-redo/) | Claim audit counts, Ngram series and the reading and function counts from annotated contexts. |
 | [Revolution speed](snacks/2026-11-19-revolution-speed-2011-redo/) | Date arithmetic for sixteen episodes, era sensitivities, NAVCO success rates and survey facts. |
 | [Decipherment methods and agents](snacks/2026-11-19-decipherment-methods-and-agents/) | Stage-specific coding for 20 dependent historical recoveries, two identity questions, 26-case open/comparison matrix, unordered task groups, council response and downloadable tractability sensitivity. |
+| [Roman numerals across periods](snacks/2026-11-21-roman-numerals-across-periods/) | The historical reader’s preset matches, mismatches and coverage by period. This check also needs Node.js. |
 
 The default run needs no API key and makes no source-data requests. IPUMS microdata cannot be included. Each census snack explains how to request it with your own free account and `IPUMS_API_KEY`, then rerun the original aggregation. Corpus text is withheld; query options, positions and saved annotations let a licensed reader inspect the evidence. Recounting saved annotations does not validate their linguistic judgements. Rebuilding a chart does not independently verify a transcribed source value or a forecast.
 
