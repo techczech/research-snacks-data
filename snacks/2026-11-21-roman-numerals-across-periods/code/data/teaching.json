@@ -53,6 +53,8 @@
   },
   {
     "input": "IIC",
+    "topic": "A medieval puzzle",
+    "start": 7,
     "period_id": "late-medieval",
     "values": [
       98,
@@ -484,5 +486,158 @@
     "options": {
       "mode": "passage"
     }
+  },
+  {
+    "input": "2026",
+    "period_id": "modern",
+    "values": [
+      2026
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "why": "Enter digits to write a year as MMXXVI.",
+    "topic": "Convert a number",
+    "start": 1
+  },
+  {
+    "input": "Chapter xiv",
+    "period_id": "modern",
+    "values": [
+      14
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "why": "Lower-case xiv marks the fourteenth chapter.",
+    "topic": "Chapter heading",
+    "start": 2
+  },
+  {
+    "input": "Henry VIII",
+    "period_id": "modern",
+    "values": [
+      8
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "why": "Read the name as Henry the Eighth.",
+    "topic": "A monarch’s name",
+    "start": 3
+  },
+  {
+    "input": "IIII",
+    "period_id": "modern",
+    "values": [
+      4
+    ],
+    "convention_ids": [
+      "clockIIII",
+      "additive4"
+    ],
+    "why": "Some dials use four I signs instead of IV.",
+    "topic": "Clock face",
+    "start": 4
+  },
+  {
+    "input": "MCMXCIX",
+    "period_id": "modern",
+    "values": [
+      1999
+    ],
+    "convention_ids": [
+      "standard",
+      "ad"
+    ],
+    "why": "A sample copyright date that uses three subtractive pairs.",
+    "topic": "Film credits",
+    "start": 5
+  },
+  {
+    "input": "MDCCCXCII",
+    "period_id": "modern",
+    "values": [
+      1892
+    ],
+    "convention_ids": [
+      "standard",
+      "ad"
+    ],
+    "why": "A sample building date. XC contributes 90.",
+    "topic": "Foundation stone",
+    "start": 6
+  },
+  {
+    "input": "Pope John Paul II",
+    "period_id": "modern",
+    "values": [
+      2
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "why": "The numeral reads as “the Second” after the name.",
+    "topic": "A pope’s name"
+  },
+  {
+    "input": "Elizabeth II",
+    "period_id": "modern",
+    "values": [
+      2
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "why": "The numeral reads as “the Second” after the name.",
+    "topic": "A monarch’s name"
+  },
+  {
+    "input": "Super Bowl LIX",
+    "period_id": "modern",
+    "values": [
+      59
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "why": "LIX labels the 59th Super Bowl.",
+    "topic": "Sporting event"
+  },
+  {
+    "input": "Page xii",
+    "period_id": "modern",
+    "values": [
+      12
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "why": "Roman numerals can number the pages before the main text.",
+    "topic": "Book front matter"
+  },
+  {
+    "input": "Outline iii",
+    "period_id": "modern",
+    "values": [
+      3
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "why": "An outline can count i, ii, iii, then iv.",
+    "topic": "Outline numbering"
+  },
+  {
+    "input": "Rocky II",
+    "period_id": "modern",
+    "values": [
+      2
+    ],
+    "convention_ids": [
+      "standard"
+    ],
+    "why": "The numeral gives the film’s position in the series.",
+    "topic": "Film sequel"
   }
 ]

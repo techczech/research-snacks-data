@@ -1029,6 +1029,28 @@ globalThis.RomanResearch = {
       "accessed": "2026-11-21",
       "read_full_text": false,
       "pages": "Chapter XII, pp. 85–87; AUC, regnal, Spanish era, Anno Mundi and indictions"
+    },
+    {
+      "id": "lastparis-title",
+      "author": "Metro-Goldwyn-Mayer",
+      "year": 1954,
+      "title": "The Last Time I Saw Paris, copyright title card",
+      "publisher_or_journal": "Title-card reproduction, CopyrightData.com",
+      "url": "https://www.copyrightdata.com/chart/ch02.html",
+      "accessed": "2026-11-21",
+      "read_full_text": false,
+      "pages": "Errors or Absence of Year"
+    },
+    {
+      "id": "lastparis-afi",
+      "author": "American Film Institute",
+      "year": "n.d.",
+      "title": "The Last Time I Saw Paris (1954), AFI Catalog of Feature Films",
+      "publisher_or_journal": "American Film Institute",
+      "url": "https://catalog.afi.com/Film/51256-THE-LAST-TIME-I-SAW-PARIS?cxt=filmography",
+      "accessed": "2026-11-21",
+      "read_full_text": false,
+      "pages": "History and copyright details"
     }
   ],
   "letters": {
@@ -1169,6 +1191,119 @@ globalThis.RomanResearch = {
       }
     ]
   },
+  "glossary": [
+    {
+      "id": "additive",
+      "term": "Additive notation",
+      "aliases": [
+        "additive",
+        "every letter added"
+      ],
+      "definition": "Add the values of the signs. IIII is 1 + 1 + 1 + 1."
+    },
+    {
+      "id": "subtractive",
+      "term": "Subtractive notation",
+      "aliases": [
+        "subtraction",
+        "subtractive",
+        "subtractive pairs"
+      ],
+      "definition": "Take a smaller value away from a larger one. In IV, I before V gives 5 − 1 = 4."
+    },
+    {
+      "id": "vinculum",
+      "term": "Vinculum",
+      "aliases": [
+        "vinculum",
+        "thousands bar",
+        "bar over a letter"
+      ],
+      "definition": "A bar above a numeral. In the thousands convention, X̅ stands for 10,000. A similar bar can mark a numeral without changing its value."
+    },
+    {
+      "id": "apostrophus",
+      "term": "Apostrophus",
+      "aliases": [],
+      "definition": "Large-number signs built from I, C and a reversed C. CIↃ means 1,000 and IↃ means 500."
+    },
+    {
+      "id": "minim",
+      "term": "Minim",
+      "aliases": [
+        "minim misreading",
+        "minims"
+      ],
+      "definition": "A short upright stroke in handwriting. Two strokes could look like either ii or n, depending on the hand."
+    },
+    {
+      "id": "scores",
+      "term": "Scores (vigesimal)",
+      "aliases": [
+        "scores",
+        "score notation",
+        "vigesimal",
+        "counting in twenties"
+      ],
+      "definition": "A score is twenty. Four scores are eighty. A small superscript xx can mark multiplication by twenty."
+    },
+    {
+      "id": "chronogram",
+      "term": "Chronogram",
+      "aliases": [
+        "chronograms"
+      ],
+      "definition": "A phrase whose selected numeral letters add up to a number, often a year. Capitals can mark which letters to count."
+    },
+    {
+      "id": "indiction",
+      "term": "Indiction",
+      "aliases": [
+        "indictions",
+        "indiction cycle"
+      ],
+      "definition": "A year number from 1 to 15 in a repeating dating cycle. The same number recurs every fifteen years."
+    },
+    {
+      "id": "auc",
+      "term": "AUC",
+      "aliases": [
+        "founding of Rome"
+      ],
+      "definition": "Ab urbe condita, “from the founding of the city”. This reckoning counts from Rome’s traditional foundation in 753 BCE."
+    },
+    {
+      "id": "spanish-era",
+      "term": "Spanish era",
+      "aliases": [],
+      "definition": "A year count used in parts of medieval Iberia. Its year 1 corresponds to 38 BCE."
+    },
+    {
+      "id": "distinction-bar",
+      "term": "Distinction bar",
+      "aliases": [
+        "distinction bars",
+        "distinction marks",
+        "bar as a distinction mark"
+      ],
+      "definition": "A line over a numeral that marks it off from nearby writing without multiplying it."
+    },
+    {
+      "id": "superscript",
+      "term": "Superscript multiplier",
+      "aliases": [
+        "superscript multipliers",
+        "superscripts"
+      ],
+      "definition": "A small raised sign that multiplies the numeral before it. In iiᶜ, the raised c gives 2 × 100."
+    },
+    {
+      "id": "final-j",
+      "term": "Final j",
+      "aliases": [],
+      "definition": "A j used for i at the end of a numeral. In viij, j adds one, just as in viii."
+    }
+  ],
   "presets": [
     {
       "kind": "attested",
@@ -1993,6 +2128,25 @@ globalThis.RomanResearch = {
       }
     },
     {
+      "kind": "attested",
+      "input": "MCMXLIV",
+      "period_id": "modern",
+      "values": [
+        1944
+      ],
+      "convention_ids": [
+        "standard",
+        "ad"
+      ],
+      "date": "1954 film",
+      "source": "MGM, The Last Time I Saw Paris, title card",
+      "why": "The 1954 film’s notice reads MCMXLIV (1944). MCMLIV would give 1954.",
+      "url": "https://www.copyrightdata.com/chart/ch02.html",
+      "source_status": "Title-card reproduction. The AFI Catalog also records the 1944 date in the copyright notice.",
+      "topic": "A film date misprint",
+      "start": 8
+    },
+    {
       "kind": "constructed",
       "input": "MCMLXXXIV",
       "period_id": "modern",
@@ -2051,6 +2205,8 @@ globalThis.RomanResearch = {
     {
       "kind": "constructed",
       "input": "IIC",
+      "topic": "A medieval puzzle",
+      "start": 7,
       "period_id": "late-medieval",
       "values": [
         98,
@@ -2514,6 +2670,171 @@ globalThis.RomanResearch = {
       "options": {
         "mode": "passage"
       }
+    },
+    {
+      "kind": "constructed",
+      "input": "2026",
+      "period_id": "modern",
+      "values": [
+        2026
+      ],
+      "convention_ids": [
+        "standard"
+      ],
+      "why": "Enter digits to write a year as MMXXVI.",
+      "topic": "Convert a number",
+      "start": 1
+    },
+    {
+      "kind": "constructed",
+      "input": "Chapter xiv",
+      "period_id": "modern",
+      "values": [
+        14
+      ],
+      "convention_ids": [
+        "standard"
+      ],
+      "why": "Lower-case xiv marks the fourteenth chapter.",
+      "topic": "Chapter heading",
+      "start": 2
+    },
+    {
+      "kind": "constructed",
+      "input": "Henry VIII",
+      "period_id": "modern",
+      "values": [
+        8
+      ],
+      "convention_ids": [
+        "standard"
+      ],
+      "why": "Read the name as Henry the Eighth.",
+      "topic": "A monarch’s name",
+      "start": 3
+    },
+    {
+      "kind": "constructed",
+      "input": "IIII",
+      "period_id": "modern",
+      "values": [
+        4
+      ],
+      "convention_ids": [
+        "clockIIII",
+        "additive4"
+      ],
+      "why": "Some dials use four I signs instead of IV.",
+      "topic": "Clock face",
+      "start": 4
+    },
+    {
+      "kind": "constructed",
+      "input": "MCMXCIX",
+      "period_id": "modern",
+      "values": [
+        1999
+      ],
+      "convention_ids": [
+        "standard",
+        "ad"
+      ],
+      "why": "A sample copyright date that uses three subtractive pairs.",
+      "topic": "Film credits",
+      "start": 5
+    },
+    {
+      "kind": "constructed",
+      "input": "MDCCCXCII",
+      "period_id": "modern",
+      "values": [
+        1892
+      ],
+      "convention_ids": [
+        "standard",
+        "ad"
+      ],
+      "why": "A sample building date. XC contributes 90.",
+      "topic": "Foundation stone",
+      "start": 6
+    },
+    {
+      "kind": "constructed",
+      "input": "Pope John Paul II",
+      "period_id": "modern",
+      "values": [
+        2
+      ],
+      "convention_ids": [
+        "standard"
+      ],
+      "why": "The numeral reads as “the Second” after the name.",
+      "topic": "A pope’s name"
+    },
+    {
+      "kind": "constructed",
+      "input": "Elizabeth II",
+      "period_id": "modern",
+      "values": [
+        2
+      ],
+      "convention_ids": [
+        "standard"
+      ],
+      "why": "The numeral reads as “the Second” after the name.",
+      "topic": "A monarch’s name"
+    },
+    {
+      "kind": "constructed",
+      "input": "Super Bowl LIX",
+      "period_id": "modern",
+      "values": [
+        59
+      ],
+      "convention_ids": [
+        "standard"
+      ],
+      "why": "LIX labels the 59th Super Bowl.",
+      "topic": "Sporting event"
+    },
+    {
+      "kind": "constructed",
+      "input": "Page xii",
+      "period_id": "modern",
+      "values": [
+        12
+      ],
+      "convention_ids": [
+        "standard"
+      ],
+      "why": "Roman numerals can number the pages before the main text.",
+      "topic": "Book front matter"
+    },
+    {
+      "kind": "constructed",
+      "input": "Outline iii",
+      "period_id": "modern",
+      "values": [
+        3
+      ],
+      "convention_ids": [
+        "standard"
+      ],
+      "why": "An outline can count i, ii, iii, then iv.",
+      "topic": "Outline numbering"
+    },
+    {
+      "kind": "constructed",
+      "input": "Rocky II",
+      "period_id": "modern",
+      "values": [
+        2
+      ],
+      "convention_ids": [
+        "standard"
+      ],
+      "why": "The numeral gives the film’s position in the series.",
+      "topic": "Film sequel"
     }
   ]
 };

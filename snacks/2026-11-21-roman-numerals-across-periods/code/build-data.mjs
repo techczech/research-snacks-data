@@ -4,11 +4,12 @@ const json = path => JSON.parse(readFileSync(new URL(path, import.meta.url), 'ut
 const conventions = json('./data/conventions.json');
 const sources = json('../data/references.json');
 const letters = json('./data/letters.json');
+const glossary = json('./data/glossary.json');
 const presets = [
   ...json('../data/examples.json').map(example => ({ kind: 'attested', ...example })),
   ...json('./data/teaching.json').map(example => ({ kind: 'constructed', ...example })),
 ];
-const data = { conventions, sources, letters, presets };
+const data = { conventions, sources, letters, glossary, presets };
 const output = '// Generated from the research and teaching data. Run node build-data.mjs.\n'
   + 'globalThis.RomanResearch = ' + JSON.stringify(data, null, 2) + ';\n';
 const destination = new URL('./data/research.js', import.meta.url);

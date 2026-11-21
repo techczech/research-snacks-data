@@ -52,6 +52,46 @@ for (const [input, opts, top, must] of cases) {
 }
 
 const checks = [
+  ['decimal input gives the standard Roman form and relevant alternatives', () => {
+    const forms = input => analyse(input).conversion?.forms.map(form => form.numeral);
+    assert.deepEqual(forms('2026'), ['MMXXVI']);
+    assert.deepEqual(forms(' 01999 '), ['MCMXCIX', 'MDCCCCLXXXXVIIII']);
+    assert.deepEqual(forms('4'), ['IV', 'IIII']);
+    assert.equal(analyse('4').conversion.forms[1].clock, true);
+  }],
+  ['decimal conversion uses an overbar beyond the usual range and handles unsupported values', () => {
+    const result = analyse('4001');
+    assert.equal(result.conversion?.forms[0].numeral, 'I̅V̅I');
+    assert.equal(result.conversion.forms[0].convention, 'vinculum');
+    assert(result.conversion.forms.every(form =>
+      analyse(form.numeral, { period: 'classical' }).readings.some(reading => reading.value === 4001)));
+    for (const input of ['0', '4000000', '999999999999999999999']) {
+      const unsupported = analyse(input);
+      assert.deepEqual(unsupported.conversion?.forms, []);
+      assert(unsupported.warnings.length > 0);
+    }
+  }],
+  ['names, titles and page labels use the final numeral as an ordinal', () => {
+    for (const [input, numeral, value] of [
+      ['Henry VIII', 'VIII', 8], ['Louis XIV', 'XIV', 14], ['Super Bowl LIX', 'LIX', 59],
+      ['Chapter xiv', 'xiv', 14], ['Rocky II', 'II', 2], ['Elizabeth II', 'II', 2],
+      ['page ⅻ', 'ⅻ', 12], ['Pope John Paul II', 'II', 2],
+    ]) {
+      const result = analyse(input, { date: 'ad' });
+      assert.equal(result.ordinal?.numeral, numeral, input);
+      assert.equal(result.readings[0]?.value, value, input);
+      assert.deepEqual(result.years, [], input);
+      assert.deepEqual(result.warnings, [], input);
+    }
+  }],
+  ['explicit modes take precedence over ordinal extraction and decimal conversion', () => {
+    assert.equal(analyse('Henry VIII', { mode: 'chronogram' }).mode, 'chronogram');
+    assert.equal(analyse('2026', { mode: 'passage' }).mode, 'passage');
+    assert.equal(analyse('m mix').ordinal, undefined);
+    assert.equal(analyse('X V').ordinal, undefined);
+    assert.equal(analyse('CIↃ IↃ XCIV').ordinal, undefined);
+    assert.equal(analyse('LVDoVICVs DeCIMVs').ordinal, undefined);
+  }],
   ['a short date offers candidate centuries within the selected period', () => {
     const years = analyse('lxxv', { date: 'ad', period: 'late-medieval' }).years.map(x => x.year);
     assert.deepEqual(years.filter(x => x >= 1000).sort(), [1075, 1175, 1275, 1375, 1475]);
@@ -169,8 +209,8 @@ if (process.argv.includes('--write-preset-check')) {
     reasons[preset.input] || preset.why, '',
   ].join(' | ').trim());
   const report = [
-    '---', 'title: Version 2 preset check', 'date: 2026-11-21', '---', '',
-    '# Version 2 preset check', '',
+    '---', 'title: Version 3 preset check', 'date: 2026-11-21', '---', '',
+    '# Version 3 preset check', '',
     'The tool matched ' + matched + ' of ' + attested.length + ' reported examples from sources. A match means that the documented numerical value, converted year, chronogram sum or indiction year appears among the results with the preset’s settings. This check measures coverage of the documented readings. Source availability and rank are recorded separately.', '',
     'The Madalfredus example XLVIII was removed before this check because the transcription could not be confirmed on the cited page.', '',
     '## Mismatches', '',

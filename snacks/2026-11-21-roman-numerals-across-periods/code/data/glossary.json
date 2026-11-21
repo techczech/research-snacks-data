@@ -1,0 +1,113 @@
+[
+  {
+    "id": "additive",
+    "term": "Additive notation",
+    "aliases": [
+      "additive",
+      "every letter added"
+    ],
+    "definition": "Add the values of the signs. IIII is 1 + 1 + 1 + 1."
+  },
+  {
+    "id": "subtractive",
+    "term": "Subtractive notation",
+    "aliases": [
+      "subtraction",
+      "subtractive",
+      "subtractive pairs"
+    ],
+    "definition": "Take a smaller value away from a larger one. In IV, I before V gives 5 − 1 = 4."
+  },
+  {
+    "id": "vinculum",
+    "term": "Vinculum",
+    "aliases": [
+      "vinculum",
+      "thousands bar",
+      "bar over a letter"
+    ],
+    "definition": "A bar above a numeral. In the thousands convention, X̅ stands for 10,000. A similar bar can mark a numeral without changing its value."
+  },
+  {
+    "id": "apostrophus",
+    "term": "Apostrophus",
+    "aliases": [],
+    "definition": "Large-number signs built from I, C and a reversed C. CIↃ means 1,000 and IↃ means 500."
+  },
+  {
+    "id": "minim",
+    "term": "Minim",
+    "aliases": [
+      "minim misreading",
+      "minims"
+    ],
+    "definition": "A short upright stroke in handwriting. Two strokes could look like either ii or n, depending on the hand."
+  },
+  {
+    "id": "scores",
+    "term": "Scores (vigesimal)",
+    "aliases": [
+      "scores",
+      "score notation",
+      "vigesimal",
+      "counting in twenties"
+    ],
+    "definition": "A score is twenty. Four scores are eighty. A small superscript xx can mark multiplication by twenty."
+  },
+  {
+    "id": "chronogram",
+    "term": "Chronogram",
+    "aliases": [
+      "chronograms"
+    ],
+    "definition": "A phrase whose selected numeral letters add up to a number, often a year. Capitals can mark which letters to count."
+  },
+  {
+    "id": "indiction",
+    "term": "Indiction",
+    "aliases": [
+      "indictions",
+      "indiction cycle"
+    ],
+    "definition": "A year number from 1 to 15 in a repeating dating cycle. The same number recurs every fifteen years."
+  },
+  {
+    "id": "auc",
+    "term": "AUC",
+    "aliases": [
+      "founding of Rome"
+    ],
+    "definition": "Ab urbe condita, “from the founding of the city”. This reckoning counts from Rome’s traditional foundation in 753 BCE."
+  },
+  {
+    "id": "spanish-era",
+    "term": "Spanish era",
+    "aliases": [],
+    "definition": "A year count used in parts of medieval Iberia. Its year 1 corresponds to 38 BCE."
+  },
+  {
+    "id": "distinction-bar",
+    "term": "Distinction bar",
+    "aliases": [
+      "distinction bars",
+      "distinction marks",
+      "bar as a distinction mark"
+    ],
+    "definition": "A line over a numeral that marks it off from nearby writing without multiplying it."
+  },
+  {
+    "id": "superscript",
+    "term": "Superscript multiplier",
+    "aliases": [
+      "superscript multipliers",
+      "superscripts"
+    ],
+    "definition": "A small raised sign that multiplies the numeral before it. In iiᶜ, the raised c gives 2 × 100."
+  },
+  {
+    "id": "final-j",
+    "term": "Final j",
+    "aliases": [],
+    "definition": "A j used for i at the end of a numeral. In viij, j adds one, just as in viii."
+  }
+]

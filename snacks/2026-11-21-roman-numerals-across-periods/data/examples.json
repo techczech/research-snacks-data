@@ -773,5 +773,23 @@
     "options": {
       "date": "ad"
     }
+  },
+  {
+    "input": "MCMXLIV",
+    "period_id": "modern",
+    "values": [
+      1944
+    ],
+    "convention_ids": [
+      "standard",
+      "ad"
+    ],
+    "date": "1954 film",
+    "source": "MGM, The Last Time I Saw Paris, title card",
+    "why": "The 1954 film’s notice reads MCMXLIV (1944). MCMLIV would give 1954.",
+    "url": "https://www.copyrightdata.com/chart/ch02.html",
+    "source_status": "Title-card reproduction. The AFI Catalog also records the 1944 date in the copyright notice.",
+    "topic": "A film date misprint",
+    "start": 8
   }
 ]

@@ -42,6 +42,38 @@
     return s;
   }
 
+  const MAX_CONVERSION = 3999999;
+  const SUBTRACTIVE = { IV: 'IIII', IX: 'VIIII', XL: 'XXXX', XC: 'LXXXX', CD: 'CCCC', CM: 'DCCCC' };
+  const expandRoman = input => Array.from(input, ch => UNICODE_NUMERALS[ch] || ch).join('').toUpperCase();
+
+  function romanForms(value) {
+    if (!Number.isSafeInteger(value) || value < 1 || value > MAX_CONVERSION) return [];
+    const barred = value >= 4000;
+    const thousands = barred ? toRoman(Math.floor(value / 1000)) : '';
+    const units = toRoman(barred ? value % 1000 : value) || '';
+    const withBar = signs => Array.from(signs, sign => sign + '̅').join('');
+    const additive = signs => signs.replace(/IV|IX|XL|XC|CD|CM/g, pair => SUBTRACTIVE[pair]);
+    const numeral = withBar(thousands) + units;
+    const forms = [{ numeral, convention: barred ? 'vinculum' : 'standard' }];
+    const expanded = withBar(additive(thousands)) + additive(units);
+    if (expanded !== numeral) forms.push({ numeral: expanded, convention: 'additive4', clock: value === 4 });
+    return forms;
+  }
+
+  function ordinalIn(input) {
+    const match = /^([\p{L}\p{M} .’'-]+?)[ \t]+([IVXLCDMⅠ-ⅿ]+)$/iu.exec(input);
+    if (!match) return null;
+    const [, label, numeral] = match;
+    const descriptor = /^(chapter|page|section|part|book|volume|outline|act|scene|appendix|article|p\.|vol\.)$/i.test(label);
+    const title = /^\p{Lu}[\p{L}\p{M}’'-]*(?: (?:\p{Lu}[\p{L}\p{M}’'-]*|of|the|and))*$/u.test(label);
+    if (!descriptor && (!title || /^[IVXLCDMJUↀ-ↈⅠ-ⅿƆↄ\s]+$/i.test(label))) return null;
+    if (!descriptor && numeral !== numeral.toUpperCase()) return null;
+    const canonical = expandRoman(numeral);
+    const tokens = Array.from(canonical, letter => ({ value: BASE[letter] }));
+    if (tokens.some(token => token.value === undefined) || toRoman(readPairs(tokens).value) !== canonical) return null;
+    return { label, numeral };
+  }
+
   // ---------- 1. Characters → items ----------
   function toItems(input) {
     let s = '';
@@ -328,7 +360,7 @@
   function analyse(input, options = {}) {
     const period = options.period || 'unknown';
     const periodIndex = PERIODS.findIndex(p => p.id === period);
-    const raw = (input || '').trim();
+    let raw = (input || '').trim();
     const result = { input: raw, period, mode: 'number', readings: [], years: [], hints: [], notes: [], warnings: [], tokens: [] };
     if (!raw) return result;
 
@@ -339,11 +371,26 @@
       return result;
     }
 
+    if (/^\d+$/.test(raw)) {
+      const value = Number(raw);
+      const forms = romanForms(value);
+      result.conversion = { value, forms };
+      if (!forms.length) result.warnings.push('Enter a whole number from 1 to 3,999,999 for Roman conversion.');
+      return result;
+    }
+
+    const ordinal = ordinalIn(raw);
+    if (ordinal) {
+      result.ordinal = ordinal;
+      raw = ordinal.numeral;
+    }
+    result.numeral = raw;
     const tk = tokenize(raw);
     result.tokens = tk.tokens;
     result.notes.push(...tk.notes);
     const ignored = [...new Set(tk.unknown.filter(u => u !== 'Ↄ'))];
     if (ignored.length) result.warnings.push(`The Roman-numeral readings leave out ${ignored.join(' ')}.`);
+    if (ordinal) tk.hints.delete('lowercase');
     result.hints = periodHints(tk);
 
     if (ignored.some(ch => /\p{L}/u.test(ch))) {
@@ -390,7 +437,7 @@
     result.readings = readings;
 
     const dateMode = options.date || (options.year ? 'ad' : '');
-    if (DATE_MODES.includes(dateMode)) {
+    if (!ordinal && DATE_MODES.includes(dateMode)) {
       result.years = yearReadings(readings, periodIndex, dateMode);
       if (dateMode === 'indiction' && periodIndex < 0) result.warnings.push('Choose a source period to list candidate indiction years.');
       else if (dateMode === 'indiction' && !result.years.length) result.warnings.push('An indiction number runs from 1 to 15.');
@@ -409,11 +456,11 @@
   function periodHints(tk) {
     const h = [];
     if (tk.hints.has('j')) h.push('Final j (iij, viij) is a scribal and printing habit of the later Middle Ages and early modern period.');
-    if (tk.hints.has('lowercase')) h.push('Lower-case numerals suggest a manuscript or a printed book after c. 1000 rather than an inscription.');
+    if (tk.hints.has('lowercase')) h.push('Lower-case numerals occur in manuscripts and print, including modern page and outline numbering.');
     if (tk.hints.has('dots')) h.push('Numerals set off by dots (.xx.) are common in medieval manuscripts.');
     if (tk.hints.has('superscript')) h.push('Superscript multipliers and endings are typical of medieval and early modern documents and accounts.');
     if (tk.tokens.some(t => t.kind === 'apostrophus')) h.push('The apostrophus (CIↃ, IↃ) points to Roman inscriptions or to early modern printed books, where it was revived.');
-    if (tk.tokens.some(t => t.kind === 'vinculum')) h.push('The bar over a letter for thousands is mainly Roman.');
+    if (tk.tokens.some(t => t.kind === 'vinculum')) h.push('A vinculum is a bar that can multiply a numeral by 1,000.');
     return h;
   }
 
@@ -475,5 +522,5 @@
     return result;
   }
 
-  root.RomanReader = { analyse, toRoman, PERIODS, LEVELS, FEATURES, YEAR_FEATURES, DATE_MODES, weight };
+  root.RomanReader = { analyse, toRoman, expandRoman, PERIODS, LEVELS, FEATURES, YEAR_FEATURES, DATE_MODES, weight };
 })(typeof globalThis !== 'undefined' ? globalThis : window);

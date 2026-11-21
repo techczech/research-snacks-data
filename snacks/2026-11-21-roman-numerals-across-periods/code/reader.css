@@ -21,7 +21,6 @@
   h1 { font: 600 1.9rem/1.2 var(--serif); margin: 0 0 4px; letter-spacing: 0.01em; }
   .lede { color: var(--muted); margin: 0 0 22px; }
   .panel { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px; margin-bottom: 16px; }
-  label.small { display: block; font-size: .8rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-bottom: 6px; }
   #q { width: 100%; font: 2rem/1.3 var(--serif); padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink); }
   #q:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
   .palette { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
@@ -33,7 +32,6 @@
   .warn { background: var(--warn-bg); color: var(--warn-ink); padding: 8px 12px; border-radius: 8px; margin-bottom: 12px; }
   h2 { font: 600 1.2rem var(--serif); margin: 26px 0 10px; }
   .reading { display: grid; grid-template-columns: minmax(110px, auto) 1fr; gap: 4px 18px; align-items: start; padding: 14px 16px; }
-  .reading.top { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
   .value { font: 600 2rem/1.1 var(--serif); grid-row: span 3; }
   .value .modern { display: block; font: .85rem var(--mono); color: var(--muted); font-weight: 400; margin-top: 4px; }
   .expl { font-weight: 600; }
@@ -71,7 +69,6 @@
   button { cursor: pointer; }
   button:hover { border-color: var(--accent); }
   .field select { width: 100%; }
-  #mode { max-width: 240px; margin-bottom: 12px; }
   .controls { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .filters { margin-top: 0; grid-template-columns: repeat(4, minmax(0, 1fr)); }
   .reading { grid-template-columns: minmax(110px, auto) minmax(0, 1fr); overflow-wrap: anywhere; }
@@ -106,10 +103,56 @@
   }
   @media (max-width: 560px) {
     main { padding: 18px 12px 40px; }
-    .reading, .preset-group, .controls:not(.filters) { grid-template-columns: 1fr; }
+    .reading, .preset-group { grid-template-columns: 1fr; }
     .reading .evidence { grid-column: 1; }
   }
 
   .rule + .strip { margin: -8px 0 12px; }
   .evidence .rule:first-of-type { margin-top: 8px; }
   dd { margin: 3px 0 8px 1rem; }
+
+  .reader-input, .answer { margin-bottom: 10px; }
+  #input-label { display: block; margin-bottom: 8px; font-weight: 600; }
+  #q { font-size: clamp(1.22rem, 5vw, 2rem); }
+  #tools > summary { font-size: .9rem; color: var(--accent); }
+  #tools .controls { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; margin: 12px 0; }
+  #insert { font-size: .9rem; }
+  .answer {
+    padding: clamp(14px, 3vw, 22px);
+    border-top: 3px solid var(--accent);
+    overflow-wrap: anywhere;
+  }
+  .answer p { margin: 5px 0 0; }
+  .answer .answer-label { margin-top: 0; color: var(--muted); font-size: .875rem; }
+  .answer-value { display: block; font: 600 clamp(2.5rem, 9vw, 4rem)/1.14 var(--serif); }
+  .answer-form strong, .answer-alternatives strong { font-family: var(--serif); font-size: 1.18em; }
+  .answer .answer-alternatives, .answer .preset-context { margin-top: 10px; }
+  .answer .preset-context {
+    border-top: 1px solid var(--line); padding-top: 10px; font-size: .875rem;
+  }
+  .answer .evidence { margin-top: 10px; }
+  .secondary { margin-bottom: 8px; padding: 10px 14px; }
+  .secondary[open] > summary { margin-bottom: 12px; }
+  .secondary > h2:first-of-type { margin-top: 0; }
+  .secondary > .panel:last-child { margin-bottom: 0; }
+  #example-browser .filters { gap: 10px; }
+  #starter-title { margin-top: 18px; }
+  #starter-examples {
+    display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin: 0 0 16px;
+  }
+  #starter-examples button {
+    background: var(--panel); text-align: left; padding: 8px 10px; overflow-wrap: anywhere;
+  }
+  #starter-examples strong, #starter-examples span { display: block; }
+  #starter-examples strong { font: 600 1.17rem/1.25 var(--serif); }
+  #starter-examples span { color: var(--muted); font-size: .79rem; margin-top: 3px; }
+  .copy-action { margin-top: 8px; color: var(--muted); font-size: .875rem; }
+  .copy-action textarea { display: block; width: 100%; min-height: 7em; margin-top: 6px; font: inherit; }
+  #glossary-list dt, #reading-details { scroll-margin-top: 12px; }
+
+  @media (max-width: 560px) {
+    #tools .controls { grid-template-columns: 1fr; }
+    #starter-examples { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+
+  .letter-gloss h3 { margin-top: 0; }

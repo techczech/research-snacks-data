@@ -1,11 +1,11 @@
 ---
-title: Version 2 preset check
+title: Version 3 preset check
 date: 2026-11-21
 ---
 
-# Version 2 preset check
+# Version 3 preset check
 
-The tool matched 45 of 47 reported examples from sources. A match means that the documented numerical value, converted year, chronogram sum or indiction year appears among the results with the preset’s settings. This check measures coverage of the documented readings. Source availability and rank are recorded separately.
+The tool matched 46 of 48 reported examples from sources. A match means that the documented numerical value, converted year, chronogram sum or indiction year appears among the results with the preset’s settings. This check measures coverage of the documented readings. Source availability and rank are recorded separately.
 
 The Madalfredus example XLVIII was removed before this check because the transcription could not be confirmed on the cited page.
 
