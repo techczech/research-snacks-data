@@ -1,0 +1,56 @@
+[
+  {
+    "id": "in-gmer2023",
+    "url": "https://application.nmc.org.in/storage/nmc_gazette_notifications/246254.pdf",
+    "status": 200,
+    "bytes": 1722538,
+    "sha256": "5e508b0a7b3096a0b4a1dc3978324c7175f02d53a386df997a96ac1f25d26ca9",
+    "pdf": true,
+    "accessed": "2026-11-22"
+  },
+  {
+    "id": "in-crmi2021",
+    "url": "https://application.nmc.org.in/storage/nmc_gazette_notifications/231280.pdf",
+    "status": 200,
+    "bytes": 1958800,
+    "sha256": "d87cdab09a1b29fd82abcbcb033d6b8adc96b734d2b10b92346afe4740e6181b",
+    "pdf": true,
+    "accessed": "2026-11-22"
+  },
+  {
+    "id": "in-gmer2019",
+    "url": "https://nmc.org.in/19GraduateMedicalEducationRegulations1997Amendment04112019-2.pdf",
+    "status": 200,
+    "bytes": 1187925,
+    "sha256": "97dd17114435750f12d9d8419a65dd6d742587307fd075f557f904e32c8687ea",
+    "pdf": true,
+    "accessed": "2026-11-22"
+  },
+  {
+    "id": "in-next2023",
+    "url": "https://nmc.org.in/whats-new/download/589",
+    "status": 200,
+    "bytes": 118551,
+    "sha256": "cff0ad252eaa1071fb15e0dce4cf49884a37c9c5bf776e1bf3249850a176d68f",
+    "pdf": true,
+    "accessed": "2026-11-22"
+  },
+  {
+    "id": "in-pg2023",
+    "url": "https://application.nmc.org.in/storage/nmc_gazette_notifications/PGMER%202023.pdf",
+    "status": 200,
+    "bytes": 1297528,
+    "sha256": "09e70f6482868a319436ebd3b7ab1f8f1e23125a6e144e690d3f50b64c25dace",
+    "pdf": true,
+    "accessed": "2026-11-22"
+  },
+  {
+    "id": "in-cbme2024",
+    "url": "https://nmc.org.in/whats-new/download/378",
+    "status": 200,
+    "bytes": 4113924,
+    "sha256": "aa601690b9e92b74f7412973a70969539e93210b41829018f052059bbf5ae23c",
+    "pdf": true,
+    "accessed": "2026-11-22"
+  }
+]

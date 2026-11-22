@@ -1,0 +1,57 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "26 non-archived year-valued basic-medical-training records in the 22 November 2026 EU snapshot; six other records excluded, observation years unknown.",
+  "data": {
+    "url": "charts/1-eu-duration.csv"
+  },
+  "width": "container",
+  "height": 190,
+  "mark": {
+    "type": "bar",
+    "color": "#217a7a"
+  },
+  "encoding": {
+    "y": {
+      "field": "education_years",
+      "type": "ordinal",
+      "sort": "ascending",
+      "title": "Reported education duration (years)"
+    },
+    "x": {
+      "field": "jurisdictions",
+      "type": "quantitative",
+      "title": "Jurisdictions",
+      "scale": {
+        "domain": [
+          0,
+          24
+        ]
+      },
+      "axis": {
+        "tickMinStep": 1
+      }
+    },
+    "tooltip": [
+      {
+        "field": "education_years",
+        "type": "ordinal",
+        "title": "Education years"
+      },
+      {
+        "field": "jurisdictions",
+        "type": "quantitative",
+        "title": "Jurisdictions"
+      }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 14,
+      "titleFontSize": 14
+    },
+    "background": "white"
+  }
+}

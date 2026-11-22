@@ -1,0 +1,26 @@
+school_id,programme,entrance_age,duration_years,isced,reference_year,sheet,row,age_column,duration_column,url,sha256,accessed
+usa,Elementary education (grades 1-6),5-7,6,100,2020/2021,Scope UOE,11,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_United_States_of_America.xlsx,67ffc5fbcc10b98baf42cc4a2ccfa3897accdd03ba0ae8844c8ec7e40de3921d,2026-11-22
+usa,Middle education (grades 7-9),11-13,3,244,2020/2021,Scope UOE,12,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_United_States_of_America.xlsx,67ffc5fbcc10b98baf42cc4a2ccfa3897accdd03ba0ae8844c8ec7e40de3921d,2026-11-22
+usa,Secondary/High School education (grades 10-12),14-17,3,344,2020/2021,Scope UOE,14,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_United_States_of_America.xlsx,67ffc5fbcc10b98baf42cc4a2ccfa3897accdd03ba0ae8844c8ec7e40de3921d,2026-11-22
+england,Primary school (Keystage 1-2),4-5,6-7,100,2020/2021,Scope UOE,10,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_United_Kingdom.xlsx,ad768aa29a17e600cc6be95ef374557b9d4f35fd94a4fcf3268d5de652bcdaa3,2026-11-22
+england,"Secondary school  (KeyStage 3) (England, Wales and Northern Ireland)",11,3,244,2020/2021,Scope UOE,12,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_United_Kingdom.xlsx,ad768aa29a17e600cc6be95ef374557b9d4f35fd94a4fcf3268d5de652bcdaa3,2026-11-22
+england,"Secondary School  (Keystage 4) (England, Wales and Northern Ireland)",14,2,342,2020/2021,Scope UOE,21,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_United_Kingdom.xlsx,ad768aa29a17e600cc6be95ef374557b9d4f35fd94a4fcf3268d5de652bcdaa3,2026-11-22
+england,"A Level (England, Wales and Northern Ireland)",16,2,344,2020/2021,Scope UOE,26,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_United_Kingdom.xlsx,ad768aa29a17e600cc6be95ef374557b9d4f35fd94a4fcf3268d5de652bcdaa3,2026-11-22
+bavaria,Primary schools,6,4,100,2020/21,Scope UOE,14,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_Germany.xlsx,a687c68b56a170616fe646a2938fe89ec7d224cc96222eeb1a9017af7a177fa2,2026-11-22
+bavaria,Grammar schools (grades 5 -9/10),10,5 - 6,244,2020/21,Scope UOE,24,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_Germany.xlsx,a687c68b56a170616fe646a2938fe89ec7d224cc96222eeb1a9017af7a177fa2,2026-11-22
+bavaria,"Grammar schools 
+(grades 11-13 or 10-12)",15/16-18,3,344,2020/21,Scope UOE,43,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_Germany.xlsx,a687c68b56a170616fe646a2938fe89ec7d224cc96222eeb1a9017af7a177fa2,2026-11-22
+japan,Elementary school,6,6,100,2020/2021,Scope UOE,9,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_Japan.xlsx,9aa62f9f44dcd0fa853e52c425d1f9fe066eb27c879df4ef730bbd93adf786ed,2026-11-22
+japan,Lower secondary school,12,3,244,2020/2021,Scope UOE,12,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_Japan.xlsx,9aa62f9f44dcd0fa853e52c425d1f9fe066eb27c879df4ef730bbd93adf786ed,2026-11-22
+japan,"Upper secondary school, full day general course ",15,3,344,2020/2021,Scope UOE,30,K,L,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_Japan.xlsx,9aa62f9f44dcd0fa853e52c425d1f9fe066eb27c879df4ef730bbd93adf786ed,2026-11-22
+india,Primary education / Junior Basic/ Lower Primary / Primary,6,5,100,2020,Sheet1,8,H,I,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_India.xlsx,ea4d6cb4114764b1b29790226a38f9ea19aab22dcb1a87205c85260325529bfd,2026-11-22
+india,Upper primary / Middle School/ Senior Basic/ Junior High School,11,3,244,2020,Sheet1,10,H,I,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_India.xlsx,ea4d6cb4114764b1b29790226a38f9ea19aab22dcb1a87205c85260325529bfd,2026-11-22
+india,Secondary / High school,14,2,341,2020,Sheet1,11,H,I,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_India.xlsx,ea4d6cb4114764b1b29790226a38f9ea19aab22dcb1a87205c85260325529bfd,2026-11-22
+india,"Senior secondary / Intermediate / Higher Secondary / Pre University
+(academic stream)",16,2,344,2020,Sheet1,12,H,I,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_India.xlsx,ea4d6cb4114764b1b29790226a38f9ea19aab22dcb1a87205c85260325529bfd,2026-11-22
+singapore,Primary 1 - 6,6,6,100,2020,Sheet1,12,H,I,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_Singapore.xlsx,0578251f205cf5d00c03d166b4589d1901ffa7587f9f71477fa078ac4c124196,2026-11-22
+singapore,"Secondary 1 - 2
+- common to Express and Normal (academic or technical) course",12,2,244,2020,Sheet1,13,H,I,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_Singapore.xlsx,0578251f205cf5d00c03d166b4589d1901ffa7587f9f71477fa078ac4c124196,2026-11-22
+singapore,"Secondary 3 - 4
+(Express course)",14,2,343,2020,Sheet1,15,H,I,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_Singapore.xlsx,0578251f205cf5d00c03d166b4589d1901ffa7587f9f71477fa078ac4c124196,2026-11-22
+singapore,Junior Colleges,16,2,444,2020,Sheet1,17,H,I,https://download.uis.unesco.org/ISCED%20mapping/ISCED_2011_Mapping_Singapore.xlsx,0578251f205cf5d00c03d166b4589d1901ffa7587f9f71477fa078ac4c124196,2026-11-22

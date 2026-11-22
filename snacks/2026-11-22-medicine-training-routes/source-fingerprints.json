@@ -3,7 +3,7 @@
     "id": "us-conventional",
     "url": "https://students-residents.aamc.org/choosing-medical-career/what-consider-you-decide-career-medicine",
     "accessed": "2026-11-22",
-    "reading": "Primary page via search text; direct retrieval returned a challenge page",
+    "reading": "Full substantive AAMC page independently read through web reader; conventional route paragraph, not a universal admission statute",
     "local_document_obtained": false,
     "sha256": null,
     "redistributed": false
@@ -118,11 +118,11 @@
   },
   {
     "id": "jp-act",
-    "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3992/en",
+    "url": "https://laws.e-gov.go.jp/api/1/lawdata/323AC0000000201",
     "accessed": "2026-11-22",
-    "reading": "Relevant statutory clauses read; translation is not asserted to be current consolidated law",
+    "reading": "Current official Japanese XML: relevant licensing and examination clauses independently read; English explanations are paraphrases",
     "local_document_obtained": true,
-    "sha256": "f168ac38721a8496bb088c2045fa9b2e4793c217b19b3e5f9ceea1810b9af066",
+    "sha256": "a439e4717a02a1a82ae3eff075e75ec1fda18bd3e7fbcf4b00160323593e7966",
     "redistributed": false
   },
   {
@@ -136,20 +136,20 @@
   },
   {
     "id": "in-degree",
-    "url": "https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FLatestNews%2FPublicNotice_higherFee.pdf",
+    "url": "https://nmc.org.in/whats-new/download/378",
     "accessed": "2026-11-22",
-    "reading": "Indexed primary-source passage only; direct document retrieval failed. Full-document confirmation remains pending before publication.",
-    "local_document_obtained": false,
-    "sha256": null,
+    "reading": "Original 467-page PDF retrieved; duration and phase sections read, not the entire curriculum",
+    "local_document_obtained": true,
+    "sha256": "aa601690b9e92b74f7412973a70969539e93210b41829018f052059bbf5ae23c",
     "redistributed": false
   },
   {
     "id": "in-internship",
-    "url": "https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FE_Compendium_of_NMC_2020_23%2FRegulations.pdf",
+    "url": "https://application.nmc.org.in/storage/nmc_gazette_notifications/231280.pdf",
     "accessed": "2026-11-22",
-    "reading": "Indexed primary-source passages only; full NMC document unavailable at retrieval. Corroborated by government hospital implementation guidance.",
-    "local_document_obtained": false,
-    "sha256": null,
+    "reading": "Original Gazette PDF retrieved; English definitions, duration, supervision and eligibility schedules read",
+    "local_document_obtained": true,
+    "sha256": "d87cdab09a1b29fd82abcbcb033d6b8adc96b734d2b10b92346afe4740e6181b",
     "redistributed": false
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "id": "in-pg",
-    "url": "https://www.nmc.org.in/ActivitiWebClient/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FNmcGazette%2FPGMER+2023.pdf",
+    "url": "https://application.nmc.org.in/storage/nmc_gazette_notifications/PGMER%202023.pdf",
     "accessed": "2026-11-22",
-    "reading": "Primary indexed regulation identified; full clause reproduced in Delhi High Court judgment 28 February 2026, read through web reader. Direct NMC/Gazette retrieval failed.",
-    "local_document_obtained": false,
-    "sha256": null,
+    "reading": "Original Gazette PDF retrieved; qualification-duration clause and exception read",
+    "local_document_obtained": true,
+    "sha256": "09e70f6482868a319436ebd3b7ab1f8f1e23125a6e144e690d3f50b64c25dace",
     "redistributed": false
   },
   {
     "id": "in-next",
-    "url": "https://www.nmc.org.in/wp-content/uploads/2024/03/NMC_ANNUAL_2023_24_ENGLISH.pdf",
+    "url": "https://nmc.org.in/whats-new/download/589",
     "accessed": "2026-11-22",
-    "reading": "Indexed primary passage; no subsequent commencement notification found in bounded 2026 search. Current implementation needs final prepublication confirmation.",
-    "local_document_obtained": false,
-    "sha256": null,
+    "reading": "Original one-page notice read in full; current rules index and news titles through page 29 checked, no later commencement found. Future commencement is not predicted.",
+    "local_document_obtained": true,
+    "sha256": "cff0ad252eaa1071fb15e0dce4cf49884a37c9c5bf776e1bf3249850a176d68f",
     "redistributed": false
   },
   {
@@ -267,6 +267,24 @@
     "reading": "Relevant training-duration and examination statement read in directly retrieved public guidance; no illustrations reproduced",
     "local_document_obtained": true,
     "sha256": "7834079ed27f133aaaa8e47ec346fa15148affd608feb00df83e89edf56b5a22",
+    "redistributed": false
+  },
+  {
+    "id": "in-registration-rule",
+    "url": "https://nmc.org.in/19GraduateMedicalEducationRegulations1997Amendment04112019-2.pdf",
+    "accessed": "2026-11-22",
+    "reading": "Original Gazette PDF retrieved; relevant English clauses read. Legacy procedural provision corroborated by government hospital internship SOP; examination conditions remain cohort-specific.",
+    "local_document_obtained": true,
+    "sha256": "97dd17114435750f12d9d8419a65dd6d742587307fd075f557f904e32c8687ea",
+    "redistributed": false
+  },
+  {
+    "id": "ca-ptl-exams",
+    "url": "https://www.mbc.ca.gov/Licensing/Physicians-and-Surgeons/Apply/Physicians-and-Surgeons-License/Examinations.aspx",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text retrieved",
+    "local_document_obtained": true,
+    "sha256": "4c3a249e6e8c4f2313a76f0edcb958dc8bc1e5d2ce3457ec4f0b613b914ca73a",
     "redistributed": false
   }
 ]

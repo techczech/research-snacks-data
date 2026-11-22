@@ -7,7 +7,7 @@
     "source_date": "Undated live guidance",
     "passage": "four years of college (undergraduate school), four years of medical school",
     "locator": "Typical education timeline paragraph",
-    "reading": "Primary page via search text; direct retrieval returned a challenge page"
+    "reading": "Full substantive AAMC page independently read through web reader; conventional route paragraph, not a universal admission statute"
   },
   "ca-training": {
     "publisher": "Medical Board of California",
@@ -35,7 +35,7 @@
     "url": "https://www.mbc.ca.gov/Licensing/Physicians-and-Surgeons/Apply/Physicians-and-Surgeons-License/Examinations.aspx",
     "accessed": "2026-11-22",
     "source_date": "Undated live guidance",
-    "passage": "you must take and pass Steps 1, 2CK, and 3 of the USMLE examination",
+    "passage": "Steps 1, 2CK, and 3",
     "locator": "USMLE; PTL requires Steps 1 and 2CK, P&S requires all three",
     "reading": "Full substantive web text retrieved"
   },
@@ -131,13 +131,13 @@
   },
   "jp-act": {
     "publisher": "Ministry of Justice, Japan",
-    "title": "Medical Practitioners Act — English translation",
-    "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3992/en",
+    "title": "Medical Practitioners Act — current Japanese law",
+    "url": "https://laws.e-gov.go.jp/api/1/lawdata/323AC0000000201",
     "accessed": "2026-11-22",
-    "source_date": "Translation of older consolidated version; current ministry diagram corroborates duration",
-    "passage": "must undergo clinical training for a period of two years or more",
-    "locator": "Articles 2, 6 and 16-2; registration and clinical-training completion separately recorded",
-    "reading": "Relevant statutory clauses read; translation is not asserted to be current consolidated law"
+    "source_date": "Current e-Gov text retrieved 22 November 2026",
+    "passage": "医師国家試験に合格し、厚生労働大臣の免許を受けなければならない。",
+    "locator": "Articles 2, 6 and 11; Article 11 includes the pre-clerkship common examination for domestic graduates",
+    "reading": "Current official Japanese XML: relevant licensing and examination clauses independently read; English explanations are paraphrases"
   },
   "jp-manager": {
     "publisher": "Ministry of Health, Labour and Welfare, Japan",
@@ -151,23 +151,23 @@
   },
   "in-degree": {
     "publisher": "National Medical Commission, India",
-    "title": "Public notice on MBBS course fees and duration",
-    "url": "https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FLatestNews%2FPublicNotice_higherFee.pdf",
+    "title": "Competency Based Medical Education Curriculum 2024",
+    "url": "https://nmc.org.in/whats-new/download/378",
     "accessed": "2026-11-22",
-    "source_date": "2026 notice; indexed identifier CDN-13011/1/2026-COORDINATION-NMC",
-    "passage": "4½ years (54 months) of academic study, followed by one (01) year of compulsory rotating internship (CRMI)",
-    "locator": "Duration paragraph referring to CBME Guidelines 2024 and GMER",
-    "reading": "Indexed primary-source passage only; direct document retrieval failed. Full-document confirmation remains pending before publication."
+    "source_date": "12 September 2024",
+    "passage": "4 ½ academic years; followed by one year of compulsory rotating medical internship",
+    "locator": "PDF page 29, Phase-wise training and time distribution; page 31 phase breakdown",
+    "reading": "Original 467-page PDF retrieved; duration and phase sections read, not the entire curriculum"
   },
   "in-internship": {
     "publisher": "National Medical Commission, India",
     "title": "Compulsory Rotating Medical Internship Regulations 2021",
-    "url": "https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FE_Compendium_of_NMC_2020_23%2FRegulations.pdf",
+    "url": "https://application.nmc.org.in/storage/nmc_gazette_notifications/231280.pdf",
     "accessed": "2026-11-22",
     "source_date": "Notification 18 November 2021",
     "passage": "independently practice modern scientific system of medicine or allopathy in India; shall not be less than twelve months",
-    "locator": "Definition 2(1)(i), regulation 3 and duration regulation 4; separate excerpts",
-    "reading": "Indexed primary-source passages only; full NMC document unavailable at retrieval. Corroborated by government hospital implementation guidance."
+    "locator": "PDF pages 24–26: definition 2(1)(i); regulations 3–6; Schedules I and II",
+    "reading": "Original Gazette PDF retrieved; English definitions, duration, supervision and eligibility schedules read"
   },
   "in-provisional": {
     "publisher": "ABVIMS and Dr RML Hospital, Ministry of Health and Family Welfare, India",
@@ -182,23 +182,22 @@
   "in-pg": {
     "publisher": "National Medical Commission, India",
     "title": "Post-Graduate Medical Education Regulations 2023",
-    "url": "https://www.nmc.org.in/ActivitiWebClient/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FNmcGazette%2FPGMER+2023.pdf",
+    "url": "https://application.nmc.org.in/storage/nmc_gazette_notifications/PGMER%202023.pdf",
     "accessed": "2026-11-22",
     "source_date": "Notification 29 December 2023; Gazette 1 January 2024",
     "passage": "Post-graduate broad-speciality Qualifications; 3 Years/2 years",
-    "locator": "Chapter II, clause 2.1; two-year exception for an existing recognised diploma in the same subject",
-    "reading": "Primary indexed regulation identified; full clause reproduced in Delhi High Court judgment 28 February 2026, read through web reader. Direct NMC/Gazette retrieval failed.",
-    "corroboration": "https://delhihighcourt.nic.in/app/showFileJudgment/68328022026LPA942026_145229.pdf"
+    "locator": "PDF page 30, Chapter II clause 2.1 and diploma exception; examinations included in duration",
+    "reading": "Original Gazette PDF retrieved; qualification-duration clause and exception read"
   },
   "in-next": {
     "publisher": "National Medical Commission, India",
-    "title": "Annual Report 2023–24",
-    "url": "https://www.nmc.org.in/wp-content/uploads/2024/03/NMC_ANNUAL_2023_24_ENGLISH.pdf",
+    "title": "Public notice on NExT — deferral",
+    "url": "https://nmc.org.in/whats-new/download/589",
     "accessed": "2026-11-22",
-    "source_date": "2023–24; 13 July 2023 deferral notice",
-    "passage": "deferred the National Exit Text (NExT) examination, till further directions from MoHFW",
-    "locator": "NExT implementation account; spelling retained from indexed source",
-    "reading": "Indexed primary passage; no subsequent commencement notification found in bounded 2026 search. Current implementation needs final prepublication confirmation."
+    "source_date": "13 July 2023; still linked by current rules index on 22 November 2026",
+    "passage": "examination is deferred on the advice of the Ministry, dated 11.07.2023, till further directions",
+    "locator": "PDF page 1; current rules index NExT item 1.1",
+    "reading": "Original one-page notice read in full; current rules index and news titles through page 29 checked, no later commencement found. Future commencement is not predicted."
   },
   "sg-degree": {
     "publisher": "Nanyang Technological University, Singapore",
@@ -299,5 +298,25 @@
     "passage": "少なくとも3年間受け、試験に合格することが必須です。",
     "locator": "Section explaining how general practice specialists gain their competence",
     "reading": "Relevant training-duration and examination statement read in directly retrieved public guidance; no illustrations reproduced"
+  },
+  "in-registration-rule": {
+    "publisher": "Medical Council of India; hosted by National Medical Commission",
+    "title": "Graduate Medical Education Regulations 1997, amendment 4 November 2019",
+    "url": "https://nmc.org.in/19GraduateMedicalEducationRegulations1997Amendment04112019-2.pdf",
+    "accessed": "2026-11-22",
+    "source_date": "4 November 2019",
+    "passage": "The State Medical Council will grant provisional registration to the candidate upon production of the provisional MBBS pass certificate.",
+    "locator": "PDF page 87, clauses 12.4.3–12.4.6; supervised internship, not independent work",
+    "reading": "Original Gazette PDF retrieved; relevant English clauses read. Legacy procedural provision corroborated by government hospital internship SOP; examination conditions remain cohort-specific."
+  },
+  "ca-ptl-exams": {
+    "publisher": "Medical Board of California",
+    "title": "Examination Requirement — Postgraduate Training License",
+    "url": "https://www.mbc.ca.gov/Licensing/Physicians-and-Surgeons/Apply/Physicians-and-Surgeons-License/Examinations.aspx",
+    "accessed": "2026-11-22",
+    "source_date": "Undated live guidance",
+    "passage": "For a Postgraduate Training License (PTL), you must pass Steps 1 and 2CK of the USMLE examination.",
+    "locator": "Opening paragraph, PTL examination requirements",
+    "reading": "Full substantive web text retrieved"
   }
 }

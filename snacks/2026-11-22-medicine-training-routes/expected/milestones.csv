@@ -1,0 +1,7 @@
+jurisdiction,first_registration_month,general_licence_month,family_training_month,family_endpoint,modelled_medical_entry_age,school_years,first_stage_id,general_stage_id,family_stage_id
+"California, US",96,108,132,Family medicine residency complete,18,12,ca-first,ca-full,ca-family-ready
+England,60,72,120,GP training complete,18,13,en-first,en-full,en-gp-ready
+"Bavaria, Germany",75,75,135,GP specialist training complete,19,13,de-first,de-full,de-gp-ready
+Japan,72,72,132,General practice specialty training complete,18,12,jp-first,jp-full,jp-gp-ready
+India,54,66,102,MD Family Medicine training complete,18,12,in-first,in-full,in-family-ready
+Singapore,60,72,108,Family medicine residency complete,18,12,sg-first,sg-full,sg-family-ready

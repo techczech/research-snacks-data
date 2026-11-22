@@ -1,41 +1,49 @@
 ---
-title: Medical training routes — six-place preview data package
+title: Medicine training routes — checking package
 date: 2026-11-22
-status: Author preview; not a published Research Snack
+status: Research Snack preview; production awaits author review
 provenance: Original regulator-document coding with selected UIS, World Bank and European Commission facts
 ---
 
-# What this package contains
+# What is shared
 
-`routes.md` owns the six selected pathways, 55 stage records, 30 source passages, exact source locations and reading-depth limits. `stages.csv` and `sources.json` are generated from it by the preview builder. Each exported stage expands source passages, source/access dates, URLs and reading limits. These records are documentary coding, not practitioner-level observations.
+Six selected domestic medical pathways, 55 stage records and 32 source records. Registration, general medical licensing and later family/general-practice training remain distinct. This is documentary coding of requirements, not a dataset of individual doctors or measured competence.
 
-`uis-selected-programmes.csv` contains 21 selected workbook rows with source cell locators, school reference years and workbook SHA-256 hashes. `school-baselines.csv` records six harmonisation choices, including Bavaria's G9 and Singapore's junior college. `world-bank-school-indicators.csv` has 24 latest non-missing observations found within 2015–2026; all are 2025 at this check. These are theoretical structures. The historical UIS structures and current professional rules are not one cohort's longitudinal experience.
+The original authoring file is `routes.md`; its public machine-readable snapshot is `data/route-coding.json`. Root CSV files remain for compatibility with the earlier preview. `data/` holds the checked input snapshots, exact UIS workbook cells, school baseline judgements, World Bank observations, limited EU factual extract, GP report transcription and review records. Whole third-party publications and workbooks remain withheld in ignored scratch. [Source and redistribution decisions](DATA-SOURCES.md).
 
-`eu-basic-medical-duration.csv` contains a dated factual snapshot of 32 exact-category basic-medical-training records. Missing dates and values remain missing. Education and traineeship fields are never summed. `eu-gp-report-table.csv` transcribes a distinct 27-entry report table; the ambiguous printed SL code is not silently corrected. These sources must not be joined as if they measured a common total.
+# Check the page's numbers
 
-`source-fingerprints.json` retains hashes only for actual locally retrieved source documents. A null hash means the original was not obtained through that route; the source register describes web-reader, indexed-excerpt and corroborating access. Full publications/workbooks and API documents are withheld in ignored scratch. See [source terms and limits](DATA-SOURCES.md).
+From the repository root:
 
-# Reproduction
+```sh
+uv sync
+uv run check.py 2026-11-22-medicine-training-routes
+```
 
-Use Python 3.11 and the versions in `requirements.txt` for source extraction. From this package directory:
+This offline check recalculates all three `expected/` CSVs using `code/reproduce.py`: the six-row milestone table, 55-stage provenance/clock export and EU distribution. They reproduce the page's table, interactive data and plotted counts. See [method, judgement steps and limits](METHOD.md).
+
+# Rebuild the tool and chart
+
+The tool is self-contained HTML. With Bun installed, from this snack directory:
+
+```sh
+bun code/timeline/build.ts . medicine-timeline.html
+uv run python code/chart-eu.py eu-duration.png
+```
+
+The tool builder uses checked local JSON/CSV files and bundles the browser script without a network request. `data/tool-copy.json` is the renderer input for the public wording; `code/timeline/preview.md` preserves its editable original. The chart uses the exact expected EU distribution. The site's committed bundle is copied from these sources; no service is required to run the downloaded tool.
+
+Optional online refresh commands need the additional Python dependencies in `requirements.txt`:
 
 ```sh
 python3 code/extract_context.py world_bank uis eu eu_gp
+python3 code/refresh_india_sources.py
 ```
 
-This refreshes public structured data, writes source access dates for the actual run, and retains source inputs under the repository's ignored `scratch/medicine-training-routes`. Fresh downloads may differ from this snapshot. The published CSVs and hashes identify the checked snapshot. The report-table selector is exact and fails if the expected table disappears; it does not guess its way to another table. The numeric parsing operates only on manually identified duration cells. EU qualification filtering uses an exact provider category; it is not a keyword classifier.
+Fresh data may differ. Inspect changed units, dates, legal rules and category definitions before accepting new expected outputs. Extraction preserves source URLs, cell locators and hashes; failures are not bypassed. `code/amend_verified_sources.py` and `code/update_family_routes.py` are historical amendment records, not refresh commands for an already updated package.
 
-The separate `code/retrieve.py` accepts a JSON mapping of source IDs to public URLs, storing whole documents and extraction text only in ignored scratch. Retrieval failures and TLS errors are retained rather than bypassed. The companion Research Snacks preview folder holds these URL manifests and its build script.
+# Verification and remaining limits
 
-To recreate `stages.csv`, `sources.json` and the preview, run the documented `build.ts` command in the companion [Research Snacks preview source](https://github.com/techczech/research-snacks/tree/main/research/2026-11-22-professional-qualification-duration/medicine-preview). It uses the existing Research Snacks bun dependencies; no runtime network calls are needed by the packaged HTML.
+An independent source check supports all six first-registration markers conditionally; the report names source reading limits. The original NMC curriculum, internship regulation and deferral notice were retrieved after the site migration. The former blanket India unavailable-source warning is superseded. No later NExT commencement was found in the bounded dated search; this does not predict future-cohort rules. Source hashes from that retrieval are in `data/india-source-retrieval.json`.
 
-# Validation boundary
-
-The preview's targeted headless checks passed for the three clocks, legal-milestone distinction, embedded and overlapping requirements, source display, CSV export, offline operation and no-JavaScript record access. Original NMC documents and current NExT implementation require further confirmation before publication; this limitation is visible in the preview. No independent full source audit, competence analysis or author acceptance is asserted.
-
-
-## Preview amendment after coordinator review
-
-The original preview used internal-medicine examples for Japan/Singapore and MD General Medicine for India. The coordinator requested GP/family-medicine later-training bars throughout. These now show JMSB general practice (at least three years), FPAB family-medicine residency (three years after PGY1 on the selected entry route), and optional MD Family Medicine (three years after MBBS/internship). Completion markers remain distinct from licensing, examination and accreditation. NMC's CMC Vellore permission letter was retrieved and visually read; other India original-document limitations persist. No internal-medicine alternative is retained because it does not help this comparison.
-
-`code/update_family_routes.py` records the one-time explicit amendment applied to the original 50-stage `routes.md` at commit 1808b7f. It is a historical transformation, not a refresh command for the already amended file. Subsequent builds use the current canonical Markdown directly.
+The UI checks cover all three clocks, embedded/overlapping requirements, source selection, CSV export, no-JavaScript access and phone/intermediate/desktop layouts. A complete legal audit, typical-completion survey and causal competence comparison are outside this package.
