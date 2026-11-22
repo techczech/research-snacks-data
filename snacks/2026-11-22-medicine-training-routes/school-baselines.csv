@@ -1,0 +1,7 @@
+school_id,label,entry_age,school_years,school_leaving_age,reference_year,uis_rows,adjustment,additional_source
+usa,US conventional primary-to-high-school route,6,12,18,2020/2021,Scope UOE rows 11 12 14,UIS age range 5–7 reduced to WB theoretical entrance age 6; three programme durations sum to 12,
+england,England primary-to-A-level route,5,13,18,2020/2021,Scope UOE rows 10 12 21 26,England path uses six primary years from theoretical age 5; excludes reception classified as pre-primary; 6+3+2+2,
+bavaria,Bavaria current G9 route,6,13,19,2020/2021 plus 2025/26,Scope UOE rows 14 24 43,Choose nine-year Gymnasium rather than the shorter variant in the national workbook; 4+6+3,https://www.km.bayern.de/lernen/schularten/gymnasium
+japan,Japan full-time general secondary route,6,12,18,2020/2021,Scope UOE rows 9 12 30,6+3+3,
+india,India academic senior-secondary route,6,12,18,2020,Sheet1 rows 8 10 11 12,5+3+2+2; theoretical structure not actual attendance,
+singapore,Singapore Express plus junior-college route,6,12,18,2020,Sheet1 rows 12 13 15 17,6+2+2+2; final two years are ISCED4 junior college and absent from the WB secondary-duration indicator,

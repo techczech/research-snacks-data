@@ -1,0 +1,236 @@
+[
+  {
+    "id": "us-conventional",
+    "url": "https://students-residents.aamc.org/choosing-medical-career/what-consider-you-decide-career-medicine",
+    "accessed": "2026-11-22",
+    "reading": "Primary page via search text; direct retrieval returned a challenge page",
+    "local_document_obtained": false,
+    "sha256": null,
+    "redistributed": false
+  },
+  {
+    "id": "ca-training",
+    "url": "https://www.mbc.ca.gov/Licensing/Postgraduate-Training-Licensees/",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text retrieved",
+    "local_document_obtained": true,
+    "sha256": "53b0c7bf9f70614e4ab3ab483365f8550a16c8c05074b6feb3735679259bf77c",
+    "redistributed": false
+  },
+  {
+    "id": "ca-licence",
+    "url": "https://www.mbc.ca.gov/Licensing/Physicians-and-Surgeons/Apply/Physicians-and-Surgeons-License/default.aspx",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text retrieved",
+    "local_document_obtained": true,
+    "sha256": "7fa6bcf6bd953ed3ce023b47c61fcf95f7e11724ef59956584567f234b2de8c7",
+    "redistributed": false
+  },
+  {
+    "id": "ca-exams",
+    "url": "https://www.mbc.ca.gov/Licensing/Physicians-and-Surgeons/Apply/Physicians-and-Surgeons-License/Examinations.aspx",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text retrieved",
+    "local_document_obtained": true,
+    "sha256": "4c3a249e6e8c4f2313a76f0edcb958dc8bc1e5d2ce3457ec4f0b613b914ca73a",
+    "redistributed": false
+  },
+  {
+    "id": "us-family",
+    "url": "https://www.theabfm.org/become-certified/initial-training-requirements/",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text retrieved; whitespace normalised",
+    "local_document_obtained": true,
+    "sha256": "12dc433e348b591b5439b14e8ddca8d11dae2bd8d44683ac8e64588db8e9d464",
+    "redistributed": false
+  },
+  {
+    "id": "en-route",
+    "url": "https://www.gmc-uk.org/education/becoming-a-doctor-in-the-uk",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text read through web reader; direct retrieval blocked",
+    "local_document_obtained": false,
+    "sha256": null,
+    "redistributed": false
+  },
+  {
+    "id": "en-mla",
+    "url": "https://www.gmc-uk.org/education/medical-licensing-assessment",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text read through web reader",
+    "local_document_obtained": false,
+    "sha256": null,
+    "redistributed": false
+  },
+  {
+    "id": "en-gp",
+    "url": "https://www.gmc-uk.org/cdn/documents/rcgp-curriculum-2025_pdf-114876513.pdf",
+    "accessed": "2026-11-22",
+    "reading": "Relevant curriculum sections and assessments read through web PDF reader",
+    "local_document_obtained": false,
+    "sha256": null,
+    "redistributed": false
+  },
+  {
+    "id": "en-gp-independent",
+    "url": "https://medical.hee.nhs.uk/medical-training-recruitment/medical-specialty-training/general-practice-gp/how-to-apply-for-gp-specialty-training/gp-specialty-training-recruitment",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text retrieved",
+    "local_document_obtained": true,
+    "sha256": "02f8b025c4cbaf2d5e5aef0199144dcd06013b52dc7befefc7786ceaa2657c10",
+    "redistributed": false
+  },
+  {
+    "id": "de-course",
+    "url": "https://www.gesetze-im-internet.de/_appro_2002/__1.html",
+    "accessed": "2026-11-22",
+    "reading": "Full section retrieved and read; excerpts from separate clauses",
+    "local_document_obtained": true,
+    "sha256": "5c34c5b30e565d43b28359b6c63da421b5efbdb3d752301ffe168ab24a919ce4",
+    "redistributed": false
+  },
+  {
+    "id": "de-licence",
+    "url": "https://www.gesetze-im-internet.de/b_o/__3.html",
+    "accessed": "2026-11-22",
+    "reading": "Full section retrieved and relevant conditions read",
+    "local_document_obtained": true,
+    "sha256": "9963a8dabbe0a3ef4cdf32f97b5b03e3b0a00ef17acb666ebd0bf52cfe9ae6e6",
+    "redistributed": false
+  },
+  {
+    "id": "de-gp",
+    "url": "https://api.blaek.de/media/pages/kammerrecht/nwsf1ddjgj1532091956xi1qqoxqc73/pdq9pw7ang1739343081jryrrx89hh223-kopie/28cd09c4dd-1769068310/2025.10.11_wbo-2021.pdf",
+    "accessed": "2026-11-22",
+    "reading": "PDF retrieved; named duration section read",
+    "local_document_obtained": true,
+    "sha256": "4161eb06eb42e05a1df7898dd9298cc08bc870c0dd760c00af9974b757f5d878",
+    "redistributed": false
+  },
+  {
+    "id": "jp-route",
+    "url": "https://www.mhlw.go.jp/wp/hakusyo/kousei/25-2/dl/02_en.pdf",
+    "accessed": "2026-11-22",
+    "reading": "PDF retrieved; diagram labels and clinical-training section read",
+    "local_document_obtained": true,
+    "sha256": "d2dfa2e291b9743b40fc45099db4552d5cd0707cdf52204fd9649bfef1ecb8ac",
+    "redistributed": false
+  },
+  {
+    "id": "jp-act",
+    "url": "https://www.japaneselawtranslation.go.jp/en/laws/view/3992/en",
+    "accessed": "2026-11-22",
+    "reading": "Relevant statutory clauses read; translation is not asserted to be current consolidated law",
+    "local_document_obtained": true,
+    "sha256": "f168ac38721a8496bb088c2045fa9b2e4793c217b19b3e5f9ceea1810b9af066",
+    "redistributed": false
+  },
+  {
+    "id": "jp-manager",
+    "url": "https://www.mhlw.go.jp/stf/newpage_70739.html",
+    "accessed": "2026-11-22",
+    "reading": "Current ministry requirements and Q&A read; English explanation is an original paraphrase",
+    "local_document_obtained": true,
+    "sha256": "a92ef58e226f19dbe1af568fe47db93397995de3a0db84ba23ffaf55dcb4e25a",
+    "redistributed": false
+  },
+  {
+    "id": "jp-im",
+    "url": "https://www.naika.or.jp/wp-content/uploads/program2026/1117280025.pdf",
+    "accessed": "2026-11-22",
+    "reading": "PDF retrieved; duration and prior-training diagram checked",
+    "local_document_obtained": true,
+    "sha256": "350edb160164baed1185a0ed843c08724d9b4ba6b6330234b4d114c2f8f2eebb",
+    "redistributed": false
+  },
+  {
+    "id": "in-degree",
+    "url": "https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FLatestNews%2FPublicNotice_higherFee.pdf",
+    "accessed": "2026-11-22",
+    "reading": "Indexed primary-source passage only; direct document retrieval failed. Full-document confirmation remains pending before publication.",
+    "local_document_obtained": false,
+    "sha256": null,
+    "redistributed": false
+  },
+  {
+    "id": "in-internship",
+    "url": "https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FE_Compendium_of_NMC_2020_23%2FRegulations.pdf",
+    "accessed": "2026-11-22",
+    "reading": "Indexed primary-source passages only; full NMC document unavailable at retrieval. Corroborated by government hospital implementation guidance.",
+    "local_document_obtained": false,
+    "sha256": null,
+    "redistributed": false
+  },
+  {
+    "id": "in-provisional",
+    "url": "https://rmlh.mohfw.gov.in/WriteReadData/LINKS/SOP%20regarding%20Compulsory%20Rotating%20Medical%20Internship%20%28CRMI%29%20at%20ABVIMS661fbdbc-0d7a-416e-abce-f29ecc1d62cc.pdf",
+    "accessed": "2026-11-22",
+    "reading": "Government-provider text read through web reader; direct TLS validation failed, not bypassed",
+    "local_document_obtained": false,
+    "sha256": null,
+    "redistributed": false
+  },
+  {
+    "id": "in-pg",
+    "url": "https://www.nmc.org.in/ActivitiWebClient/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FNmcGazette%2FPGMER+2023.pdf",
+    "accessed": "2026-11-22",
+    "reading": "Primary indexed regulation identified; full clause reproduced in Delhi High Court judgment 28 February 2026, read through web reader. Direct NMC/Gazette retrieval failed.",
+    "local_document_obtained": false,
+    "sha256": null,
+    "redistributed": false
+  },
+  {
+    "id": "in-next",
+    "url": "https://www.nmc.org.in/wp-content/uploads/2024/03/NMC_ANNUAL_2023_24_ENGLISH.pdf",
+    "accessed": "2026-11-22",
+    "reading": "Indexed primary passage; no subsequent commencement notification found in bounded 2026 search. Current implementation needs final prepublication confirmation.",
+    "local_document_obtained": false,
+    "sha256": null,
+    "redistributed": false
+  },
+  {
+    "id": "sg-degree",
+    "url": "https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-medicine-and-bachelor-of-surgery-%28mbbs%29",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text retrieved",
+    "local_document_obtained": true,
+    "sha256": "d2dbff4dbe79d0df2411f8d9686ca7567dd2a372e711172c185f442e893615bf",
+    "redistributed": false
+  },
+  {
+    "id": "sg-provisional",
+    "url": "https://www.smc.gov.sg/for-professionals/apply-for-registration/provisional-registration/",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text retrieved",
+    "local_document_obtained": true,
+    "sha256": "3f03bd29792af754a00bcadada5943fc930fb8697f99e5a7252d9005e1b2c2ad",
+    "redistributed": false
+  },
+  {
+    "id": "sg-full",
+    "url": "https://www.smc.gov.sg/for-professionals/registered-doctors/obtaining-full-registration/",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text retrieved",
+    "local_document_obtained": true,
+    "sha256": "158abdb332409afd38587ed19dd0eb644c882792c0cc5d92c2b9c84efad20ee9",
+    "redistributed": false
+  },
+  {
+    "id": "sg-independent",
+    "url": "https://www.smc.gov.sg/for-professionals/registered-doctors/",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text retrieved",
+    "local_document_obtained": true,
+    "sha256": "9b2fea429035130493192c6bd3fdc126ea8fce39dce78ee058220fd29c2efc8c",
+    "redistributed": false
+  },
+  {
+    "id": "sg-im",
+    "url": "https://sab.healthprofessionals.gov.sg/specialist-training/general-information-on-training-programmes/",
+    "accessed": "2026-11-22",
+    "reading": "Full substantive web text retrieved; table values normalised into short excerpt",
+    "local_document_obtained": false,
+    "sha256": null,
+    "redistributed": false
+  }
+]
