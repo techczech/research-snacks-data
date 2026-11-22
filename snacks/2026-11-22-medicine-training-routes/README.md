@@ -7,7 +7,7 @@ provenance: Original regulator-document coding with selected UIS, World Bank and
 
 # What this package contains
 
-`routes.md` owns the six selected pathways, 50 stage records, 26 source passages, exact source locations and reading-depth limits. `stages.csv` and `sources.json` are generated from it by the preview builder. Each exported stage expands source passages, source/access dates, URLs and reading limits. These records are documentary coding, not practitioner-level observations.
+`routes.md` owns the six selected pathways, 55 stage records, 30 source passages, exact source locations and reading-depth limits. `stages.csv` and `sources.json` are generated from it by the preview builder. Each exported stage expands source passages, source/access dates, URLs and reading limits. These records are documentary coding, not practitioner-level observations.
 
 `uis-selected-programmes.csv` contains 21 selected workbook rows with source cell locators, school reference years and workbook SHA-256 hashes. `school-baselines.csv` records six harmonisation choices, including Bavaria's G9 and Singapore's junior college. `world-bank-school-indicators.csv` has 24 latest non-missing observations found within 2015–2026; all are 2025 at this check. These are theoretical structures. The historical UIS structures and current professional rules are not one cohort's longitudinal experience.
 
@@ -32,3 +32,10 @@ To recreate `stages.csv`, `sources.json` and the preview, run the documented `bu
 # Validation boundary
 
 The preview's targeted headless checks passed for the three clocks, legal-milestone distinction, embedded and overlapping requirements, source display, CSV export, offline operation and no-JavaScript record access. Original NMC documents and current NExT implementation require further confirmation before publication; this limitation is visible in the preview. No independent full source audit, competence analysis or author acceptance is asserted.
+
+
+## Preview amendment after coordinator review
+
+The original preview used internal-medicine examples for Japan/Singapore and MD General Medicine for India. The coordinator requested GP/family-medicine later-training bars throughout. These now show JMSB general practice (at least three years), FPAB family-medicine residency (three years after PGY1 on the selected entry route), and optional MD Family Medicine (three years after MBBS/internship). Completion markers remain distinct from licensing, examination and accreditation. NMC's CMC Vellore permission letter was retrieved and visually read; other India original-document limitations persist. No internal-medicine alternative is retained because it does not help this comparison.
+
+`code/update_family_routes.py` records the one-time explicit amendment applied to the original 50-stage `routes.md` at commit 1808b7f. It is a historical transformation, not a refresh command for the already amended file. Subsequent builds use the current canonical Markdown directly.

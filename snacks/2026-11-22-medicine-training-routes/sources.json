@@ -149,16 +149,6 @@
     "locator": "Basic requirements for people who had not completed initial training by 1 April 2026; alternatives and transitional rules follow",
     "reading": "Current ministry requirements and Q&A read; English explanation is an original paraphrase"
   },
-  "jp-im": {
-    "publisher": "Japanese Society of Internal Medicine; Toyooka Hospital programme",
-    "title": "Internal medicine specialist training programme, 2026",
-    "url": "https://www.naika.or.jp/wp-content/uploads/program2026/1117280025.pdf",
-    "accessed": "2026-11-22",
-    "source_date": "2026 programme",
-    "passage": "研修期間：3年間",
-    "locator": "Section 2, training duration; prior initial clinical training shown separately",
-    "reading": "PDF retrieved; duration and prior-training diagram checked"
-  },
   "in-degree": {
     "publisher": "National Medical Commission, India",
     "title": "Public notice on MBBS course fees and duration",
@@ -250,14 +240,64 @@
     "locator": "Obtaining full registration link description",
     "reading": "Full substantive web text retrieved"
   },
-  "sg-im": {
-    "publisher": "Specialists Accreditation Board, Singapore",
-    "title": "General information on specialist training programmes",
-    "url": "https://sab.healthprofessionals.gov.sg/specialist-training/general-information-on-training-programmes/",
+  "jp-gp": {
+    "publisher": "Japanese Medical Specialty Board, General Practice Specialty Committee",
+    "title": "General practice specialty training programme standards",
+    "url": "https://jmsb.box.com/s/ugs2wtljj23vye2qyvbtojhf8lwrzhk5",
     "accessed": "2026-11-22",
-    "source_date": "Live programme requirements",
-    "passage": "Completed Post-Graduate Year 1 (PGY1) by the commencement date; Internal Medicine (basic) 3; Advanced Internal Medicine 2",
-    "locator": "Eligibility and training-duration tables; Advanced IM requires prior three-year basic IM",
-    "reading": "Full substantive web text retrieved; table values normalised into short excerpt"
+    "source_date": "Revised 19 June 2026",
+    "passage": "3年以上の研修期間を満了し",
+    "locator": "PDF page 27, completion requirements; page 14, at least three years and required rotations; linked from jbgm.org programme standards",
+    "reading": "PDF retrieved through the publicly linked Box download; duration, rotations and completion requirements read"
+  },
+  "in-fm-approval": {
+    "publisher": "National Medical Commission, Medical Assessment and Rating Board, India",
+    "title": "Permission for MD Family Medicine at Christian Medical College, Vellore",
+    "url": "https://www.cmch-vellore.edu/wp-content/uploads/sites/14/2024/04/govt-approval-2023-2026-MD-Family-Medicine.pdf",
+    "accessed": "2026-11-22",
+    "source_date": "31 March 2023",
+    "passage": "Starting of MD - Family Medicine course for 02 (Two) to 06 (Six) seats was approved",
+    "locator": "Page 1, subject and permission paragraph; three-year degree duration follows PGMER clause 2.1",
+    "reading": "Scanned regulator permission letter retrieved and page 1 visually read; hosted by the receiving institution. Demonstrates an NMC-authorised qualification, not current availability at every college."
+  },
+  "sg-fm-residency": {
+    "publisher": "Family Physicians Accreditation Board, Singapore",
+    "title": "Family Medicine Residency Programme",
+    "url": "https://fpab.healthprofessionals.gov.sg/becoming-a-family-physician/family-medicine-residency-programme/",
+    "accessed": "2026-11-22",
+    "source_date": "Updated 16 December 2025",
+    "passage": "has a 3-year duration similar to the previous MMed (FM) Programme",
+    "locator": "Opening programme description and Singapore Country Addendum",
+    "reading": "Live accreditation-board programme description and relevant training requirements read"
+  },
+  "sg-fm-accreditation": {
+    "publisher": "Family Physicians Accreditation Board, Singapore",
+    "title": "Entry requirements for Family Physician accreditation",
+    "url": "https://fpab.healthprofessionals.gov.sg/becoming-a-family-physician/entry-criteria-for-family-physician-accreditation/entry-requirements/",
+    "accessed": "2026-11-22",
+    "source_date": "Updated 5 May 2025",
+    "passage": "required 3 years of FM practice experience; excluding HO and TY postings",
+    "locator": "FM practice experience and relevant qualifications table; recognised postings and currency of practice",
+    "reading": "Live qualification, experience, currency and recognised-posting conditions read; excerpts combined"
+  },
+  "sg-residency-entry": {
+    "publisher": "MOH Holdings, Singapore",
+    "title": "July 2027 Junior Residency Application Guide",
+    "url": "https://www.mohh.com.sg/content/dam/mohhwebsites/documents/home/what-we-do/developing-healthcare-talent/clinical-careers/medicine/residency/junior-residency-full-application-guide-july-2027.pdf",
+    "accessed": "2026-11-22",
+    "source_date": "July 2027 intake; applications September 2026",
+    "passage": "Be Post Graduate Year (PGY) 2, at the minimum, by July of the year you are entering Residency Training (R1)",
+    "locator": "PDF page 2, residency-entry eligibility; programme-specific exceptions can apply",
+    "reading": "Current public application guide entry requirements read through web PDF reader"
+  },
+  "jp-gp-exam": {
+    "publisher": "Japanese Medical Specialty Board, General Practice Specialty Committee",
+    "title": "General practice specialist information for the public",
+    "url": "https://jbgm.org/ippan/",
+    "accessed": "2026-11-22",
+    "source_date": "Live guidance accessed 22 November 2026",
+    "passage": "少なくとも3年間受け、試験に合格することが必須です。",
+    "locator": "Section explaining how general practice specialists gain their competence",
+    "reading": "Relevant training-duration and examination statement read in directly retrieved public guidance; no illustrations reproduced"
   }
 }

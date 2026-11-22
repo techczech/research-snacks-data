@@ -135,15 +135,6 @@
     "redistributed": false
   },
   {
-    "id": "jp-im",
-    "url": "https://www.naika.or.jp/wp-content/uploads/program2026/1117280025.pdf",
-    "accessed": "2026-11-22",
-    "reading": "PDF retrieved; duration and prior-training diagram checked",
-    "local_document_obtained": true,
-    "sha256": "350edb160164baed1185a0ed843c08724d9b4ba6b6330234b4d114c2f8f2eebb",
-    "redistributed": false
-  },
-  {
     "id": "in-degree",
     "url": "https://www.nmc.org.in/MCIRest/open/getDocument?path=%2FDocuments%2FPublic%2FPortal%2FLatestNews%2FPublicNotice_higherFee.pdf",
     "accessed": "2026-11-22",
@@ -225,12 +216,57 @@
     "redistributed": false
   },
   {
-    "id": "sg-im",
-    "url": "https://sab.healthprofessionals.gov.sg/specialist-training/general-information-on-training-programmes/",
+    "id": "jp-gp",
+    "url": "https://jmsb.box.com/s/ugs2wtljj23vye2qyvbtojhf8lwrzhk5",
     "accessed": "2026-11-22",
-    "reading": "Full substantive web text retrieved; table values normalised into short excerpt",
+    "reading": "PDF retrieved through the publicly linked Box download; duration, rotations and completion requirements read",
+    "local_document_obtained": true,
+    "sha256": "2aec8635bfca3c3537c1103c0ece18ea331157b335576491a7139c690201aadd",
+    "redistributed": false
+  },
+  {
+    "id": "in-fm-approval",
+    "url": "https://www.cmch-vellore.edu/wp-content/uploads/sites/14/2024/04/govt-approval-2023-2026-MD-Family-Medicine.pdf",
+    "accessed": "2026-11-22",
+    "reading": "Scanned regulator permission letter retrieved and page 1 visually read; hosted by the receiving institution. Demonstrates an NMC-authorised qualification, not current availability at every college.",
+    "local_document_obtained": true,
+    "sha256": "67410c2800773504bd8049502912793714de3235019acec79e51750cd6071ed5",
+    "redistributed": false
+  },
+  {
+    "id": "sg-fm-residency",
+    "url": "https://fpab.healthprofessionals.gov.sg/becoming-a-family-physician/family-medicine-residency-programme/",
+    "accessed": "2026-11-22",
+    "reading": "Live accreditation-board programme description and relevant training requirements read",
+    "local_document_obtained": true,
+    "sha256": "66762c03fb472c3fcbcff29e760d642b35aa1a585c2292b06cef0d90dba8471b",
+    "redistributed": false
+  },
+  {
+    "id": "sg-fm-accreditation",
+    "url": "https://fpab.healthprofessionals.gov.sg/becoming-a-family-physician/entry-criteria-for-family-physician-accreditation/entry-requirements/",
+    "accessed": "2026-11-22",
+    "reading": "Live qualification, experience, currency and recognised-posting conditions read; excerpts combined",
+    "local_document_obtained": true,
+    "sha256": "c94036585fe28d56531e2c8e40eacda54d5c9bd87f1fc024654360762d1b5372",
+    "redistributed": false
+  },
+  {
+    "id": "sg-residency-entry",
+    "url": "https://www.mohh.com.sg/content/dam/mohhwebsites/documents/home/what-we-do/developing-healthcare-talent/clinical-careers/medicine/residency/junior-residency-full-application-guide-july-2027.pdf",
+    "accessed": "2026-11-22",
+    "reading": "Current public application guide entry requirements read through web PDF reader",
     "local_document_obtained": false,
     "sha256": null,
+    "redistributed": false
+  },
+  {
+    "id": "jp-gp-exam",
+    "url": "https://jbgm.org/ippan/",
+    "accessed": "2026-11-22",
+    "reading": "Relevant training-duration and examination statement read in directly retrieved public guidance; no illustrations reproduced",
+    "local_document_obtained": true,
+    "sha256": "7834079ed27f133aaaa8e47ec346fa15148affd608feb00df83e89edf56b5a22",
     "redistributed": false
   }
 ]

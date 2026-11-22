@@ -140,15 +140,6 @@ sources:
     passage: 臨床研修修了後、病院または診療所（医師の場合は病院に限る）において３年以上保険診療に従事した経験を持つこと。
     locator: Basic requirements for people who had not completed initial training by 1 April 2026; alternatives and transitional rules follow
     reading: Current ministry requirements and Q&A read; English explanation is an original paraphrase
-  jp-im:
-    publisher: Japanese Society of Internal Medicine; Toyooka Hospital programme
-    title: Internal medicine specialist training programme, 2026
-    url: https://www.naika.or.jp/wp-content/uploads/program2026/1117280025.pdf
-    accessed: '2026-11-22'
-    source_date: '2026 programme'
-    passage: 研修期間：3年間
-    locator: Section 2, training duration; prior initial clinical training shown separately
-    reading: PDF retrieved; duration and prior-training diagram checked
   in-degree:
     publisher: National Medical Commission, India
     title: Public notice on MBBS course fees and duration
@@ -231,15 +222,61 @@ sources:
     passage: Allows a doctor to practise independently in Singapore.
     locator: Obtaining full registration link description
     reading: Full substantive web text retrieved
-  sg-im:
-    publisher: Specialists Accreditation Board, Singapore
-    title: General information on specialist training programmes
-    url: https://sab.healthprofessionals.gov.sg/specialist-training/general-information-on-training-programmes/
+  jp-gp:
+    publisher: Japanese Medical Specialty Board, General Practice Specialty Committee
+    title: General practice specialty training programme standards
+    url: https://jmsb.box.com/s/ugs2wtljj23vye2qyvbtojhf8lwrzhk5
     accessed: '2026-11-22'
-    source_date: Live programme requirements
-    passage: Completed Post-Graduate Year 1 (PGY1) by the commencement date; Internal Medicine (basic) 3; Advanced Internal Medicine 2
-    locator: Eligibility and training-duration tables; Advanced IM requires prior three-year basic IM
-    reading: Full substantive web text retrieved; table values normalised into short excerpt
+    source_date: Revised 19 June 2026
+    passage: 3年以上の研修期間を満了し
+    locator: PDF page 27, completion requirements; page 14, at least three years and required rotations; linked from jbgm.org programme standards
+    reading: PDF retrieved through the publicly linked Box download; duration, rotations and completion requirements read
+  in-fm-approval:
+    publisher: National Medical Commission, Medical Assessment and Rating Board, India
+    title: Permission for MD Family Medicine at Christian Medical College, Vellore
+    url: https://www.cmch-vellore.edu/wp-content/uploads/sites/14/2024/04/govt-approval-2023-2026-MD-Family-Medicine.pdf
+    accessed: '2026-11-22'
+    source_date: 31 March 2023
+    passage: Starting of MD - Family Medicine course for 02 (Two) to 06 (Six) seats was approved
+    locator: Page 1, subject and permission paragraph; three-year degree duration follows PGMER clause 2.1
+    reading: Scanned regulator permission letter retrieved and page 1 visually read; hosted by the receiving institution. Demonstrates an NMC-authorised
+      qualification, not current availability at every college.
+  sg-fm-residency:
+    publisher: Family Physicians Accreditation Board, Singapore
+    title: Family Medicine Residency Programme
+    url: https://fpab.healthprofessionals.gov.sg/becoming-a-family-physician/family-medicine-residency-programme/
+    accessed: '2026-11-22'
+    source_date: Updated 16 December 2025
+    passage: has a 3-year duration similar to the previous MMed (FM) Programme
+    locator: Opening programme description and Singapore Country Addendum
+    reading: Live accreditation-board programme description and relevant training requirements read
+  sg-fm-accreditation:
+    publisher: Family Physicians Accreditation Board, Singapore
+    title: Entry requirements for Family Physician accreditation
+    url: https://fpab.healthprofessionals.gov.sg/becoming-a-family-physician/entry-criteria-for-family-physician-accreditation/entry-requirements/
+    accessed: '2026-11-22'
+    source_date: Updated 5 May 2025
+    passage: required 3 years of FM practice experience; excluding HO and TY postings
+    locator: FM practice experience and relevant qualifications table; recognised postings and currency of practice
+    reading: Live qualification, experience, currency and recognised-posting conditions read; excerpts combined
+  sg-residency-entry:
+    publisher: MOH Holdings, Singapore
+    title: July 2027 Junior Residency Application Guide
+    url: https://www.mohh.com.sg/content/dam/mohhwebsites/documents/home/what-we-do/developing-healthcare-talent/clinical-careers/medicine/residency/junior-residency-full-application-guide-july-2027.pdf
+    accessed: '2026-11-22'
+    source_date: July 2027 intake; applications September 2026
+    passage: Be Post Graduate Year (PGY) 2, at the minimum, by July of the year you are entering Residency Training (R1)
+    locator: PDF page 2, residency-entry eligibility; programme-specific exceptions can apply
+    reading: Current public application guide entry requirements read through web PDF reader
+  jp-gp-exam:
+    publisher: Japanese Medical Specialty Board, General Practice Specialty Committee
+    title: General practice specialist information for the public
+    url: https://jbgm.org/ippan/
+    accessed: '2026-11-22'
+    source_date: Live guidance accessed 22 November 2026
+    passage: 少なくとも3年間受け、試験に合格することが必須です。
+    locator: Section explaining how general practice specialists gain their competence
+    reading: Relevant training-duration and examination statement read in directly retrieved public guidance; no illustrations reproduced
 routes:
   - id: california
     label: California, US
@@ -294,11 +331,11 @@ routes:
       - {id: de-gp-ready, label: GP specialist training complete, kind: practice_endpoint, start: 135, end: 135, duration_basis: conditional_event, sources: [de-gp], note: "Qualification endpoint after 11.25 post-school years; statutory-insurance admission and practice permissions are not modelled as automatic."}
   - id: japan
     label: Japan
-    pathway: Six-year medicine → national examination → initial clinical training
+    pathway: Medicine → initial clinical training → general practice specialty
     reason: Ministry diagrams distinguish the medical licence from completion of mandatory initial clinical training; current facility-management rules add a separate role requirement.
     school_id: japan
-    notes: The licence follows six-year medical education and the national examination. Clinical practice then requires at least two years of initial clinical training. Completion is not itself the opening of an insured clinic. For people who had not completed initial training by 1 April 2026, the standard facility-manager route adds three years of insured hospital practice; alternative and transitional rules exist. An internal-medicine specialty example is separate and is not a family-medicine credential.
-    evidence_status: Ministry diagram and current facility-manager requirements read; legal English translation is older
+    notes: The licence follows six-year medical education and the national examination. Clinical practice then requires at least two years of initial clinical training. Completion is not itself the opening of an insured clinic. For people who had not completed initial training by 1 April 2026, the standard facility-manager route adds three years of insured hospital practice; alternative and transitional rules exist. The main later-training route is the Japanese Medical Specialty Board general practice (総合診療) specialty, requiring at least three years. Board examination and certification remain additional conditions.
+    evidence_status: Ministry diagram, JMSB 2026 general-practice standards and current facility-manager requirements read; legal English translation is older
     stages:
       - {id: jp-degree, label: Medical degree, kind: degree, start: 0, end: 72, duration_basis: standard_programme, sources: [jp-route], note: "Six-year undergraduate medical programme."}
       - {id: jp-exam, label: National medical examination, kind: exam, start: 72, end: 72, duration_basis: prerequisite_event, sources: [jp-route, jp-act], note: "Required for licence; examination and registration wait not separately estimated."}
@@ -306,15 +343,17 @@ routes:
       - {id: jp-full, label: Medical licence, kind: full_registration, start: 72, end: 72, duration_basis: conditional_event, sources: [jp-act], note: "Same licence event; a UK-style full/provisional distinction is not imposed on Japan."}
       - {id: jp-initial, label: Mandatory initial clinical training, short_label: Initial training, kind: clinical, start: 72, end: 96, duration_basis: legal_minimum, sources: [jp-route, jp-act], note: "At least two years; clinically supervised training follows the medical licence."}
       - {id: jp-clinical-ready, label: Initial clinical training complete, kind: practice_endpoint, start: 96, end: 96, duration_basis: conditional_event, sources: [jp-route], note: "Clinical-training endpoint after eight post-school years; not equivalent to a GP specialist certificate or insured-facility manager eligibility."}
-      - {id: jp-im, label: Internal medicine specialty example, kind: specialty, start: 96, end: 132, duration_basis: example_programme, sources: [jp-im], note: "Three-year 2026 programme example; completion, cases and certification assessments are additional conditions."}
+      - {"id": "jp-gp", "label": "General practice specialty training (総合診療)", "kind": "specialty", "start": 96, "end": 132, "duration_basis": "specialty_minimum", "sources": ["jp-gp"], "note": "At least three years after initial clinical training; required rotations, competence and completion review apply. The general practice specialty is distinct from internal medicine.", "short_label": "General practice"}
+      - {"id": "jp-gp-assess", "label": "General practice specialty assessment", "kind": "exam", "start": 132, "end": 132, "duration_basis": "credential_event", "sources": ["jp-gp", "jp-gp-exam"], "note": "Completed training and the Board certification examination are distinct requirements; examination or registration waits are not estimated."}
+      - {"id": "jp-gp-ready", "label": "General practice specialty training complete", "kind": "practice_endpoint", "start": 132, "end": 132, "duration_basis": "conditional_event", "sources": ["jp-gp", "jp-gp-exam"], "note": "Family/general-practice training endpoint at eleven post-school years on this selected minimum route; specialist certification also requires the Board examination."}
       - {id: jp-manager, label: Insured facility manager — standard experience route, short_label: Facility manager experience, kind: later_role, start: 96, end: 132, duration_basis: role_minimum_with_exceptions, sources: [jp-manager], note: "Three years of insured hospital practice after initial training for the specified new cohort. Alternative eligibility and transition rules apply. Can overlap specialty experience; never add both bars."}
   - id: india
     label: India
-    pathway: Domestic MBBS → compulsory rotating internship → registration
+    pathway: MBBS → internship → optional MD Family Medicine
     reason: National regulations distinguish academic MBBS study, internship and the permanent registration that permits independent general medical practice.
     school_id: india
-    notes: The academic phase is 54 months and the internship twelve months. Passing final academic examinations permits provisional internship registration, not independent practice. Permanent registration follows internship and other eligibility conditions. The optional MD General Medicine example is three years after MBBS/internship for a candidate without an existing relevant postgraduate diploma. NExT was notified and deferred; it is not modelled as an operating extra examination year. Original NMC PDFs could not be retrieved; the source register identifies indexed excerpts and official corroboration. Full-document and current examination-status checks remain required before publication.
-    evidence_status: Provisional — key NMC clauses available as indexed primary excerpts; full originals not retrieved
+    notes: The academic phase is 54 months and the internship twelve months. Passing final academic examinations permits provisional internship registration, not independent practice. Permanent registration follows internship and other eligibility conditions. The optional MD Family Medicine route is three years after MBBS/internship for a candidate without an existing relevant postgraduate diploma. An NMC permission letter for CMC Vellore confirms that the regulator authorises this qualification; access to a place is not assumed universal. NExT was notified and deferred; it is not modelled as an operating extra examination year. Original NMC PDFs could not be retrieved; the source register identifies indexed excerpts and official corroboration. Full-document and current examination-status checks remain required before publication.
+    evidence_status: NMC Family Medicine permission letter visually read; other key NMC clauses remain provisional indexed primary excerpts
     stages:
       - {id: in-degree, label: MBBS academic phase, kind: degree, start: 0, end: 54, duration_basis: prescribed_academic_phase, sources: [in-degree], note: "Four and a half years; the full route includes the following internship. Do not label this alone the completed qualification."}
       - {id: in-finals, label: Final MBBS academic examinations, kind: exam, start: 54, end: 54, duration_basis: embedded_assessment, sources: [in-provisional, in-next], note: "Examinations are within the academic phase. NExT deferral is not treated as proof of a new operational examination route."}
@@ -322,13 +361,15 @@ routes:
       - {id: in-intern, label: Compulsory rotating internship, kind: clinical, start: 54, end: 66, duration_basis: legal_minimum, sources: [in-internship, in-provisional], note: "At least twelve months before permanent registration."}
       - {id: in-full, label: Permanent registration, kind: full_registration, start: 66, end: 66, duration_basis: conditional_event, sources: [in-internship], note: "Enables independent general medical practice subject to the registration conditions; no residency assumed necessary for this general licence."}
       - {id: in-ready, label: Independent general medical practice eligibility, kind: practice_endpoint, start: 66, end: 66, duration_basis: conditional_event, sources: [in-internship], note: "Same point as permanent registration; not a specialist qualification or a guarantee that all state/institutional service obligations are fulfilled."}
-      - {id: in-md, label: Optional MD General Medicine, kind: specialty, start: 66, end: 102, duration_basis: specialty_standard, sources: [in-pg], note: "Three years including examination for a candidate without a relevant prior diploma. Admission competition, waits and service bonds excluded."}
+      - {"id": "in-family-md", "label": "Optional MD Family Medicine", "kind": "specialty", "start": 66, "end": 102, "duration_basis": "specialty_standard", "sources": ["in-pg", "in-fm-approval"], "note": "NMC authorised MD Family Medicine at the selected institution. Three-year postgraduate broad-specialty route for a candidate without a relevant prior diploma; not required for a general medical licence.", "short_label": "MD Family Medicine"}
+      - {"id": "in-family-exam", "label": "MD Family Medicine final assessment", "kind": "exam", "start": 102, "end": 102, "duration_basis": "embedded_assessment", "sources": ["in-pg", "in-fm-approval"], "note": "Assessment is included in the three-year degree period; successful completion is required for the qualification."}
+      - {"id": "in-family-ready", "label": "MD Family Medicine training complete", "kind": "practice_endpoint", "start": 102, "end": 102, "duration_basis": "conditional_event", "sources": ["in-pg", "in-fm-approval"], "note": "Selected family-medicine qualification endpoint after eight and a half post-school years. Current admission availability, service obligations and award administration are not modelled."}
   - id: singapore
     label: Singapore
-    pathway: NTU five-year MBBS → PGY1 → full registration
+    pathway: NTU MBBS → PGY1 → family medicine residency
     reason: Selected local undergraduate route, whose full-registration rules differ from those for overseas graduates.
     school_id: singapore
-    notes: The five-year NTU degree is an explicitly selected local route; Duke-NUS graduate-entry medicine has prior-degree requirements. Provisional registration covers twelve months of PGY1. Eligible local graduates may apply for full registration after satisfactory PGY1; a practising certificate is also needed. Full registration permits independent practice; family-physician accreditation is a separate credential. The later five-year example is Advanced Internal Medicine, not a GP requirement. A new family-medicine specialist route is planned for 2028 and is not applied retrospectively. National Service and admission gaps are not included in the academic clock.
+    notes: The five-year NTU degree is an explicitly selected local route; Duke-NUS graduate-entry medicine has prior-degree requirements. Provisional registration covers twelve months of PGY1. Eligible local graduates may apply for full registration after satisfactory PGY1; a practising certificate is also needed. Full registration permits independent practice; family-physician accreditation is a separate credential. The main later-training bar is the three-year family-medicine residency. Completion is distinct from Family Physician accreditation, which also requires a relevant qualification, recognised FM practice experience and currency of practice; relevant residency postings may count. A new family-medicine specialist route is planned for 2028 and is not applied retrospectively. National Service and admission gaps are not included in the academic clock.
     evidence_status: Programme, registration and specialist-accreditation guidance read
     stages:
       - {id: sg-degree, label: NTU MBBS, kind: degree, start: 0, end: 60, duration_basis: specific_programme, sources: [sg-degree], note: "Five-year local undergraduate medical programme."}
@@ -337,8 +378,9 @@ routes:
       - {id: sg-pgy1, label: PGY1 housemanship, kind: clinical, start: 60, end: 72, duration_basis: required_programme, sources: [sg-provisional], note: "Twelve months, with satisfactory completion documented by certificate of experience."}
       - {id: sg-full, label: Full registration, kind: full_registration, start: 72, end: 72, duration_basis: conditional_event, sources: [sg-full, sg-independent], note: "Eligibility to apply after PGY1 for the selected local route; issue and practising-certificate processing not estimated."}
       - {id: sg-ready, label: Independent general medical practice eligibility, kind: practice_endpoint, start: 72, end: 72, duration_basis: conditional_event, sources: [sg-independent], note: "Full registration permits independent practice; this is not specialist or family-physician accreditation."}
-      - {id: sg-basic-im, label: Optional basic internal medicine residency, short_label: Basic internal medicine, kind: specialty, start: 72, end: 108, duration_basis: specialty_programme, sources: [sg-im], note: "Three years after PGY1 under the selected specialist route."}
-      - {id: sg-advanced-im, label: Advanced Internal Medicine senior residency, short_label: Advanced IM, kind: specialty, start: 108, end: 132, duration_basis: specialty_programme, sources: [sg-im], note: "Two years following three-year basic IM; examinations, accreditation and specialist registration also required."}
+      - {"id": "sg-family", "label": "Family medicine residency", "kind": "specialty", "start": 72, "end": 108, "duration_basis": "specialty_programme", "sources": ["sg-fm-residency", "sg-residency-entry"], "note": "Three years after PGY1 on the selected current entry route. Does not add another three years of experience automatically; relevant residency postings may count toward accreditation.", "short_label": "Family medicine"}
+      - {"id": "sg-family-assess", "label": "Family medicine training assessments", "kind": "exam", "start": 108, "end": 108, "duration_basis": "embedded_assessment", "sources": ["sg-fm-residency", "sg-fm-accreditation"], "note": "Training includes assessments. The postgraduate qualification and FPAB experience/currency conditions must be met for Family Physician registration; completion alone does not guarantee accreditation."}
+      - {"id": "sg-family-ready", "label": "Family medicine residency complete", "kind": "practice_endpoint", "start": 108, "end": 108, "duration_basis": "conditional_event", "sources": ["sg-fm-residency", "sg-fm-accreditation"], "note": "Family-medicine training endpoint at nine post-school years. A relevant qualification, recognised FM experience and currency of practice are separate accreditation conditions."}
 ---
 
 # Coding method
