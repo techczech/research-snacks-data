@@ -47,3 +47,10 @@ Fresh data may differ. Inspect changed units, dates, legal rules and category de
 An independent source check supports all six first-registration markers conditionally; the report names source reading limits. The original NMC curriculum, internship regulation and deferral notice were retrieved after the site migration. The former blanket India unavailable-source warning is superseded. No later NExT commencement was found in the bounded dated search; this does not predict future-cohort rules. Source hashes from that retrieval are in `data/india-source-retrieval.json`.
 
 The UI checks cover all three clocks, embedded/overlapping requirements, source selection, CSV export, no-JavaScript access and phone/intermediate/desktop layouts. A complete legal audit, typical-completion survey and causal competence comparison are outside this package.
+
+
+## Shared-axis comparison revision
+
+The tool now switches between training stages and milestone dots on the same year scale. Hover, keyboard focus or tap opens a concise stage popover; a native full-record table retains every stage and source without JavaScript. Hiding later training also hides its completion markers. Four data colours and consistent marker shapes carry meaning across both views. The surrounding EU context and the three clocks are retained.
+
+`data/visual-annotations.json` contains explicit display labels, permission summaries, source short names and selected milestone IDs. It does not change `data/route-coding.json` or the expected tables. The checker verifies its selected first-registration, general-licence and family-training IDs against the six milestone rows and rejects unknown stage/source IDs. Short labels and permission summaries remain original interpretations of the already coded source records; the full notes and source passages stay available.

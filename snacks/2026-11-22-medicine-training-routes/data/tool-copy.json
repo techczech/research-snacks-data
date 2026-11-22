@@ -12,11 +12,11 @@
     "light": "Light",
     "dark": "Dark"
   },
-  "all_stages": "All stages and source records",
+  "all_stages": "All stages and sources",
   "all_sources": "Source passage register",
-  "no_script": "The default timeline and all source records work without JavaScript. Clock changes and file exports use JavaScript.",
+  "no_script": "The shared-axis timeline, full stage table and source passages work without JavaScript. Open All stages and sources for the full records. Changing views or clocks and downloading files use JavaScript.",
   "uis_label": "UNESCO UIS",
-  "clock_label": "Start the clock at",
+  "clock_label": "Start at",
   "clocks": [
     {
       "id": "leaving",
@@ -28,7 +28,7 @@
     },
     {
       "id": "school",
-      "label": "Primary-school entry"
+      "label": "Primary entry"
     }
   ],
   "clock_notes": {
@@ -37,14 +37,14 @@
     "school": "Years after theoretical entry to ISCED 1 primary education. Reception, nursery and other pre-primary education are excluded."
   },
   "clock_unit": "Years from selected starting point",
-  "route_heading": "Six routes, several different endpoints",
-  "route_help": "Select a bar or milestone for its rule, source passage and date. On a phone each route uses the full-width axis; numbers inside the bars are years in that stage.",
+  "route_heading": "Compare six medical routes",
+  "route_help": "Scroll within the chart for all six routes. Hover, focus or tap for details.",
   "legend": {
     "school": "School before university",
-    "prerequisite": "Prior undergraduate degree",
-    "degree": "Medical course",
-    "clinical": "Supervised postgraduate training",
-    "specialty": "Later specialty training",
+    "prerequisite": "College",
+    "degree": "Medicine",
+    "clinical": "Clinical training",
+    "specialty": "GP / family training",
     "first_registration": "First registration",
     "full_registration": "General medical licence / full registration",
     "practice_endpoint": "Named practice or training endpoint",
@@ -52,7 +52,7 @@
     "embedded": "Embedded requirement",
     "later_role": "Later practice role"
   },
-  "specialty_toggle": "Show later specialties and practice roles",
+  "specialty_toggle": "Show GP / family training",
   "extra_stages": "Examinations and other requirements",
   "source_toggle": "Show all source passages",
   "export_label": "Export stage data (CSV)",
@@ -144,5 +144,30 @@
   "claim_text": "Variation in route length does not establish that shorter routes are equally effective, or that longer routes are necessary. This preview maps requirements. It does not estimate a causal effect on competence.",
   "research_label": "Data, coding and reproduction files",
   "research_url": "https://github.com/techczech/research-snacks-data/tree/main/snacks/2026-11-22-medicine-training-routes",
-  "footer": "Research Snacks · working preview · checked 22 November 2026 · publication awaits author review"
+  "footer": "Research Snacks · working preview · checked 22 November 2026 · publication awaits author review",
+  "view_label": "Compare",
+  "views": [
+    {
+      "id": "routes",
+      "label": "Training stages"
+    },
+    {
+      "id": "milestones",
+      "label": "Milestones"
+    }
+  ],
+  "marker_labels": {
+    "first": "First",
+    "full": "Licence",
+    "family": "GP",
+    "clinical": "Initial"
+  },
+  "marker_legend": {
+    "first_registration": "First registration",
+    "full_registration": "General licence",
+    "practice_endpoint": "Training complete"
+  },
+  "popover_close": "Close details",
+  "full_record_label": "Full stage record and source passage",
+  "download_label": "Download data"
 }

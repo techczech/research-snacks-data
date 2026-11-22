@@ -1,0 +1,213 @@
+{
+  "provenance": "Display annotations of existing coded meanings; no duration or source change. Checked 22 November 2026.",
+  "kind_labels": {
+    "school": "School",
+    "prerequisite": "College",
+    "degree": "Medicine",
+    "clinical": "Clinical",
+    "specialty": "GP / FM"
+  },
+  "kind_permissions": {
+    "school": "School education before the selected university-entry route; no medical practice licence.",
+    "prerequisite": "Prior undergraduate study; no medical practice licence.",
+    "degree": "Medical education and its assessments; this stage alone is not a medical practice licence.",
+    "clinical": "Supervised clinical training; completion and registration conditions apply.",
+    "specialty": "Training towards the named GP or family-medicine qualification; credential conditions still apply.",
+    "exam": "Required examination or assessment; passing alone does not issue a licence or qualification.",
+    "embedded": "Requirement already included within the course or training; no extra time is added.",
+    "later_role": "Experience towards insured-facility management eligibility, with alternatives and transition rules.",
+    "practice_endpoint": "Training or practice eligibility milestone; the stated local conditions apply."
+  },
+  "milestones": {
+    "california": [
+      "ca-first",
+      "ca-full",
+      "ca-family-ready"
+    ],
+    "england": [
+      "en-first",
+      "en-full",
+      "en-gp-ready"
+    ],
+    "bavaria": [
+      "de-first",
+      "de-full",
+      "de-gp-ready"
+    ],
+    "japan": [
+      "jp-first",
+      "jp-full",
+      "jp-gp-ready"
+    ],
+    "india": [
+      "in-first",
+      "in-full",
+      "in-family-ready"
+    ],
+    "singapore": [
+      "sg-first",
+      "sg-full",
+      "sg-family-ready"
+    ]
+  },
+  "routes": {
+    "california": "College → MD → family medicine",
+    "england": "Medicine → foundation → GP",
+    "bavaria": "Medicine → Approbation → GP",
+    "japan": "Medicine → initial training → GP",
+    "india": "MBBS → internship → optional MD Family Medicine",
+    "singapore": "NTU medicine → PGY1 → family medicine"
+  },
+  "stages": {
+    "ca-first": {
+      "permits": "Approved postgraduate residency training; not a general medical licence."
+    },
+    "ca-full": {
+      "permits": "General medical licence, subject to examination, training and renewal conditions; family-medicine residency can still be unfinished."
+    },
+    "ca-family-ready": {
+      "permits": "Residency completion; Board certification also requires examination and other conditions. This is later than initial general medical licensure."
+    },
+    "en-first": {
+      "permits": "Supervised practice in an approved Foundation Year 1 post only."
+    },
+    "en-full": {
+      "permits": "Full medical registration; entry on the GP register requires the separate GP route."
+    },
+    "en-gp-ready": {
+      "permits": "GP-specific endpoint after ten years from school leaving; additional registration and listing conditions apply."
+    },
+    "de-full": {
+      "permits": "General medical licence subject to statutory conditions; GP specialist recognition is separate."
+    },
+    "de-first": {
+      "permits": "Medical licence subject to application and statutory conditions; GP specialist recognition is separate."
+    },
+    "de-gp-ready": {
+      "permits": "Qualification endpoint after 11.25 post-school years; statutory-insurance admission and practice permissions are not modelled as automatic."
+    },
+    "jp-first": {
+      "permits": "Medical licence; the initial clinical-training duty still applies."
+    },
+    "jp-full": {
+      "permits": "Medical licence; at least two years of designated clinical training are required for physicians intending clinical practice."
+    },
+    "jp-gp-ready": {
+      "permits": "Family/general-practice training endpoint at eleven post-school years on this selected minimum route; specialist certification also requires the Board examination."
+    },
+    "in-first": {
+      "permits": "Supervised internship only, following the academic-phase pass certificate."
+    },
+    "in-full": {
+      "permits": "Independent general medical practice subject to registration conditions; not a specialist qualification."
+    },
+    "in-family-ready": {
+      "permits": "Selected family-medicine qualification endpoint after eight and a half post-school years. Current admission availability, service obligations and award administration are not modelled."
+    },
+    "sg-first": {
+      "permits": "Supervised PGY1 work in approved hospitals only."
+    },
+    "sg-full": {
+      "permits": "General medical practice subject to full-registration conditions; family-physician accreditation is separate."
+    },
+    "sg-family-ready": {
+      "permits": "Family-medicine training endpoint at nine post-school years. A relevant qualification, recognised FM experience and currency of practice are separate accreditation conditions."
+    },
+    "ca-college": {
+      "short": "College"
+    },
+    "ca-md": {
+      "short": "MD"
+    },
+    "ca-pgy1": {
+      "short": "PGY1"
+    },
+    "en-degree": {
+      "short": "Medicine"
+    },
+    "en-gp": {
+      "short": "GP"
+    },
+    "de-degree": {
+      "short": "Medicine"
+    },
+    "jp-degree": {
+      "short": "Medicine"
+    },
+    "jp-initial": {
+      "short": "Initial"
+    },
+    "in-degree": {
+      "short": "MBBS"
+    },
+    "in-intern": {
+      "short": "Internship"
+    },
+    "in-family-md": {
+      "short": "FM MD"
+    },
+    "sg-degree": {
+      "short": "Medicine"
+    },
+    "sg-pgy1": {
+      "short": "PGY1"
+    },
+    "ca-family-rest": {
+      "short": "FM"
+    },
+    "en-f1": {
+      "short": "FY1"
+    },
+    "en-f2": {
+      "short": "FY2"
+    },
+    "jp-gp": {
+      "short": "GP"
+    },
+    "sg-family": {
+      "short": "FM"
+    },
+    "de-gp": {
+      "short": "GP"
+    }
+  },
+  "sources": {
+    "us-conventional": "AAMC",
+    "ca-training": "Medical Board of California",
+    "ca-licence": "Medical Board of California",
+    "ca-exams": "Medical Board of California",
+    "us-family": "ABFM",
+    "en-route": "GMC",
+    "en-mla": "GMC",
+    "en-gp": "GMC / RCGP",
+    "en-gp-independent": "NHS England",
+    "de-course": "German federal law",
+    "de-licence": "German federal law",
+    "de-gp": "Bavarian Medical Chamber",
+    "jp-route": "MHLW",
+    "jp-act": "Medical Practitioners Act",
+    "jp-manager": "MHLW",
+    "in-degree": "NMC",
+    "in-internship": "NMC",
+    "in-provisional": "Government hospital SOP",
+    "in-pg": "NMC",
+    "in-next": "NMC",
+    "sg-degree": "NTU",
+    "sg-provisional": "SMC",
+    "sg-full": "SMC",
+    "sg-independent": "SMC",
+    "jp-gp": "JMSB",
+    "in-fm-approval": "NMC",
+    "sg-fm-residency": "FPAB",
+    "sg-fm-accreditation": "FPAB",
+    "sg-residency-entry": "MOHH",
+    "jp-gp-exam": "JMSB",
+    "in-registration-rule": "NMC",
+    "ca-ptl-exams": "Medical Board of California"
+  },
+  "extra_markers": {
+    "japan": [
+      "jp-clinical-ready"
+    ]
+  }
+}

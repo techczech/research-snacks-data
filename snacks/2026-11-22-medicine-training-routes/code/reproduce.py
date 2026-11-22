@@ -18,6 +18,7 @@ if __name__=='__main__':
     out=Path(sys.argv[1]);out.mkdir(parents=True,exist_ok=True)
     model=json.loads((DATA/'route-coding.json').read_text())
     schools={r['school_id']:r for r in read('school-baselines.csv')}
+    visual=json.loads((DATA/'visual-annotations.json').read_text())
     rows=[];milestones=[];seen=set()
     fields=['jurisdiction','stage_id','stage','kind','start_months_after_school','end_months_after_school','duration_basis','start_years_after_age18','end_years_after_age18','start_years_after_primary_entry','end_years_after_primary_entry','source_ids','source_passages','source_dates','source_urls','accessed_dates','reading_depth','note']
     for route in model['routes']:
@@ -30,6 +31,7 @@ if __name__=='__main__':
         full=next(s for s in route['stages']if s['kind']=='full_registration')
         family_id={'california':'ca-family-ready','england':'en-gp-ready','bavaria':'de-gp-ready','japan':'jp-gp-ready','india':'in-family-ready','singapore':'sg-family-ready'}[route['id']]
         family=next(s for s in route['stages']if s['id']==family_id)
+        assert visual['milestones'][route['id']]==[first['id'],full['id'],family['id']]
         milestones.append([route['label'],first['start'],full['start'],family['start'],family['label'],age,years,first['id'],full['id'],family['id']])
     write('stages.csv',fields,rows)
     write('milestones.csv',['jurisdiction','first_registration_month','general_licence_month','family_training_month','family_endpoint','modelled_medical_entry_age','school_years','first_stage_id','general_stage_id','family_stage_id'],milestones)
@@ -38,4 +40,6 @@ if __name__=='__main__':
     write('eu-duration-distribution.csv',['education_years','jurisdictions'],[[n,sum(float(r['education_value'])==n for r in current)]for n in [5,6,7]])
     assert len(eu)==32 and len(current)==26
     assert len(seen)==55 and len(schools)==6
+    assert set(visual['stages'])<=seen
+    assert set(visual['sources'])==set(model['sources'])
     print('Rebuilt 55 stages, six matched milestone rows and EU distribution (26 of 32 records).')

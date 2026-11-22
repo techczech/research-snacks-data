@@ -29,3 +29,8 @@ The optional online retrieval scripts use additional dependencies in `requiremen
 # Scope limits
 
 No estimates of typical completion, repeats, competitive admission gaps, part-time training, service obligations or processing times are supplied. No competence outcomes or causal effect of duration is estimated. India's NExT deferral is verified from the original notice and still linked by the current rules index; no later commencement was found in the bounded notice search. This does not predict rules for future cohorts. Full texts were retrieved where possible; source reading-depth fields name partial reading and access limits.
+
+
+## Display annotation boundary
+
+The shared-axis views use the original monthly stages and school offsets without a new duration transformation. `data/visual-annotations.json` supplies explicit IDs and display wording for bars, marker types, short source names and permission summaries. Geometry and hover behaviour are rendering logic; they do not interpret natural-language notes or infer permissions from keywords. The last milestone remains the named training-completion endpoint, with local credential conditions, rather than an automatic GP qualification. The original data and expected CSVs are unchanged by this visual revision.

@@ -1,42 +1,57 @@
 ---
 title: How long before a doctor can practise?
-date: '2026-11-22'
+date: 2026-11-22
 status: Author preview · medicine only
-provenance: Six selected domestic routes coded from regulator documents and qualification bodies; no production publication
-intro: The degree is only one part of the route. Compare the same milestones, then inspect what each licence actually allows.
-reading: The bars show selected full-time pathways. They do not show average completion times, every available route or the effect of training length on competence.
+provenance: Six selected domestic routes coded from regulator documents and
+  qualification bodies; no production publication
+intro: The degree is only one part of the route. Compare the same milestones,
+  then inspect what each licence actually allows.
+reading: The bars show selected full-time pathways. They do not show average
+  completion times, every available route or the effect of training length on
+  competence.
 skip_label: Skip to timeline
 theme_label: Theme
-theme_options: {system: System, light: Light, dark: Dark}
-all_stages: All stages and source records
+theme_options:
+  system: System
+  light: Light
+  dark: Dark
+all_stages: All stages and sources
 all_sources: Source passage register
-no_script: The default timeline and all source records work without JavaScript. Clock changes and file exports use JavaScript.
+no_script: The shared-axis timeline, full stage table and source passages work
+  without JavaScript. Open All stages and sources for the full records. Changing
+  views or clocks and downloading files use JavaScript.
 uis_label: UNESCO UIS
-clock_label: Start the clock at
+clock_label: Start at
 clocks:
-  - {id: leaving, label: Leaving school}
-  - {id: age18, label: Age 18}
-  - {id: school, label: Primary-school entry}
+  - id: leaving
+    label: Leaving school
+  - id: age18
+    label: Age 18
+  - id: school
+    label: Primary entry
 clock_notes:
-  leaving: Years after the selected school-leaving route. College prerequisites are included. Admission gaps and registration processing are not estimated.
-  age18: Years after age 18. Bavaria's selected school route ends at 19, so it includes a further school year before medicine.
-  school: Years after theoretical entry to ISCED 1 primary education. Reception, nursery and other pre-primary education are excluded.
+  leaving: Years after the selected school-leaving route. College prerequisites
+    are included. Admission gaps and registration processing are not estimated.
+  age18: Years after age 18. Bavaria's selected school route ends at 19, so it
+    includes a further school year before medicine.
+  school: Years after theoretical entry to ISCED 1 primary education. Reception,
+    nursery and other pre-primary education are excluded.
 clock_unit: Years from selected starting point
-route_heading: Six routes, several different endpoints
-route_help: Select a bar or milestone for its rule, source passage and date. On a phone each route uses the full-width axis; numbers inside the bars are years in that stage.
+route_heading: Compare six medical routes
+route_help: Scroll within the chart for all six routes. Hover, focus or tap for details.
 legend:
   school: School before university
-  prerequisite: Prior undergraduate degree
-  degree: Medical course
-  clinical: Supervised postgraduate training
-  specialty: Later specialty training
+  prerequisite: College
+  degree: Medicine
+  clinical: Clinical training
+  specialty: GP / family training
   first_registration: First registration
   full_registration: General medical licence / full registration
   practice_endpoint: Named practice or training endpoint
   exam: Examination or assessment
   embedded: Embedded requirement
   later_role: Later practice role
-specialty_toggle: Show later specialties and practice roles
+specialty_toggle: Show GP / family training
 extra_stages: Examinations and other requirements
 source_toggle: Show all source passages
 export_label: Export stage data (CSV)
@@ -44,9 +59,19 @@ export_filename: medicine-training-stages.csv
 source_export_label: Export source register (JSON)
 source_export_filename: medicine-training-sources.json
 note_heading: What is being compared
-note_text: First registration can permit supervised work only. Full registration can precede completion of residency. Independent general practice, a GP specialty credential and permission to manage a clinic are different endpoints. Markers show conditional eligibility on a continuous successful route, not observed issue dates or processing times. Markers with the same shape indicate a category, not identical legal rights.
+note_text: First registration can permit supervised work only. Full registration
+  can precede completion of residency. Independent general practice, a GP
+  specialty credential and permission to manage a clinic are different
+  endpoints. Markers show conditional eligibility on a continuous successful
+  route, not observed issue dates or processing times. Markers with the same
+  shape indicate a category, not identical legal rights.
 provisional_heading: India’s original regulations checked
-provisional_text: The NMC curriculum confirms four and a half academic years followed by a rotating internship of at least twelve months. The original 13 July 2023 NExT notice defers the examination until further directions. No later commencement notice was found in the current rules index and archived October 2023–November 2026 news titles, including 2024 consultation notices; future cohort rules can change.
+provisional_text: The NMC curriculum confirms four and a half academic years
+  followed by a rotating internship of at least twelve months. The original 13
+  July 2023 NExT notice defers the examination until further directions. No
+  later commencement notice was found in the current rules index and archived
+  October 2023–November 2026 news titles, including 2024 consultation notices;
+  future cohort rules can change.
 detail_heading: Selected stage
 detail_initial: Select a route stage to inspect its evidence.
 detail_labels:
@@ -95,39 +120,88 @@ basis_labels:
   required_programme: Required training programme
   specialty_programme: Named specialist-accreditation route
 context_heading: "Wider European context: what the EU database actually reports"
-context_intro: "Basic-medical-training records exist for 32 jurisdictions: 27 EU states, Iceland, Liechtenstein, Norway, Switzerland and archived UK data. Education duration is reported in whole years for 26 non-archived records. These fields have no verified observation year and are not complete routes to independent practice."
+context_intro: "Basic-medical-training records exist for 32 jurisdictions: 27 EU
+  states, Iceland, Liechtenstein, Norway, Switzerland and archived UK data.
+  Education duration is reported in whole years for 26 non-archived records.
+  These fields have no verified observation year and are not complete routes to
+  independent practice."
 context_labels:
   distribution: Database-reported education duration
   count: Jurisdictions
   values: year-valued records
   gaps: Six records outside this distribution
-  gap_note: Four have no qualification-duration record; Poland uses an OTHER unit; UK data are archived. Missing is not zero.
+  gap_note: Four have no qualification-duration record; Poland uses an OTHER unit;
+    UK data are archived. Missing is not zero.
   source: Inspect the EU database source
   details: View all 32 records and missing values
   country: Jurisdiction
   education: Education
   traineeship: Traineeship
-  overlap: Overlap and record freshness are unverified. The education and traineeship columns must not be added. Germany's database says six years plus a twelve-month traineeship, but its law embeds the practical year and specifies a standard 6.25-year course including examination time.
+  overlap: Overlap and record freshness are unverified. The education and
+    traineeship columns must not be added. Germany's database says six years
+    plus a twelve-month traineeship, but its law embeds the practical year and
+    specifies a standard 6.25-year course including examination time.
   archived: Archived
 context_source: https://ec.europa.eu/growth/tools-databases/regprof/
 gp_heading: "A different table: postgraduate GP training in Europe"
-gp_intro: A 2026 Commission report prints a separate 27-entry table of minimum GP/family-medicine training durations, spanning three to six years. These are not total pathways. Luxembourg is printed as three or four years; the code SL is retained without assigning a country. This is a report-table transcription, not an open raw survey download.
+gp_intro: A 2026 Commission report prints a separate 27-entry table of minimum
+  GP/family-medicine training durations, spanning three to six years. These are
+  not total pathways. Luxembourg is printed as three or four years; the code SL
+  is retained without assigning a country. This is a report-table transcription,
+  not an open raw survey download.
 gp_source_label: Read the Commission report, section 4.3
 gp_source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026SC0064
 gp_expand: Inspect the 27 printed entries
 who_heading: "WHO: a defined indicator, a remaining data gap"
-who_text: NHWA indicator 2–05 measures years to complete a health-worker education programme and excludes specialisation. A usable medical-duration export, its country-year coverage and portal-specific reuse terms were not verified. Published nursing observations cannot stand in for medicine, so this preview contains no WHO medical world distribution.
+who_text: NHWA indicator 2–05 measures years to complete a health-worker
+  education programme and excludes specialisation. A usable medical-duration
+  export, its country-year coverage and portal-specific reuse terms were not
+  verified. Published nursing observations cannot stand in for medicine, so this
+  preview contains no WHO medical world distribution.
 who_source_label: Read the NHWA duration definition
 who_source: https://apps.who.int/nhwaportal/Files/2%20%E2%80%93%2005%20Duration%20of%20education%20and%20training.pdf
 method_heading: How the clocks were built
-method_text: School structures come from selected UNESCO UIS workbook rows, mostly 2020–21, with World Bank theoretical-entry-age indicators from 2025. Bavaria uses its current nine-year Gymnasium. Singapore includes junior college, which UIS classifies after secondary education. The model joins these structures to rules checked on 22 November 2026; it does not follow a single historical cohort. Compulsory schooling and the route to university are kept separate.
-method_limits: Calculations assume continuous full-time study, successful examinations and no admission gaps. Service bonds, Singapore National Service, part-time training and individual recognition decisions can extend elapsed time. The main later-training bars all concern general practice or family medicine. The credentials and registration rights still differ; completing a training period is not automatically the award of a qualification, accreditation or permission to run a practice.
-claim_text: Variation in route length does not establish that shorter routes are equally effective, or that longer routes are necessary. This preview maps requirements. It does not estimate a causal effect on competence.
+method_text: School structures come from selected UNESCO UIS workbook rows,
+  mostly 2020–21, with World Bank theoretical-entry-age indicators from 2025.
+  Bavaria uses its current nine-year Gymnasium. Singapore includes junior
+  college, which UIS classifies after secondary education. The model joins these
+  structures to rules checked on 22 November 2026; it does not follow a single
+  historical cohort. Compulsory schooling and the route to university are kept
+  separate.
+method_limits: Calculations assume continuous full-time study, successful
+  examinations and no admission gaps. Service bonds, Singapore National Service,
+  part-time training and individual recognition decisions can extend elapsed
+  time. The main later-training bars all concern general practice or family
+  medicine. The credentials and registration rights still differ; completing a
+  training period is not automatically the award of a qualification,
+  accreditation or permission to run a practice.
+claim_text: Variation in route length does not establish that shorter routes are
+  equally effective, or that longer routes are necessary. This preview maps
+  requirements. It does not estimate a causal effect on competence.
 research_label: Data, coding and reproduction files
 research_url: https://github.com/techczech/research-snacks-data/tree/main/snacks/2026-11-22-medicine-training-routes
-footer: Research Snacks · working preview · checked 22 November 2026 · publication awaits author review
+footer: Research Snacks · working preview · checked 22 November 2026 ·
+  publication awaits author review
+view_label: Compare
+views:
+  - id: routes
+    label: Training stages
+  - id: milestones
+    label: Milestones
+marker_labels:
+  first: First
+  full: Licence
+  family: GP
+  clinical: Initial
+marker_legend:
+  first_registration: First registration
+  full_registration: General licence
+  practice_endpoint: Training complete
+popover_close: Close details
+full_record_label: Full stage record and source passage
+download_label: Download data
 ---
 
-# Medicine training preview
+# Medicine route comparison
 
-The comparison separates registration, supervised training and later professional roles. The page and downloadable records use the same canonical route coding.
+The two views preserve the same route coding and source register.
