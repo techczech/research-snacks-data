@@ -62,7 +62,7 @@
   "note_heading": "What is being compared",
   "note_text": "First registration can permit supervised work only. Full registration can precede completion of residency. Independent general practice, a GP specialty credential and permission to manage a clinic are different endpoints. Markers show conditional eligibility on a continuous successful route, not observed issue dates or processing times. Markers with the same shape indicate a category, not identical legal rights.",
   "provisional_heading": "India’s original regulations checked",
-  "provisional_text": "The NMC curriculum confirms four and a half academic years followed by a rotating internship of at least twelve months. The original 13 July 2023 NExT notice defers the examination until further directions. No later commencement notice was found in the current rules index and bounded news search on 22 November 2026; future cohort rules can change.",
+  "provisional_text": "The NMC curriculum confirms four and a half academic years followed by a rotating internship of at least twelve months. The original 13 July 2023 NExT notice defers the examination until further directions. No later commencement notice was found in the current rules index and archived October 2023–November 2026 news titles, including 2024 consultation notices; future cohort rules can change.",
   "detail_heading": "Selected stage",
   "detail_initial": "Select a route stage to inspect its evidence.",
   "detail_labels": {
@@ -112,8 +112,8 @@
     "required_programme": "Required training programme",
     "specialty_programme": "Named specialist-accreditation route"
   },
-  "context_heading": "Wider context: what the EU database actually reports",
-  "context_intro": "Basic-medical-training records exist for 32 jurisdictions, including archived UK data. Education duration is reported in whole years for 26 non-archived records. These fields have no verified observation year and are not complete routes to independent practice.",
+  "context_heading": "Wider European context: what the EU database actually reports",
+  "context_intro": "Basic-medical-training records exist for 32 jurisdictions: 27 EU states, Iceland, Liechtenstein, Norway, Switzerland and archived UK data. Education duration is reported in whole years for 26 non-archived records. These fields have no verified observation year and are not complete routes to independent practice.",
   "context_labels": {
     "distribution": "Database-reported education duration",
     "count": "Jurisdictions",
@@ -130,7 +130,7 @@
   },
   "context_source": "https://ec.europa.eu/growth/tools-databases/regprof/",
   "gp_heading": "A different table: postgraduate GP training in Europe",
-  "gp_intro": "A 2026 Commission report prints a separate 27-entry GP/family-medicine table. It spans three to six years of postgraduate GP training, rather than total education. Luxembourg is printed as three or four years; the code SL is retained without assigning a country. This is a report-table transcription, not an open raw survey download.",
+  "gp_intro": "A 2026 Commission report prints a separate 27-entry table of minimum GP/family-medicine training durations, spanning three to six years. These are not total pathways. Luxembourg is printed as three or four years; the code SL is retained without assigning a country. This is a report-table transcription, not an open raw survey download.",
   "gp_source_label": "Read the Commission report, section 4.3",
   "gp_source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026SC0064",
   "gp_expand": "Inspect the 27 printed entries",

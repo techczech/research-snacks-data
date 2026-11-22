@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "26 non-archived year-valued basic-medical-training records in the 22 November 2026 EU snapshot; six other records excluded, observation years unknown.",
+  "description": "26 non-archived year-valued basic-medical-training records in the 22 November 2026 European regulated-professions-database snapshot; six other records excluded, observation years unknown.",
   "data": {
     "url": "charts/1-eu-duration.csv"
   },
