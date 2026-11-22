@@ -1,7 +1,7 @@
 ---
 title: How long before a doctor can practise?
 date: 2026-11-22
-status: Author preview · medicine only
+status: Medicine training routes · checked 22 November 2026
 provenance: Six selected domestic routes coded from regulator documents and
   qualification bodies; no production publication
 intro: The degree is only one part of the route. Compare the same milestones,
@@ -180,8 +180,7 @@ claim_text: Variation in route length does not establish that shorter routes are
   requirements. It does not estimate a causal effect on competence.
 research_label: Data, coding and reproduction files
 research_url: https://github.com/techczech/research-snacks-data/tree/main/snacks/2026-11-22-medicine-training-routes
-footer: Research Snacks · working preview · checked 22 November 2026 ·
-  publication awaits author review
+footer: Research Snacks · medicine training routes · sources checked 22 November 2026
 view_label: Compare
 views:
   - id: routes

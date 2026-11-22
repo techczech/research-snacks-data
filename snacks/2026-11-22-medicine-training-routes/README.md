@@ -1,7 +1,7 @@
 ---
 title: Medicine training routes — checking package
 date: 2026-11-22
-status: Research Snack preview; production awaits author review
+status: Approved Research Snack; publication authorised 22 November 2026
 provenance: Original regulator-document coding with selected UIS, World Bank and European Commission facts
 ---
 
